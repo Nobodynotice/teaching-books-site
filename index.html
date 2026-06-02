@@ -1,0 +1,927 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>大学教辅书籍推荐</title>
+  <style>
+    :root {
+      --green-900: #12452f;
+      --green-700: #157a4b;
+      --green-600: #1f9a63;
+      --green-100: #e6f6ed;
+      --green-50: #f3fbf6;
+      --mint: #dff4e8;
+      --white: #ffffff;
+      --text: #1f2d28;
+      --muted: #6b7a73;
+      --line: #dbe9e2;
+      --shadow: 0 14px 34px rgba(18, 69, 47, 0.1);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+        "Microsoft YaHei", sans-serif;
+      background:
+        radial-gradient(circle at top left, rgba(31, 154, 99, 0.14), transparent 32rem),
+        linear-gradient(180deg, #f7fcf9 0%, #edf8f2 100%);
+    }
+
+    button {
+      border: 0;
+      font: inherit;
+      cursor: pointer;
+    }
+
+    .app-shell {
+      width: min(100%, 430px);
+      min-height: 100vh;
+      margin: 0 auto;
+      background: linear-gradient(180deg, var(--green-50) 0%, #ffffff 44%);
+      box-shadow: 0 0 42px rgba(18, 69, 47, 0.12);
+      overflow: hidden;
+    }
+
+    .screen {
+      display: none;
+      min-height: 100vh;
+      padding: 22px 18px 28px;
+    }
+
+    .screen.active {
+      display: block;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      min-height: 42px;
+      margin-bottom: 12px;
+    }
+
+    .topbar-title {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      min-width: 0;
+    }
+
+    .emblem-small {
+      width: 34px;
+      height: 34px;
+      object-fit: cover;
+      background: var(--white);
+      border: 1px solid var(--line);
+      border-radius: 50%;
+      box-shadow: 0 8px 18px rgba(18, 69, 47, 0.08);
+    }
+
+    .back-btn,
+    .icon-btn {
+      display: grid;
+      place-items: center;
+      width: 38px;
+      height: 38px;
+      color: var(--green-900);
+      background: var(--white);
+      border: 1px solid var(--line);
+      border-radius: 50%;
+      box-shadow: 0 8px 18px rgba(18, 69, 47, 0.08);
+    }
+
+    .back-btn svg,
+    .icon-btn svg {
+      width: 20px;
+      height: 20px;
+      stroke: currentColor;
+      stroke-width: 2.2;
+      fill: none;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+
+    .title-block {
+      margin: 18px 0 22px;
+    }
+
+    .brand-head {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 18px;
+    }
+
+    .emblem-large {
+      width: 74px;
+      height: 74px;
+      flex: 0 0 auto;
+      object-fit: cover;
+      background: var(--white);
+      border: 3px solid var(--white);
+      border-radius: 50%;
+      box-shadow: 0 12px 30px rgba(18, 69, 47, 0.16);
+    }
+
+    .brand-copy {
+      min-width: 0;
+    }
+
+    .eyebrow {
+      margin: 0 0 8px;
+      color: var(--green-700);
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    h1,
+    h2 {
+      margin: 0;
+      color: var(--green-900);
+      letter-spacing: 0;
+    }
+
+    h1 {
+      font-size: 30px;
+      line-height: 1.18;
+    }
+
+    h2 {
+      font-size: 22px;
+      line-height: 1.28;
+    }
+
+    .sub {
+      margin: 10px 0 0;
+      color: var(--muted);
+      font-size: 15px;
+      line-height: 1.65;
+    }
+
+    .hero-card {
+      padding: 18px;
+      margin: 22px 0 18px;
+      color: var(--green-900);
+      background: var(--white);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+    }
+
+    .hero-card strong {
+      display: block;
+      margin-bottom: 8px;
+      font-size: 17px;
+    }
+
+    .hero-card span {
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .grid {
+      display: grid;
+      gap: 12px;
+    }
+
+    .major-card,
+    .year-card,
+    .book-card,
+    .info-card {
+      width: 100%;
+      text-align: left;
+      background: var(--white);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: 0 10px 24px rgba(18, 69, 47, 0.07);
+    }
+
+    .major-card,
+    .year-card {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      padding: 16px;
+      color: var(--text);
+    }
+
+    .major-card:active,
+    .year-card:active,
+    .book-card:active,
+    .tab:active,
+    .semester-btn:active {
+      transform: translateY(1px);
+    }
+
+    .major-name,
+    .year-name {
+      display: block;
+      color: var(--green-900);
+      font-size: 17px;
+      font-weight: 800;
+    }
+
+    .major-desc,
+    .year-desc {
+      display: block;
+      margin-top: 5px;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.45;
+    }
+
+    .arrow {
+      flex: 0 0 auto;
+      display: grid;
+      place-items: center;
+      width: 30px;
+      height: 30px;
+      color: var(--green-700);
+      background: var(--green-100);
+      border-radius: 50%;
+      font-weight: 900;
+    }
+
+    .year-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .year-card {
+      min-height: 124px;
+      align-items: flex-start;
+      flex-direction: column;
+    }
+
+    .year-num {
+      display: grid;
+      place-items: center;
+      width: 42px;
+      height: 42px;
+      color: var(--white);
+      background: var(--green-700);
+      border-radius: 50%;
+      font-size: 20px;
+      font-weight: 900;
+    }
+
+    .selected-line {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      margin-top: 14px;
+      color: var(--green-900);
+      background: var(--green-100);
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .filters {
+      position: sticky;
+      top: 0;
+      z-index: 4;
+      padding: 10px 0 12px;
+      background: linear-gradient(180deg, var(--green-50), rgba(243, 251, 246, 0.92));
+      backdrop-filter: blur(8px);
+    }
+
+    .tabs {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+
+    .tab {
+      height: 38px;
+      color: var(--green-900);
+      background: var(--white);
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      font-size: 14px;
+      font-weight: 800;
+    }
+
+    .tab.active {
+      color: var(--white);
+      background: var(--green-700);
+      border-color: var(--green-700);
+    }
+
+    .semester {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      padding: 4px;
+      background: var(--mint);
+      border-radius: 999px;
+    }
+
+    .semester-btn {
+      height: 36px;
+      color: var(--green-900);
+      background: transparent;
+      border-radius: 999px;
+      font-weight: 800;
+    }
+
+    .semester-btn.active {
+      color: var(--green-900);
+      background: var(--white);
+      box-shadow: 0 6px 16px rgba(18, 69, 47, 0.12);
+    }
+
+    @media (max-width: 360px) {
+      .brand-head {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .emblem-large {
+        width: 66px;
+        height: 66px;
+      }
+    }
+
+    .book-list {
+      margin-top: 10px;
+      gap: 12px;
+    }
+
+    .book-card {
+      display: block;
+      padding: 15px;
+      color: inherit;
+    }
+
+    .book-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      min-height: 26px;
+      padding: 4px 9px;
+      color: var(--green-700);
+      background: var(--green-100);
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .chip.soft {
+      color: #4d675b;
+      background: #f0f5f2;
+    }
+
+    .book-title {
+      margin: 0 0 8px;
+      color: var(--green-900);
+      font-size: 18px;
+      line-height: 1.35;
+      font-weight: 900;
+    }
+
+    .book-note {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .book-action {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 13px;
+      padding-top: 12px;
+      color: var(--green-700);
+      border-top: 1px solid var(--line);
+      font-size: 14px;
+      font-weight: 900;
+    }
+
+    .empty {
+      padding: 30px 20px;
+      text-align: center;
+      color: var(--muted);
+      background: var(--white);
+      border: 1px dashed var(--line);
+      border-radius: 8px;
+    }
+
+    .detail-head {
+      padding: 18px;
+      margin: 14px 0;
+      background: var(--white);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+    }
+
+    .detail-title {
+      margin: 0 0 12px;
+      color: var(--green-900);
+      font-size: 24px;
+      line-height: 1.3;
+    }
+
+    .detail-note {
+      margin: 12px 0 0;
+      color: var(--muted);
+      font-size: 15px;
+      line-height: 1.7;
+    }
+
+    .section-title {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin: 22px 0 10px;
+      color: var(--green-900);
+      font-size: 18px;
+      font-weight: 900;
+    }
+
+    .info-card {
+      padding: 15px;
+    }
+
+    .route-list {
+      display: grid;
+      gap: 10px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .route-item {
+      display: grid;
+      grid-template-columns: 32px 1fr;
+      gap: 10px;
+      align-items: start;
+      padding: 12px;
+      background: var(--green-50);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+    }
+
+    .route-num {
+      display: grid;
+      place-items: center;
+      width: 30px;
+      height: 30px;
+      color: var(--white);
+      background: var(--green-700);
+      border-radius: 50%;
+      font-weight: 900;
+    }
+
+    .route-title {
+      display: block;
+      margin-bottom: 4px;
+      color: var(--green-900);
+      font-size: 14px;
+      font-weight: 900;
+    }
+
+    .route-search {
+      display: block;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.55;
+    }
+
+    .hint {
+      margin: 12px 0 0;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.6;
+    }
+
+    @media (min-width: 431px) {
+      body {
+        padding: 24px 0;
+      }
+
+      .app-shell {
+        min-height: calc(100vh - 48px);
+        border-radius: 22px;
+      }
+
+      .screen {
+        min-height: calc(100vh - 48px);
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="app-shell">
+    <section id="majorScreen" class="screen active" aria-labelledby="majorTitle">
+      <div class="title-block">
+        <div class="brand-head">
+          <img class="emblem-large" src="assets/school-emblem.jpg" alt="工学院院徽" />
+          <div class="brand-copy">
+            <p class="eyebrow">大学四年教辅导航</p>
+            <h1 id="majorTitle">选择专业</h1>
+            <p class="sub">先选择你的专业，再按年级和学期查看对应教辅资料。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="hero-card">
+        <strong>请选择你的专业</strong>
+        <span>当前为示例数据，后续可以继续增加专业、课程和书籍。</span>
+      </div>
+
+      <div id="majorList" class="grid"></div>
+    </section>
+
+    <section id="yearScreen" class="screen" aria-labelledby="yearTitle">
+      <div class="topbar">
+        <button class="back-btn" type="button" data-back="majorScreen" aria-label="返回选择专业">
+          <svg viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg>
+        </button>
+        <img class="emblem-small" src="assets/school-emblem.jpg" alt="工学院院徽" />
+      </div>
+
+      <div class="title-block">
+        <p class="eyebrow">已选择专业</p>
+        <h1 id="yearTitle">选择年级</h1>
+        <p class="sub">选择你当前所在的大几，进入后仍可以随时切换年级和学期。</p>
+        <span id="pickedMajor" class="selected-line"></span>
+      </div>
+
+      <div id="yearList" class="grid year-grid"></div>
+    </section>
+
+    <section id="bookScreen" class="screen" aria-labelledby="bookTitle">
+      <div class="topbar">
+        <button class="back-btn" type="button" data-back="yearScreen" aria-label="返回选择年级">
+          <svg viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg>
+        </button>
+        <div class="topbar-title">
+          <img class="emblem-small" src="assets/school-emblem.jpg" alt="工学院院徽" />
+          <h2 id="bookTitle">教辅书籍</h2>
+        </div>
+      </div>
+
+      <div class="filters">
+        <div id="yearTabs" class="tabs" role="tablist" aria-label="年级切换"></div>
+        <div class="semester" aria-label="学期切换">
+          <button class="semester-btn active" type="button" data-semester="上学期">上学期</button>
+          <button class="semester-btn" type="button" data-semester="下学期">下学期</button>
+        </div>
+      </div>
+
+      <p id="bookContext" class="sub"></p>
+      <div id="bookList" class="grid book-list"></div>
+    </section>
+
+    <section id="detailScreen" class="screen" aria-labelledby="detailTitle">
+      <div class="topbar">
+        <button class="back-btn" type="button" data-back="bookScreen" aria-label="返回教辅列表">
+          <svg viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg>
+        </button>
+        <div class="topbar-title">
+          <img class="emblem-small" src="assets/school-emblem.jpg" alt="工学院院徽" />
+          <h2>教辅详情</h2>
+        </div>
+      </div>
+
+      <article id="detailContent"></article>
+    </section>
+  </main>
+
+  <script>
+    const majors = [
+      {
+        id: "cs",
+        name: "计算机科学与技术",
+        desc: "数学基础、程序设计、数据结构与系统课程",
+      },
+      {
+        id: "se",
+        name: "软件工程",
+        desc: "编程基础、工程实践、数据库与项目开发",
+      },
+      {
+        id: "acc",
+        name: "会计学",
+        desc: "会计基础、经济学、财务管理与审计课程",
+      },
+    ];
+
+    const years = [
+      { key: "大一", num: "一", desc: "公共基础课为主" },
+      { key: "大二", num: "二", desc: "专业基础课开始增加" },
+      { key: "大三", num: "三", desc: "核心专业课和实践课" },
+      { key: "大四", num: "四", desc: "综合提升与毕业准备" },
+    ];
+
+    const books = [
+      {
+        id: "math-1",
+        major: "cs",
+        year: "大一",
+        semester: "上学期",
+        course: "高等数学",
+        title: "高等数学辅导",
+        tags: ["同步教材", "基础入门"],
+        note: "适合配合课堂进度使用，重点补极限、导数和积分基础。",
+        routes: [
+          { title: "先补基础概念", search: "建议搜索：高等数学 极限 基础讲解" },
+          { title: "再跟课后题", search: "建议搜索：高数 课后题 逐章讲解" },
+          { title: "考前看重点", search: "建议搜索：高等数学 期末复习 重点题型" },
+        ],
+      },
+      {
+        id: "english-1",
+        major: "cs",
+        year: "大一",
+        semester: "上学期",
+        course: "大学英语",
+        title: "大学英语精读",
+        tags: ["词汇积累", "课文精讲"],
+        note: "适合英语基础薄弱的同学，先抓词汇和长难句理解。",
+        routes: [
+          { title: "先看单元词汇", search: "建议搜索：大学英语 精读 词汇 讲解" },
+          { title: "再看课文解析", search: "建议搜索：大学英语 精读 课文翻译" },
+        ],
+      },
+      {
+        id: "c-lang",
+        major: "cs",
+        year: "大一",
+        semester: "下学期",
+        course: "C语言程序设计",
+        title: "C语言程序设计习题解析",
+        tags: ["习题解析", "上机练习"],
+        note: "适合边写代码边刷题，重点关注循环、数组、指针入门。",
+        routes: [
+          { title: "先学语法基础", search: "建议搜索：C语言 零基础 入门 指针" },
+          { title: "再刷典型题", search: "建议搜索：C语言 程序设计 习题讲解" },
+        ],
+      },
+      {
+        id: "ds",
+        major: "cs",
+        year: "大二",
+        semester: "上学期",
+        course: "数据结构",
+        title: "数据结构考研与期末辅导",
+        tags: ["核心课程", "题型训练"],
+        note: "适合学习线性表、树、图和查找排序时同步巩固。",
+        routes: [
+          { title: "先理解结构", search: "建议搜索：数据结构 树 图 基础讲解" },
+          { title: "再看题型", search: "建议搜索：数据结构 期末复习 题型" },
+        ],
+      },
+      {
+        id: "database",
+        major: "se",
+        year: "大二",
+        semester: "下学期",
+        course: "数据库原理",
+        title: "数据库系统概论学习指导",
+        tags: ["重点梳理", "实验辅助"],
+        note: "适合配合 SQL 实验使用，重点看关系模型、范式和查询语句。",
+        routes: [
+          { title: "先看SQL基础", search: "建议搜索：数据库 SQL 基础 入门" },
+          { title: "再看范式题", search: "建议搜索：数据库 范式 例题 讲解" },
+        ],
+      },
+      {
+        id: "accounting",
+        major: "acc",
+        year: "大一",
+        semester: "上学期",
+        course: "基础会计",
+        title: "基础会计学习指导与习题",
+        tags: ["入门必备", "习题训练"],
+        note: "适合初学会计科目、借贷记账法和基础分录。",
+        routes: [
+          { title: "先看借贷记账", search: "建议搜索：基础会计 借贷记账法 入门" },
+          { title: "再看分录练习", search: "建议搜索：基础会计 会计分录 讲解" },
+        ],
+      },
+    ];
+
+    const state = {
+      major: majors[0],
+      year: "大一",
+      semester: "上学期",
+      book: null,
+    };
+
+    const screens = {
+      majorScreen: document.querySelector("#majorScreen"),
+      yearScreen: document.querySelector("#yearScreen"),
+      bookScreen: document.querySelector("#bookScreen"),
+      detailScreen: document.querySelector("#detailScreen"),
+    };
+
+    const majorList = document.querySelector("#majorList");
+    const yearList = document.querySelector("#yearList");
+    const yearTabs = document.querySelector("#yearTabs");
+    const bookList = document.querySelector("#bookList");
+    const bookContext = document.querySelector("#bookContext");
+    const pickedMajor = document.querySelector("#pickedMajor");
+    const detailContent = document.querySelector("#detailContent");
+
+    function showScreen(id) {
+      Object.values(screens).forEach((screen) => screen.classList.remove("active"));
+      screens[id].classList.add("active");
+      window.scrollTo({ top: 0, behavior: "instant" });
+    }
+
+    function renderMajors() {
+      majorList.innerHTML = majors
+        .map(
+          (major) => `
+            <button class="major-card" type="button" data-major="${major.id}">
+              <span>
+                <span class="major-name">${major.name}</span>
+                <span class="major-desc">${major.desc}</span>
+              </span>
+              <span class="arrow">›</span>
+            </button>
+          `
+        )
+        .join("");
+    }
+
+    function renderYears() {
+      pickedMajor.textContent = state.major.name;
+      yearList.innerHTML = years
+        .map(
+          (year) => `
+            <button class="year-card" type="button" data-year="${year.key}">
+              <span class="year-num">${year.num}</span>
+              <span>
+                <span class="year-name">${year.key}</span>
+                <span class="year-desc">${year.desc}</span>
+              </span>
+            </button>
+          `
+        )
+        .join("");
+    }
+
+    function renderYearTabs() {
+      yearTabs.innerHTML = years
+        .map(
+          (year) => `
+            <button class="tab ${state.year === year.key ? "active" : ""}" type="button" data-year-tab="${year.key}">
+              ${year.key}
+            </button>
+          `
+        )
+        .join("");
+    }
+
+    function renderBooks() {
+      renderYearTabs();
+      document.querySelectorAll(".semester-btn").forEach((button) => {
+        button.classList.toggle("active", button.dataset.semester === state.semester);
+      });
+
+      const filtered = books.filter(
+        (book) =>
+          book.major === state.major.id &&
+          book.year === state.year &&
+          book.semester === state.semester
+      );
+
+      bookContext.textContent = `${state.major.name} · ${state.year} · ${state.semester}`;
+
+      if (!filtered.length) {
+        bookList.innerHTML = `
+          <div class="empty">
+            这里暂时没有录入教辅资料。后续可以在数据里继续添加。
+          </div>
+        `;
+        return;
+      }
+
+      bookList.innerHTML = filtered
+        .map(
+          (book) => `
+            <button class="book-card" type="button" data-book="${book.id}">
+              <div class="book-meta">
+                <span class="chip">${book.course}</span>
+                ${book.tags.map((tag) => `<span class="chip soft">${tag}</span>`).join("")}
+              </div>
+              <h2 class="book-title">${book.title}</h2>
+              <p class="book-note">${book.note}</p>
+              <div class="book-action">
+                <span>查看详情</span>
+                <span>›</span>
+              </div>
+            </button>
+          `
+        )
+        .join("");
+    }
+
+    function renderDetail() {
+      if (!state.book) return;
+
+      detailContent.innerHTML = `
+        <div class="detail-head">
+          <div class="book-meta">
+            <span class="chip">${state.book.course}</span>
+            <span class="chip soft">${state.book.year}</span>
+            <span class="chip soft">${state.book.semester}</span>
+          </div>
+          <h1 id="detailTitle" class="detail-title">${state.book.title}</h1>
+          <p class="detail-note">${state.book.note}</p>
+        </div>
+
+        <div class="section-title">
+          <span>B站学习建议</span>
+        </div>
+
+        <div class="info-card">
+          <ol class="route-list">
+            ${state.book.routes
+              .map(
+                (route, index) => `
+                  <li class="route-item">
+                    <span class="route-num">${index + 1}</span>
+                    <span>
+                      <strong class="route-title">${route.title}</strong>
+                      <span class="route-search">${route.search}</span>
+                    </span>
+                  </li>
+                `
+              )
+              .join("")}
+          </ol>
+          <p class="hint">不跳转，仅提供搜索参考。你后续可以把这里替换成实际整理好的视频名称。</p>
+        </div>
+      `;
+    }
+
+    majorList.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-major]");
+      if (!button) return;
+      state.major = majors.find((major) => major.id === button.dataset.major);
+      renderYears();
+      showScreen("yearScreen");
+    });
+
+    yearList.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-year]");
+      if (!button) return;
+      state.year = button.dataset.year;
+      state.semester = "上学期";
+      renderBooks();
+      showScreen("bookScreen");
+    });
+
+    yearTabs.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-year-tab]");
+      if (!button) return;
+      state.year = button.dataset.yearTab;
+      renderBooks();
+    });
+
+    document.querySelector(".semester").addEventListener("click", (event) => {
+      const button = event.target.closest("[data-semester]");
+      if (!button) return;
+      state.semester = button.dataset.semester;
+      renderBooks();
+    });
+
+    bookList.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-book]");
+      if (!button) return;
+      state.book = books.find((book) => book.id === button.dataset.book);
+      renderDetail();
+      showScreen("detailScreen");
+    });
+
+    document.querySelectorAll("[data-back]").forEach((button) => {
+      button.addEventListener("click", () => showScreen(button.dataset.back));
+    });
+
+    renderMajors();
+    renderYears();
+    renderBooks();
+  </script>
+</body>
+</html>
