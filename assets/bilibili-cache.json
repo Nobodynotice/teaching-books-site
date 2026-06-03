@@ -1,0 +1,1018 @@
+{
+  "数据结构（C语言版）（第2版） 数据结构与算法": null,
+  "离散数学及其应用（第2版） 离散数学": null,
+  "python语言程序设计基础（第2版） Python程序设计": null,
+  "操作系统（第4版本） 操作系统原理": {
+    "title": "《全国计算机等级考试》 四级操作系统原理 刘震",
+    "author": "不想学习眼睛累",
+    "bvid": "BV1qt4y127uy",
+    "url": "https://www.bilibili.com/video/BV1qt4y127uy",
+    "play": 21389,
+    "duration": "1665:42"
+  },
+  "java web程序设计任务教程 Web编程技术": {
+    "title": "Java Web程序设计任务教程（第3版）（AIGC版）",
+    "author": "黑马程序员教材研究院",
+    "bvid": "BV1Y79sBxEjE",
+    "url": "https://www.bilibili.com/video/BV1Y79sBxEjE",
+    "play": 5543,
+    "duration": "550:35"
+  },
+  "电路与模拟电子技术（第4版） 电路与模拟电子技术": {
+    "title": "电路与模拟电子技术（殷瑞祥） 课后习题",
+    "author": "能不能不上学啊啊",
+    "bvid": "BV1vufpYGEUm",
+    "url": "https://www.bilibili.com/video/BV1vufpYGEUm",
+    "play": 148312,
+    "duration": "672:24"
+  },
+  "电路与模拟电子技术（第4版）学习辅导与习题解答 电路与模拟电子技术": {
+    "title": "电路与模拟电子技术（殷瑞祥） 课后习题",
+    "author": "能不能不上学啊啊",
+    "bvid": "BV1vufpYGEUm",
+    "url": "https://www.bilibili.com/video/BV1vufpYGEUm",
+    "play": 148312,
+    "duration": "672:24"
+  },
+  "最优化方法及其Python程序实现 最优化理论": null,
+  "MySQL 8.0数据库应用与开发 MySQL 数据库应用实践": {
+    "title": "黑马程序员 MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括",
+    "author": "黑马程序员",
+    "bvid": "BV1Kr4y1i7ru",
+    "url": "https://www.bilibili.com/video/BV1Kr4y1i7ru",
+    "play": 12792075,
+    "duration": "1800:52"
+  },
+  "大数据技术原理与应用 ——概念、存储、处理、 分析与应用（第4版） 大数据处理技术": {
+    "title": "【厦门大学】大数据技术原理与应用",
+    "author": "你石矶娘娘",
+    "bvid": "BV1ds41157NS",
+    "url": "https://www.bilibili.com/video/BV1ds41157NS",
+    "play": 232398,
+    "duration": "1096:11"
+  },
+  "大数据基础编程、实验和案例教程（第3版） 大数据处理技术实践": {
+    "title": "黑马程序员MySQL知识精讲+mysql实战案例_零基础mysql数据库入门到高级全套教程",
+    "author": "黑马程序员",
+    "bvid": "BV1iF411z7Pu",
+    "url": "https://www.bilibili.com/video/BV1iF411z7Pu",
+    "play": 1419348,
+    "duration": "1785:25"
+  },
+  "多媒体技术与应用 多媒体信息处理": null,
+  "分布式系统开发实践 分布式系统": {
+    "title": "SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式，系统详解springcloud微服务技术栈课程|黑马程序员Java微服务",
+    "author": "黑马程序员",
+    "bvid": "BV1LQ4y127n4",
+    "url": "https://www.bilibili.com/video/BV1LQ4y127n4",
+    "play": 4503271,
+    "duration": "2680:19"
+  },
+  "OpenCV计算机视觉基础教程（Python版|慕课版） 计算机视觉及应用": {
+    "title": "【计算机视觉实战项目】基于Python与OpenCV实现的图像处理全套解析！从基础原理到代码实战，全程通俗易懂，适合所有零基础入门学习！-ML/DL/CV",
+    "author": "唐宇迪的AI入门课",
+    "bvid": "BV14A411C7ZE",
+    "url": "https://www.bilibili.com/video/BV14A411C7ZE",
+    "play": 1110153,
+    "duration": "574:53"
+  },
+  "软件测试（第2版） 软件测试与质量保证": null,
+  "软件工程导论：方法、工具和案例 软件工程": {
+    "title": "软件工程导论 张海藩",
+    "author": "皮蛋茄子擂辣椒",
+    "bvid": "BV1Ns41177VM",
+    "url": "https://www.bilibili.com/video/BV1Ns41177VM",
+    "play": 929610,
+    "duration": "1049:52"
+  },
+  "数据库原理及应用与实践（第4版) 数据库原理": null,
+  "数据挖掘（第2版） 数据挖掘与机器学习": null,
+  "网络安全攻防技术实战 信息安全技术": null,
+  "数据库原理及应用与实践 数据库原理": null,
+  "大学生创新创业基础 第2版 创业基础（实践）": null,
+  "信息安全工程师教程（第2版） 信息安全技术": null,
+  "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用": null,
+  "软件工程导论-方法、工具和案例 软件工程": null,
+  "动手学自然语言处理 自然语言处理": null,
+  "python数据分析与可视化 大数据分析与可视化": null,
+  "Python数据挖掘与机器学习（第2版·微课视频版） 数据挖掘与机器学习": null,
+  "大数据存储技术与应用 大数据存储与管理": null,
+  "大数据技术原理与应用 大数据技术与应用": {
+    "title": "【厦门大学】大数据技术原理与应用",
+    "author": "你石矶娘娘",
+    "bvid": "BV1ds41157NS",
+    "url": "https://www.bilibili.com/video/BV1ds41157NS",
+    "play": 232398,
+    "duration": "1096:11"
+  },
+  "大数据技术原理与应用（第4版） 大数据技术原理": null,
+  "Spark编程基础（Python版，第2版） 大数据平台及编程实践": null,
+  "Hive 入门与大数据分析实践 数据仓库技术与应用": null,
+  "概率论与数理统计（第五版） 概率论与数理统计": null,
+  "《计算机网络教程》(第6版) 计算机网络": {
+    "title": "《计算机网络教程 第6版，谢钧》课程",
+    "author": "Nidhogg14",
+    "bvid": "BV161ttzYEbz",
+    "url": "https://www.bilibili.com/video/BV161ttzYEbz",
+    "play": 19668,
+    "duration": "941:43"
+  },
+  "实验指导书，学院集中打印 计算机网络实训": {
+    "title": "3C路由交换与技术_综合实验_偷懒速做方法",
+    "author": "idsasad",
+    "bvid": "BV1PFVU6yEbu",
+    "url": "https://www.bilibili.com/video/BV1PFVU6yEbu",
+    "play": 30,
+    "duration": "5:28"
+  },
+  "Python爬虫大数据采集与挖掘 大数据技术与开发实训": null,
+  "云计算与大数据技术（微课版） 大数据与云计算": null,
+  "Python数据分析与挖掘实战 （第2版） 大数据智能分析实训": null,
+  "美好前程——大学生职业生涯规划 就业指导（实践）": {
+    "title": "大学生职业生涯规划与就业指导智慧树知到答案",
+    "author": "众课帮",
+    "bvid": "BV1Tg4y137gk",
+    "url": "https://www.bilibili.com/video/BV1Tg4y137gk",
+    "play": 799,
+    "duration": "0:20"
+  },
+  "动手学深度学习PyTorch版 人工智能原理": {
+    "title": "B站首发！手把手教你用Docker部署PyTorch深度学习模型！全程干货讲解，零基础小白可学！（人工智能/机器学习/云原生/容器/研究生）",
+    "author": "AI讲师-唐宇迪",
+    "bvid": "BV1AAoqYdETG",
+    "url": "https://www.bilibili.com/video/BV1AAoqYdETG",
+    "play": 8732,
+    "duration": "359:46"
+  },
+  "C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计": null,
+  "C语言程序设计实验教程（第2版） 高级语言程序设计实践": null,
+  "线性代数 线性代数": {
+    "title": "数农314考点梳理----线性代数",
+    "author": "考研数农小朱",
+    "bvid": "BV1hb421v7Ld",
+    "url": "https://www.bilibili.com/video/BV1hb421v7Ld",
+    "play": 14116,
+    "duration": "22:13"
+  },
+  "线性代数习题解答 线性代数": {
+    "title": "《线性代数》习题课，零废话，超精讲！【孔祥仁】",
+    "author": "孔祥仁",
+    "bvid": "BV1bt421T7p6",
+    "url": "https://www.bilibili.com/video/BV1bt421T7p6",
+    "play": 1115259,
+    "duration": "913:10"
+  },
+  "高等数学（上册） 高等数学(1)": null,
+  "高等数学习题解答 高等数学(1)": null,
+  "计算机应用基础实验教程（第5版） 计算机实践基础": null,
+  "计算机应用基础（第5版） 计算机实践基础": {
+    "title": "大学计算机应用基础上机实验",
+    "author": "计科小站",
+    "bvid": "BV11K4y1A75n",
+    "url": "https://www.bilibili.com/video/BV11K4y1A75n",
+    "play": 45330,
+    "duration": "244:11"
+  },
+  "应用型本科大学物理(上册) 大学物理（1）": null,
+  "电路与模拟电子技术（第四版） 电路与模拟电子技术": null,
+  "《高等数学》第八版下册 高等数学（2）": null,
+  "大学物理（下册） 大学物理（2）": null,
+  "Java程序设计——增量式项目驱动一体化教程（第2版） 面向对象程序设计": null,
+  "实验指导书，学院集中打印 大学物理实验（1）": null,
+  "Java程序设计实训——增量式项目驱动一体化教程（第二版） 程序设计实训": null,
+  "计算机系统结构（第3版） 计算机系统结构": null,
+  "动手学深度学习 PyTorch版 人工智能原理": null,
+  "新编数字图像处理技术及应用（修订版） 数字图像处理及应用": null,
+  "Java Web程序设计任务教程（第2版） Web编程技术": null,
+  "操作系统课程设计实验指导书 操作系统课程设计": null,
+  "操作系统原理与实现 操作系统原理": null,
+  "《应用型本科大学物理》下册 大学物理（2）": null,
+  "新编数字图像处理技术及应用 数字图像处理及应用": {
+    "title": "数字图像处理章毓晋版-期末速成",
+    "author": "DR-学习版",
+    "bvid": "BV1KPmtB3EfT",
+    "url": "https://www.bilibili.com/video/BV1KPmtB3EfT",
+    "play": 3031,
+    "duration": "625:55"
+  },
+  "动手学深度学习pytorch版 人工智能原理": {
+    "title": "B站首发！手把手教你用Docker部署PyTorch深度学习模型！全程干货讲解，零基础小白可学！（人工智能/机器学习/云原生/容器/研究生）",
+    "author": "AI讲师-唐宇迪",
+    "bvid": "BV1AAoqYdETG",
+    "url": "https://www.bilibili.com/video/BV1AAoqYdETG",
+    "play": 8732,
+    "duration": "359:46"
+  },
+  "概率论与数理统计（第5版） 概率论与数理统计": null,
+  "数据库原理及应用与实践（第4版)——基于SQL Server 2019 数据库原理": {
+    "title": "SQL Server复制功能配置",
+    "author": "btldxx",
+    "bvid": "BV1VeedeoE74",
+    "url": "https://www.bilibili.com/video/BV1VeedeoE74",
+    "play": 859,
+    "duration": "30:52"
+  },
+  "计算机系统结构 计算机系统结构": null,
+  "Java程序设计实训——增量式项目驱动一体化教程（第2版） 程序设计实训": {
+    "title": "USBCAN驱动安装视频",
+    "author": "哇是班班",
+    "bvid": "BV16N4y1f7yW",
+    "url": "https://www.bilibili.com/video/BV16N4y1f7yW",
+    "play": 4051,
+    "duration": "1:34"
+  },
+  "软件工程导论 方法、工具和案例 软件工程": {
+    "title": "软件工程导论 张海藩",
+    "author": "皮蛋茄子擂辣椒",
+    "bvid": "BV1Ns41177VM",
+    "url": "https://www.bilibili.com/video/BV1Ns41177VM",
+    "play": 929610,
+    "duration": "1049:52"
+  },
+  "分布式系统开发实战 分布式系统": null,
+  "OpenCV计算机视觉基础教程（Python版） 计算机视觉及应用": null,
+  "应用统计学 应用统计学": null,
+  "MySQL 8.0数据库应用与开发 MySQL数据库应用实践": null,
+  "《美好前程——大学生就业指导教程》 就业指导（理论）": {
+    "title": "大学生就业指导期末答案110%",
+    "author": "尘huan",
+    "bvid": "BV1fe4y1M7kY",
+    "url": "https://www.bilibili.com/video/BV1fe4y1M7kY",
+    "play": 12795,
+    "duration": "1:20"
+  },
+  "大数据技术原理与应用（第3版） 大数据处理技术": {
+    "title": "大白话讲明白标准化和归一化",
+    "author": "薛什么的B站",
+    "bvid": "BV1DtJyz6EJv",
+    "url": "https://www.bilibili.com/video/BV1DtJyz6EJv",
+    "play": 13905,
+    "duration": "5:2"
+  },
+  "大数据基础编程、实验和案例教程（第2版） 大数据处理技术实践": {
+    "title": "重磅来袭！超250万读者的选择：蟒蛇书《Python 编程：从入门到实践（第3版）》，最新版配套视频抢先看",
+    "author": "图灵社区",
+    "bvid": "BV14X4y127MT",
+    "url": "https://www.bilibili.com/video/BV14X4y127MT",
+    "play": 623918,
+    "duration": "371:39"
+  },
+  "数据挖掘-原理、方法及Python应用实践教程 数据挖掘与机器学习": null,
+  "Python数据分析与可视化 大数据分析与可视化": null,
+  "大数据技术原理与应用 大数据与云计算": null,
+  "自然语言处理入门 自然语言处理": null,
+  "计算机网络教程（第7版 微课版） 计算机网络": null,
+  "美好前程——大学生就业指导教程 就业指导（理论）": null,
+  "应用统计学（第4版） 应用统计学": null,
+  "Spark编程基础（Python版，第2版） 大数据技术与开发实训": null,
+  "动手学深度学习(异步图书出品) 人工智能原理": null,
+  "python 爬虫大数据采集与挖掘 大数据智能分析实训": null,
+  "Python爬虫大数据采集与挖掘-微课视频版（大数据与人工智能技术丛书） 大数据技术与开发实训": null,
+  "C Primer Plus（第6版）英文版 高级语言程序设计": {
+    "title": "《C++ Primer Plus》第六版 零基础从头学",
+    "author": "180斤的华尔兹",
+    "bvid": "BV1sK41127iZ",
+    "url": "https://www.bilibili.com/video/BV1sK41127iZ",
+    "play": 913269,
+    "duration": "4243:51"
+  },
+  "英语听力教程学生用书（第4版） 英语视听说（1）": null,
+  "James Stewart《微积分》Calculus （Eighth China Edition） 高等数学(1)": {
+    "title": "<托马斯微积分>学习日记",
+    "author": "远小哥学习日记",
+    "bvid": "BV1xA4m1N7wr",
+    "url": "https://www.bilibili.com/video/BV1xA4m1N7wr",
+    "play": 103312,
+    "duration": "3114:6"
+  },
+  "《跨文化沟通》 英语口语沟通（2）": {
+    "title": "跨文化沟通：走向世界的沟通技能升级指南！",
+    "author": "清晖在线学堂-柠檬",
+    "bvid": "BV1Gi421a7Y4",
+    "url": "https://www.bilibili.com/video/BV1Gi421a7Y4",
+    "play": 1374,
+    "duration": "71:21"
+  },
+  "Practical Object-Oriented Design 面向对象程序设计✬▲": null,
+  "Algorithms and Data Structures 数据结构与算法✬▲": null,
+  "Linear Algebra 4th Edition 线性代数✬▲": {
+    "title": "《线性代数应该这样学（Linear Algebra Done Right）》自制教程&习题选讲",
+    "author": "阿潘Eris",
+    "bvid": "BV1Vg411G7cz",
+    "url": "https://www.bilibili.com/video/BV1Vg411G7cz",
+    "play": 370032,
+    "duration": "4408:43"
+  },
+  "Guide to Operating Systems 操作系统原理✬▲": null,
+  "Computer Science Principles 计算机原理与应用✬▲": {
+    "title": "斯坦福大学 CS 110 计算机系统原理 Principles of Computer Systems（Spring 2019）",
+    "author": "___main___",
+    "bvid": "BV1ED4y1R7RJ",
+    "url": "https://www.bilibili.com/video/BV1ED4y1R7RJ",
+    "play": 11421,
+    "duration": "1478:46"
+  },
+  "Physics,10th Edition 大学物理（2）▲": {
+    "title": "我的世界真实物理模组演示，《Physics Mod Pro》最新版1.21.11，2026年最新版，内附下载链接~",
+    "author": "木槿晓枫",
+    "bvid": "BV1nV8qzPEzT",
+    "url": "https://www.bilibili.com/video/BV1nV8qzPEzT",
+    "play": 99816,
+    "duration": "8:41"
+  },
+  "Test Driven Development: By Example 软件工程✬▲": null,
+  "离散数学及其应用（英文精编版·原书第8版） 离散数学▲": null,
+  "Fundamentals of Database Systems 大数据管理✬▲": {
+    "title": "Udemy - Fundamentals of Database Engineering part1",
+    "author": "lmt831",
+    "bvid": "BV1qoVrzaEK4",
+    "url": "https://www.bilibili.com/video/BV1qoVrzaEK4",
+    "play": 1199,
+    "duration": "913:54"
+  },
+  "Effective Java 数据挖掘算法与技术✬▲": null,
+  "计算机应用基础-WPS版 计算机实践基础": {
+    "title": "计算机一级计算机基础及WPS Office应用 新思路操作题解题视频",
+    "author": "新思路等考通",
+    "bvid": "BV13g41177LV",
+    "url": "https://www.bilibili.com/video/BV13g41177LV",
+    "play": 722776,
+    "duration": "1569:14"
+  },
+  "计算机应用基实验教程-WPS版 计算机实践基础": null,
+  "复变函数与积分变换（第5版） 工程数学": null,
+  "大学物理（上册） 大学物理（1）": {
+    "title": "《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！",
+    "author": "数学建模老哥",
+    "bvid": "BV1VS411A75c",
+    "url": "https://www.bilibili.com/video/BV1VS411A75c",
+    "play": 11406034,
+    "duration": "699:19"
+  },
+  "实验指导书，学院集中打印 数字电路与逻辑设计实验": null,
+  "应用型本科大学物理（下册） 大学物理（2）": null,
+  "计算机组成原理（微课版） 计算机组成原理": null,
+  "离散数学及其应用 离散数学": null,
+  "数字信号处理教程（第五版） 数字信号处理": {
+    "title": "使用MATLAB学习数字信号处理：第一章 离散时间信号与系统（1、使用stem函数绘制离散时间序列）.mp4",
+    "author": "算法工匠",
+    "bvid": "BV1mv4y1T7o7",
+    "url": "https://www.bilibili.com/video/BV1mv4y1T7o7",
+    "play": 31247,
+    "duration": "25:55"
+  },
+  "《应用型本科大学物理》上册 大学物理（1）": {
+    "title": "《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！",
+    "author": "数学建模老哥",
+    "bvid": "BV1VS411A75c",
+    "url": "https://www.bilibili.com/video/BV1VS411A75c",
+    "play": 11406034,
+    "duration": "699:19"
+  },
+  "概率论与数理统计 概率论与数理统计": {
+    "title": "《概率论与数理统计》教学视频 2.0版本【宋浩老师】",
+    "author": "宋浩老师官方",
+    "bvid": "BV1JXppejE8q",
+    "url": "https://www.bilibili.com/video/BV1JXppejE8q",
+    "play": 19768411,
+    "duration": "2219:24"
+  },
+  "数字电子技术基础（第六版) 数字电路与逻辑设计": null,
+  "自动控制原理（第二版） 自动控制原理": {
+    "title": "中国矿业大学868自动控制原理1-7章讲解视频",
+    "author": "Luyoyo-",
+    "bvid": "BV1ue411f7R8",
+    "url": "https://www.bilibili.com/video/BV1ue411f7R8",
+    "play": 2263,
+    "duration": "52:24"
+  },
+  "离散数学（微课版）（第2版） 离散数学": null,
+  "数字信号处理教程 数字信号处理": null,
+  "计算机组成原理（微课版）（第2版） 计算机组成原理": {
+    "title": "（清华大学）计算机组成原理",
+    "author": "方知学长",
+    "bvid": "BV1jE41177sS",
+    "url": "https://www.bilibili.com/video/BV1jE41177sS",
+    "play": 87164,
+    "duration": "2518:16"
+  },
+  "大学物理实验1 大学物理实验（1）": {
+    "title": "华中师范大学三级物理实验1核磁共振实验操作讲解",
+    "author": "咪咕萱er",
+    "bvid": "BV1b64y1871W",
+    "url": "https://www.bilibili.com/video/BV1b64y1871W",
+    "play": 16106,
+    "duration": "5:32"
+  },
+  "大学物理（1）(第七版) 大学物理（2）(第七版) 物理学习题分析与解答 (第七版) 大学物理（2）": {
+    "title": "【期末冲刺上大分】《大物/大学物理》3小时快速突击，期末不挂科【蜂考】",
+    "author": "蜂考",
+    "bvid": "BV1KSPeeGE1q",
+    "url": "https://www.bilibili.com/video/BV1KSPeeGE1q",
+    "play": 8211013,
+    "duration": "665:18"
+  },
+  "计算机组成原理 计算机组成原理": null,
+  "Python爬虫大数据采集与挖掘-微课视频版（大数据与人工智能技术丛书） 机器学习": null,
+  "机器人操作系统(ROS)及仿真应用 机器人技术": null,
+  "数字电子技术基础（第六版） 数字电路与逻辑设计": null,
+  "数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计": null,
+  "自动控制系统（第3版） 自动控制原理": null,
+  "机器学习实战(图灵出品) [Machine learning in action] 机器学习实践": null,
+  "《自动检测技术》第4版 传感器原理及应用": null,
+  "模式识别（第四版） 模式识别": null,
+  "物联网技术及应用 物联网技术及应用": {
+    "title": "物联网组网技术及应用【全53讲】【含资料】【国家级精品课】",
+    "author": "爱学习的小刚子",
+    "bvid": "BV1L8qrBeEPY",
+    "url": "https://www.bilibili.com/video/BV1L8qrBeEPY",
+    "play": 7237,
+    "duration": "334:8"
+  },
+  "机器人技术基础 机器人技术": null,
+  "细说机器学习：从理论到实践 机器学习": null,
+  "模式识别 模式识别": null,
+  "深度学习基础与概念 深度学习": null,
+  "自编教材 嵌入式系统实践": {
+    "title": "【26最新】UP已付费！！软考中级嵌入式系统设计师（嵌入式）零基础跟学视频：系统精讲+学霸笔记+历年真题+模拟题带练！",
+    "author": "软考小灵通",
+    "bvid": "BV1qbPGzdEk9",
+    "url": "https://www.bilibili.com/video/BV1qbPGzdEk9",
+    "play": 35413,
+    "duration": "1288:27"
+  },
+  "智能网联汽车技术基础 智能系统实训": {
+    "title": "智能网联汽车技术【全92讲】【含资料】【国家级精品课】",
+    "author": "爱学习的小刚子",
+    "bvid": "BV1b4eyzGE2K",
+    "url": "https://www.bilibili.com/video/BV1b4eyzGE2K",
+    "play": 37474,
+    "duration": "683:3"
+  },
+  "嵌入式系统原理与应用-基于Cortex-A53微处理器 嵌入式系统": {
+    "title": "【微处理器与嵌入式系统设计】电子科技大学",
+    "author": "学习资料搬运工",
+    "bvid": "BV1Gp4y1y7V3",
+    "url": "https://www.bilibili.com/video/BV1Gp4y1y7V3",
+    "play": 87808,
+    "duration": "612:26"
+  },
+  "深度学习框架Pytorch入门与实践 智能系统实训": null,
+  "MATLAB R2020a 完全自学一本通 MATLAB语言实践": null,
+  "电路分析 电路基础": {
+    "title": "南京邮电大学813南邮《电路分析》教材讲解",
+    "author": "邮学考研",
+    "bvid": "BV1wDZmYtE8z",
+    "url": "https://www.bilibili.com/video/BV1wDZmYtE8z",
+    "play": 109327,
+    "duration": "2134:34"
+  },
+  "单片机原理与应用(双色版） 单片机原理及应用": null,
+  "高频电子线路（第4版） 高频电子线路": null,
+  "工程制图与AutoCAD 第2版 工程制图与CAD": {
+    "title": "UG工程制图，出图与导出CAD",
+    "author": "三玖教育-木子",
+    "bvid": "BV1iHz8YmE4r",
+    "url": "https://www.bilibili.com/video/BV1iHz8YmE4r",
+    "play": 108972,
+    "duration": "2:56"
+  },
+  "微机原理与接口技术（第3版） 微机原理与接口技术": null,
+  "Python语言程序设计基础(第3版) Python程序设计": {
+    "title": "《Python语言程序设计》考试复习速成资源/快速复习 考研框架复习 /习题讲解 期末不挂科资源",
+    "author": "丶世中逢尔",
+    "bvid": "BV1av1SBrE8r",
+    "url": "https://www.bilibili.com/video/BV1av1SBrE8r",
+    "play": 17073,
+    "duration": "287:52"
+  },
+  "模拟电子技术基础 模拟电子技术": {
+    "title": "【期末冲刺上大分】《模电/模拟电子技术基础》8小时系统学习|期末拿高分【蜂考】",
+    "author": "蜂考",
+    "bvid": "BV1CBfiYfEnN",
+    "url": "https://www.bilibili.com/video/BV1CBfiYfEnN",
+    "play": 3060462,
+    "duration": "448:33"
+  },
+  "信号与系统教程 信号与系统": null,
+  "工程制图与AutoCAD 第3版 工程制图与CAD": null,
+  "自动控制原理（第3版） 自动控制原理": {
+    "title": "自动控制原理+机械控制原理_03课_3_复阻抗法+运算放大器",
+    "author": "laitianmao",
+    "bvid": "BV1tP411N7EL",
+    "url": "https://www.bilibili.com/video/BV1tP411N7EL",
+    "play": 20482,
+    "duration": "28:3"
+  },
+  "高频电子线路 高频电子线路": {
+    "title": "【看完挂科算我输】通信电子线路/高频电子线路期末复习，感谢三连～完结撒花！",
+    "author": "跟着浩然玩转高考物理",
+    "bvid": "BV1K54y1x7Nn",
+    "url": "https://www.bilibili.com/video/BV1K54y1x7Nn",
+    "play": 1145944,
+    "duration": "129:17"
+  },
+  "大学物理实验2 大学物理实验（2）": {
+    "title": "大学物理实验2-视频合集",
+    "author": "笔盏",
+    "bvid": "BV1Pk4y1175k",
+    "url": "https://www.bilibili.com/video/BV1Pk4y1175k",
+    "play": 54666,
+    "duration": "181:41"
+  },
+  "微机原理与接口技术-基于8086和Proteus仿真（第四版） 微机原理与接口技术": null,
+  "单片机原理及应用 C51编程+Protues仿真（第二版） 单片机原理及应用": null,
+  "微机原理与接口技术--基于8088和Proteus仿真 微机原理与接口技术": null,
+  "自编数字电路与逻辑设计实验教材 数字电路与逻辑设计实验": {
+    "title": "数字逻辑电路-与门、或门、非门，理论+实验，学习超简单！",
+    "author": "多多百科",
+    "bvid": "BV1yT4y1K7Yr",
+    "url": "https://www.bilibili.com/video/BV1yT4y1K7Yr",
+    "play": 107425,
+    "duration": "20:3"
+  },
+  "现代通信原理 通信原理": null,
+  "电磁场与电磁波 工程电磁场": null,
+  "CMOS 数字集成电路设计 CMOS集成电路设计": null,
+  "计算机网络教程 计算机网络": null,
+  "HTML+CSS+JavaScript网页制作案例教程（第二版） 网站设计": null,
+  "软件项目管理案例教程（第5版） 项目管理": {
+    "title": "这才是我想要的项目管理工具！5款免费的项目管理工具推荐",
+    "author": "不及物动词xo",
+    "bvid": "BV1mM411K7hJ",
+    "url": "https://www.bilibili.com/video/BV1mM411K7hJ",
+    "play": 115969,
+    "duration": "4:27"
+  },
+  "CMOS数字集成电路设计 CMOS集成电路设计": {
+    "title": "【公开课】数字集成电路设计（数字CMOS集成电路设计基础）- 华东师范大学",
+    "author": "微电子与纳电子学",
+    "bvid": "BV1XE411g77j",
+    "url": "https://www.bilibili.com/video/BV1XE411g77j",
+    "play": 189902,
+    "duration": "782:49"
+  },
+  "电磁场与电磁波（第4版） 工程电磁场": null,
+  "数据库系统原理与应用（MySQL版） 数据库系统与应用": {
+    "title": "【2026最新】B站NO.1！！！别再盲目自学数据库 科学系统的 MySQL 数据分析完整学习路线",
+    "author": "观数者",
+    "bvid": "BV1n3Vz6LEdW",
+    "url": "https://www.bilibili.com/video/BV1n3Vz6LEdW",
+    "play": 611,
+    "duration": "883:52"
+  },
+  "通信原理 通信原理": null,
+  "计算机网络教程（第7版，微课版） 计算机网络": {
+    "title": "《计算机网络》4小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结",
+    "author": "数学建模老哥",
+    "bvid": "BV1H4kwYHEcR",
+    "url": "https://www.bilibili.com/video/BV1H4kwYHEcR",
+    "play": 1723527,
+    "duration": "255:44"
+  },
+  "数据结构(C语言版)(第3版) 数据结构与算法": {
+    "title": "考研数据结构需要的C语言基础｜C语言速成｜数据结构基础｜408数据结构｜0基础跨考｜C语言期末",
+    "author": "阿辉不会敲代码",
+    "bvid": "BV1uC411n7J7",
+    "url": "https://www.bilibili.com/video/BV1uC411n7J7",
+    "play": 375476,
+    "duration": "262:2"
+  },
+  "HTML+CSS+JavaScript网页制作案例教程（第2版） 网站设计": {
+    "title": "使用HTML、CSS和JavaScript制作幸运旋转盘游戏",
+    "author": "前端亮亮",
+    "bvid": "BV1dP411g7pp",
+    "url": "https://www.bilibili.com/video/BV1dP411g7pp",
+    "play": 6649,
+    "duration": "11:9"
+  },
+  "物联网技术及应用 物联网技术及应用实践": null,
+  "微信小程序开发实战第2版 移动互联网技术": null,
+  "软件项目管理 项目管理": null,
+  "HTML+CSS+JavaScript网页制作案例教程HTML（第二版） 网站设计": null,
+  "数据结构（C语言版） 数据结构与算法": null,
+  "计算机网络教程 第6版微课版 计算机网络": null,
+  "官网开发文档，无需打印 移动互联网技术": null,
+  "数据库系统原理与应用(MySQL版) 数据库系统与应用": null,
+  "标准化技术与方法(全国高校标准化工程系列教材) 技术标准与设计案例": {
+    "title": "13.建筑施工安全生产标准化系列视频--塔式起重机",
+    "author": "建筑工程施工作业培训",
+    "bvid": "BV1Jq4y1J7WE",
+    "url": "https://www.bilibili.com/video/BV1Jq4y1J7WE",
+    "play": 2522,
+    "duration": "27:17"
+  },
+  "实验指导书，学院集中打印 通信原理与系统实验": null,
+  "自编电子工艺实训实验指导书 电子工艺实训": {
+    "title": "SOP也就是标准作业指导书，分享下工厂里面的SOP怎么写",
+    "author": "IE阿潘说制造",
+    "bvid": "BV1Ju4y1C79M",
+    "url": "https://www.bilibili.com/video/BV1Ju4y1C79M",
+    "play": 89249,
+    "duration": "1:23"
+  },
+  "电力电子技术 电力电子技术": {
+    "title": "电力电子仿真 MATLAB/Simulink 基础篇系列视频（黑库）",
+    "author": "西瓜粥西瓜粥",
+    "bvid": "BV1xz411B7cV",
+    "url": "https://www.bilibili.com/video/BV1xz411B7cV",
+    "play": 988206,
+    "duration": "428:11"
+  },
+  "《电磁场与电磁波教学、学习与考研指导》（第4版） 工程电磁场": {
+    "title": "学霸录播 | 电磁场与电磁波 第六讲导行电磁波（李炫星）",
+    "author": "传媒工科生",
+    "bvid": "BV19XrpYcEiG",
+    "url": "https://www.bilibili.com/video/BV19XrpYcEiG",
+    "play": 1817,
+    "duration": "54:35"
+  },
+  "控制电机 控制电机": {
+    "title": "【玩转电机】电机控制“大力出奇迹”？6种控制方式一看就懂",
+    "author": "达尔闻",
+    "bvid": "BV19G4y137MW",
+    "url": "https://www.bilibili.com/video/BV19G4y137MW",
+    "play": 73617,
+    "duration": "5:35"
+  },
+  "新能源发电与控制技术 新能源发电技术": null,
+  "自动控制原理习题详解 自动控制原理": null,
+  "电机原理及拖动 电机学与拖动基础": null,
+  "电力电子技术（第6版） 电力电子技术": null,
+  "微机原理与接口技术--基于8086和Proteus仿真 微机原理与接口技术": null,
+  "楼宇自动化(第2版) 楼宇自动化": {
+    "title": "2024最新版-紫金桥跨平台实时数据库软件功能详解",
+    "author": "紫金桥软件",
+    "bvid": "BV1w6421V7Jq",
+    "url": "https://www.bilibili.com/video/BV1w6421V7Jq",
+    "play": 1899,
+    "duration": "382:39"
+  },
+  "电力系统基础 电力系统基础": {
+    "title": "【环世界】基础攻略-电力系统",
+    "author": "-公子光-",
+    "bvid": "BV1rt4y1t7CY",
+    "url": "https://www.bilibili.com/video/BV1rt4y1t7CY",
+    "play": 127200,
+    "duration": "11:29"
+  },
+  "《自动检测技术》第5版 电气测量技术": {
+    "title": "《自动检测技术》复试专题课 | 全版本适用｜要点提炼 | 配套习题 | 一战上岸",
+    "author": "控制考研阿祖",
+    "bvid": "BV16tvHBjEFv",
+    "url": "https://www.bilibili.com/video/BV16tvHBjEFv",
+    "play": 3349,
+    "duration": "179:37"
+  },
+  "电力系统继电保护 电力系统继电保护": null,
+  "SOLIDWORKS电气高级教程 电气工程项目设计": {
+    "title": "B站最强的SolidWorks Electrical电气设计全套视频-求精",
+    "author": "机械电子技术控",
+    "bvid": "BV1FJ411K7KF",
+    "url": "https://www.bilibili.com/video/BV1FJ411K7KF",
+    "play": 143609,
+    "duration": "196:58"
+  },
+  "工厂供电 供电技术": null,
+  "电力拖动自动控制系统-运动控制系统 电力拖动控制系统": null,
+  "《自动检测技术》第4版 电气测量技术": null,
+  "楼宇自动化技术与工程 楼宇自动化": null,
+  "智能制造概论 智能控制技术基础": null,
+  "嵌入式系统原理与应用-基于Cortex-A53微处理器 嵌入式系统与应用实践": null,
+  "SOLIDWORKS 电气基础教程(2020版) 电气工程项目设计": null,
+  "供配电技术 供电技术": null,
+  "数据库原理及应用与实践（第4版)——基于SQL Server 2019 数据库系统与应用": null,
+  "SOLIDWORKS 电气基础教程（2020版） 电气工程项目设计": null,
+  "电力拖动自动控制系统--运动控制系统（第5版） 电力拖动控制系统": null,
+  "标准化技术与方法（全国高校标准化工程系列教材） 技术标准与设计案例": null,
+  "数据结构（C语言版）（第3版） 数据结构": null,
+  "发电厂变电站电气部分（第三版） 发电厂与变电站电气基础": {
+    "title": "《发电厂电气部分》3.5小时期末不挂科！期末突击|核心考点|案例解析",
+    "author": "数学建模老哥",
+    "bvid": "BV1kng6z4E7e",
+    "url": "https://www.bilibili.com/video/BV1kng6z4E7e",
+    "play": 65839,
+    "duration": "213:34"
+  },
+  "OpenCV计算机视觉基础教程 Python版 计算机视觉": null,
+  "楼宇自动化技术与应用（第2版） 楼宇自动化": null,
+  "SOLIDWORKS电气高级教程 电气自动化工程项目设计": {
+    "title": "【合集】SOLIDWORKS Electrical机电一体化设计基础教程",
+    "author": "高顿科技",
+    "bvid": "BV1U54y187Cx",
+    "url": "https://www.bilibili.com/video/BV1U54y187Cx",
+    "play": 24282,
+    "duration": "99:29"
+  },
+  "数据结构（C语言版）（第2版） 数据结构": null,
+  "SOLIDWORKS 电气基础教程(2020版) 电气自动化工程项目设计": null,
+  "HTML+CSS+JavaScript 网页制作案例教程（第 2 版） 网站设计": null,
+  "高等数学（下册） 高等数学（2）": {
+    "title": "2025山东专升本高数二（高等数学二）系列课程（持续更新）",
+    "author": "升本啦",
+    "bvid": "BV1Mh411W7WM",
+    "url": "https://www.bilibili.com/video/BV1Mh411W7WM",
+    "play": 475842,
+    "duration": "532:55"
+  },
+  "电路与模拟电子技术 电路与模拟电子技术": {
+    "title": "电路与模拟电子技术（殷瑞祥） 课后习题",
+    "author": "能不能不上学啊啊",
+    "bvid": "BV1vufpYGEUm",
+    "url": "https://www.bilibili.com/video/BV1vufpYGEUm",
+    "play": 148312,
+    "duration": "672:24"
+  },
+  "大学物理 上册 大学物理（1）": null,
+  "UI设计（项目式全彩微课版） UI界面设计": null,
+  "编译原理（第3版） 编译原理": null,
+  "UI设计基础与应用标准教程 UI界面设计": null,
+  "Ubuntu Linux操作系统案例教程 操作系统课程设计": null,
+  "单片机原理与应用 单片机原理及应用": null,
+  "移动UI交互设计（微课版）（第2版） UI界面设计": null,
+  "离散数学及其应用（第二版） 离散数学": null,
+  "操作系统（第4版） 操作系统原理": null,
+  "软件工程导论——方法、工具和案例 软件工程": null,
+  "Android移动开发基础案例教程（第2版） Android应用开发": null,
+  "需要教材 软件工程课程设计": null,
+  "Python语言程序设计基础(第2版) Python程序设计": {
+    "title": "国家计算机二级python零基础上岸也许是全网讲的最清楚的二级python教程不拖泥带水捞干的（持续更新中......）",
+    "author": "逊哥带你学计算机",
+    "bvid": "BV1Ys4y1D72T",
+    "url": "https://www.bilibili.com/video/BV1Ys4y1D72T",
+    "play": 2407183,
+    "duration": "1108:21"
+  },
+  "软件项目管理 软件项目管理": {
+    "title": "这才是我想要的项目管理工具！5款免费的项目管理工具推荐",
+    "author": "不及物动词xo",
+    "bvid": "BV1mM411K7hJ",
+    "url": "https://www.bilibili.com/video/BV1mM411K7hJ",
+    "play": 115969,
+    "duration": "4:27"
+  },
+  "UML面向对象分析、建模与设计（第2版） 系统分析与设计": null,
+  "HTML5移动Web开发（第2版） 电子商务": {
+    "title": "前端Web开发HTML5+CSS3+移动web视频教程，前端web入门首选黑马程序员",
+    "author": "黑马程序员",
+    "bvid": "BV1kM4y127Li",
+    "url": "https://www.bilibili.com/video/BV1kM4y127Li",
+    "play": 4237056,
+    "duration": "2687:0"
+  },
+  "嵌入式Linux系统开发 ——基于ARM处理器通用平台（第2版） 嵌入式系统": null,
+  "软件工程导论：方法、工具和案例（题库·微课视频版） 软件工程": {
+    "title": "《软件工程导论》期末考试模拟试卷+答案",
+    "author": "Perfect海小小",
+    "bvid": "BV1TKkRY2EG8",
+    "url": "https://www.bilibili.com/video/BV1TKkRY2EG8",
+    "play": 1523,
+    "duration": "2:59"
+  },
+  "Linux操作系统案例教程（CentOS Stream 9/RHEL 9）（微课版） Linux系统与应用": null,
+  "不需要订教材 项目开发实训2": null,
+  "UML面向对象分析、建模与设计（第3版） 系统分析与设计": {
+    "title": "UML面向对象分析与设计",
+    "author": "QAQ_tda",
+    "bvid": "BV1fq4y1q7KP",
+    "url": "https://www.bilibili.com/video/BV1fq4y1q7KP",
+    "play": 201374,
+    "duration": "967:10"
+  },
+  "信息系统分析与设计（第5版） 系统分析与设计": null,
+  "Ubuntu Linux操作系统实用教程 Linux系统与应用": null,
+  "电子版实训教程文件集、无需打印 系统开发实训": null,
+  "电子版实训教程文件集（电子版） 移动应用开发实训": {
+    "title": "【赶】安卓移动应用开发期末大作业演示视频",
+    "author": "一支猫咔",
+    "bvid": "BV1sG411N7xV",
+    "url": "https://www.bilibili.com/video/BV1sG411N7xV",
+    "play": 62049,
+    "duration": "6:41"
+  },
+  "数据库系统原理与设计 数据库原理": {
+    "title": "江西财经大学慕课-数据库系统及应用－万常选等",
+    "author": "songzitea",
+    "bvid": "BV1yf4y1c7Pi",
+    "url": "https://www.bilibili.com/video/BV1yf4y1c7Pi",
+    "play": 3608,
+    "duration": "2095:11"
+  },
+  "实验指导书，学院集中打印 嵌入式系统": {
+    "title": "嵌入式学习记录012(LittleFs文件系统)",
+    "author": "夏日之苦瓜",
+    "bvid": "BV1skWMeSE9S",
+    "url": "https://www.bilibili.com/video/BV1skWMeSE9S",
+    "play": 2009,
+    "duration": "4:3"
+  },
+  "计算机系统结构（第三版） 计算机系统结构": {
+    "title": "【c语言（数据结构）】课设：火车票服务系统（使用单链表）",
+    "author": "Chase追光",
+    "bvid": "BV1xy4y1R7ue",
+    "url": "https://www.bilibili.com/video/BV1xy4y1R7ue",
+    "play": 7282,
+    "duration": "3:55"
+  },
+  "Ubuntu Linux操作系统案例教程 Linux系统与应用": {
+    "title": "还能玩PC游戏？Switch刷魔改版Ubuntu系统指南",
+    "author": "在下莫老师",
+    "bvid": "BV1sH1FYZEMT",
+    "url": "https://www.bilibili.com/video/BV1sH1FYZEMT",
+    "play": 121918,
+    "duration": "4:27"
+  },
+  "电路与模拟电子技术(第4版） 电路与模拟电子技术": null,
+  "无 项目开发实训1": null,
+  "OpenCV计算机视觉基础教程 Python版 计算机视觉及应用": {
+    "title": "【计算机视觉实战项目】基于Python与OpenCV实现的图像处理全套解析！从基础原理到代码实战，全程通俗易懂，适合所有零基础入门学习！-ML/DL/CV",
+    "author": "唐宇迪的AI入门课",
+    "bvid": "BV14A411C7ZE",
+    "url": "https://www.bilibili.com/video/BV14A411C7ZE",
+    "play": 1110155,
+    "duration": "574:53"
+  },
+  "软件项目管理案例教程（第4版） 软件项目管理": null,
+  "软件项目管理-微课视频版 软件项目管理": null,
+  "移动UI设计案例教程（电子活页式）（全彩慕课版） UI界面设计": {
+    "title": "Ui入门必修：k4-通用规范-UI配色思路&色彩情绪",
+    "author": "EthankDesign",
+    "bvid": "BV1eq4y1Y7RH",
+    "url": "https://www.bilibili.com/video/BV1eq4y1Y7RH",
+    "play": 12185,
+    "duration": "21:31"
+  },
+  "Spring Boot企业级开发教程（第2版） Java EE开发": {
+    "title": "Java EE企业级应用开发教程（Spring+Spring MVC+MyBatis）（第3版）",
+    "author": "黑马程序员教材研究院",
+    "bvid": "BV1BzwSzoEfq",
+    "url": "https://www.bilibili.com/video/BV1BzwSzoEfq",
+    "play": 25654,
+    "duration": "1357:51"
+  },
+  "UML面向对象分析、建模与设计 系统分析与设计": null,
+  "黑马程序员. Spring Boot企业级开发教程（第2版） Java EE开发": {
+    "title": "Spring Boot企业级开发教程（第2版）",
+    "author": "黑马程序员教材研究院",
+    "bvid": "BV1XQw7ztEYe",
+    "url": "https://www.bilibili.com/video/BV1XQw7ztEYe",
+    "play": 17949,
+    "duration": "1014:8"
+  },
+  "软件配置管理与实践 软件配置管理": {
+    "title": "软件包管理工具 unigetui",
+    "author": "",
+    "bvid": "BV1fNp8ehEem",
+    "url": "https://www.bilibili.com/video/BV1fNp8ehEem",
+    "play": 5260,
+    "duration": "4:57"
+  },
+  "工程经济学（第3版） 工程经济学": null,
+  "Java EE企业级应用开发项目教程（SSM） Java EE开发": {
+    "title": "Java EE企业级应用开发教程（Spring+Spring MVC+MyBatis）（第3版）",
+    "author": "黑马程序员教材研究院",
+    "bvid": "BV1BzwSzoEfq",
+    "url": "https://www.bilibili.com/video/BV1BzwSzoEfq",
+    "play": 25654,
+    "duration": "1357:51"
+  },
+  "未雨绸缪：理解软件配置管理（电子版，需集中打印） 软件配置管理": null,
+  "编译原理(第3版) 编译原理": null,
+  "不需要定教材 软件工程课程设计": null,
+  "未雨绸缪：理解软件配置管理（第2版） 软件配置管理": null,
+  "Ubuntu Linux 操作系统案例教程 Linux系统与应用": {
+    "title": "还能玩PC游戏？Switch刷魔改版Ubuntu系统指南",
+    "author": "在下莫老师",
+    "bvid": "BV1sH1FYZEMT",
+    "url": "https://www.bilibili.com/video/BV1sH1FYZEMT",
+    "play": 121918,
+    "duration": "4:27"
+  },
+  "嵌入式Linux系统开发 ——基于ARM处理器通用平台（第3版） 嵌入式系统": {
+    "title": "嵌入式Linux音乐播放器 Ubuntu20.04",
+    "author": "CunGe2002",
+    "bvid": "BV1A3411N75w",
+    "url": "https://www.bilibili.com/video/BV1A3411N75w",
+    "play": 3281,
+    "duration": "1:34"
+  },
+  "微机原理与接口技术--基于8087和Proteus仿真 微机原理与接口技术": null,
+  "路由与交换技术 现代交换技术": null,
+  "通信网络基础 通信网基础": null,
+  "大数据技术原理与应用（第3版） 大数据与云计算": {
+    "title": "【Python+AI大数据毕设】基于python的空气质量数据分析与预测系统、AI预测、计算机毕业设计、大数据毕设数据 数据分析、数据可视化、机器学习、实战教学",
+    "author": "程序定制",
+    "bvid": "BV1mHkDBbETo",
+    "url": "https://www.bilibili.com/video/BV1mHkDBbETo",
+    "play": 14962,
+    "duration": "438:31"
+  },
+  "移动通信 移动通信技术": {
+    "title": "【移动通信期末复习】深入浅出讲解，保证覆盖考点！求三连支持～",
+    "author": "跟着浩然玩转高考物理",
+    "bvid": "BV1xw411o7LM",
+    "url": "https://www.bilibili.com/video/BV1xw411o7LM",
+    "play": 112299,
+    "duration": "109:7"
+  },
+  "光纤通信系统第4版 光纤通信": null,
+  "微波技术与天线（第4版）（修订版） 微波与天线技术": null,
+  "《5G无线网络规划与优化》微课版 移动通信网络规划与优化": null,
+  "《5G移动通信系统设计与标准实现：从技术到项目管理》 通信工程技术与项目管理": null,
+  "通信网技术基础 通信网基础": {
+    "title": "【网课转载】物联网技术概论——西安交通大学（已完结）",
+    "author": "对阿秋一生推",
+    "bvid": "BV15E411j769",
+    "url": "https://www.bilibili.com/video/BV15E411j769",
+    "play": 126571,
+    "duration": "660:49"
+  },
+  "5G无线网络规划与优化（微课版） 移动通信网络规划与优化": null,
+  "光纤通信系统(第3版) 光纤通信": null,
+  "5G无线网络规划与优化 移动通信网络规划与优化": null,
+  "Python编程 从入门到实践 第3版 Python程序设计▲": null,
+  "数字逻辑电路分析与设计 第二版 数字电路与逻辑设计▲": null,
+  "柯林斯商务英语：口语（中文注释版） 英语口语沟通（1）": {
+    "title": "柯林斯原版口语书|《Collins Speaking for IELTS》电子版+配套音频",
+    "author": "zeroyeahho",
+    "bvid": "BV1DL4y1w7NH",
+    "url": "https://www.bilibili.com/video/BV1DL4y1w7NH",
+    "play": 6021,
+    "duration": "98:49"
+  },
+  "AP物理C力学和电磁学 大学物理（1）▲": null,
+  "数字逻辑电路分析与设计 数字电路逻辑设计▲": null,
+  "Understanding basic statistics 概率论与数理统计✬▲": null,
+  "计算机应用基础（第6版） 计算机实践基础": {
+    "title": "(全国通用)自考00019计算机应用基础(实践)视频课程",
+    "author": "计算机二级阿福课堂",
+    "bvid": "BV1AWKTeAEg2",
+    "url": "https://www.bilibili.com/video/BV1AWKTeAEg2",
+    "play": 27652,
+    "duration": "464:4"
+  },
+  "计算机网络（第五版） 计算机网络技术✬▲": null,
+  "Fundamentals of Database Systems, Global Edition 7th ed. Edition 数据库原理✬▲": null,
+  "PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide 5th Edition 网络开发技术✬▲": null,
+  "Software Engineering with UML 系统分析与设计✬▲": null,
+  "待定 英语实用写作": null,
+  "Physics,10th Edition 大学物理（1）▲": null,
+  "无教材 计算机网络技术✬▲": null,
+  "图解Java并发编程 并行开发编程": null,
+  "Genetic Algorithms with Python 数值优化✬▲": {
+    "title": "（斯坦福随机算法课程）CS265/CME309: Randomized Algorithms and Probabilistic Analysis",
+    "author": "蓝色的狸猫zzz",
+    "bvid": "BV14V411n7fX",
+    "url": "https://www.bilibili.com/video/BV14V411n7fX",
+    "play": 3009,
+    "duration": "1426:31"
+  },
+  "R for Everyone: Advanced Analytics and Graphics (Addison-Wesley Data & Analytics Series) 2nd Edition 应用数据科学✬▲": null,
+  "新编数字图像处理技术及应用（修订版） 数字图像处理及应用▲": null,
+  "信息安全概论 信息安全技术▲": null,
+  "无 企业家论坛": null,
+  "Java Concurrency in Practice 并行开发编程": {
+    "title": "Udemy - CompTIA A+ Core 1 (220-1201) Full Course & Practice Exam part1",
+    "author": "lmt831",
+    "bvid": "BV1p7dEYzE6e",
+    "url": "https://www.bilibili.com/video/BV1p7dEYzE6e",
+    "play": 4306,
+    "duration": "830:58"
+  },
+  "Practical Data Science with Python: Learn tools and techniques from hands-on examples to extract insights from data 应用数据科学✬▲": null,
+  "R for Everyone: Advanced Analytics and Graphics 数据分析与视觉化✬▲": {
+    "title": "全1150节【零基础外教精讲】English For Everyone 每个人的英语课 图文结合 加深记忆",
+    "author": "清北学习社区",
+    "bvid": "BV1hKdaYsEjS",
+    "url": "https://www.bilibili.com/video/BV1hKdaYsEjS",
+    "play": 6482,
+    "duration": "707:29"
+  },
+  "Cloud Computing: Theory and Practice 云服务与平台✬▲": null,
+  "通信原理与系统实验指导书 通信原理与系统实验": {
+    "title": "通信原理实验合集",
+    "author": "lab-A507",
+    "bvid": "BV1ia4CzeENp",
+    "url": "https://www.bilibili.com/video/BV1ia4CzeENp",
+    "play": 4034,
+    "duration": "40:37"
+  },
+  "自编《电气控制与PLC应用技术》 可编程控制器及应用": null,
+  "数据结构（C语言版） 数据结构": null,
+  "MATLAB在数字图像处理中的应用 数字图像处理": {
+    "title": "入门matlab图像处理图像的基本操作",
+    "author": "硬核的野生技术",
+    "bvid": "BV1G4411J7Gd",
+    "url": "https://www.bilibili.com/video/BV1G4411J7Gd",
+    "play": 142707,
+    "duration": "9:8"
+  },
+  "Java: How to Program, (Deitel) 面向对象程序设计▲": {
+    "title": "How to tie a tie！英文展示作业",
+    "author": "奈Naili",
+    "bvid": "BV1yz5F62Ent",
+    "url": "https://www.bilibili.com/video/BV1yz5F62Ent",
+    "play": 6,
+    "duration": "1:18"
+  }
+}
