@@ -105,6 +105,12 @@ window.APP_DATA = {
       "note": "作者：严蔚敏等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：数据结构与算法基础（青岛大学-王卓）｜UP：87师兄｜BV1nJ411V7bd｜播放：16201024｜搜索：数据结构",
+          "url": "https://www.bilibili.com/video/BV1nJ411V7bd",
+          "query": "数据结构（C语言版）（第2版） 数据结构与算法"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据结构（C语言版）（第2版） 数据结构与算法",
           "query": "数据结构（C语言版）（第2版） 数据结构与算法"
@@ -124,6 +130,12 @@ window.APP_DATA = {
       "note": "作者：屈婉玲 耿素云 张立昂；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：离散数学 东北大学（全69讲）｜UP：古维京掌管希腊的神｜BV1d7411v7zu｜播放：4465023｜搜索：离散数学及其应用（第2版） 离散数学",
+          "url": "https://www.bilibili.com/video/BV1d7411v7zu",
+          "query": "离散数学及其应用（第2版） 离散数学"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：离散数学及其应用（第2版） 离散数学",
           "query": "离散数学及其应用（第2版） 离散数学"
@@ -142,6 +154,12 @@ window.APP_DATA = {
       ],
       "note": "作者：嵩天；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员python零基础全套教程，8天python从入门到精通，学python看这套就够了｜UP：黑马程序员｜BV1qW4y1a7fU｜播放：24410268｜搜索：Python 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1qW4y1a7fU",
+          "query": "python语言程序设计基础（第2版） Python程序设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：python语言程序设计基础（第2版） Python程序设计",
@@ -163,8 +181,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《全国计算机等级考试》 四级操作系统原理 刘震｜UP：不想学习眼睛累｜BV1qt4y127uy｜播放：21389",
-          "url": "https://www.bilibili.com/video/BV1qt4y127uy",
+          "search": "视频：清华 操作系统原理｜UP：希利亚歌洋流｜BV1uW411f72n｜播放：993085｜搜索：操作系统（第4版本） 操作系统原理",
+          "url": "https://www.bilibili.com/video/BV1uW411f72n",
           "query": "操作系统（第4版本） 操作系统原理"
         },
         {
@@ -188,8 +206,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：Java Web程序设计任务教程（第3版）（AIGC版）｜UP：黑马程序员教材研究院｜BV1Y79sBxEjE｜播放：5543",
-          "url": "https://www.bilibili.com/video/BV1Y79sBxEjE",
+          "search": "视频：黑马程序员JavaWeb基础教程，Java web从入门到企业实战完整版｜UP：黑马程序员｜BV1Qf4y1T7Hx｜播放：6031450｜搜索：java web程序设计任务教程 Web编程技术",
+          "url": "https://www.bilibili.com/video/BV1Qf4y1T7Hx",
           "query": "java web程序设计任务教程 Web编程技术"
         },
         {
@@ -213,8 +231,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：电路与模拟电子技术（殷瑞祥） 课后习题｜UP：能不能不上学啊啊｜BV1vufpYGEUm｜播放：148312",
-          "url": "https://www.bilibili.com/video/BV1vufpYGEUm",
+          "search": "视频：【4K精品】模拟电子技术基础 上交大 郑益慧主讲（精校版字幕，模拟电路/模电 讲课水平略胜华成英，视频质量完爆清华版 4K超清重制版）｜UP：谢谢谢同学鸭｜BV1Gt411b7Zq｜播放：18091891｜搜索：电路与模拟电子技术（第4版） 电路与模拟电子技术",
+          "url": "https://www.bilibili.com/video/BV1Gt411b7Zq",
           "query": "电路与模拟电子技术（第4版） 电路与模拟电子技术"
         },
         {
@@ -238,7 +256,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：电路与模拟电子技术（殷瑞祥） 课后习题｜UP：能不能不上学啊啊｜BV1vufpYGEUm｜播放：148312",
+          "search": "视频：电路与模拟电子技术（殷瑞祥） 课后习题｜UP：能不能不上学啊啊｜BV1vufpYGEUm｜播放：148357｜搜索：电路与模拟电子技术 学习辅导与习题解答",
           "url": "https://www.bilibili.com/video/BV1vufpYGEUm",
           "query": "电路与模拟电子技术（第4版）学习辅导与习题解答 电路与模拟电子技术"
         },
@@ -262,6 +280,12 @@ window.APP_DATA = {
       "note": "作者：谢亚君；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：比啃书好太多！【最优化理论完整版教程】不愧是中科大教授！3小时让我清楚了凸优化，简直不要太爽！人工智能|AI|数学基础|最优化算法|机器学习|深度学习|nlp｜UP：凡人修AI｜BV1Lk4y1x7AE｜播放：295834｜搜索：最优化理论",
+          "url": "https://www.bilibili.com/video/BV1Lk4y1x7AE",
+          "query": "最优化方法及其Python程序实现 最优化理论"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：最优化方法及其Python程序实现 最优化理论",
           "query": "最优化方法及其Python程序实现 最优化理论"
@@ -282,8 +306,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：黑马程序员 MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括｜UP：黑马程序员｜BV1Kr4y1i7ru｜播放：12792075",
-          "url": "https://www.bilibili.com/video/BV1Kr4y1i7ru",
+          "search": "视频：MySQL知识精讲+mysql实战案例_零基础mysql数据库入门到高级全套教程｜UP：lad920｜BV1yM411v7pc｜播放：14769｜搜索：MySQL 全套教程",
+          "url": "https://www.bilibili.com/video/BV1yM411v7pc",
           "query": "MySQL 8.0数据库应用与开发 MySQL 数据库应用实践"
         },
         {
@@ -307,8 +331,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【厦门大学】大数据技术原理与应用｜UP：你石矶娘娘｜BV1ds41157NS｜播放：232398",
-          "url": "https://www.bilibili.com/video/BV1ds41157NS",
+          "search": "视频：黑马程序员大数据入门到实战教程，大数据开发必会的Hadoop、Hive，云平台实战项目全套一网打尽｜UP：黑马程序员｜BV1WY4y197g7｜播放：1104745｜搜索：大数据 全套教程",
+          "url": "https://www.bilibili.com/video/BV1WY4y197g7",
           "query": "大数据技术原理与应用 ——概念、存储、处理、 分析与应用（第4版） 大数据处理技术"
         },
         {
@@ -332,8 +356,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：黑马程序员MySQL知识精讲+mysql实战案例_零基础mysql数据库入门到高级全套教程｜UP：黑马程序员｜BV1iF411z7Pu｜播放：1419348",
-          "url": "https://www.bilibili.com/video/BV1iF411z7Pu",
+          "search": "视频：黑马程序员大数据入门到实战教程，大数据开发必会的Hadoop、Hive，云平台实战项目全套一网打尽｜UP：黑马程序员｜BV1WY4y197g7｜播放：1104736｜搜索：大数据基础编程 实验和案例教程",
+          "url": "https://www.bilibili.com/video/BV1WY4y197g7",
           "query": "大数据基础编程、实验和案例教程（第3版） 大数据处理技术实践"
         },
         {
@@ -356,6 +380,12 @@ window.APP_DATA = {
       "note": "作者：张鉴新、周晓晴；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】 多媒体技术及应用｜UP：账号已注销｜BV134411R7wz｜播放：76442｜搜索：多媒体技术与应用",
+          "url": "https://www.bilibili.com/video/BV134411R7wz",
+          "query": "多媒体技术与应用 多媒体信息处理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：多媒体技术与应用 多媒体信息处理",
           "query": "多媒体技术与应用 多媒体信息处理"
@@ -376,7 +406,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式，系统详解springcloud微服务技术栈课程|黑马程序员Java微服务｜UP：黑马程序员｜BV1LQ4y127n4｜播放：4503271",
+          "search": "视频：SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式，系统详解springcloud微服务技术栈课程|黑马程序员Java微服务｜UP：黑马程序员｜BV1LQ4y127n4｜播放：4503312｜搜索：分布式系统开发实践 分布式系统",
           "url": "https://www.bilibili.com/video/BV1LQ4y127n4",
           "query": "分布式系统开发实践 分布式系统"
         },
@@ -401,7 +431,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【计算机视觉实战项目】基于Python与OpenCV实现的图像处理全套解析！从基础原理到代码实战，全程通俗易懂，适合所有零基础入门学习！-ML/DL/CV｜UP：唐宇迪的AI入门课｜BV14A411C7ZE｜播放：1110153",
+          "search": "视频：【计算机视觉实战项目】基于Python与OpenCV实现的图像处理全套解析！从基础原理到代码实战，全程通俗易懂，适合所有零基础入门学习！-ML/DL/CV｜UP：唐宇迪的AI入门课｜BV14A411C7ZE｜播放：1110196｜搜索：OpenCV计算机视觉基础教程（Python版|慕课版） 计算机视觉及应用",
           "url": "https://www.bilibili.com/video/BV14A411C7ZE",
           "query": "OpenCV计算机视觉基础教程（Python版|慕课版） 计算机视觉及应用"
         },
@@ -425,6 +455,12 @@ window.APP_DATA = {
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员软件测试视频教程，软件测试基础入门到项目实战（涵盖软件测试基础+黑马头条项目实战）｜UP：黑马程序员｜BV1TP4y1J7BD｜播放：2351512｜搜索：软件测试",
+          "url": "https://www.bilibili.com/video/BV1TP4y1J7BD",
+          "query": "软件测试（第2版） 软件测试与质量保证"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件测试（第2版） 软件测试与质量保证",
           "query": "软件测试（第2版） 软件测试与质量保证"
@@ -445,7 +481,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：软件工程导论 张海藩｜UP：皮蛋茄子擂辣椒｜BV1Ns41177VM｜播放：929610",
+          "search": "视频：软件工程导论 张海藩｜UP：皮蛋茄子擂辣椒｜BV1Ns41177VM｜播放：929611｜搜索：软件工程导论：方法、工具和案例 软件工程",
           "url": "https://www.bilibili.com/video/BV1Ns41177VM",
           "query": "软件工程导论：方法、工具和案例 软件工程"
         },
@@ -469,6 +505,12 @@ window.APP_DATA = {
       "note": "作者：贾铁军 等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《数据库系统概论》0基础也能听懂 期末冲刺上高分 期末自救速成课资源 期末不挂科资源 期末复习突击速成课资源 考研复试知识框架梳理｜UP：重生之期末自救指南｜BV1D8qUB2Eor｜播放：336968｜搜索：数据库 期末复习",
+          "url": "https://www.bilibili.com/video/BV1D8qUB2Eor",
+          "query": "数据库原理及应用与实践（第4版) 数据库原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库原理及应用与实践（第4版) 数据库原理",
           "query": "数据库原理及应用与实践（第4版) 数据库原理"
@@ -487,6 +529,12 @@ window.APP_DATA = {
       ],
       "note": "作者：蒋盛益；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：人工智能基础《机器学习从入门到实战》2026年完整版全套视频教程！从算法到实战项目，覆盖KNN算法、线性回归、逻辑回归、决策树、集成学习、KMeans算法等｜UP：人工智能课程分享官｜BV1g9W7zCE8a｜播放：1611662｜搜索：机器学习 全套教程",
+          "url": "https://www.bilibili.com/video/BV1g9W7zCE8a",
+          "query": "数据挖掘（第2版） 数据挖掘与机器学习"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据挖掘（第2版） 数据挖掘与机器学习",
@@ -507,6 +555,12 @@ window.APP_DATA = {
       "note": "作者：闵海钊；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【网络安全教程】2026年B站最全最详细的网络安全零基础入门全套教学！全程干货精讲，少走99%弯路，挑战7天从小白逆袭成大神！｜UP：好课宣传委｜BV1ckqYBWE7f｜播放：4010111｜搜索：信息安全技术",
+          "url": "https://www.bilibili.com/video/BV1ckqYBWE7f",
+          "query": "网络安全攻防技术实战 信息安全技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：网络安全攻防技术实战 信息安全技术",
           "query": "网络安全攻防技术实战 信息安全技术"
@@ -525,6 +579,12 @@ window.APP_DATA = {
       ],
       "note": "作者：贾铁军等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【合集】数据库原理及应用 东南大学 徐立臻 共72讲｜UP：123小棕熊｜BV1ux411G7Bs｜播放：929913｜搜索：数据库原理及应用与实践",
+          "url": "https://www.bilibili.com/video/BV1ux411G7Bs",
+          "query": "数据库原理及应用与实践 数据库原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库原理及应用与实践 数据库原理",
@@ -545,6 +605,12 @@ window.APP_DATA = {
       "note": "作者：李国强、刘君；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《创业基础》【共77节完整版】｜UP：六神无主的吾｜BV18b411p7MT｜播放：78037｜搜索：创业基础",
+          "url": "https://www.bilibili.com/video/BV18b411p7MT",
+          "query": "大学生创新创业基础 第2版 创业基础（实践）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大学生创新创业基础 第2版 创业基础（实践）",
           "query": "大学生创新创业基础 第2版 创业基础（实践）"
@@ -563,6 +629,12 @@ window.APP_DATA = {
       ],
       "note": "作者：蒋建春 主编 文伟平、焦健 副主编；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【网络安全教程】2026年B站最全最详细的网络安全零基础入门全套教学！全程干货精讲，少走99%弯路，挑战7天从小白逆袭成大神！｜UP：好课宣传委｜BV1ckqYBWE7f｜播放：4010111｜搜索：信息安全技术",
+          "url": "https://www.bilibili.com/video/BV1ckqYBWE7f",
+          "query": "信息安全工程师教程（第2版） 信息安全技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：信息安全工程师教程（第2版） 信息安全技术",
@@ -583,6 +655,12 @@ window.APP_DATA = {
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59075｜搜索：OpenCV计算机视觉基础教程Python版 慕课版",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
+          "query": "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用",
           "query": "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用"
@@ -601,6 +679,12 @@ window.APP_DATA = {
       ],
       "note": "作者：尹志宇、解春燕、李青茹；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】浙江大学：软件工程 陈越（全33讲）｜UP：农夫CC｜BV16g411M7r2｜播放：293565｜搜索：软件工程",
+          "url": "https://www.bilibili.com/video/BV16g411M7r2",
+          "query": "软件工程导论-方法、工具和案例 软件工程"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件工程导论-方法、工具和案例 软件工程",
@@ -621,6 +705,12 @@ window.APP_DATA = {
       "note": "作者：屠可伟、王新宇、曲彦儒、俞勇；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：NLP零基础教程，nlp自然语言处理，Transformer、LSTM、BERT、llm、大模型训练｜UP：尚硅谷｜BV1k44LzPEhU｜播放：687638｜搜索：自然语言处理",
+          "url": "https://www.bilibili.com/video/BV1k44LzPEhU",
+          "query": "动手学自然语言处理 自然语言处理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：动手学自然语言处理 自然语言处理",
           "query": "动手学自然语言处理 自然语言处理"
@@ -639,6 +729,12 @@ window.APP_DATA = {
       ],
       "note": "作者：魏伟一、李晓红、高志玲；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：Python数据分析教程，零基础学会numpy+pandas+matplotlib数据分析，数据可视化｜UP：尚硅谷｜BV1D9GLzyEL6｜播放：1721227｜搜索：python数据分析与可视化 大数据分析与可视化",
+          "url": "https://www.bilibili.com/video/BV1D9GLzyEL6",
+          "query": "python数据分析与可视化 大数据分析与可视化"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：python数据分析与可视化 大数据分析与可视化",
@@ -659,6 +755,12 @@ window.APP_DATA = {
       "note": "作者：魏伟一 张国治 张志昌；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员AI大模型必备《机器学习》全套视频教程，从算法到实战项目，覆盖KNN算法、线性回归、逻辑回归、决策树、集成学习、KMeans算法、数据挖掘等｜UP：黑马程序员｜BV1Fzszz4Ek7｜播放：1056908｜搜索：Python数据挖掘与机器学习",
+          "url": "https://www.bilibili.com/video/BV1Fzszz4Ek7",
+          "query": "Python数据挖掘与机器学习（第2版·微课视频版） 数据挖掘与机器学习"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Python数据挖掘与机器学习（第2版·微课视频版） 数据挖掘与机器学习",
           "query": "Python数据挖掘与机器学习（第2版·微课视频版） 数据挖掘与机器学习"
@@ -677,6 +779,12 @@ window.APP_DATA = {
       ],
       "note": "作者：曹小平 黄金土 王海蓉 阳维国；出版社：中国铁道出版社有限公司；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员大数据入门到实战教程，大数据开发必会的Hadoop、Hive，云平台实战项目全套一网打尽｜UP：黑马程序员｜BV1WY4y197g7｜播放：1104736｜搜索：大数据 全套教程",
+          "url": "https://www.bilibili.com/video/BV1WY4y197g7",
+          "query": "大数据存储技术与应用 大数据存储与管理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：大数据存储技术与应用 大数据存储与管理",
@@ -698,8 +806,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【厦门大学】大数据技术原理与应用｜UP：你石矶娘娘｜BV1ds41157NS｜播放：232398",
-          "url": "https://www.bilibili.com/video/BV1ds41157NS",
+          "search": "视频：黑马程序员大数据Hadoop入门视频教程，适合零基础自学的大数据Hadoop教程｜UP：黑马程序员｜BV1CU4y1N7Sh｜播放：1051076｜搜索：大数据技术原理与应用",
+          "url": "https://www.bilibili.com/video/BV1CU4y1N7Sh",
           "query": "大数据技术原理与应用 大数据技术与应用"
         },
         {
@@ -722,6 +830,12 @@ window.APP_DATA = {
       "note": "作者：林子雨等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【厦门大学】大数据技术原理与应用｜UP：你石矶娘娘｜BV1ds41157NS｜播放：232400｜搜索：大数据技术原理",
+          "url": "https://www.bilibili.com/video/BV1ds41157NS",
+          "query": "大数据技术原理与应用（第4版） 大数据技术原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大数据技术原理与应用（第4版） 大数据技术原理",
           "query": "大数据技术原理与应用（第4版） 大数据技术原理"
@@ -740,6 +854,12 @@ window.APP_DATA = {
       ],
       "note": "作者：林子雨等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：Spark视频教程，Spark3.x新版教程，一套搞定大数据Spark｜UP：尚硅谷｜BV12142167BL｜播放：310595｜搜索：Spark编程基础（Python版，第2版） 大数据平台及编程实践",
+          "url": "https://www.bilibili.com/video/BV12142167BL",
+          "query": "Spark编程基础（Python版，第2版） 大数据平台及编程实践"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Spark编程基础（Python版，第2版） 大数据平台及编程实践",
@@ -760,6 +880,12 @@ window.APP_DATA = {
       "note": "作者：迟殿委；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【一起啃书】阿里大数据之路数据仓库建模基础理论研读(已完结)｜UP：AI数仓笔记｜BV1cS4y1r76e｜播放：226962｜搜索：数据仓库技术与应用",
+          "url": "https://www.bilibili.com/video/BV1cS4y1r76e",
+          "query": "Hive 入门与大数据分析实践 数据仓库技术与应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Hive 入门与大数据分析实践 数据仓库技术与应用",
           "query": "Hive 入门与大数据分析实践 数据仓库技术与应用"
@@ -778,6 +904,12 @@ window.APP_DATA = {
       ],
       "note": "作者：盛骤、谢式千、潘承毅；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5491220｜搜索：概率论与数理统计",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
+          "query": "概率论与数理统计（第五版） 概率论与数理统计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：概率论与数理统计（第五版） 概率论与数理统计",
@@ -799,8 +931,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《计算机网络教程 第6版，谢钧》课程｜UP：Nidhogg14｜BV161ttzYEbz｜播放：19668",
-          "url": "https://www.bilibili.com/video/BV161ttzYEbz",
+          "search": "视频：【期末复习】7天快速通过计算机网络期末考试｜谢希仁版｜考前急救｜高效通过｜粉丝投稿｜UP：网络工程师学长｜BV1PK4y1X7ze｜播放：2532016｜搜索：计算机网络",
+          "url": "https://www.bilibili.com/video/BV1PK4y1X7ze",
           "query": "《计算机网络教程》(第6版) 计算机网络"
         },
         {
@@ -821,8 +953,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：3C路由交换与技术_综合实验_偷懒速做方法｜UP：idsasad｜BV1PFVU6yEbu｜播放：30",
-          "url": "https://www.bilibili.com/video/BV1PFVU6yEbu",
+          "search": "视频：【乱讲的】《计算机网络》（第8版）课后习题讲解｜UP：李小霖只开火车｜BV1kz4y1J7nu｜播放：325469｜搜索：实验指导书，学院集中打印 计算机网络实训",
+          "url": "https://www.bilibili.com/video/BV1kz4y1J7nu",
           "query": "实验指导书，学院集中打印 计算机网络实训"
         },
         {
@@ -845,6 +977,12 @@ window.APP_DATA = {
       "note": "作者：曾剑平；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：三小时一起来复习大数据技术吧，期末速成这一块｜UP：梓菜不才｜BV1bqvmBKEvh｜播放：12490｜搜索：大数据 期末复习",
+          "url": "https://www.bilibili.com/video/BV1bqvmBKEvh",
+          "query": "Python爬虫大数据采集与挖掘 大数据技术与开发实训"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Python爬虫大数据采集与挖掘 大数据技术与开发实训",
           "query": "Python爬虫大数据采集与挖掘 大数据技术与开发实训"
@@ -864,6 +1002,12 @@ window.APP_DATA = {
       "note": "作者：于长青；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员大数据入门到实战教程，大数据开发必会的Hadoop、Hive，云平台实战项目全套一网打尽｜UP：黑马程序员｜BV1WY4y197g7｜播放：1104738｜搜索：大数据 全套教程",
+          "url": "https://www.bilibili.com/video/BV1WY4y197g7",
+          "query": "云计算与大数据技术（微课版） 大数据与云计算"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：云计算与大数据技术（微课版） 大数据与云计算",
           "query": "云计算与大数据技术（微课版） 大数据与云计算"
@@ -882,6 +1026,12 @@ window.APP_DATA = {
       ],
       "note": "作者：张良均、谭立云等；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【2026最新版】Python数据分析(Numpy+Pandas+Matplotlib)，数据可视化教程，零基础入门到精通！｜UP：数解万物｜BV1wPiKBkEzU｜播放：365361｜搜索：Python数据分析与挖掘实战",
+          "url": "https://www.bilibili.com/video/BV1wPiKBkEzU",
+          "query": "Python数据分析与挖掘实战 （第2版） 大数据智能分析实训"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Python数据分析与挖掘实战 （第2版） 大数据智能分析实训",
@@ -903,8 +1053,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：大学生职业生涯规划与就业指导智慧树知到答案｜UP：众课帮｜BV1Tg4y137gk｜播放：799",
-          "url": "https://www.bilibili.com/video/BV1Tg4y137gk",
+          "search": "视频：考点梳理,核心概念,典型题目,关键知识点＋（大学生职业生涯规划）＋考前急救＋复习资料/提分要点/重点笔记｜UP：复习野猫猫｜BV1ihWUeJEf9｜播放：8566｜搜索：美好前程 大学生职业生涯规划",
+          "url": "https://www.bilibili.com/video/BV1ihWUeJEf9",
           "query": "美好前程——大学生职业生涯规划 就业指导（实践）"
         },
         {
@@ -928,8 +1078,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：B站首发！手把手教你用Docker部署PyTorch深度学习模型！全程干货讲解，零基础小白可学！（人工智能/机器学习/云原生/容器/研究生）｜UP：AI讲师-唐宇迪｜BV1AAoqYdETG｜播放：8732",
-          "url": "https://www.bilibili.com/video/BV1AAoqYdETG",
+          "search": "视频：【整整600集】清华大学196小时讲完的AI人工智能从入门到精通全套教程，全程干货无废话！学完变大佬！这还学不会，我退出IT圈！机器学习-深度学习-opencv｜UP：IT界扛霸子｜BV1qZSLBYEpa｜播放：749109｜搜索：人工智能原理",
+          "url": "https://www.bilibili.com/video/BV1qZSLBYEpa",
           "query": "动手学深度学习PyTorch版 人工智能原理"
         },
         {
@@ -952,6 +1102,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【完整版】《C语言》9小时系统学习|期末拿高分【蜂考】｜UP：蜂考｜BV1m9NgeLEyo｜播放：414290｜搜索：C语言 期末复习",
+          "url": "https://www.bilibili.com/video/BV1m9NgeLEyo",
+          "query": "C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计",
           "query": "C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计"
@@ -970,6 +1126,12 @@ window.APP_DATA = {
       ],
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：C语言程序设计从入门到进阶【比特鹏哥c语言2024完整版视频教程】（c语言基础入门c语言软件安装C语言指针c语言考研C语言专升本C语言期末计算机二级C语言c语言｜UP：鹏哥C语言｜BV1Vm4y1r7jY｜播放：13139770｜搜索：C语言程序设计实验教程",
+          "url": "https://www.bilibili.com/video/BV1Vm4y1r7jY",
+          "query": "C语言程序设计实验教程（第2版） 高级语言程序设计实践"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：C语言程序设计实验教程（第2版） 高级语言程序设计实践",
@@ -991,8 +1153,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数农314考点梳理----线性代数｜UP：考研数农小朱｜BV1hb421v7Ld｜播放：14116",
-          "url": "https://www.bilibili.com/video/BV1hb421v7Ld",
+          "search": "视频：【Kira老师】27考研《线性代数》零基础精讲课25h，小白也能轻松入门！ |期末看完直接炸鱼｜UP：一高数｜BV1Q4iJBAEsr｜播放：1605727｜搜索：线性代数",
+          "url": "https://www.bilibili.com/video/BV1Q4iJBAEsr",
           "query": "线性代数 线性代数"
         },
         {
@@ -1016,8 +1178,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《线性代数》习题课，零废话，超精讲！【孔祥仁】｜UP：孔祥仁｜BV1bt421T7p6｜播放：1115259",
-          "url": "https://www.bilibili.com/video/BV1bt421T7p6",
+          "search": "视频：【Kira老师】27考研《线性代数》零基础精讲课25h，小白也能轻松入门！ |期末看完直接炸鱼｜UP：一高数｜BV1Q4iJBAEsr｜播放：1605727｜搜索：线性代数 期末复习",
+          "url": "https://www.bilibili.com/video/BV1Q4iJBAEsr",
           "query": "线性代数习题解答 线性代数"
         },
         {
@@ -1040,6 +1202,12 @@ window.APP_DATA = {
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《高等数学(上)》6小时速成课 | 框框老师（突击课，适合高等数学(微积分)期末考试、期中考试、补考、重修、专升本，考试不挂科）｜UP：框框老师课堂｜BV1mN411r7VM｜播放：17696356｜搜索：高等数学（上册） 高等数学(1)",
+          "url": "https://www.bilibili.com/video/BV1mN411r7VM",
+          "query": "高等数学（上册） 高等数学(1)"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：高等数学（上册） 高等数学(1)",
           "query": "高等数学（上册） 高等数学(1)"
@@ -1058,6 +1226,12 @@ window.APP_DATA = {
       ],
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6957872｜搜索：高等数学 期末复习",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
+          "query": "高等数学习题解答 高等数学(1)"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：高等数学习题解答 高等数学(1)",
@@ -1078,6 +1252,12 @@ window.APP_DATA = {
       "note": "作者：嵩天；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员python零基础全套教程，8天python从入门到精通，学python看这套就够了｜UP：黑马程序员｜BV1qW4y1a7fU｜播放：24410268｜搜索：Python 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1qW4y1a7fU",
+          "query": "python语言程序设计基础（第2版） Python程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：python语言程序设计基础（第2版） Python程序设计",
           "query": "python语言程序设计基础（第2版） Python程序设计"
@@ -1096,6 +1276,12 @@ window.APP_DATA = {
       ],
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：一级计算机基础及MS office应用 新思路解题视频【1~20套】｜UP：新思路等考通｜BV1N54y1J7oR｜播放：1256179｜搜索：计算机应用基础实验教程（第5版） 计算机实践基础",
+          "url": "https://www.bilibili.com/video/BV1N54y1J7oR",
+          "query": "计算机应用基础实验教程（第5版） 计算机实践基础"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机应用基础实验教程（第5版） 计算机实践基础",
@@ -1117,8 +1303,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：大学计算机应用基础上机实验｜UP：计科小站｜BV11K4y1A75n｜播放：45330",
-          "url": "https://www.bilibili.com/video/BV11K4y1A75n",
+          "search": "视频：【免费讲义】2027适用山东省-计算机全套网课-统招专升本-零基础-基础精讲考试大纲历年真题押题卷试卷习题册题库备考库课好老师库克知了哎上课可参考｜UP：升哥计算机专升本｜BV19D8fz7EDP｜播放：576519｜搜索：计算机应用基础",
+          "url": "https://www.bilibili.com/video/BV19D8fz7EDP",
           "query": "计算机应用基础（第5版） 计算机实践基础"
         },
         {
@@ -1141,6 +1327,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407066｜搜索：应用型本科大学物理(上册) 大学物理（1）",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "应用型本科大学物理(上册) 大学物理（1）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：应用型本科大学物理(上册) 大学物理（1）",
           "query": "应用型本科大学物理(上册) 大学物理（1）"
@@ -1159,6 +1351,12 @@ window.APP_DATA = {
       ],
       "note": "作者：殷瑞祥；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【4K精品】模拟电子技术基础 上交大 郑益慧主讲（精校版字幕，模拟电路/模电 讲课水平略胜华成英，视频质量完爆清华版 4K超清重制版）｜UP：谢谢谢同学鸭｜BV1Gt411b7Zq｜播放：18091906｜搜索：电路与模拟电子技术",
+          "url": "https://www.bilibili.com/video/BV1Gt411b7Zq",
+          "query": "电路与模拟电子技术（第四版） 电路与模拟电子技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：电路与模拟电子技术（第四版） 电路与模拟电子技术",
@@ -1179,6 +1377,12 @@ window.APP_DATA = {
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6957872｜搜索：高等数学 教程",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
+          "query": "《高等数学》第八版下册 高等数学（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：《高等数学》第八版下册 高等数学（2）",
           "query": "《高等数学》第八版下册 高等数学（2）"
@@ -1197,6 +1401,12 @@ window.APP_DATA = {
       ],
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407066｜搜索：大学物理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "大学物理（下册） 大学物理（2）"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：大学物理（下册） 大学物理（2）",
@@ -1217,6 +1427,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763720｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
+          "query": "Java程序设计——增量式项目驱动一体化教程（第2版） 面向对象程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Java程序设计——增量式项目驱动一体化教程（第2版） 面向对象程序设计",
           "query": "Java程序设计——增量式项目驱动一体化教程（第2版） 面向对象程序设计"
@@ -1232,6 +1448,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407287｜搜索：大学物理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "实验指导书，学院集中打印 大学物理实验（1）"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：实验指导书，学院集中打印 大学物理实验（1）",
@@ -1251,6 +1473,12 @@ window.APP_DATA = {
       ],
       "note": "作者：谭志国、陈海山等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员java教程工作流引擎Activiti7基础到进阶，Activiti和Spring框架、SpringBoot整合｜UP：黑马程序员｜BV1H54y167gf｜播放：485777｜搜索：Java程序设计实训 增量式项目驱动一体化教程",
+          "url": "https://www.bilibili.com/video/BV1H54y167gf",
+          "query": "Java程序设计实训——增量式项目驱动一体化教程（第二版） 程序设计实训"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Java程序设计实训——增量式项目驱动一体化教程（第二版） 程序设计实训",
@@ -1272,7 +1500,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式，系统详解springcloud微服务技术栈课程|黑马程序员Java微服务｜UP：黑马程序员｜BV1LQ4y127n4｜播放：4503271",
+          "search": "视频：SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式，系统详解springcloud微服务技术栈课程|黑马程序员Java微服务｜UP：黑马程序员｜BV1LQ4y127n4｜播放：4503312｜搜索：分布式系统开发实践 分布式系统",
           "url": "https://www.bilibili.com/video/BV1LQ4y127n4",
           "query": "分布式系统开发实践 分布式系统"
         },
@@ -1296,6 +1524,12 @@ window.APP_DATA = {
       "note": "作者：盛骤等；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5491220｜搜索：概率论与数理统计",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
+          "query": "概率论与数理统计（第五版） 概率论与数理统计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：概率论与数理统计（第五版） 概率论与数理统计",
           "query": "概率论与数理统计（第五版） 概率论与数理统计"
@@ -1315,6 +1549,12 @@ window.APP_DATA = {
       "note": "作者：张晨曦 王志英等；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【自考】计算机系统结构 02325 零基础大题保姆式精讲 学完必过｜UP：萝卜Bro｜BV1iY411g7HJ｜播放：337469｜搜索：计算机系统结构",
+          "url": "https://www.bilibili.com/video/BV1iY411g7HJ",
+          "query": "计算机系统结构（第3版） 计算机系统结构"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机系统结构（第3版） 计算机系统结构",
           "query": "计算机系统结构（第3版） 计算机系统结构"
@@ -1333,6 +1573,12 @@ window.APP_DATA = {
       ],
       "note": "作者：阿斯顿·张（Aston Zhang），李沐（Mu Li） 等 著，何孝霆（Xiaoting He），瑞潮儿·胡（Rachel Hu） 译；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【2025版】李沐动手学深度学习系列课程！包含深度学习、机器学习算法、神经网络、计算机视觉物体检测、迁移学习、大模型微调等人工智能核心知识点！就怕你学不会！｜UP：深度学习项目实战｜BV15UREYsEN8｜播放：656543｜搜索：动手学深度学习 PyTorch版",
+          "url": "https://www.bilibili.com/video/BV15UREYsEN8",
+          "query": "动手学深度学习 PyTorch版 人工智能原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：动手学深度学习 PyTorch版 人工智能原理",
@@ -1354,7 +1600,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：软件工程导论 张海藩｜UP：皮蛋茄子擂辣椒｜BV1Ns41177VM｜播放：929610",
+          "search": "视频：软件工程导论 张海藩｜UP：皮蛋茄子擂辣椒｜BV1Ns41177VM｜播放：929611｜搜索：软件工程导论：方法、工具和案例 软件工程",
           "url": "https://www.bilibili.com/video/BV1Ns41177VM",
           "query": "软件工程导论：方法、工具和案例 软件工程"
         },
@@ -1378,6 +1624,12 @@ window.APP_DATA = {
       "note": "作者：贾铁军 等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《数据库系统概论》0基础也能听懂 期末冲刺上高分 期末自救速成课资源 期末不挂科资源 期末复习突击速成课资源 考研复试知识框架梳理｜UP：重生之期末自救指南｜BV1D8qUB2Eor｜播放：336968｜搜索：数据库 期末复习",
+          "url": "https://www.bilibili.com/video/BV1D8qUB2Eor",
+          "query": "数据库原理及应用与实践（第4版) 数据库原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库原理及应用与实践（第4版) 数据库原理",
           "query": "数据库原理及应用与实践（第4版) 数据库原理"
@@ -1396,6 +1648,12 @@ window.APP_DATA = {
       ],
       "note": "作者：蔺素珍；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：数字图像处理-Digital Image Processing (DIP)｜UP：深度大脑｜BV1tx41147Tx｜播放：574459｜搜索：新编数字图像处理技术及应用",
+          "url": "https://www.bilibili.com/video/BV1tx41147Tx",
+          "query": "新编数字图像处理技术及应用（修订版） 数字图像处理及应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：新编数字图像处理技术及应用（修订版） 数字图像处理及应用",
@@ -1416,6 +1674,12 @@ window.APP_DATA = {
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员JavaWeb基础教程，Java web从入门到企业实战完整版｜UP：黑马程序员｜BV1Qf4y1T7Hx｜播放：6031453｜搜索：Java Web 全套教程",
+          "url": "https://www.bilibili.com/video/BV1Qf4y1T7Hx",
+          "query": "Java Web程序设计任务教程（第2版） Web编程技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Java Web程序设计任务教程（第2版） Web编程技术",
           "query": "Java Web程序设计任务教程（第2版） Web编程技术"
@@ -1434,6 +1698,12 @@ window.APP_DATA = {
       ],
       "note": "作者：杨俊伟；出版社：自编；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：王道计算机考研 操作系统｜UP：王道计算机教育｜BV1YE411D7nH｜播放：22040428｜搜索：操作系统 期末复习",
+          "url": "https://www.bilibili.com/video/BV1YE411D7nH",
+          "query": "操作系统课程设计实验指导书 操作系统课程设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：操作系统课程设计实验指导书 操作系统课程设计",
@@ -1454,6 +1724,12 @@ window.APP_DATA = {
       "note": "作者：吴帆；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【操作系统】计算机操作系统入门到精通完整教程（2022最新版）操作系统专业考试不挂科｜UP：马士兵_Java论坛｜BV1Ha411e7D4｜播放：373081｜搜索：操作系统 教程",
+          "url": "https://www.bilibili.com/video/BV1Ha411e7D4",
+          "query": "操作系统原理与实现 操作系统原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：操作系统原理与实现 操作系统原理",
           "query": "操作系统原理与实现 操作系统原理"
@@ -1472,6 +1748,12 @@ window.APP_DATA = {
       ],
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407088｜搜索：应用型本科大学物理 下册",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "《应用型本科大学物理》下册 大学物理（2）"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：《应用型本科大学物理》下册 大学物理（2）",
@@ -1492,6 +1774,12 @@ window.APP_DATA = {
       "note": "作者：严蔚敏等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：数据结构与算法基础（青岛大学-王卓）｜UP：87师兄｜BV1nJ411V7bd｜播放：16201024｜搜索：数据结构",
+          "url": "https://www.bilibili.com/video/BV1nJ411V7bd",
+          "query": "数据结构（C语言版）（第2版） 数据结构与算法"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据结构（C语言版）（第2版） 数据结构与算法",
           "query": "数据结构（C语言版）（第2版） 数据结构与算法"
@@ -1510,6 +1798,12 @@ window.APP_DATA = {
       ],
       "note": "作者：贾铁军等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【合集】数据库原理及应用 东南大学 徐立臻 共72讲｜UP：123小棕熊｜BV1ux411G7Bs｜播放：929913｜搜索：数据库原理及应用与实践",
+          "url": "https://www.bilibili.com/video/BV1ux411G7Bs",
+          "query": "数据库原理及应用与实践 数据库原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库原理及应用与实践 数据库原理",
@@ -1531,7 +1825,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数字图像处理章毓晋版-期末速成｜UP：DR-学习版｜BV1KPmtB3EfT｜播放：3031",
+          "search": "视频：数字图像处理章毓晋版-期末速成｜UP：DR-学习版｜BV1KPmtB3EfT｜播放：3032｜搜索：数字图像处理及应用",
           "url": "https://www.bilibili.com/video/BV1KPmtB3EfT",
           "query": "新编数字图像处理技术及应用 数字图像处理及应用"
         },
@@ -1556,8 +1850,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：B站首发！手把手教你用Docker部署PyTorch深度学习模型！全程干货讲解，零基础小白可学！（人工智能/机器学习/云原生/容器/研究生）｜UP：AI讲师-唐宇迪｜BV1AAoqYdETG｜播放：8732",
-          "url": "https://www.bilibili.com/video/BV1AAoqYdETG",
+          "search": "视频：【整整600集】清华大学196小时讲完的AI人工智能从入门到精通全套教程，全程干货无废话！学完变大佬！这还学不会，我退出IT圈！机器学习-深度学习-opencv｜UP：IT界扛霸子｜BV1qZSLBYEpa｜播放：749109｜搜索：人工智能原理",
+          "url": "https://www.bilibili.com/video/BV1qZSLBYEpa",
           "query": "动手学深度学习pytorch版 人工智能原理"
         },
         {
@@ -1580,6 +1874,12 @@ window.APP_DATA = {
       "note": "作者：尹志宇、解春燕、李青茹；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】浙江大学：软件工程 陈越（全33讲）｜UP：农夫CC｜BV16g411M7r2｜播放：293565｜搜索：软件工程",
+          "url": "https://www.bilibili.com/video/BV16g411M7r2",
+          "query": "软件工程导论-方法、工具和案例 软件工程"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件工程导论-方法、工具和案例 软件工程",
           "query": "软件工程导论-方法、工具和案例 软件工程"
@@ -1598,6 +1898,12 @@ window.APP_DATA = {
       ],
       "note": "作者：盛骤、谢式千、潘承毅；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《概率论与数理统计》精讲课程 | 框框老师｜UP：框框老师课堂｜BV1194y1f7vr｜播放：10385482｜搜索：概率论 教程",
+          "url": "https://www.bilibili.com/video/BV1194y1f7vr",
+          "query": "概率论与数理统计（第5版） 概率论与数理统计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：概率论与数理统计（第5版） 概率论与数理统计",
@@ -1619,8 +1925,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：SQL Server复制功能配置｜UP：btldxx｜BV1VeedeoE74｜播放：859",
-          "url": "https://www.bilibili.com/video/BV1VeedeoE74",
+          "search": "视频：SQL SERVER数据库_D丝学编程｜UP：D丝学编程｜BV1XV411C7TP｜播放：756191｜搜索：数据库原理及应用与实践 基于SQL Server 2019",
+          "url": "https://www.bilibili.com/video/BV1XV411C7TP",
           "query": "数据库原理及应用与实践（第4版)——基于SQL Server 2019 数据库原理"
         },
         {
@@ -1643,6 +1949,12 @@ window.APP_DATA = {
       "note": "作者：张晨曦 等；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【期末冲刺上大分】《数据结构》6小时快速突击|期末不挂科必备【蜂考】｜UP：蜂考｜BV1eaCPYSEtH｜播放：3025388｜搜索：计算机系统结构 期末复习",
+          "url": "https://www.bilibili.com/video/BV1eaCPYSEtH",
+          "query": "计算机系统结构 计算机系统结构"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机系统结构 计算机系统结构",
           "query": "计算机系统结构 计算机系统结构"
@@ -1663,8 +1975,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：USBCAN驱动安装视频｜UP：哇是班班｜BV16N4y1f7yW｜播放：4051",
-          "url": "https://www.bilibili.com/video/BV16N4y1f7yW",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763732｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
           "query": "Java程序设计实训——增量式项目驱动一体化教程（第2版） 程序设计实训"
         },
         {
@@ -1688,8 +2000,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：软件工程导论 张海藩｜UP：皮蛋茄子擂辣椒｜BV1Ns41177VM｜播放：929610",
-          "url": "https://www.bilibili.com/video/BV1Ns41177VM",
+          "search": "视频：最强《软件工程》课程 | 全程基础，无痛学习，非常适合小白！｜UP：B站大学课代表_Cuadaa｜BV1NN7izqEvk｜播放：89769｜搜索：软件工程 教程",
+          "url": "https://www.bilibili.com/video/BV1NN7izqEvk",
           "query": "软件工程导论 方法、工具和案例 软件工程"
         },
         {
@@ -1712,6 +2024,12 @@ window.APP_DATA = {
       "note": "作者：柳伟卫；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：2020 MIT 6.824 分布式系统｜UP：Bigbang1984｜BV1R7411t71W｜播放：352905｜搜索：分布式系统",
+          "url": "https://www.bilibili.com/video/BV1R7411t71W",
+          "query": "分布式系统开发实战 分布式系统"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：分布式系统开发实战 分布式系统",
           "query": "分布式系统开发实战 分布式系统"
@@ -1730,6 +2048,12 @@ window.APP_DATA = {
       ],
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59075｜搜索：OpenCV Python 全套教程",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
+          "query": "OpenCV计算机视觉基础教程（Python版） 计算机视觉及应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程（Python版） 计算机视觉及应用",
@@ -1750,6 +2074,12 @@ window.APP_DATA = {
       "note": "作者：张建同、孙昌言、王世进；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：东华大学 《应用统计学》课程微视频｜UP：vpnn17｜BV1xx411C7Jk｜播放：515746｜搜索：应用统计学",
+          "url": "https://www.bilibili.com/video/BV1xx411C7Jk",
+          "query": "应用统计学 应用统计学"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：应用统计学 应用统计学",
           "query": "应用统计学 应用统计学"
@@ -1768,6 +2098,12 @@ window.APP_DATA = {
       ],
       "note": "作者：姜桂洪；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《MySQL数据库》期末3小时速成课！通俗易懂，保证不挂科！｜UP：云顶数模｜BV1q3C8YFEEq｜播放：65349｜搜索：数据库 期末复习",
+          "url": "https://www.bilibili.com/video/BV1q3C8YFEEq",
+          "query": "MySQL 8.0数据库应用与开发 MySQL数据库应用实践"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：MySQL 8.0数据库应用与开发 MySQL数据库应用实践",
@@ -1789,8 +2125,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：大学生就业指导期末答案110%｜UP：尘huan｜BV1fe4y1M7kY｜播放：12795",
-          "url": "https://www.bilibili.com/video/BV1fe4y1M7kY",
+          "search": "视频：【北京大学】大学生职业发展与就业指导（全108讲）谢伟｜UP：iMuseums｜BV1LW4y1R7EH｜播放：127241｜搜索：《美好前程——大学生就业指导教程》 就业指导（理论）",
+          "url": "https://www.bilibili.com/video/BV1LW4y1R7EH",
           "query": "《美好前程——大学生就业指导教程》 就业指导（理论）"
         },
         {
@@ -1813,6 +2149,12 @@ window.APP_DATA = {
       "note": "作者：屈婉玲 耿素云 张立昂；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：离散数学 东北大学（全69讲）｜UP：古维京掌管希腊的神｜BV1d7411v7zu｜播放：4465023｜搜索：离散数学及其应用（第2版） 离散数学",
+          "url": "https://www.bilibili.com/video/BV1d7411v7zu",
+          "query": "离散数学及其应用（第2版） 离散数学"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：离散数学及其应用（第2版） 离散数学",
           "query": "离散数学及其应用（第2版） 离散数学"
@@ -1833,8 +2175,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：大白话讲明白标准化和归一化｜UP：薛什么的B站｜BV1DtJyz6EJv｜播放：13905",
-          "url": "https://www.bilibili.com/video/BV1DtJyz6EJv",
+          "search": "视频：【大数据技术原理与应用】厦门大学｜UP：学习资料搬运工｜BV1k741137Qy｜播放：25667｜搜索：大数据技术原理与应用（第3版） 大数据处理技术",
+          "url": "https://www.bilibili.com/video/BV1k741137Qy",
           "query": "大数据技术原理与应用（第3版） 大数据处理技术"
         },
         {
@@ -1858,8 +2200,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：重磅来袭！超250万读者的选择：蟒蛇书《Python 编程：从入门到实践（第3版）》，最新版配套视频抢先看｜UP：图灵社区｜BV14X4y127MT｜播放：623918",
-          "url": "https://www.bilibili.com/video/BV14X4y127MT",
+          "search": "视频：黑马程序员大数据入门到实战教程，大数据开发必会的Hadoop、Hive，云平台实战项目全套一网打尽｜UP：黑马程序员｜BV1WY4y197g7｜播放：1104739｜搜索：大数据 全套教程",
+          "url": "https://www.bilibili.com/video/BV1WY4y197g7",
           "query": "大数据基础编程、实验和案例教程（第2版） 大数据处理技术实践"
         },
         {
@@ -1883,8 +2225,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《全国计算机等级考试》 四级操作系统原理 刘震｜UP：不想学习眼睛累｜BV1qt4y127uy｜播放：21389",
-          "url": "https://www.bilibili.com/video/BV1qt4y127uy",
+          "search": "视频：清华 操作系统原理｜UP：希利亚歌洋流｜BV1uW411f72n｜播放：993085｜搜索：操作系统（第4版本） 操作系统原理",
+          "url": "https://www.bilibili.com/video/BV1uW411f72n",
           "query": "操作系统（第4版本） 操作系统原理"
         },
         {
@@ -1908,8 +2250,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：Java Web程序设计任务教程（第3版）（AIGC版）｜UP：黑马程序员教材研究院｜BV1Y79sBxEjE｜播放：5543",
-          "url": "https://www.bilibili.com/video/BV1Y79sBxEjE",
+          "search": "视频：黑马程序员JavaWeb基础教程，Java web从入门到企业实战完整版｜UP：黑马程序员｜BV1Qf4y1T7Hx｜播放：6031450｜搜索：java web程序设计任务教程 Web编程技术",
+          "url": "https://www.bilibili.com/video/BV1Qf4y1T7Hx",
           "query": "java web程序设计任务教程 Web编程技术"
         },
         {
@@ -1932,6 +2274,12 @@ window.APP_DATA = {
       "note": "作者：蒋国银；出版社：科学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：人工智能基础《机器学习从入门到实战》2026年完整版全套视频教程！从算法到实战项目，覆盖KNN算法、线性回归、逻辑回归、决策树、集成学习、KMeans算法等｜UP：人工智能课程分享官｜BV1g9W7zCE8a｜播放：1611663｜搜索：机器学习 全套教程",
+          "url": "https://www.bilibili.com/video/BV1g9W7zCE8a",
+          "query": "数据挖掘-原理、方法及Python应用实践教程 数据挖掘与机器学习"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据挖掘-原理、方法及Python应用实践教程 数据挖掘与机器学习",
           "query": "数据挖掘-原理、方法及Python应用实践教程 数据挖掘与机器学习"
@@ -1950,6 +2298,12 @@ window.APP_DATA = {
       ],
       "note": "作者：谢亚君；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：比啃书好太多！【最优化理论完整版教程】不愧是中科大教授！3小时让我清楚了凸优化，简直不要太爽！人工智能|AI|数学基础|最优化算法|机器学习|深度学习|nlp｜UP：凡人修AI｜BV1Lk4y1x7AE｜播放：295834｜搜索：最优化理论",
+          "url": "https://www.bilibili.com/video/BV1Lk4y1x7AE",
+          "query": "最优化方法及其Python程序实现 最优化理论"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：最优化方法及其Python程序实现 最优化理论",
@@ -1970,6 +2324,12 @@ window.APP_DATA = {
       "note": "作者：魏伟一、李晓红；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：三小时一起来复习大数据技术吧，期末速成这一块｜UP：梓菜不才｜BV1bqvmBKEvh｜播放：12496｜搜索：大数据 期末复习",
+          "url": "https://www.bilibili.com/video/BV1bqvmBKEvh",
+          "query": "Python数据分析与可视化 大数据分析与可视化"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Python数据分析与可视化 大数据分析与可视化",
           "query": "Python数据分析与可视化 大数据分析与可视化"
@@ -1988,6 +2348,12 @@ window.APP_DATA = {
       ],
       "note": "作者：曾剑平；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：三小时一起来复习大数据技术吧，期末速成这一块｜UP：梓菜不才｜BV1bqvmBKEvh｜播放：12490｜搜索：大数据 期末复习",
+          "url": "https://www.bilibili.com/video/BV1bqvmBKEvh",
+          "query": "Python爬虫大数据采集与挖掘 大数据技术与开发实训"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Python爬虫大数据采集与挖掘 大数据技术与开发实训",
@@ -2008,6 +2374,12 @@ window.APP_DATA = {
       "note": "作者：林子雨；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员大数据入门到实战教程，大数据开发必会的Hadoop、Hive，云平台实战项目全套一网打尽｜UP：黑马程序员｜BV1WY4y197g7｜播放：1104739｜搜索：大数据 全套教程",
+          "url": "https://www.bilibili.com/video/BV1WY4y197g7",
+          "query": "大数据技术原理与应用 大数据与云计算"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大数据技术原理与应用 大数据与云计算",
           "query": "大数据技术原理与应用 大数据与云计算"
@@ -2026,6 +2398,12 @@ window.APP_DATA = {
       ],
       "note": "作者：张良均、谭立云等；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【2026最新版】Python数据分析(Numpy+Pandas+Matplotlib)，数据可视化教程，零基础入门到精通！｜UP：数解万物｜BV1wPiKBkEzU｜播放：365361｜搜索：Python数据分析与挖掘实战",
+          "url": "https://www.bilibili.com/video/BV1wPiKBkEzU",
+          "query": "Python数据分析与挖掘实战 （第2版） 大数据智能分析实训"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Python数据分析与挖掘实战 （第2版） 大数据智能分析实训",
@@ -2046,6 +2424,12 @@ window.APP_DATA = {
       "note": "作者：张鉴新、周晓晴；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】 多媒体技术及应用｜UP：账号已注销｜BV134411R7wz｜播放：76442｜搜索：多媒体技术与应用",
+          "url": "https://www.bilibili.com/video/BV134411R7wz",
+          "query": "多媒体技术与应用 多媒体信息处理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：多媒体技术与应用 多媒体信息处理",
           "query": "多媒体技术与应用 多媒体信息处理"
@@ -2064,6 +2448,12 @@ window.APP_DATA = {
       ],
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员软件测试视频教程，软件测试基础入门到项目实战（涵盖软件测试基础+黑马头条项目实战）｜UP：黑马程序员｜BV1TP4y1J7BD｜播放：2351512｜搜索：软件测试",
+          "url": "https://www.bilibili.com/video/BV1TP4y1J7BD",
+          "query": "软件测试（第2版） 软件测试与质量保证"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件测试（第2版） 软件测试与质量保证",
@@ -2084,6 +2474,12 @@ window.APP_DATA = {
       "note": "作者：闵海钊；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【网络安全教程】2026年B站最全最详细的网络安全零基础入门全套教学！全程干货精讲，少走99%弯路，挑战7天从小白逆袭成大神！｜UP：好课宣传委｜BV1ckqYBWE7f｜播放：4010111｜搜索：信息安全技术",
+          "url": "https://www.bilibili.com/video/BV1ckqYBWE7f",
+          "query": "网络安全攻防技术实战 信息安全技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：网络安全攻防技术实战 信息安全技术",
           "query": "网络安全攻防技术实战 信息安全技术"
@@ -2102,6 +2498,12 @@ window.APP_DATA = {
       ],
       "note": "作者：李洋、李实；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：NLP零基础教程，nlp自然语言处理，Transformer、LSTM、BERT、llm、大模型训练｜UP：尚硅谷｜BV1k44LzPEhU｜播放：687616｜搜索：自然语言处理入门 自然语言处理",
+          "url": "https://www.bilibili.com/video/BV1k44LzPEhU",
+          "query": "自然语言处理入门 自然语言处理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：自然语言处理入门 自然语言处理",
@@ -2123,8 +2525,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【厦门大学】大数据技术原理与应用｜UP：你石矶娘娘｜BV1ds41157NS｜播放：232398",
-          "url": "https://www.bilibili.com/video/BV1ds41157NS",
+          "search": "视频：黑马程序员大数据入门到实战教程，大数据开发必会的Hadoop、Hive，云平台实战项目全套一网打尽｜UP：黑马程序员｜BV1WY4y197g7｜播放：1104745｜搜索：大数据 全套教程",
+          "url": "https://www.bilibili.com/video/BV1WY4y197g7",
           "query": "大数据技术原理与应用 ——概念、存储、处理、 分析与应用（第4版） 大数据处理技术"
         },
         {
@@ -2148,8 +2550,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：黑马程序员MySQL知识精讲+mysql实战案例_零基础mysql数据库入门到高级全套教程｜UP：黑马程序员｜BV1iF411z7Pu｜播放：1419348",
-          "url": "https://www.bilibili.com/video/BV1iF411z7Pu",
+          "search": "视频：黑马程序员大数据入门到实战教程，大数据开发必会的Hadoop、Hive，云平台实战项目全套一网打尽｜UP：黑马程序员｜BV1WY4y197g7｜播放：1104736｜搜索：大数据基础编程 实验和案例教程",
+          "url": "https://www.bilibili.com/video/BV1WY4y197g7",
           "query": "大数据基础编程、实验和案例教程（第3版） 大数据处理技术实践"
         },
         {
@@ -2172,6 +2574,12 @@ window.APP_DATA = {
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59075｜搜索：OpenCV计算机视觉基础教程Python版 慕课版",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
+          "query": "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用",
           "query": "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用"
@@ -2190,6 +2598,12 @@ window.APP_DATA = {
       ],
       "note": "作者：谢希仁、谢钧；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【期末复习】7天快速通过计算机网络期末考试｜谢希仁版｜考前急救｜高效通过｜粉丝投稿｜UP：网络工程师学长｜BV1PK4y1X7ze｜播放：2532018｜搜索：计算机网络",
+          "url": "https://www.bilibili.com/video/BV1PK4y1X7ze",
+          "query": "计算机网络教程（第7版 微课版） 计算机网络"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机网络教程（第7版 微课版） 计算机网络",
@@ -2210,6 +2624,12 @@ window.APP_DATA = {
       "note": "作者：肖四喜 申书飞；出版社：上海交通大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【北京大学】大学生职业发展与就业指导（全108讲）谢伟｜UP：iMuseums｜BV1LW4y1R7EH｜播放：127241｜搜索：美好前程——大学生就业指导教程 就业指导（理论）",
+          "url": "https://www.bilibili.com/video/BV1LW4y1R7EH",
+          "query": "美好前程——大学生就业指导教程 就业指导（理论）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：美好前程——大学生就业指导教程 就业指导（理论）",
           "query": "美好前程——大学生就业指导教程 就业指导（理论）"
@@ -2228,6 +2648,12 @@ window.APP_DATA = {
       ],
       "note": "作者：蒋盛益；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：人工智能基础《机器学习从入门到实战》2026年完整版全套视频教程！从算法到实战项目，覆盖KNN算法、线性回归、逻辑回归、决策树、集成学习、KMeans算法等｜UP：人工智能课程分享官｜BV1g9W7zCE8a｜播放：1611662｜搜索：机器学习 全套教程",
+          "url": "https://www.bilibili.com/video/BV1g9W7zCE8a",
+          "query": "数据挖掘（第2版） 数据挖掘与机器学习"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据挖掘（第2版） 数据挖掘与机器学习",
@@ -2248,6 +2674,12 @@ window.APP_DATA = {
       "note": "作者：张建同 等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：东华大学 《应用统计学》课程微视频｜UP：vpnn17｜BV1xx411C7Jk｜播放：515746｜搜索：应用统计学",
+          "url": "https://www.bilibili.com/video/BV1xx411C7Jk",
+          "query": "应用统计学（第4版） 应用统计学"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：应用统计学（第4版） 应用统计学",
           "query": "应用统计学（第4版） 应用统计学"
@@ -2266,6 +2698,12 @@ window.APP_DATA = {
       ],
       "note": "作者：蒋建春 主编 文伟平、焦健 副主编；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【网络安全教程】2026年B站最全最详细的网络安全零基础入门全套教学！全程干货精讲，少走99%弯路，挑战7天从小白逆袭成大神！｜UP：好课宣传委｜BV1ckqYBWE7f｜播放：4010111｜搜索：信息安全技术",
+          "url": "https://www.bilibili.com/video/BV1ckqYBWE7f",
+          "query": "信息安全工程师教程（第2版） 信息安全技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：信息安全工程师教程（第2版） 信息安全技术",
@@ -2286,6 +2724,12 @@ window.APP_DATA = {
       "note": "作者：屠可伟、王新宇、曲彦儒、俞勇；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：NLP零基础教程，nlp自然语言处理，Transformer、LSTM、BERT、llm、大模型训练｜UP：尚硅谷｜BV1k44LzPEhU｜播放：687638｜搜索：自然语言处理",
+          "url": "https://www.bilibili.com/video/BV1k44LzPEhU",
+          "query": "动手学自然语言处理 自然语言处理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：动手学自然语言处理 自然语言处理",
           "query": "动手学自然语言处理 自然语言处理"
@@ -2304,6 +2748,12 @@ window.APP_DATA = {
       ],
       "note": "作者：林子雨等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：尚硅谷大数据Spark教程从入门到精通｜UP：尚硅谷｜BV11A411L7CK｜播放：1458986｜搜索：Spark编程基础（Python版，第2版） 大数据技术与开发实训",
+          "url": "https://www.bilibili.com/video/BV11A411L7CK",
+          "query": "Spark编程基础（Python版，第2版） 大数据技术与开发实训"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Spark编程基础（Python版，第2版） 大数据技术与开发实训",
@@ -2324,6 +2774,12 @@ window.APP_DATA = {
       "note": "作者：阿斯顿·张（Aston Zhang），李沐（Mu Li），[美] 扎卡里·C. 立顿 等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【2025版】李沐动手学深度学习系列课程！包含深度学习、机器学习算法、神经网络、计算机视觉物体检测、迁移学习、大模型微调等人工智能核心知识点！就怕你学不会！｜UP：深度学习项目实战｜BV15UREYsEN8｜播放：656547｜搜索：动手学深度学习",
+          "url": "https://www.bilibili.com/video/BV15UREYsEN8",
+          "query": "动手学深度学习(异步图书出品) 人工智能原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：动手学深度学习(异步图书出品) 人工智能原理",
           "query": "动手学深度学习(异步图书出品) 人工智能原理"
@@ -2343,6 +2799,12 @@ window.APP_DATA = {
       "note": "作者：曾剑平；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：三小时一起来复习大数据技术吧，期末速成这一块｜UP：梓菜不才｜BV1bqvmBKEvh｜播放：12492｜搜索：大数据 期末复习",
+          "url": "https://www.bilibili.com/video/BV1bqvmBKEvh",
+          "query": "python 爬虫大数据采集与挖掘 大数据智能分析实训"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：python 爬虫大数据采集与挖掘 大数据智能分析实训",
           "query": "python 爬虫大数据采集与挖掘 大数据智能分析实训"
@@ -2361,6 +2823,12 @@ window.APP_DATA = {
       ],
       "note": "作者：曾剑平；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员python零基础全套教程，8天python从入门到精通，学python看这套就够了｜UP：黑马程序员｜BV1qW4y1a7fU｜播放：24410426｜搜索：Python 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1qW4y1a7fU",
+          "query": "Python爬虫大数据采集与挖掘-微课视频版（大数据与人工智能技术丛书） 大数据技术与开发实训"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Python爬虫大数据采集与挖掘-微课视频版（大数据与人工智能技术丛书） 大数据技术与开发实训",
@@ -2382,8 +2850,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《计算机网络教程 第6版，谢钧》课程｜UP：Nidhogg14｜BV161ttzYEbz｜播放：19668",
-          "url": "https://www.bilibili.com/video/BV161ttzYEbz",
+          "search": "视频：【期末复习】7天快速通过计算机网络期末考试｜谢希仁版｜考前急救｜高效通过｜粉丝投稿｜UP：网络工程师学长｜BV1PK4y1X7ze｜播放：2532016｜搜索：计算机网络",
+          "url": "https://www.bilibili.com/video/BV1PK4y1X7ze",
           "query": "《计算机网络教程》(第6版) 计算机网络"
         },
         {
@@ -2407,8 +2875,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《C++ Primer Plus》第六版 零基础从头学｜UP：180斤的华尔兹｜BV1sK41127iZ｜播放：913269",
-          "url": "https://www.bilibili.com/video/BV1sK41127iZ",
+          "search": "视频：C语言程序设计从入门到进阶【比特鹏哥c语言2024完整版视频教程】（c语言基础入门c语言软件安装C语言指针c语言考研C语言专升本C语言期末计算机二级C语言c语言｜UP：鹏哥C语言｜BV1Vm4y1r7jY｜播放：13139779｜搜索：高级语言程序设计",
+          "url": "https://www.bilibili.com/video/BV1Vm4y1r7jY",
           "query": "C Primer Plus（第6版）英文版 高级语言程序设计"
         },
         {
@@ -2431,6 +2899,12 @@ window.APP_DATA = {
       "note": "作者：张民伦；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【1500集全】英语听力口语情景剧｜UP：YouTube外语大世界｜BV1rV4y1P713｜播放：2803332｜搜索：英语听力教程学生用书",
+          "url": "https://www.bilibili.com/video/BV1rV4y1P713",
+          "query": "英语听力教程学生用书（第4版） 英语视听说（1）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：英语听力教程学生用书（第4版） 英语视听说（1）",
           "query": "英语听力教程学生用书（第4版） 英语视听说（1）"
@@ -2451,8 +2925,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：<托马斯微积分>学习日记｜UP：远小哥学习日记｜BV1xA4m1N7wr｜播放：103312",
-          "url": "https://www.bilibili.com/video/BV1xA4m1N7wr",
+          "search": "视频：我在B站上大学!【完整版-麻省理工-微积分重点】全18讲！学数学不看的微积分课程，看完顺滑一整年。_人工智能数学基础/机器学习/微积分/麻省理工/高等数学｜UP：最爱吃的辣条是林妹妹｜BV1rY4y1P7er｜播放：1173390｜搜索：James Stewart《微积分》Calculus （Eighth China Edition） 高等数学(1)",
+          "url": "https://www.bilibili.com/video/BV1rY4y1P7er",
           "query": "James Stewart《微积分》Calculus （Eighth China Edition） 高等数学(1)"
         },
         {
@@ -2476,8 +2950,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：跨文化沟通：走向世界的沟通技能升级指南！｜UP：清晖在线学堂-柠檬｜BV1Gi421a7Y4｜播放：1374",
-          "url": "https://www.bilibili.com/video/BV1Gi421a7Y4",
+          "search": "视频：【TED演讲】跨文化交流｜UP：颂三羊｜BV1GE411p7io｜播放：50673｜搜索：跨文化沟通 英语口语沟通",
+          "url": "https://www.bilibili.com/video/BV1GE411p7io",
           "query": "《跨文化沟通》 英语口语沟通（2）"
         },
         {
@@ -2500,6 +2974,12 @@ window.APP_DATA = {
       "note": "作者：Sandi Metz；出版社：Addison-Wesley Professional；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：Synopsys Design Compiler DC综合教程｜UP：欧阳求败｜BV1EP4y1a75W｜播放：67483｜搜索：Practical Object-Oriented Design 面向对象程序设计✬▲",
+          "url": "https://www.bilibili.com/video/BV1EP4y1a75W",
+          "query": "Practical Object-Oriented Design 面向对象程序设计✬▲"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Practical Object-Oriented Design 面向对象程序设计✬▲",
           "query": "Practical Object-Oriented Design 面向对象程序设计✬▲"
@@ -2518,6 +2998,12 @@ window.APP_DATA = {
       ],
       "note": "作者：Kurt Mehlhorn, Peter Sanders；出版社：Springer-Verlag Berlin AND Heidelberg Gmbh & Colorado. KG；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：数据结构与算法基础（青岛大学-王卓）｜UP：87师兄｜BV1nJ411V7bd｜播放：16200997｜搜索：数据结构 全套教程",
+          "url": "https://www.bilibili.com/video/BV1nJ411V7bd",
+          "query": "Algorithms and Data Structures 数据结构与算法✬▲"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Algorithms and Data Structures 数据结构与算法✬▲",
@@ -2539,8 +3025,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《线性代数应该这样学（Linear Algebra Done Right）》自制教程&习题选讲｜UP：阿潘Eris｜BV1Vg411G7cz｜播放：370032",
-          "url": "https://www.bilibili.com/video/BV1Vg411G7cz",
+          "search": "视频：【Kira老师】27考研《线性代数》零基础精讲课25h，小白也能轻松入门！ |期末看完直接炸鱼｜UP：一高数｜BV1Q4iJBAEsr｜播放：1605790｜搜索：线性代数 期末复习",
+          "url": "https://www.bilibili.com/video/BV1Q4iJBAEsr",
           "query": "Linear Algebra 4th Edition 线性代数✬▲"
         },
         {
@@ -2563,6 +3049,12 @@ window.APP_DATA = {
       "note": "作者：Greg Tomsho；出版社：Cengage Learning；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：[2015 SP] 北京大学 Principles of Operating System 操作系统原理 by 陈向群｜UP：孔乙己2049｜BV1Gx411Q7ro｜播放：191192｜搜索：Guide to Operating Systems 操作系统原理✬▲",
+          "url": "https://www.bilibili.com/video/BV1Gx411Q7ro",
+          "query": "Guide to Operating Systems 操作系统原理✬▲"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Guide to Operating Systems 操作系统原理✬▲",
           "query": "Guide to Operating Systems 操作系统原理✬▲"
@@ -2583,8 +3075,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：斯坦福大学 CS 110 计算机系统原理 Principles of Computer Systems（Spring 2019）｜UP：___main___｜BV1ED4y1R7RJ｜播放：11421",
-          "url": "https://www.bilibili.com/video/BV1ED4y1R7RJ",
+          "search": "视频：【计算机科学速成课】[40集全/精校] - Crash Course Computer Science｜UP：CrashCourse字幕组｜BV1EW411u7th｜播放：5009992｜搜索：Computer Science Principles 计算机原理与应用✬▲",
+          "url": "https://www.bilibili.com/video/BV1EW411u7th",
           "query": "Computer Science Principles 计算机原理与应用✬▲"
         },
         {
@@ -2608,8 +3100,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：我的世界真实物理模组演示，《Physics Mod Pro》最新版1.21.11，2026年最新版，内附下载链接~｜UP：木槿晓枫｜BV1nV8qzPEzT｜播放：99816",
-          "url": "https://www.bilibili.com/video/BV1nV8qzPEzT",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407314｜搜索：大学物理 教程",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
           "query": "Physics,10th Edition 大学物理（2）▲"
         },
         {
@@ -2632,6 +3124,12 @@ window.APP_DATA = {
       "note": "作者：Kent Beck；出版社：Addison-Wesley Professional；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：最强《软件工程》课程 | 全程基础，无痛学习，非常适合小白！｜UP：B站大学课代表_Cuadaa｜BV1NN7izqEvk｜播放：89769｜搜索：软件工程 教程",
+          "url": "https://www.bilibili.com/video/BV1NN7izqEvk",
+          "query": "Test Driven Development: By Example 软件工程✬▲"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Test Driven Development: By Example 软件工程✬▲",
           "query": "Test Driven Development: By Example 软件工程✬▲"
@@ -2650,6 +3148,12 @@ window.APP_DATA = {
       ],
       "note": "作者：[美] 肯尼思，H.，罗森（Kenneth，H.，Rosen） 著；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【离散数学】8小时高分课|离散数学期末速成|高分课期末复习|复试|调剂|专升本可用|绩满满｜UP：哔哩大学计算机院｜BV1TmcZz8E7u｜播放：74112｜搜索：离散数学 期末复习",
+          "url": "https://www.bilibili.com/video/BV1TmcZz8E7u",
+          "query": "离散数学及其应用（英文精编版·原书第8版） 离散数学▲"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：离散数学及其应用（英文精编版·原书第8版） 离散数学▲",
@@ -2671,8 +3175,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：Udemy - Fundamentals of Database Engineering part1｜UP：lmt831｜BV1qoVrzaEK4｜播放：1199",
-          "url": "https://www.bilibili.com/video/BV1qoVrzaEK4",
+          "search": "视频：黑马程序员大数据入门到实战教程，大数据开发必会的Hadoop、Hive，云平台实战项目全套一网打尽｜UP：黑马程序员｜BV1WY4y197g7｜播放：1104746｜搜索：大数据 全套教程",
+          "url": "https://www.bilibili.com/video/BV1WY4y197g7",
           "query": "Fundamentals of Database Systems 大数据管理✬▲"
         },
         {
@@ -2696,8 +3200,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：大学生就业指导期末答案110%｜UP：尘huan｜BV1fe4y1M7kY｜播放：12795",
-          "url": "https://www.bilibili.com/video/BV1fe4y1M7kY",
+          "search": "视频：【北京大学】大学生职业发展与就业指导（全108讲）谢伟｜UP：iMuseums｜BV1LW4y1R7EH｜播放：127241｜搜索：《美好前程——大学生就业指导教程》 就业指导（理论）",
+          "url": "https://www.bilibili.com/video/BV1LW4y1R7EH",
           "query": "《美好前程——大学生就业指导教程》 就业指导（理论）"
         },
         {
@@ -2720,6 +3224,12 @@ window.APP_DATA = {
       "note": "作者：Joshua Bloch；出版社：Addison Wesley Professional；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《基础会计学》5小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1paqrYXEKv｜播放：2254908｜搜索：Java 期末复习",
+          "url": "https://www.bilibili.com/video/BV1paqrYXEKv",
+          "query": "Effective Java 数据挖掘算法与技术✬▲"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Effective Java 数据挖掘算法与技术✬▲",
           "query": "Effective Java 数据挖掘算法与技术✬▲"
@@ -2739,6 +3249,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【完整版】《C语言》9小时系统学习|期末拿高分【蜂考】｜UP：蜂考｜BV1m9NgeLEyo｜播放：414290｜搜索：C语言 期末复习",
+          "url": "https://www.bilibili.com/video/BV1m9NgeLEyo",
+          "query": "C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计",
           "query": "C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计"
@@ -2757,6 +3273,12 @@ window.APP_DATA = {
       ],
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：C语言程序设计从入门到进阶【比特鹏哥c语言2024完整版视频教程】（c语言基础入门c语言软件安装C语言指针c语言考研C语言专升本C语言期末计算机二级C语言c语言｜UP：鹏哥C语言｜BV1Vm4y1r7jY｜播放：13139770｜搜索：C语言程序设计实验教程",
+          "url": "https://www.bilibili.com/video/BV1Vm4y1r7jY",
+          "query": "C语言程序设计实验教程（第2版） 高级语言程序设计实践"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：C语言程序设计实验教程（第2版） 高级语言程序设计实践",
@@ -2778,8 +3300,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：计算机一级计算机基础及WPS Office应用 新思路操作题解题视频｜UP：新思路等考通｜BV13g41177LV｜播放：722776",
-          "url": "https://www.bilibili.com/video/BV13g41177LV",
+          "search": "视频：（2026年3月）WPS计算机二级真题讲解｜UP：大猫计算机二级｜BV1c64y1y7RB｜播放：35353884｜搜索：计算机应用基础 WPS版 计算机实践基础",
+          "url": "https://www.bilibili.com/video/BV1c64y1y7RB",
           "query": "计算机应用基础-WPS版 计算机实践基础"
         },
         {
@@ -2802,6 +3324,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：计算机一级计算机基础及WPS Office应用 新思路操作题解题视频｜UP：新思路等考通｜BV13g41177LV｜播放：722795｜搜索：计算机应用基实验教程-WPS版 计算机实践基础",
+          "url": "https://www.bilibili.com/video/BV13g41177LV",
+          "query": "计算机应用基实验教程-WPS版 计算机实践基础"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机应用基实验教程-WPS版 计算机实践基础",
           "query": "计算机应用基实验教程-WPS版 计算机实践基础"
@@ -2822,8 +3350,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数农314考点梳理----线性代数｜UP：考研数农小朱｜BV1hb421v7Ld｜播放：14116",
-          "url": "https://www.bilibili.com/video/BV1hb421v7Ld",
+          "search": "视频：【Kira老师】27考研《线性代数》零基础精讲课25h，小白也能轻松入门！ |期末看完直接炸鱼｜UP：一高数｜BV1Q4iJBAEsr｜播放：1605727｜搜索：线性代数",
+          "url": "https://www.bilibili.com/video/BV1Q4iJBAEsr",
           "query": "线性代数 线性代数"
         },
         {
@@ -2847,8 +3375,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《线性代数》习题课，零废话，超精讲！【孔祥仁】｜UP：孔祥仁｜BV1bt421T7p6｜播放：1115259",
-          "url": "https://www.bilibili.com/video/BV1bt421T7p6",
+          "search": "视频：【Kira老师】27考研《线性代数》零基础精讲课25h，小白也能轻松入门！ |期末看完直接炸鱼｜UP：一高数｜BV1Q4iJBAEsr｜播放：1605727｜搜索：线性代数 期末复习",
+          "url": "https://www.bilibili.com/video/BV1Q4iJBAEsr",
           "query": "线性代数习题解答 线性代数"
         },
         {
@@ -2871,6 +3399,12 @@ window.APP_DATA = {
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《高等数学(上)》6小时速成课 | 框框老师（突击课，适合高等数学(微积分)期末考试、期中考试、补考、重修、专升本，考试不挂科）｜UP：框框老师课堂｜BV1mN411r7VM｜播放：17696356｜搜索：高等数学（上册） 高等数学(1)",
+          "url": "https://www.bilibili.com/video/BV1mN411r7VM",
+          "query": "高等数学（上册） 高等数学(1)"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：高等数学（上册） 高等数学(1)",
           "query": "高等数学（上册） 高等数学(1)"
@@ -2889,6 +3423,12 @@ window.APP_DATA = {
       ],
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6957872｜搜索：高等数学 期末复习",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
+          "query": "高等数学习题解答 高等数学(1)"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：高等数学习题解答 高等数学(1)",
@@ -2909,6 +3449,12 @@ window.APP_DATA = {
       "note": "作者：嵩天；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员python零基础全套教程，8天python从入门到精通，学python看这套就够了｜UP：黑马程序员｜BV1qW4y1a7fU｜播放：24410268｜搜索：Python 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1qW4y1a7fU",
+          "query": "python语言程序设计基础（第2版） Python程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：python语言程序设计基础（第2版） Python程序设计",
           "query": "python语言程序设计基础（第2版） Python程序设计"
@@ -2927,6 +3473,12 @@ window.APP_DATA = {
       ],
       "note": "作者：殷瑞祥；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【4K精品】模拟电子技术基础 上交大 郑益慧主讲（精校版字幕，模拟电路/模电 讲课水平略胜华成英，视频质量完爆清华版 4K超清重制版）｜UP：谢谢谢同学鸭｜BV1Gt411b7Zq｜播放：18091906｜搜索：电路与模拟电子技术",
+          "url": "https://www.bilibili.com/video/BV1Gt411b7Zq",
+          "query": "电路与模拟电子技术（第四版） 电路与模拟电子技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：电路与模拟电子技术（第四版） 电路与模拟电子技术",
@@ -2947,6 +3499,12 @@ window.APP_DATA = {
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6957872｜搜索：高等数学 教程",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
+          "query": "《高等数学》第八版下册 高等数学（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：《高等数学》第八版下册 高等数学（2）",
           "query": "《高等数学》第八版下册 高等数学（2）"
@@ -2965,6 +3523,12 @@ window.APP_DATA = {
       ],
       "note": "作者：李红，谢松法；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《工程数学基础》 基础课程 期末考试 专升本 考研复习精讲 天津大学｜UP：没冇耳朵的兔子｜BV1QzUsBkEg1｜播放：3978｜搜索：工程数学",
+          "url": "https://www.bilibili.com/video/BV1QzUsBkEg1",
+          "query": "复变函数与积分变换（第5版） 工程数学"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：复变函数与积分变换（第5版） 工程数学",
@@ -2986,7 +3550,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11406034",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407137｜搜索：大学物理（上册） 大学物理（1）",
           "url": "https://www.bilibili.com/video/BV1VS411A75c",
           "query": "大学物理（上册） 大学物理（1）"
         },
@@ -3010,6 +3574,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407066｜搜索：大学物理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "大学物理（下册） 大学物理（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大学物理（下册） 大学物理（2）",
           "query": "大学物理（下册） 大学物理（2）"
@@ -3025,6 +3595,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：(视频实战课程)如何编制标准检验指导书SIP ?｜UP：质量管理体系培训｜BV1ak4y1r7Yj｜播放：18423｜搜索：实验指导书 学院集中打印",
+          "url": "https://www.bilibili.com/video/BV1ak4y1r7Yj",
+          "query": "实验指导书，学院集中打印 数字电路与逻辑设计实验"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：实验指导书，学院集中打印 数字电路与逻辑设计实验",
@@ -3045,6 +3621,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407137｜搜索：大学物理 教程",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "应用型本科大学物理（下册） 大学物理（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：应用型本科大学物理（下册） 大学物理（2）",
           "query": "应用型本科大学物理（下册） 大学物理（2）"
@@ -3063,6 +3645,12 @@ window.APP_DATA = {
       ],
       "note": "作者：谭志虎 等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【计组】8小时期末速成高分课|计算机组成原理期末复习|机组大题讲解|复试|调剂|专升本可用|绩满满｜UP：哔哩大学计算机院｜BV13iAwz7EHD｜播放：85158｜搜索：计算机组成原理",
+          "url": "https://www.bilibili.com/video/BV13iAwz7EHD",
+          "query": "计算机组成原理（微课版） 计算机组成原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机组成原理（微课版） 计算机组成原理",
@@ -3083,6 +3671,12 @@ window.APP_DATA = {
       "note": "作者：屈婉玲，狄素云，张立昂；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：离散数学 东北大学（全69讲）｜UP：古维京掌管希腊的神｜BV1d7411v7zu｜播放：4465034｜搜索：离散数学及其应用",
+          "url": "https://www.bilibili.com/video/BV1d7411v7zu",
+          "query": "离散数学及其应用 离散数学"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：离散数学及其应用 离散数学",
           "query": "离散数学及其应用 离散数学"
@@ -3101,6 +3695,12 @@ window.APP_DATA = {
       ],
       "note": "作者：阿斯顿·张（Aston Zhang），李沐（Mu Li） 等 著，何孝霆（Xiaoting He），瑞潮儿·胡（Rachel Hu） 译；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【2025版】李沐动手学深度学习系列课程！包含深度学习、机器学习算法、神经网络、计算机视觉物体检测、迁移学习、大模型微调等人工智能核心知识点！就怕你学不会！｜UP：深度学习项目实战｜BV15UREYsEN8｜播放：656543｜搜索：动手学深度学习 PyTorch版",
+          "url": "https://www.bilibili.com/video/BV15UREYsEN8",
+          "query": "动手学深度学习 PyTorch版 人工智能原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：动手学深度学习 PyTorch版 人工智能原理",
@@ -3121,6 +3721,12 @@ window.APP_DATA = {
       "note": "作者：贾铁军 等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《数据库系统概论》0基础也能听懂 期末冲刺上高分 期末自救速成课资源 期末不挂科资源 期末复习突击速成课资源 考研复试知识框架梳理｜UP：重生之期末自救指南｜BV1D8qUB2Eor｜播放：336968｜搜索：数据库 期末复习",
+          "url": "https://www.bilibili.com/video/BV1D8qUB2Eor",
+          "query": "数据库原理及应用与实践（第4版) 数据库原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库原理及应用与实践（第4版) 数据库原理",
           "query": "数据库原理及应用与实践（第4版) 数据库原理"
@@ -3139,6 +3745,12 @@ window.APP_DATA = {
       ],
       "note": "作者：蔺素珍；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：数字图像处理-Digital Image Processing (DIP)｜UP：深度大脑｜BV1tx41147Tx｜播放：574459｜搜索：新编数字图像处理技术及应用",
+          "url": "https://www.bilibili.com/video/BV1tx41147Tx",
+          "query": "新编数字图像处理技术及应用（修订版） 数字图像处理及应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：新编数字图像处理技术及应用（修订版） 数字图像处理及应用",
@@ -3160,8 +3772,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：使用MATLAB学习数字信号处理：第一章 离散时间信号与系统（1、使用stem函数绘制离散时间序列）.mp4｜UP：算法工匠｜BV1mv4y1T7o7｜播放：31247",
-          "url": "https://www.bilibili.com/video/BV1mv4y1T7o7",
+          "search": "视频：【数字信号处理期末速成课】电子通信期末考试课程｜UP：水木观畴电子通信考研｜BV1DT421X7iu｜播放：504127｜搜索：数字信号处理教程",
+          "url": "https://www.bilibili.com/video/BV1DT421X7iu",
           "query": "数字信号处理教程（第五版） 数字信号处理"
         },
         {
@@ -3185,7 +3797,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11406034",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407137｜搜索：《应用型本科大学物理》上册 大学物理（1）",
           "url": "https://www.bilibili.com/video/BV1VS411A75c",
           "query": "《应用型本科大学物理》上册 大学物理（1）"
         },
@@ -3210,8 +3822,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《概率论与数理统计》教学视频 2.0版本【宋浩老师】｜UP：宋浩老师官方｜BV1JXppejE8q｜播放：19768411",
-          "url": "https://www.bilibili.com/video/BV1JXppejE8q",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5490946｜搜索：概率论与数理统计 期末复习",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
           "query": "概率论与数理统计 概率论与数理统计"
         },
         {
@@ -3234,6 +3846,12 @@ window.APP_DATA = {
       "note": "作者：严蔚敏等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：数据结构与算法基础（青岛大学-王卓）｜UP：87师兄｜BV1nJ411V7bd｜播放：16201024｜搜索：数据结构",
+          "url": "https://www.bilibili.com/video/BV1nJ411V7bd",
+          "query": "数据结构（C语言版）（第2版） 数据结构与算法"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据结构（C语言版）（第2版） 数据结构与算法",
           "query": "数据结构（C语言版）（第2版） 数据结构与算法"
@@ -3252,6 +3870,12 @@ window.APP_DATA = {
       ],
       "note": "作者：阎石；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【电子】数字电子技术基础（数字电路/数电） 清华大学 王红主讲｜UP：谢谢谢同学鸭｜BV18p411Z7ce｜播放：6422697｜搜索：数字电子技术基础（第六版) 数字电路与逻辑设计",
+          "url": "https://www.bilibili.com/video/BV18p411Z7ce",
+          "query": "数字电子技术基础（第六版) 数字电路与逻辑设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版) 数字电路与逻辑设计",
@@ -3273,8 +3897,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：中国矿业大学868自动控制原理1-7章讲解视频｜UP：Luyoyo-｜BV1ue411f7R8｜播放：2263",
-          "url": "https://www.bilibili.com/video/BV1ue411f7R8",
+          "search": "视频：亲测最好的《自动控制原理》期末速成课！零基础不挂科！无痛自救轻松保过！｜UP：掌握控制考研｜BV1Q5yhBJE6v｜播放：791894｜搜索：自动控制原理（第二版） 自动控制原理",
+          "url": "https://www.bilibili.com/video/BV1Q5yhBJE6v",
           "query": "自动控制原理（第二版） 自动控制原理"
         },
         {
@@ -3297,6 +3921,12 @@ window.APP_DATA = {
       "note": "作者：贾铁军等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【合集】数据库原理及应用 东南大学 徐立臻 共72讲｜UP：123小棕熊｜BV1ux411G7Bs｜播放：929913｜搜索：数据库原理及应用与实践",
+          "url": "https://www.bilibili.com/video/BV1ux411G7Bs",
+          "query": "数据库原理及应用与实践 数据库原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库原理及应用与实践 数据库原理",
           "query": "数据库原理及应用与实践 数据库原理"
@@ -3317,7 +3947,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数字图像处理章毓晋版-期末速成｜UP：DR-学习版｜BV1KPmtB3EfT｜播放：3031",
+          "search": "视频：数字图像处理章毓晋版-期末速成｜UP：DR-学习版｜BV1KPmtB3EfT｜播放：3032｜搜索：数字图像处理及应用",
           "url": "https://www.bilibili.com/video/BV1KPmtB3EfT",
           "query": "新编数字图像处理技术及应用 数字图像处理及应用"
         },
@@ -3341,6 +3971,12 @@ window.APP_DATA = {
       "note": "作者：王庆先，顾小丰，王丽杰；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：离散数学 东北大学（全69讲）｜UP：古维京掌管希腊的神｜BV1d7411v7zu｜播放：4465034｜搜索：离散数学（微课版）（第2版） 离散数学",
+          "url": "https://www.bilibili.com/video/BV1d7411v7zu",
+          "query": "离散数学（微课版）（第2版） 离散数学"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：离散数学（微课版）（第2版） 离散数学",
           "query": "离散数学（微课版）（第2版） 离散数学"
@@ -3359,6 +3995,12 @@ window.APP_DATA = {
       ],
       "note": "作者：程佩青；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【数字信号处理期末速成课】电子通信期末考试课程｜UP：水木观畴电子通信考研｜BV1DT421X7iu｜播放：504127｜搜索：数字信号处理教程",
+          "url": "https://www.bilibili.com/video/BV1DT421X7iu",
+          "query": "数字信号处理教程 数字信号处理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字信号处理教程 数字信号处理",
@@ -3380,8 +4022,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：（清华大学）计算机组成原理｜UP：方知学长｜BV1jE41177sS｜播放：87164",
-          "url": "https://www.bilibili.com/video/BV1jE41177sS",
+          "search": "视频：【计组】8小时期末速成高分课|计算机组成原理期末复习|机组大题讲解|复试|调剂|专升本可用|绩满满｜UP：哔哩大学计算机院｜BV13iAwz7EHD｜播放：85166｜搜索：计算机组成原理 期末复习",
+          "url": "https://www.bilibili.com/video/BV13iAwz7EHD",
           "query": "计算机组成原理（微课版）（第2版） 计算机组成原理"
         },
         {
@@ -3405,8 +4047,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：华中师范大学三级物理实验1核磁共振实验操作讲解｜UP：咪咕萱er｜BV1b64y1871W｜播放：16106",
-          "url": "https://www.bilibili.com/video/BV1b64y1871W",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407137｜搜索：大学物理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
           "query": "大学物理实验1 大学物理实验（1）"
         },
         {
@@ -3430,8 +4072,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【期末冲刺上大分】《大物/大学物理》3小时快速突击，期末不挂科【蜂考】｜UP：蜂考｜BV1KSPeeGE1q｜播放：8211013",
-          "url": "https://www.bilibili.com/video/BV1KSPeeGE1q",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407137｜搜索：大学物理 大学物理 物理学习题分析与解答",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
           "query": "大学物理（1）(第七版) 大学物理（2）(第七版) 物理学习题分析与解答 (第七版) 大学物理（2）"
         },
         {
@@ -3455,8 +4097,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：B站首发！手把手教你用Docker部署PyTorch深度学习模型！全程干货讲解，零基础小白可学！（人工智能/机器学习/云原生/容器/研究生）｜UP：AI讲师-唐宇迪｜BV1AAoqYdETG｜播放：8732",
-          "url": "https://www.bilibili.com/video/BV1AAoqYdETG",
+          "search": "视频：【整整600集】清华大学196小时讲完的AI人工智能从入门到精通全套教程，全程干货无废话！学完变大佬！这还学不会，我退出IT圈！机器学习-深度学习-opencv｜UP：IT界扛霸子｜BV1qZSLBYEpa｜播放：749109｜搜索：人工智能原理",
+          "url": "https://www.bilibili.com/video/BV1qZSLBYEpa",
           "query": "动手学深度学习pytorch版 人工智能原理"
         },
         {
@@ -3480,8 +4122,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：USBCAN驱动安装视频｜UP：哇是班班｜BV16N4y1f7yW｜播放：4051",
-          "url": "https://www.bilibili.com/video/BV16N4y1f7yW",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763732｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
           "query": "Java程序设计实训——增量式项目驱动一体化教程（第2版） 程序设计实训"
         },
         {
@@ -3504,6 +4146,12 @@ window.APP_DATA = {
       "note": "作者：盛骤等；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5491220｜搜索：概率论与数理统计",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
+          "query": "概率论与数理统计（第五版） 概率论与数理统计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：概率论与数理统计（第五版） 概率论与数理统计",
           "query": "概率论与数理统计（第五版） 概率论与数理统计"
@@ -3522,6 +4170,12 @@ window.APP_DATA = {
       ],
       "note": "作者：谭志虎；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【计组】8小时期末速成高分课|计算机组成原理期末复习|机组大题讲解|复试|调剂|专升本可用|绩满满｜UP：哔哩大学计算机院｜BV13iAwz7EHD｜播放：85166｜搜索：计算机组成原理",
+          "url": "https://www.bilibili.com/video/BV13iAwz7EHD",
+          "query": "计算机组成原理 计算机组成原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机组成原理 计算机组成原理",
@@ -3543,8 +4197,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：SQL Server复制功能配置｜UP：btldxx｜BV1VeedeoE74｜播放：859",
-          "url": "https://www.bilibili.com/video/BV1VeedeoE74",
+          "search": "视频：SQL SERVER数据库_D丝学编程｜UP：D丝学编程｜BV1XV411C7TP｜播放：756191｜搜索：数据库原理及应用与实践 基于SQL Server 2019",
+          "url": "https://www.bilibili.com/video/BV1XV411C7TP",
           "query": "数据库原理及应用与实践（第4版)——基于SQL Server 2019 数据库原理"
         },
         {
@@ -3567,6 +4221,12 @@ window.APP_DATA = {
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59075｜搜索：OpenCV Python 全套教程",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
+          "query": "OpenCV计算机视觉基础教程（Python版） 计算机视觉及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程（Python版） 计算机视觉及应用",
           "query": "OpenCV计算机视觉基础教程（Python版） 计算机视觉及应用"
@@ -3586,6 +4246,12 @@ window.APP_DATA = {
       "note": "作者：曾剑平；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：人工智能基础《机器学习从入门到实战》2026年完整版全套视频教程！从算法到实战项目，覆盖KNN算法、线性回归、逻辑回归、决策树、集成学习、KMeans算法等｜UP：人工智能课程分享官｜BV1g9W7zCE8a｜播放：1611666｜搜索：机器学习 全套教程",
+          "url": "https://www.bilibili.com/video/BV1g9W7zCE8a",
+          "query": "Python爬虫大数据采集与挖掘-微课视频版（大数据与人工智能技术丛书） 机器学习"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Python爬虫大数据采集与挖掘-微课视频版（大数据与人工智能技术丛书） 机器学习",
           "query": "Python爬虫大数据采集与挖掘-微课视频版（大数据与人工智能技术丛书） 机器学习"
@@ -3604,6 +4270,12 @@ window.APP_DATA = {
       ],
       "note": "作者：刘相权 张万杰；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员_零基础玩转机器人操作系统ROS｜UP：黑马程序员｜BV1Bh411y7QM｜播放：173242｜搜索：机器人操作系统(ROS)及仿真应用 机器人技术",
+          "url": "https://www.bilibili.com/video/BV1Bh411y7QM",
+          "query": "机器人操作系统(ROS)及仿真应用 机器人技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：机器人操作系统(ROS)及仿真应用 机器人技术",
@@ -3625,8 +4297,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：大学生就业指导期末答案110%｜UP：尘huan｜BV1fe4y1M7kY｜播放：12795",
-          "url": "https://www.bilibili.com/video/BV1fe4y1M7kY",
+          "search": "视频：【北京大学】大学生职业发展与就业指导（全108讲）谢伟｜UP：iMuseums｜BV1LW4y1R7EH｜播放：127241｜搜索：《美好前程——大学生就业指导教程》 就业指导（理论）",
+          "url": "https://www.bilibili.com/video/BV1LW4y1R7EH",
           "query": "《美好前程——大学生就业指导教程》 就业指导（理论）"
         },
         {
@@ -3649,6 +4321,12 @@ window.APP_DATA = {
       "note": "作者：屈婉玲 耿素云 张立昂；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：离散数学 东北大学（全69讲）｜UP：古维京掌管希腊的神｜BV1d7411v7zu｜播放：4465023｜搜索：离散数学及其应用（第2版） 离散数学",
+          "url": "https://www.bilibili.com/video/BV1d7411v7zu",
+          "query": "离散数学及其应用（第2版） 离散数学"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：离散数学及其应用（第2版） 离散数学",
           "query": "离散数学及其应用（第2版） 离散数学"
@@ -3667,6 +4345,12 @@ window.APP_DATA = {
       ],
       "note": "作者：阎石；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【电子】数字电子技术基础（数字电路/数电） 清华大学 王红主讲｜UP：谢谢谢同学鸭｜BV18p411Z7ce｜播放：6422700｜搜索：数字电子技术基础（第六版） 数字电路与逻辑设计",
+          "url": "https://www.bilibili.com/video/BV18p411Z7ce",
+          "query": "数字电子技术基础（第六版） 数字电路与逻辑设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版） 数字电路与逻辑设计",
@@ -3687,6 +4371,12 @@ window.APP_DATA = {
       "note": "作者：阎石 王红；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【数电】数字电子技术高分课期末速成|数字电路期末复习|复试|调剂|专升本可用|绩满满｜UP：橙子期末包过｜BV1Qj9VB4E6k｜播放：29499｜搜索：数字电子技术 期末复习",
+          "url": "https://www.bilibili.com/video/BV1Qj9VB4E6k",
+          "query": "数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计",
           "query": "数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计"
@@ -3705,6 +4395,12 @@ window.APP_DATA = {
       ],
       "note": "作者：闵虎、杨智；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《自动控制原理》期末速成课！|期末不挂科|考点总结|自救指南|考前突击｜UP：控制考研阿祖｜BV1x6qLYHEso｜播放：3478083｜搜索：自动控制原理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1x6qLYHEso",
+          "query": "自动控制系统（第3版） 自动控制原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：自动控制系统（第3版） 自动控制原理",
@@ -3725,6 +4421,12 @@ window.APP_DATA = {
       "note": "作者：[美] Peter Harrington 著，李锐，李鹏，曲亚东 等 译；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：人工智能基础《机器学习从入门到实战》2026年完整版全套视频教程！从算法到实战项目，覆盖KNN算法、线性回归、逻辑回归、决策树、集成学习、KMeans算法等｜UP：人工智能课程分享官｜BV1g9W7zCE8a｜播放：1611664｜搜索：机器学习实践",
+          "url": "https://www.bilibili.com/video/BV1g9W7zCE8a",
+          "query": "机器学习实战(图灵出品) [Machine learning in action] 机器学习实践"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：机器学习实战(图灵出品) [Machine learning in action] 机器学习实践",
           "query": "机器学习实战(图灵出品) [Machine learning in action] 机器学习实践"
@@ -3743,6 +4445,12 @@ window.APP_DATA = {
       ],
       "note": "作者：赖申江、马西秦；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：传感器原理及应用-同济大学｜UP：机械电子技术控｜BV1vE411b7fK｜播放：135399｜搜索：传感器原理及应用",
+          "url": "https://www.bilibili.com/video/BV1vE411b7fK",
+          "query": "《自动检测技术》第4版 传感器原理及应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：《自动检测技术》第4版 传感器原理及应用",
@@ -3763,6 +4471,12 @@ window.APP_DATA = {
       "note": "作者：张学工、汪小我；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《模式识别》3小时期末速成课！考前冲刺 | 期末速成 | 考点合集 | 保证不挂科！｜UP：数学建模老哥｜BV1ik4y1Q72A｜播放：115787｜搜索：模式识别（第四版） 模式识别",
+          "url": "https://www.bilibili.com/video/BV1ik4y1Q72A",
+          "query": "模式识别（第四版） 模式识别"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：模式识别（第四版） 模式识别",
           "query": "模式识别（第四版） 模式识别"
@@ -3781,6 +4495,12 @@ window.APP_DATA = {
       ],
       "note": "作者：曾剑平；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：三小时一起来复习大数据技术吧，期末速成这一块｜UP：梓菜不才｜BV1bqvmBKEvh｜播放：12490｜搜索：大数据 期末复习",
+          "url": "https://www.bilibili.com/video/BV1bqvmBKEvh",
+          "query": "Python爬虫大数据采集与挖掘 大数据技术与开发实训"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Python爬虫大数据采集与挖掘 大数据技术与开发实训",
@@ -3801,6 +4521,12 @@ window.APP_DATA = {
       "note": "作者：林子雨；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员大数据入门到实战教程，大数据开发必会的Hadoop、Hive，云平台实战项目全套一网打尽｜UP：黑马程序员｜BV1WY4y197g7｜播放：1104739｜搜索：大数据 全套教程",
+          "url": "https://www.bilibili.com/video/BV1WY4y197g7",
+          "query": "大数据技术原理与应用 大数据与云计算"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大数据技术原理与应用 大数据与云计算",
           "query": "大数据技术原理与应用 大数据与云计算"
@@ -3819,6 +4545,12 @@ window.APP_DATA = {
       ],
       "note": "作者：张鉴新、周晓晴；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】 多媒体技术及应用｜UP：账号已注销｜BV134411R7wz｜播放：76442｜搜索：多媒体技术与应用",
+          "url": "https://www.bilibili.com/video/BV134411R7wz",
+          "query": "多媒体技术与应用 多媒体信息处理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：多媒体技术与应用 多媒体信息处理",
@@ -3840,8 +4572,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：物联网组网技术及应用【全53讲】【含资料】【国家级精品课】｜UP：爱学习的小刚子｜BV1L8qrBeEPY｜播放：7237",
-          "url": "https://www.bilibili.com/video/BV1L8qrBeEPY",
+          "search": "视频：嵌入式RT-Thread实时操作系统教程，rtthread入门到精通全套完整版｜UP：嵌入式-｜BV1Cb4y1m7W5｜播放：346214｜搜索：物联网技术及应用 教程",
+          "url": "https://www.bilibili.com/video/BV1Cb4y1m7W5",
           "query": "物联网技术及应用 物联网技术及应用"
         },
         {
@@ -3864,6 +4596,12 @@ window.APP_DATA = {
       "note": "作者：李洋、李实；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：NLP零基础教程，nlp自然语言处理，Transformer、LSTM、BERT、llm、大模型训练｜UP：尚硅谷｜BV1k44LzPEhU｜播放：687616｜搜索：自然语言处理入门 自然语言处理",
+          "url": "https://www.bilibili.com/video/BV1k44LzPEhU",
+          "query": "自然语言处理入门 自然语言处理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：自然语言处理入门 自然语言处理",
           "query": "自然语言处理入门 自然语言处理"
@@ -3882,6 +4620,12 @@ window.APP_DATA = {
       ],
       "note": "作者：杨俊伟；出版社：自编；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：王道计算机考研 操作系统｜UP：王道计算机教育｜BV1YE411D7nH｜播放：22040428｜搜索：操作系统 期末复习",
+          "url": "https://www.bilibili.com/video/BV1YE411D7nH",
+          "query": "操作系统课程设计实验指导书 操作系统课程设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：操作系统课程设计实验指导书 操作系统课程设计",
@@ -3902,6 +4646,12 @@ window.APP_DATA = {
       "note": "作者：吴帆；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【操作系统】计算机操作系统入门到精通完整教程（2022最新版）操作系统专业考试不挂科｜UP：马士兵_Java论坛｜BV1Ha411e7D4｜播放：373081｜搜索：操作系统 教程",
+          "url": "https://www.bilibili.com/video/BV1Ha411e7D4",
+          "query": "操作系统原理与实现 操作系统原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：操作系统原理与实现 操作系统原理",
           "query": "操作系统原理与实现 操作系统原理"
@@ -3920,6 +4670,12 @@ window.APP_DATA = {
       ],
       "note": "作者：张志军,吴畏,冯暖,周娜；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：工业机器人技术基础（完）｜UP：鼎院ginger｜BV1C7411K7HP｜播放：372542｜搜索：机器人技术基础 机器人技术",
+          "url": "https://www.bilibili.com/video/BV1C7411K7HP",
+          "query": "机器人技术基础 机器人技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：机器人技术基础 机器人技术",
@@ -3940,6 +4696,12 @@ window.APP_DATA = {
       "note": "作者：凌峰；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《机器学习》期末复习速成课资源 考研复习 期末不挂科资源 基础知识框架复习 补考救急｜UP：逻辑芒果｜BV11NSMBREvU｜播放：67030｜搜索：机器学习 期末复习",
+          "url": "https://www.bilibili.com/video/BV11NSMBREvU",
+          "query": "细说机器学习：从理论到实践 机器学习"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：细说机器学习：从理论到实践 机器学习",
           "query": "细说机器学习：从理论到实践 机器学习"
@@ -3958,6 +4720,12 @@ window.APP_DATA = {
       ],
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59075｜搜索：OpenCV计算机视觉基础教程Python版 慕课版",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
+          "query": "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用",
@@ -3978,6 +4746,12 @@ window.APP_DATA = {
       "note": "作者：谢希仁、谢钧；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【期末复习】7天快速通过计算机网络期末考试｜谢希仁版｜考前急救｜高效通过｜粉丝投稿｜UP：网络工程师学长｜BV1PK4y1X7ze｜播放：2532018｜搜索：计算机网络",
+          "url": "https://www.bilibili.com/video/BV1PK4y1X7ze",
+          "query": "计算机网络教程（第7版 微课版） 计算机网络"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机网络教程（第7版 微课版） 计算机网络",
           "query": "计算机网络教程（第7版 微课版） 计算机网络"
@@ -3996,6 +4770,12 @@ window.APP_DATA = {
       ],
       "note": "作者：肖四喜 申书飞；出版社：上海交通大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【北京大学】大学生职业发展与就业指导（全108讲）谢伟｜UP：iMuseums｜BV1LW4y1R7EH｜播放：127241｜搜索：美好前程——大学生就业指导教程 就业指导（理论）",
+          "url": "https://www.bilibili.com/video/BV1LW4y1R7EH",
+          "query": "美好前程——大学生就业指导教程 就业指导（理论）"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：美好前程——大学生就业指导教程 就业指导（理论）",
@@ -4016,6 +4796,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763720｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
+          "query": "Java程序设计——增量式项目驱动一体化教程（第2版） 面向对象程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Java程序设计——增量式项目驱动一体化教程（第2版） 面向对象程序设计",
           "query": "Java程序设计——增量式项目驱动一体化教程（第2版） 面向对象程序设计"
@@ -4034,6 +4820,12 @@ window.APP_DATA = {
       ],
       "note": "作者：张学工等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：中科院大佬带你学模式识别与机器学习！最系统的公开课！｜UP：奥创教你学编程｜BV1o8411K7md｜播放：21786｜搜索：模式识别",
+          "url": "https://www.bilibili.com/video/BV1o8411K7md",
+          "query": "模式识别 模式识别"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：模式识别 模式识别",
@@ -4054,6 +4846,12 @@ window.APP_DATA = {
       "note": "作者：蒋建春 主编 文伟平、焦健 副主编；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【网络安全教程】2026年B站最全最详细的网络安全零基础入门全套教学！全程干货精讲，少走99%弯路，挑战7天从小白逆袭成大神！｜UP：好课宣传委｜BV1ckqYBWE7f｜播放：4010111｜搜索：信息安全技术",
+          "url": "https://www.bilibili.com/video/BV1ckqYBWE7f",
+          "query": "信息安全工程师教程（第2版） 信息安全技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：信息安全工程师教程（第2版） 信息安全技术",
           "query": "信息安全工程师教程（第2版） 信息安全技术"
@@ -4072,6 +4870,12 @@ window.APP_DATA = {
       ],
       "note": "作者：屠可伟、王新宇、曲彦儒、俞勇；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：NLP零基础教程，nlp自然语言处理，Transformer、LSTM、BERT、llm、大模型训练｜UP：尚硅谷｜BV1k44LzPEhU｜播放：687638｜搜索：自然语言处理",
+          "url": "https://www.bilibili.com/video/BV1k44LzPEhU",
+          "query": "动手学自然语言处理 自然语言处理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：动手学自然语言处理 自然语言处理",
@@ -4092,6 +4896,12 @@ window.APP_DATA = {
       "note": "作者：谭志国、陈海山等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员java教程工作流引擎Activiti7基础到进阶，Activiti和Spring框架、SpringBoot整合｜UP：黑马程序员｜BV1H54y167gf｜播放：485777｜搜索：Java程序设计实训 增量式项目驱动一体化教程",
+          "url": "https://www.bilibili.com/video/BV1H54y167gf",
+          "query": "Java程序设计实训——增量式项目驱动一体化教程（第二版） 程序设计实训"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Java程序设计实训——增量式项目驱动一体化教程（第二版） 程序设计实训",
           "query": "Java程序设计实训——增量式项目驱动一体化教程（第二版） 程序设计实训"
@@ -4111,6 +4921,12 @@ window.APP_DATA = {
       "note": "作者：林子雨等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：尚硅谷大数据Spark教程从入门到精通｜UP：尚硅谷｜BV11A411L7CK｜播放：1458986｜搜索：Spark编程基础（Python版，第2版） 大数据技术与开发实训",
+          "url": "https://www.bilibili.com/video/BV11A411L7CK",
+          "query": "Spark编程基础（Python版，第2版） 大数据技术与开发实训"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Spark编程基础（Python版，第2版） 大数据技术与开发实训",
           "query": "Spark编程基础（Python版，第2版） 大数据技术与开发实训"
@@ -4129,6 +4945,12 @@ window.APP_DATA = {
       ],
       "note": "作者：克里斯托弗·M.毕晓普(Christopher M.Bishop)；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：PyTorch深度学习快速入门教程（绝对通俗易懂！）【小土堆】｜UP：我是土堆｜BV1hE411t7RN｜播放：8131506｜搜索：深度学习 全套教程",
+          "url": "https://www.bilibili.com/video/BV1hE411t7RN",
+          "query": "深度学习基础与概念 深度学习"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：深度学习基础与概念 深度学习",
@@ -4150,7 +4972,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【26最新】UP已付费！！软考中级嵌入式系统设计师（嵌入式）零基础跟学视频：系统精讲+学霸笔记+历年真题+模拟题带练！｜UP：软考小灵通｜BV1qbPGzdEk9｜播放：35413",
+          "search": "视频：【26最新】UP已付费！！软考中级嵌入式系统设计师（嵌入式）零基础跟学视频：系统精讲+学霸笔记+历年真题+模拟题带练！｜UP：软考小灵通｜BV1qbPGzdEk9｜播放：35417｜搜索：自编教材 嵌入式系统实践",
           "url": "https://www.bilibili.com/video/BV1qbPGzdEk9",
           "query": "自编教材 嵌入式系统实践"
         },
@@ -4175,7 +4997,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：智能网联汽车技术【全92讲】【含资料】【国家级精品课】｜UP：爱学习的小刚子｜BV1b4eyzGE2K｜播放：37474",
+          "search": "视频：智能网联汽车技术【全92讲】【含资料】【国家级精品课】｜UP：爱学习的小刚子｜BV1b4eyzGE2K｜播放：37486｜搜索：智能网联汽车技术基础 智能系统实训",
           "url": "https://www.bilibili.com/video/BV1b4eyzGE2K",
           "query": "智能网联汽车技术基础 智能系统实训"
         },
@@ -4200,8 +5022,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【微处理器与嵌入式系统设计】电子科技大学｜UP：学习资料搬运工｜BV1Gp4y1y7V3｜播放：87808",
-          "url": "https://www.bilibili.com/video/BV1Gp4y1y7V3",
+          "search": "视频：什么是ARM？零基础入门学习ARM嵌入式开发！arm架构/arm嵌入式系统基础教程｜UP：keiluvision5使用教程｜BV1iMTuzWE8u｜播放：40927｜搜索：嵌入式系统",
+          "url": "https://www.bilibili.com/video/BV1iMTuzWE8u",
           "query": "嵌入式系统原理与应用-基于Cortex-A53微处理器 嵌入式系统"
         },
         {
@@ -4224,6 +5046,12 @@ window.APP_DATA = {
       "note": "作者：阿斯顿·张（Aston Zhang），李沐（Mu Li），[美] 扎卡里·C. 立顿 等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【2025版】李沐动手学深度学习系列课程！包含深度学习、机器学习算法、神经网络、计算机视觉物体检测、迁移学习、大模型微调等人工智能核心知识点！就怕你学不会！｜UP：深度学习项目实战｜BV15UREYsEN8｜播放：656547｜搜索：动手学深度学习",
+          "url": "https://www.bilibili.com/video/BV15UREYsEN8",
+          "query": "动手学深度学习(异步图书出品) 人工智能原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：动手学深度学习(异步图书出品) 人工智能原理",
           "query": "动手学深度学习(异步图书出品) 人工智能原理"
@@ -4242,6 +5070,12 @@ window.APP_DATA = {
       ],
       "note": "作者：陈云；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员AI大模型《神经网络与深度学习》全套视频课程，涵盖Pytorch深度学习框架、BP神经网络、CNN图像分类算法及RNN文本生成算法｜UP：黑马程序员｜BV1c5yrBcEEX｜播放：1288170｜搜索：深度学习框架Pytorch入门与实践 智能系统实训",
+          "url": "https://www.bilibili.com/video/BV1c5yrBcEEX",
+          "query": "深度学习框架Pytorch入门与实践 智能系统实训"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：深度学习框架Pytorch入门与实践 智能系统实训",
@@ -4263,8 +5097,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《计算机网络教程 第6版，谢钧》课程｜UP：Nidhogg14｜BV161ttzYEbz｜播放：19668",
-          "url": "https://www.bilibili.com/video/BV161ttzYEbz",
+          "search": "视频：【期末复习】7天快速通过计算机网络期末考试｜谢希仁版｜考前急救｜高效通过｜粉丝投稿｜UP：网络工程师学长｜BV1PK4y1X7ze｜播放：2532016｜搜索：计算机网络",
+          "url": "https://www.bilibili.com/video/BV1PK4y1X7ze",
           "query": "《计算机网络教程》(第6版) 计算机网络"
         },
         {
@@ -4287,6 +5121,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【完整版】《C语言》9小时系统学习|期末拿高分【蜂考】｜UP：蜂考｜BV1m9NgeLEyo｜播放：414290｜搜索：C语言 期末复习",
+          "url": "https://www.bilibili.com/video/BV1m9NgeLEyo",
+          "query": "C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计",
           "query": "C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计"
@@ -4306,6 +5146,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：C语言程序设计从入门到进阶【比特鹏哥c语言2024完整版视频教程】（c语言基础入门c语言软件安装C语言指针c语言考研C语言专升本C语言期末计算机二级C语言c语言｜UP：鹏哥C语言｜BV1Vm4y1r7jY｜播放：13139770｜搜索：C语言程序设计实验教程",
+          "url": "https://www.bilibili.com/video/BV1Vm4y1r7jY",
+          "query": "C语言程序设计实验教程（第2版） 高级语言程序设计实践"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：C语言程序设计实验教程（第2版） 高级语言程序设计实践",
           "query": "C语言程序设计实验教程（第2版） 高级语言程序设计实践"
@@ -4324,6 +5170,12 @@ window.APP_DATA = {
       ],
       "note": "作者：刘浩，韩晶；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：MATLAB教程新手入门篇（上部分）（数学建模清风主讲，适合零基础同学观看）｜UP：数学建模学习交流｜BV1dN4y1Q7Kt｜播放：2490168｜搜索：MATLAB 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1dN4y1Q7Kt",
+          "query": "MATLAB R2020a 完全自学一本通 MATLAB语言实践"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：MATLAB R2020a 完全自学一本通 MATLAB语言实践",
@@ -4345,8 +5197,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数农314考点梳理----线性代数｜UP：考研数农小朱｜BV1hb421v7Ld｜播放：14116",
-          "url": "https://www.bilibili.com/video/BV1hb421v7Ld",
+          "search": "视频：【Kira老师】27考研《线性代数》零基础精讲课25h，小白也能轻松入门！ |期末看完直接炸鱼｜UP：一高数｜BV1Q4iJBAEsr｜播放：1605727｜搜索：线性代数",
+          "url": "https://www.bilibili.com/video/BV1Q4iJBAEsr",
           "query": "线性代数 线性代数"
         },
         {
@@ -4370,8 +5222,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《线性代数》习题课，零废话，超精讲！【孔祥仁】｜UP：孔祥仁｜BV1bt421T7p6｜播放：1115259",
-          "url": "https://www.bilibili.com/video/BV1bt421T7p6",
+          "search": "视频：【Kira老师】27考研《线性代数》零基础精讲课25h，小白也能轻松入门！ |期末看完直接炸鱼｜UP：一高数｜BV1Q4iJBAEsr｜播放：1605727｜搜索：线性代数 期末复习",
+          "url": "https://www.bilibili.com/video/BV1Q4iJBAEsr",
           "query": "线性代数习题解答 线性代数"
         },
         {
@@ -4394,6 +5246,12 @@ window.APP_DATA = {
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《高等数学(上)》6小时速成课 | 框框老师（突击课，适合高等数学(微积分)期末考试、期中考试、补考、重修、专升本，考试不挂科）｜UP：框框老师课堂｜BV1mN411r7VM｜播放：17696356｜搜索：高等数学（上册） 高等数学(1)",
+          "url": "https://www.bilibili.com/video/BV1mN411r7VM",
+          "query": "高等数学（上册） 高等数学(1)"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：高等数学（上册） 高等数学(1)",
           "query": "高等数学（上册） 高等数学(1)"
@@ -4412,6 +5270,12 @@ window.APP_DATA = {
       ],
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6957872｜搜索：高等数学 期末复习",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
+          "query": "高等数学习题解答 高等数学(1)"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：高等数学习题解答 高等数学(1)",
@@ -4432,6 +5296,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：一级计算机基础及MS office应用 新思路解题视频【1~20套】｜UP：新思路等考通｜BV1N54y1J7oR｜播放：1256179｜搜索：计算机应用基础实验教程（第5版） 计算机实践基础",
+          "url": "https://www.bilibili.com/video/BV1N54y1J7oR",
+          "query": "计算机应用基础实验教程（第5版） 计算机实践基础"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机应用基础实验教程（第5版） 计算机实践基础",
           "query": "计算机应用基础实验教程（第5版） 计算机实践基础"
@@ -4450,6 +5320,12 @@ window.APP_DATA = {
       ],
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407066｜搜索：应用型本科大学物理(上册) 大学物理（1）",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "应用型本科大学物理(上册) 大学物理（1）"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：应用型本科大学物理(上册) 大学物理（1）",
@@ -4471,8 +5347,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：南京邮电大学813南邮《电路分析》教材讲解｜UP：邮学考研｜BV1wDZmYtE8z｜播放：109327",
-          "url": "https://www.bilibili.com/video/BV1wDZmYtE8z",
+          "search": "视频：电路【4K高清完整版】电路第六版电路分析基础电路邱关源电路原理电路图2025最新80集全带目录电路基础分析电路第五版电路基础知识入门通俗易懂期末速成｜UP：电路第六版｜BV17NLizSEjd｜播放：832541｜搜索：电路分析",
+          "url": "https://www.bilibili.com/video/BV17NLizSEjd",
           "query": "电路分析 电路基础"
         },
         {
@@ -4495,6 +5371,12 @@ window.APP_DATA = {
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6957872｜搜索：高等数学 教程",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
+          "query": "《高等数学》第八版下册 高等数学（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：《高等数学》第八版下册 高等数学（2）",
           "query": "《高等数学》第八版下册 高等数学（2）"
@@ -4513,6 +5395,12 @@ window.APP_DATA = {
       ],
       "note": "作者：李红，谢松法；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《工程数学基础》 基础课程 期末考试 专升本 考研复习精讲 天津大学｜UP：没冇耳朵的兔子｜BV1QzUsBkEg1｜播放：3978｜搜索：工程数学",
+          "url": "https://www.bilibili.com/video/BV1QzUsBkEg1",
+          "query": "复变函数与积分变换（第5版） 工程数学"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：复变函数与积分变换（第5版） 工程数学",
@@ -4534,8 +5422,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：大学计算机应用基础上机实验｜UP：计科小站｜BV11K4y1A75n｜播放：45330",
-          "url": "https://www.bilibili.com/video/BV11K4y1A75n",
+          "search": "视频：【免费讲义】2027适用山东省-计算机全套网课-统招专升本-零基础-基础精讲考试大纲历年真题押题卷试卷习题册题库备考库课好老师库克知了哎上课可参考｜UP：升哥计算机专升本｜BV19D8fz7EDP｜播放：576519｜搜索：计算机应用基础",
+          "url": "https://www.bilibili.com/video/BV19D8fz7EDP",
           "query": "计算机应用基础（第5版） 计算机实践基础"
         },
         {
@@ -4558,6 +5446,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407066｜搜索：大学物理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "大学物理（下册） 大学物理（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大学物理（下册） 大学物理（2）",
           "query": "大学物理（下册） 大学物理（2）"
@@ -4573,6 +5467,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407287｜搜索：大学物理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "实验指导书，学院集中打印 大学物理实验（1）"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：实验指导书，学院集中打印 大学物理实验（1）",
@@ -4593,6 +5493,12 @@ window.APP_DATA = {
       "note": "作者：皮大能；出版社：北京航空航天大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《单片机原理及应用》6小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1pDkjYwE8v｜播放：1653782｜搜索：单片机 期末复习",
+          "url": "https://www.bilibili.com/video/BV1pDkjYwE8v",
+          "query": "单片机原理与应用(双色版） 单片机原理及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：单片机原理与应用(双色版） 单片机原理及应用",
           "query": "单片机原理与应用(双色版） 单片机原理及应用"
@@ -4611,6 +5517,12 @@ window.APP_DATA = {
       ],
       "note": "作者：曾兴雯 刘乃安 主编；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《高频电子线路》期末速成课||期末不挂科|考点总结|自救指南|考前突击｜UP：水木观畴电子通信考研｜BV166Lw6mELa｜播放：28623｜搜索：高频电子线路 高频电子线路",
+          "url": "https://www.bilibili.com/video/BV166Lw6mELa",
+          "query": "高频电子线路（第4版） 高频电子线路"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：高频电子线路（第4版） 高频电子线路",
@@ -4632,8 +5544,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：UG工程制图，出图与导出CAD｜UP：三玖教育-木子｜BV1iHz8YmE4r｜播放：108972",
-          "url": "https://www.bilibili.com/video/BV1iHz8YmE4r",
+          "search": "视频：【工程制图 | 期末急救】零基础速成不挂科⚡已完结全免费⚡（工程图学/现代工程图/机械制图）｜UP：凌云师兄-期末加油站｜BV1FN5VztEZZ｜播放：863378｜搜索：工程制图与CAD",
+          "url": "https://www.bilibili.com/video/BV1FN5VztEZZ",
           "query": "工程制图与AutoCAD 第2版 工程制图与CAD"
         },
         {
@@ -4656,6 +5568,12 @@ window.APP_DATA = {
       "note": "作者：蔺素珍；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：数字图像处理-Digital Image Processing (DIP)｜UP：深度大脑｜BV1tx41147Tx｜播放：574459｜搜索：新编数字图像处理技术及应用",
+          "url": "https://www.bilibili.com/video/BV1tx41147Tx",
+          "query": "新编数字图像处理技术及应用（修订版） 数字图像处理及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：新编数字图像处理技术及应用（修订版） 数字图像处理及应用",
           "query": "新编数字图像处理技术及应用（修订版） 数字图像处理及应用"
@@ -4676,8 +5594,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：使用MATLAB学习数字信号处理：第一章 离散时间信号与系统（1、使用stem函数绘制离散时间序列）.mp4｜UP：算法工匠｜BV1mv4y1T7o7｜播放：31247",
-          "url": "https://www.bilibili.com/video/BV1mv4y1T7o7",
+          "search": "视频：【数字信号处理期末速成课】电子通信期末考试课程｜UP：水木观畴电子通信考研｜BV1DT421X7iu｜播放：504127｜搜索：数字信号处理教程",
+          "url": "https://www.bilibili.com/video/BV1DT421X7iu",
           "query": "数字信号处理教程（第五版） 数字信号处理"
         },
         {
@@ -4700,6 +5618,12 @@ window.APP_DATA = {
       "note": "作者：顾晖 等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：微机原理期末速成课||微机原理期末不挂科||微机原理与接口技术||微机原理||鸿霖学堂｜UP：鸿霖学堂电气考研｜BV1oS411A7gf｜播放：743813｜搜索：微机原理与接口技术（第3版） 微机原理与接口技术",
+          "url": "https://www.bilibili.com/video/BV1oS411A7gf",
+          "query": "微机原理与接口技术（第3版） 微机原理与接口技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：微机原理与接口技术（第3版） 微机原理与接口技术",
           "query": "微机原理与接口技术（第3版） 微机原理与接口技术"
@@ -4720,8 +5644,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《Python语言程序设计》考试复习速成资源/快速复习 考研框架复习 /习题讲解 期末不挂科资源｜UP：丶世中逢尔｜BV1av1SBrE8r｜播放：17073",
-          "url": "https://www.bilibili.com/video/BV1av1SBrE8r",
+          "search": "视频：【全748集】目前B站最全最细的Python零基础全套教程，2026最新版，包含所有干货！七天就能从小白到大神！少走99%的弯路！存下吧！很难找全的！｜UP：Python官方课程｜BV1rpWjevEip｜播放：16624922｜搜索：Python语言程序设计基础",
+          "url": "https://www.bilibili.com/video/BV1rpWjevEip",
           "query": "Python语言程序设计基础(第3版) Python程序设计"
         },
         {
@@ -4744,6 +5668,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407088｜搜索：应用型本科大学物理 下册",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "《应用型本科大学物理》下册 大学物理（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：《应用型本科大学物理》下册 大学物理（2）",
           "query": "《应用型本科大学物理》下册 大学物理（2）"
@@ -4764,8 +5694,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《概率论与数理统计》教学视频 2.0版本【宋浩老师】｜UP：宋浩老师官方｜BV1JXppejE8q｜播放：19768411",
-          "url": "https://www.bilibili.com/video/BV1JXppejE8q",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5490946｜搜索：概率论与数理统计 期末复习",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
           "query": "概率论与数理统计 概率论与数理统计"
         },
         {
@@ -4789,8 +5719,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【期末冲刺上大分】《模电/模拟电子技术基础》8小时系统学习|期末拿高分【蜂考】｜UP：蜂考｜BV1CBfiYfEnN｜播放：3060462",
-          "url": "https://www.bilibili.com/video/BV1CBfiYfEnN",
+          "search": "视频：模拟电子技术基础【4K高清降噪版】 上交大模拟电子 （模拟电路/模电）模拟电子技术基础第六版郑益慧实验期末速成考研专升本简明教程第四版 讲课水平略胜华成英｜UP：模拟电子技术基础-｜BV1qA5DzWEVh｜播放：1468211｜搜索：模拟电子技术",
+          "url": "https://www.bilibili.com/video/BV1qA5DzWEVh",
           "query": "模拟电子技术基础 模拟电子技术"
         },
         {
@@ -4813,6 +5743,12 @@ window.APP_DATA = {
       "note": "作者：阎石；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【电子】数字电子技术基础（数字电路/数电） 清华大学 王红主讲｜UP：谢谢谢同学鸭｜BV18p411Z7ce｜播放：6422697｜搜索：数字电子技术基础（第六版) 数字电路与逻辑设计",
+          "url": "https://www.bilibili.com/video/BV18p411Z7ce",
+          "query": "数字电子技术基础（第六版) 数字电路与逻辑设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版) 数字电路与逻辑设计",
           "query": "数字电子技术基础（第六版) 数字电路与逻辑设计"
@@ -4831,6 +5767,12 @@ window.APP_DATA = {
       ],
       "note": "作者：燕庆明，于凤芹，顾斌杰；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《信号与系统》期末10h速成课||期末不挂科|考点总结|自救指南｜UP：水木观畴电子通信考研｜BV1e6G866Ebk｜播放：79190｜搜索：信号与系统教程 信号与系统",
+          "url": "https://www.bilibili.com/video/BV1e6G866Ebk",
+          "query": "信号与系统教程 信号与系统"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：信号与系统教程 信号与系统",
@@ -4852,7 +5794,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数字图像处理章毓晋版-期末速成｜UP：DR-学习版｜BV1KPmtB3EfT｜播放：3031",
+          "search": "视频：数字图像处理章毓晋版-期末速成｜UP：DR-学习版｜BV1KPmtB3EfT｜播放：3032｜搜索：数字图像处理及应用",
           "url": "https://www.bilibili.com/video/BV1KPmtB3EfT",
           "query": "新编数字图像处理技术及应用 数字图像处理及应用"
         },
@@ -4876,6 +5818,12 @@ window.APP_DATA = {
       "note": "作者：胡建生；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【工程制图 | 期末急救】零基础速成不挂科⚡已完结全免费⚡（工程图学/现代工程图/机械制图）｜UP：凌云师兄-期末加油站｜BV1FN5VztEZZ｜播放：863363｜搜索：工程制图与CAD",
+          "url": "https://www.bilibili.com/video/BV1FN5VztEZZ",
+          "query": "工程制图与AutoCAD 第3版 工程制图与CAD"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：工程制图与AutoCAD 第3版 工程制图与CAD",
           "query": "工程制图与AutoCAD 第3版 工程制图与CAD"
@@ -4895,6 +5843,12 @@ window.APP_DATA = {
       "note": "作者：吴帆；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【操作系统】计算机操作系统入门到精通完整教程（2022最新版）操作系统专业考试不挂科｜UP：马士兵_Java论坛｜BV1Ha411e7D4｜播放：373081｜搜索：操作系统 教程",
+          "url": "https://www.bilibili.com/video/BV1Ha411e7D4",
+          "query": "操作系统原理与实现 操作系统原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：操作系统原理与实现 操作系统原理",
           "query": "操作系统原理与实现 操作系统原理"
@@ -4913,6 +5867,12 @@ window.APP_DATA = {
       ],
       "note": "作者：程佩青；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【数字信号处理期末速成课】电子通信期末考试课程｜UP：水木观畴电子通信考研｜BV1DT421X7iu｜播放：504127｜搜索：数字信号处理教程",
+          "url": "https://www.bilibili.com/video/BV1DT421X7iu",
+          "query": "数字信号处理教程 数字信号处理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字信号处理教程 数字信号处理",
@@ -4934,8 +5894,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：自动控制原理+机械控制原理_03课_3_复阻抗法+运算放大器｜UP：laitianmao｜BV1tP411N7EL｜播放：20482",
-          "url": "https://www.bilibili.com/video/BV1tP411N7EL",
+          "search": "视频：《自动控制原理》期末速成课！|期末不挂科|考点总结|自救指南|考前突击｜UP：控制考研阿祖｜BV1x6qLYHEso｜播放：3478093｜搜索：自动控制原理",
+          "url": "https://www.bilibili.com/video/BV1x6qLYHEso",
           "query": "自动控制原理（第3版） 自动控制原理"
         },
         {
@@ -4959,8 +5919,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【看完挂科算我输】通信电子线路/高频电子线路期末复习，感谢三连～完结撒花！｜UP：跟着浩然玩转高考物理｜BV1K54y1x7Nn｜播放：1145944",
-          "url": "https://www.bilibili.com/video/BV1K54y1x7Nn",
+          "search": "视频：《高频电子线路》期末速成课||期末不挂科|考点总结|自救指南|考前突击｜UP：水木观畴电子通信考研｜BV166Lw6mELa｜播放：28623｜搜索：高频电子线路 高频电子线路",
+          "url": "https://www.bilibili.com/video/BV166Lw6mELa",
           "query": "高频电子线路 高频电子线路"
         },
         {
@@ -4984,8 +5944,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：大学物理实验2-视频合集｜UP：笔盏｜BV1Pk4y1175k｜播放：54666",
-          "url": "https://www.bilibili.com/video/BV1Pk4y1175k",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407189｜搜索：大学物理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
           "query": "大学物理实验2 大学物理实验（2）"
         },
         {
@@ -5008,6 +5968,12 @@ window.APP_DATA = {
       "note": "作者：顾晖 等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：微机原理期末速成课||微机原理期末不挂科||微机原理与接口技术||微机原理||鸿霖学堂｜UP：鸿霖学堂电气考研｜BV1oS411A7gf｜播放：743795｜搜索：微机原理与接口技术 基于8086和Proteus仿真",
+          "url": "https://www.bilibili.com/video/BV1oS411A7gf",
+          "query": "微机原理与接口技术-基于8086和Proteus仿真（第四版） 微机原理与接口技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：微机原理与接口技术-基于8086和Proteus仿真（第四版） 微机原理与接口技术",
           "query": "微机原理与接口技术-基于8086和Proteus仿真（第四版） 微机原理与接口技术"
@@ -5026,6 +5992,12 @@ window.APP_DATA = {
       ],
       "note": "作者：张毅刚；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《单片机原理及应用》6小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：嵌入式小黑｜BV1pUTLznEYT｜播放：44718｜搜索：单片机原理及应用",
+          "url": "https://www.bilibili.com/video/BV1pUTLznEYT",
+          "query": "单片机原理及应用 C51编程+Protues仿真（第二版） 单片机原理及应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：单片机原理及应用 C51编程+Protues仿真（第二版） 单片机原理及应用",
@@ -5046,6 +6018,12 @@ window.APP_DATA = {
       "note": "作者：顾晖 等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：微机原理期末速成课||微机原理期末不挂科||微机原理与接口技术||微机原理||鸿霖学堂｜UP：鸿霖学堂电气考研｜BV1oS411A7gf｜播放：743795｜搜索：微机原理与接口技术--基于8088和Proteus仿真 微机原理与接口技术",
+          "url": "https://www.bilibili.com/video/BV1oS411A7gf",
+          "query": "微机原理与接口技术--基于8088和Proteus仿真 微机原理与接口技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：微机原理与接口技术--基于8088和Proteus仿真 微机原理与接口技术",
           "query": "微机原理与接口技术--基于8088和Proteus仿真 微机原理与接口技术"
@@ -5064,6 +6042,12 @@ window.APP_DATA = {
       ],
       "note": "作者：闵虎 杨智；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《自动控制原理》期末速成课！|期末不挂科|考点总结|自救指南|考前突击｜UP：控制考研阿祖｜BV1x6qLYHEso｜播放：3478083｜搜索：自动控制原理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1x6qLYHEso",
+          "query": "自动控制系统（第3版） 自动控制原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：自动控制系统（第3版） 自动控制原理",
@@ -5084,8 +6068,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数字逻辑电路-与门、或门、非门，理论+实验，学习超简单！｜UP：多多百科｜BV1yT4y1K7Yr｜播放：107425",
-          "url": "https://www.bilibili.com/video/BV1yT4y1K7Yr",
+          "search": "视频：【西安电子科技大学】《 数字电路与逻辑设计》任爱锋（64讲全）HD｜UP：奈奈奈奈奈nice粥｜BV1NE411r7dr｜播放：1898393｜搜索：自编数字电路与逻辑设计实验教材 数字电路与逻辑设计实验",
+          "url": "https://www.bilibili.com/video/BV1NE411r7dr",
           "query": "自编数字电路与逻辑设计实验教材 数字电路与逻辑设计实验"
         },
         {
@@ -5108,6 +6092,12 @@ window.APP_DATA = {
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59075｜搜索：OpenCV Python 全套教程",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
+          "query": "OpenCV计算机视觉基础教程（Python版） 计算机视觉及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程（Python版） 计算机视觉及应用",
           "query": "OpenCV计算机视觉基础教程（Python版） 计算机视觉及应用"
@@ -5126,6 +6116,12 @@ window.APP_DATA = {
       ],
       "note": "作者：樊昌信 任光亮；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：北邮 通信原理公开课 杨鸿文｜UP：sherlockucb｜BV11x411G79C｜播放：633426｜搜索：现代通信原理 通信原理",
+          "url": "https://www.bilibili.com/video/BV11x411G79C",
+          "query": "现代通信原理 通信原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：现代通信原理 通信原理",
@@ -5147,8 +6143,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：大学生就业指导期末答案110%｜UP：尘huan｜BV1fe4y1M7kY｜播放：12795",
-          "url": "https://www.bilibili.com/video/BV1fe4y1M7kY",
+          "search": "视频：【北京大学】大学生职业发展与就业指导（全108讲）谢伟｜UP：iMuseums｜BV1LW4y1R7EH｜播放：127241｜搜索：《美好前程——大学生就业指导教程》 就业指导（理论）",
+          "url": "https://www.bilibili.com/video/BV1LW4y1R7EH",
           "query": "《美好前程——大学生就业指导教程》 就业指导（理论）"
         },
         {
@@ -5171,6 +6167,12 @@ window.APP_DATA = {
       "note": "作者：阎石；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【电子】数字电子技术基础（数字电路/数电） 清华大学 王红主讲｜UP：谢谢谢同学鸭｜BV18p411Z7ce｜播放：6422700｜搜索：数字电子技术基础（第六版） 数字电路与逻辑设计",
+          "url": "https://www.bilibili.com/video/BV18p411Z7ce",
+          "query": "数字电子技术基础（第六版） 数字电路与逻辑设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版） 数字电路与逻辑设计",
           "query": "数字电子技术基础（第六版） 数字电路与逻辑设计"
@@ -5189,6 +6191,12 @@ window.APP_DATA = {
       ],
       "note": "作者：阎石 王红；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【数电】数字电子技术高分课期末速成|数字电路期末复习|复试|调剂|专升本可用|绩满满｜UP：橙子期末包过｜BV1Qj9VB4E6k｜播放：29499｜搜索：数字电子技术 期末复习",
+          "url": "https://www.bilibili.com/video/BV1Qj9VB4E6k",
+          "query": "数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计",
@@ -5209,6 +6217,12 @@ window.APP_DATA = {
       "note": "作者：张洪欣等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【电磁场与电磁波】4小时期末速成|电磁场与电磁波期末复习|电磁场波|各版本均可用第五版谢处方可用|复试|调剂|专升本可用｜UP：橙子期末包过｜BV1XVXzBhEbw｜播放：13682｜搜索：电磁场与电磁波 期末复习",
+          "url": "https://www.bilibili.com/video/BV1XVXzBhEbw",
+          "query": "电磁场与电磁波 工程电磁场"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：电磁场与电磁波 工程电磁场",
           "query": "电磁场与电磁波 工程电磁场"
@@ -5227,6 +6241,12 @@ window.APP_DATA = {
       ],
       "note": "作者：Charles Hawkins；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】数字集成电路设计（数字CMOS集成电路设计基础）- 华东师范大学｜UP：微电子与纳电子学｜BV1XE411g77j｜播放：189911｜搜索：CMOS集成电路设计",
+          "url": "https://www.bilibili.com/video/BV1XE411g77j",
+          "query": "CMOS 数字集成电路设计 CMOS集成电路设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：CMOS 数字集成电路设计 CMOS集成电路设计",
@@ -5247,6 +6267,12 @@ window.APP_DATA = {
       "note": "作者：赖申江、马西秦；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：传感器原理及应用-同济大学｜UP：机械电子技术控｜BV1vE411b7fK｜播放：135399｜搜索：传感器原理及应用",
+          "url": "https://www.bilibili.com/video/BV1vE411b7fK",
+          "query": "《自动检测技术》第4版 传感器原理及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：《自动检测技术》第4版 传感器原理及应用",
           "query": "《自动检测技术》第4版 传感器原理及应用"
@@ -5265,6 +6291,12 @@ window.APP_DATA = {
       ],
       "note": "作者：林子雨；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员大数据入门到实战教程，大数据开发必会的Hadoop、Hive，云平台实战项目全套一网打尽｜UP：黑马程序员｜BV1WY4y197g7｜播放：1104739｜搜索：大数据 全套教程",
+          "url": "https://www.bilibili.com/video/BV1WY4y197g7",
+          "query": "大数据技术原理与应用 大数据与云计算"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：大数据技术原理与应用 大数据与云计算",
@@ -5285,6 +6317,12 @@ window.APP_DATA = {
       "note": "作者：张鉴新、周晓晴；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】 多媒体技术及应用｜UP：账号已注销｜BV134411R7wz｜播放：76442｜搜索：多媒体技术与应用",
+          "url": "https://www.bilibili.com/video/BV134411R7wz",
+          "query": "多媒体技术与应用 多媒体信息处理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：多媒体技术与应用 多媒体信息处理",
           "query": "多媒体技术与应用 多媒体信息处理"
@@ -5303,6 +6341,12 @@ window.APP_DATA = {
       ],
       "note": "作者：谢钧、谢希仁；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：深入浅出计算机网络 微课视频｜UP：湖科大教书匠｜BV1NT411g7n6｜播放：2806995｜搜索：计算机网络教程",
+          "url": "https://www.bilibili.com/video/BV1NT411g7n6",
+          "query": "计算机网络教程 计算机网络"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机网络教程 计算机网络",
@@ -5323,6 +6367,12 @@ window.APP_DATA = {
       "note": "作者：阿斯顿·张（Aston Zhang），李沐（Mu Li） 等 著，何孝霆（Xiaoting He），瑞潮儿·胡（Rachel Hu） 译；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【2025版】李沐动手学深度学习系列课程！包含深度学习、机器学习算法、神经网络、计算机视觉物体检测、迁移学习、大模型微调等人工智能核心知识点！就怕你学不会！｜UP：深度学习项目实战｜BV15UREYsEN8｜播放：656543｜搜索：动手学深度学习 PyTorch版",
+          "url": "https://www.bilibili.com/video/BV15UREYsEN8",
+          "query": "动手学深度学习 PyTorch版 人工智能原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：动手学深度学习 PyTorch版 人工智能原理",
           "query": "动手学深度学习 PyTorch版 人工智能原理"
@@ -5342,6 +6392,12 @@ window.APP_DATA = {
       "note": "作者：严蔚敏等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：数据结构与算法基础（青岛大学-王卓）｜UP：87师兄｜BV1nJ411V7bd｜播放：16201024｜搜索：数据结构",
+          "url": "https://www.bilibili.com/video/BV1nJ411V7bd",
+          "query": "数据结构（C语言版）（第2版） 数据结构与算法"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据结构（C语言版）（第2版） 数据结构与算法",
           "query": "数据结构（C语言版）（第2版） 数据结构与算法"
@@ -5360,6 +6416,12 @@ window.APP_DATA = {
       ],
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763783｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
+          "query": "HTML+CSS+JavaScript网页制作案例教程（第二版） 网站设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：HTML+CSS+JavaScript网页制作案例教程（第二版） 网站设计",
@@ -5381,8 +6443,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：这才是我想要的项目管理工具！5款免费的项目管理工具推荐｜UP：不及物动词xo｜BV1mM411K7hJ｜播放：115969",
-          "url": "https://www.bilibili.com/video/BV1mM411K7hJ",
+          "search": "视频：《软件项目管理》——闫波｜UP：北京理工大学｜BV1HE411P79e｜播放：89379｜搜索：软件项目管理案例教程（第5版） 项目管理",
+          "url": "https://www.bilibili.com/video/BV1HE411P79e",
           "query": "软件项目管理案例教程（第5版） 项目管理"
         },
         {
@@ -5406,7 +6468,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【公开课】数字集成电路设计（数字CMOS集成电路设计基础）- 华东师范大学｜UP：微电子与纳电子学｜BV1XE411g77j｜播放：189902",
+          "search": "视频：【公开课】数字集成电路设计（数字CMOS集成电路设计基础）- 华东师范大学｜UP：微电子与纳电子学｜BV1XE411g77j｜播放：189911｜搜索：CMOS数字集成电路设计 CMOS集成电路设计",
           "url": "https://www.bilibili.com/video/BV1XE411g77j",
           "query": "CMOS数字集成电路设计 CMOS集成电路设计"
         },
@@ -5430,6 +6492,12 @@ window.APP_DATA = {
       "note": "作者：张洪欣等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：电磁场与电磁波 西安交大 马西奎老师主讲【49讲 带目录（缺第41讲）】 电磁场与电磁波 考研 考试 复习 通俗易懂 北航921可用 工程电磁场导论｜UP：小熊打篮球｜BV1d7411b7mw｜播放：533706｜搜索：电磁场与电磁波",
+          "url": "https://www.bilibili.com/video/BV1d7411b7mw",
+          "query": "电磁场与电磁波（第4版） 工程电磁场"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：电磁场与电磁波（第4版） 工程电磁场",
           "query": "电磁场与电磁波（第4版） 工程电磁场"
@@ -5449,6 +6517,12 @@ window.APP_DATA = {
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59075｜搜索：OpenCV计算机视觉基础教程Python版 慕课版",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
+          "query": "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用",
           "query": "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用"
@@ -5467,6 +6541,12 @@ window.APP_DATA = {
       ],
       "note": "作者：肖四喜 申书飞；出版社：上海交通大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【北京大学】大学生职业发展与就业指导（全108讲）谢伟｜UP：iMuseums｜BV1LW4y1R7EH｜播放：127241｜搜索：美好前程——大学生就业指导教程 就业指导（理论）",
+          "url": "https://www.bilibili.com/video/BV1LW4y1R7EH",
+          "query": "美好前程——大学生就业指导教程 就业指导（理论）"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：美好前程——大学生就业指导教程 就业指导（理论）",
@@ -5488,8 +6568,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【2026最新】B站NO.1！！！别再盲目自学数据库 科学系统的 MySQL 数据分析完整学习路线｜UP：观数者｜BV1n3Vz6LEdW｜播放：611",
-          "url": "https://www.bilibili.com/video/BV1n3Vz6LEdW",
+          "search": "视频：MySQL知识精讲+mysql实战案例_零基础mysql数据库入门到高级全套教程｜UP：lad920｜BV1yM411v7pc｜播放：14769｜搜索：MySQL 全套教程",
+          "url": "https://www.bilibili.com/video/BV1yM411v7pc",
           "query": "数据库系统原理与应用（MySQL版） 数据库系统与应用"
         },
         {
@@ -5512,6 +6592,12 @@ window.APP_DATA = {
       "note": "作者：宋铁成 刘郁蓉；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：通信原理期末|通原12h速成课｜UP：刺猬哥通信电子考研｜BV18pTrzPEDe｜播放：164058｜搜索：通信原理",
+          "url": "https://www.bilibili.com/video/BV18pTrzPEDe",
+          "query": "通信原理 通信原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：通信原理 通信原理",
           "query": "通信原理 通信原理"
@@ -5532,8 +6618,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：B站首发！手把手教你用Docker部署PyTorch深度学习模型！全程干货讲解，零基础小白可学！（人工智能/机器学习/云原生/容器/研究生）｜UP：AI讲师-唐宇迪｜BV1AAoqYdETG｜播放：8732",
-          "url": "https://www.bilibili.com/video/BV1AAoqYdETG",
+          "search": "视频：【整整600集】清华大学196小时讲完的AI人工智能从入门到精通全套教程，全程干货无废话！学完变大佬！这还学不会，我退出IT圈！机器学习-深度学习-opencv｜UP：IT界扛霸子｜BV1qZSLBYEpa｜播放：749109｜搜索：人工智能原理",
+          "url": "https://www.bilibili.com/video/BV1qZSLBYEpa",
           "query": "动手学深度学习pytorch版 人工智能原理"
         },
         {
@@ -5557,8 +6643,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《计算机网络》4小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1H4kwYHEcR｜播放：1723527",
-          "url": "https://www.bilibili.com/video/BV1H4kwYHEcR",
+          "search": "视频：中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程｜UP：中科大-郑烇老师｜BV1JV411t7ow｜播放：3896756｜搜索：计算机网络教程（第7版，微课版） 计算机网络",
+          "url": "https://www.bilibili.com/video/BV1JV411t7ow",
           "query": "计算机网络教程（第7版，微课版） 计算机网络"
         },
         {
@@ -5582,8 +6668,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：考研数据结构需要的C语言基础｜C语言速成｜数据结构基础｜408数据结构｜0基础跨考｜C语言期末｜UP：阿辉不会敲代码｜BV1uC411n7J7｜播放：375476",
-          "url": "https://www.bilibili.com/video/BV1uC411n7J7",
+          "search": "视频：数据结构与算法基础（青岛大学-王卓）｜UP：87师兄｜BV1nJ411V7bd｜播放：16201014｜搜索：数据结构",
+          "url": "https://www.bilibili.com/video/BV1nJ411V7bd",
           "query": "数据结构(C语言版)(第3版) 数据结构与算法"
         },
         {
@@ -5607,8 +6693,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：使用HTML、CSS和JavaScript制作幸运旋转盘游戏｜UP：前端亮亮｜BV1dP411g7pp｜播放：6649",
-          "url": "https://www.bilibili.com/video/BV1dP411g7pp",
+          "search": "视频：《基础会计学》5小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1paqrYXEKv｜播放：2254925｜搜索：Java 期末复习",
+          "url": "https://www.bilibili.com/video/BV1paqrYXEKv",
           "query": "HTML+CSS+JavaScript网页制作案例教程（第2版） 网站设计"
         },
         {
@@ -5631,6 +6717,12 @@ window.APP_DATA = {
       "note": "作者：徐颖秦，熊伟丽；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【ESP8266教程】零基础入门学用物联网-基础知识篇（太极创客团队）｜UP：太极创客｜BV1L7411c7jw｜播放：1308055｜搜索：物联网技术及应用 物联网技术及应用实践",
+          "url": "https://www.bilibili.com/video/BV1L7411c7jw",
+          "query": "物联网技术及应用 物联网技术及应用实践"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：物联网技术及应用 物联网技术及应用实践",
           "query": "物联网技术及应用 物联网技术及应用实践"
@@ -5649,6 +6741,12 @@ window.APP_DATA = {
       ],
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员前端微信小程序开发教程，微信小程序从基础到发布全流程_企业级商城实战(含uni-app项目多端部署)｜UP：黑马程序员｜BV1834y1676P｜播放：6399323｜搜索：微信小程序开发实战第2版 移动互联网技术",
+          "url": "https://www.bilibili.com/video/BV1834y1676P",
+          "query": "微信小程序开发实战第2版 移动互联网技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：微信小程序开发实战第2版 移动互联网技术",
@@ -5669,6 +6767,12 @@ window.APP_DATA = {
       "note": "作者：李英龙、郑河荣；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【2026备考必看】PMP项目管理新版精讲课程《PMBOK指南》第七版零基础系统教程||考点解析||配套资料||通关上岸！｜UP：希赛项目管理｜BV15zXhBkELs｜播放：27032｜搜索：项目管理",
+          "url": "https://www.bilibili.com/video/BV15zXhBkELs",
+          "query": "软件项目管理 项目管理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件项目管理 项目管理",
           "query": "软件项目管理 项目管理"
@@ -5687,6 +6791,12 @@ window.APP_DATA = {
       ],
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【Web前端网页制作·2026】小白专属！这绝对是B站最全最详细的网页布局完整教程（附源码），零基础入门到项目实战_保姆级教程，手把手教你从0到1做出完整网页！｜UP：九色麋彩鹿｜BV1gMQ4BWEKA｜播放：16523｜搜索：HTML+CSS+JavaScript网页制作案例教程HTML",
+          "url": "https://www.bilibili.com/video/BV1gMQ4BWEKA",
+          "query": "HTML+CSS+JavaScript网页制作案例教程HTML（第二版） 网站设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：HTML+CSS+JavaScript网页制作案例教程HTML（第二版） 网站设计",
@@ -5707,6 +6817,12 @@ window.APP_DATA = {
       "note": "作者：严蔚敏等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【数据结构c语言版】期末速成|8小时数据结构C语言高分课期末复习|复试|调剂|专升本可用|绩满满｜UP：哔哩大学计算机院｜BV1kVAwzAExR｜播放：178865｜搜索：数据结构（C语言版） 数据结构与算法",
+          "url": "https://www.bilibili.com/video/BV1kVAwzAExR",
+          "query": "数据结构（C语言版） 数据结构与算法"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据结构（C语言版） 数据结构与算法",
           "query": "数据结构（C语言版） 数据结构与算法"
@@ -5726,6 +6842,12 @@ window.APP_DATA = {
       "note": "作者：谢钧，谢希仁；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《计算机网络》4小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1H4kwYHEcR｜播放：1723851｜搜索：计算机网络 期末复习",
+          "url": "https://www.bilibili.com/video/BV1H4kwYHEcR",
+          "query": "计算机网络教程 第6版微课版 计算机网络"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机网络教程 第6版微课版 计算机网络",
           "query": "计算机网络教程 第6版微课版 计算机网络"
@@ -5741,6 +6863,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：哈工大21秋移动互联网技术复习｜UP：小童同学_｜BV1xP4y1P7uG｜播放：4746｜搜索：官网开发文档 无需打印 移动互联网技术",
+          "url": "https://www.bilibili.com/video/BV1xP4y1P7uG",
+          "query": "官网开发文档，无需打印 移动互联网技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：官网开发文档，无需打印 移动互联网技术",
@@ -5761,6 +6889,12 @@ window.APP_DATA = {
       "note": "作者：盛骤、谢式千、潘承毅；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5491220｜搜索：概率论与数理统计",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
+          "query": "概率论与数理统计（第五版） 概率论与数理统计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：概率论与数理统计（第五版） 概率论与数理统计",
           "query": "概率论与数理统计（第五版） 概率论与数理统计"
@@ -5779,6 +6913,12 @@ window.APP_DATA = {
       ],
       "note": "作者：黄宝贵等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：MySQL知识精讲+mysql实战案例_零基础mysql数据库入门到高级全套教程｜UP：lad920｜BV1yM411v7pc｜播放：14769｜搜索：MySQL 全套教程",
+          "url": "https://www.bilibili.com/video/BV1yM411v7pc",
+          "query": "数据库系统原理与应用(MySQL版) 数据库系统与应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库系统原理与应用(MySQL版) 数据库系统与应用",
@@ -5800,8 +6940,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：13.建筑施工安全生产标准化系列视频--塔式起重机｜UP：建筑工程施工作业培训｜BV1Jq4y1J7WE｜播放：2522",
-          "url": "https://www.bilibili.com/video/BV1Jq4y1J7WE",
+          "search": "视频：湖南省建筑施工安全生产标准化系列视频｜UP：琅琊王氏-BIM王｜BV1RQ4y1Y7rH｜播放：13430｜搜索：标准化工程 教程",
+          "url": "https://www.bilibili.com/video/BV1RQ4y1Y7rH",
           "query": "标准化技术与方法(全国高校标准化工程系列教材) 技术标准与设计案例"
         },
         {
@@ -5824,6 +6964,12 @@ window.APP_DATA = {
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59075｜搜索：OpenCV Python 全套教程",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
+          "query": "OpenCV计算机视觉基础教程（Python版） 计算机视觉及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程（Python版） 计算机视觉及应用",
           "query": "OpenCV计算机视觉基础教程（Python版） 计算机视觉及应用"
@@ -5842,6 +6988,12 @@ window.APP_DATA = {
       ],
       "note": "作者：樊昌信 任光亮；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：北邮 通信原理公开课 杨鸿文｜UP：sherlockucb｜BV11x411G79C｜播放：633426｜搜索：现代通信原理 通信原理",
+          "url": "https://www.bilibili.com/video/BV11x411G79C",
+          "query": "现代通信原理 通信原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：现代通信原理 通信原理",
@@ -5863,8 +7015,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【期末冲刺上大分】《模电/模拟电子技术基础》8小时系统学习|期末拿高分【蜂考】｜UP：蜂考｜BV1CBfiYfEnN｜播放：3060462",
-          "url": "https://www.bilibili.com/video/BV1CBfiYfEnN",
+          "search": "视频：模拟电子技术基础【4K高清降噪版】 上交大模拟电子 （模拟电路/模电）模拟电子技术基础第六版郑益慧实验期末速成考研专升本简明教程第四版 讲课水平略胜华成英｜UP：模拟电子技术基础-｜BV1qA5DzWEVh｜播放：1468211｜搜索：模拟电子技术",
+          "url": "https://www.bilibili.com/video/BV1qA5DzWEVh",
           "query": "模拟电子技术基础 模拟电子技术"
         },
         {
@@ -5887,6 +7039,12 @@ window.APP_DATA = {
       "note": "作者：阎石；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【电子】数字电子技术基础（数字电路/数电） 清华大学 王红主讲｜UP：谢谢谢同学鸭｜BV18p411Z7ce｜播放：6422700｜搜索：数字电子技术基础（第六版） 数字电路与逻辑设计",
+          "url": "https://www.bilibili.com/video/BV18p411Z7ce",
+          "query": "数字电子技术基础（第六版） 数字电路与逻辑设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版） 数字电路与逻辑设计",
           "query": "数字电子技术基础（第六版） 数字电路与逻辑设计"
@@ -5905,6 +7063,12 @@ window.APP_DATA = {
       ],
       "note": "作者：阎石 王红；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【数电】数字电子技术高分课期末速成|数字电路期末复习|复试|调剂|专升本可用|绩满满｜UP：橙子期末包过｜BV1Qj9VB4E6k｜播放：29499｜搜索：数字电子技术 期末复习",
+          "url": "https://www.bilibili.com/video/BV1Qj9VB4E6k",
+          "query": "数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计",
@@ -5925,6 +7089,12 @@ window.APP_DATA = {
       "note": "作者：燕庆明，于凤芹，顾斌杰；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《信号与系统》期末10h速成课||期末不挂科|考点总结|自救指南｜UP：水木观畴电子通信考研｜BV1e6G866Ebk｜播放：79190｜搜索：信号与系统教程 信号与系统",
+          "url": "https://www.bilibili.com/video/BV1e6G866Ebk",
+          "query": "信号与系统教程 信号与系统"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：信号与系统教程 信号与系统",
           "query": "信号与系统教程 信号与系统"
@@ -5943,6 +7113,12 @@ window.APP_DATA = {
       ],
       "note": "作者：皮大能；出版社：北京航空航天大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《单片机原理及应用》6小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1pDkjYwE8v｜播放：1653782｜搜索：单片机 期末复习",
+          "url": "https://www.bilibili.com/video/BV1pDkjYwE8v",
+          "query": "单片机原理与应用(双色版） 单片机原理及应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：单片机原理与应用(双色版） 单片机原理及应用",
@@ -5963,6 +7139,12 @@ window.APP_DATA = {
       "note": "作者：程佩青；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【数字信号处理期末速成课】电子通信期末考试课程｜UP：水木观畴电子通信考研｜BV1DT421X7iu｜播放：504127｜搜索：数字信号处理教程",
+          "url": "https://www.bilibili.com/video/BV1DT421X7iu",
+          "query": "数字信号处理教程 数字信号处理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字信号处理教程 数字信号处理",
           "query": "数字信号处理教程 数字信号处理"
@@ -5981,6 +7163,12 @@ window.APP_DATA = {
       ],
       "note": "作者：Charles Hawkins；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】数字集成电路设计（数字CMOS集成电路设计基础）- 华东师范大学｜UP：微电子与纳电子学｜BV1XE411g77j｜播放：189911｜搜索：CMOS集成电路设计",
+          "url": "https://www.bilibili.com/video/BV1XE411g77j",
+          "query": "CMOS 数字集成电路设计 CMOS集成电路设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：CMOS 数字集成电路设计 CMOS集成电路设计",
@@ -6001,6 +7189,12 @@ window.APP_DATA = {
       "note": "作者：赖申江、马西秦；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：传感器原理及应用-同济大学｜UP：机械电子技术控｜BV1vE411b7fK｜播放：135399｜搜索：传感器原理及应用",
+          "url": "https://www.bilibili.com/video/BV1vE411b7fK",
+          "query": "《自动检测技术》第4版 传感器原理及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：《自动检测技术》第4版 传感器原理及应用",
           "query": "《自动检测技术》第4版 传感器原理及应用"
@@ -6016,6 +7210,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【已完结 共69P】通信原理 主讲：张锦皓｜UP：张锦皓Roger｜BV1wA4y1f7Co｜播放：2396613｜搜索：通信原理与系统实验",
+          "url": "https://www.bilibili.com/video/BV1wA4y1f7Co",
+          "query": "实验指导书，学院集中打印 通信原理与系统实验"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：实验指导书，学院集中打印 通信原理与系统实验",
@@ -6036,6 +7236,12 @@ window.APP_DATA = {
       "note": "作者：盛骤、谢式千、潘承毅；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5491220｜搜索：概率论与数理统计",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
+          "query": "概率论与数理统计（第五版） 概率论与数理统计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：概率论与数理统计（第五版） 概率论与数理统计",
           "query": "概率论与数理统计（第五版） 概率论与数理统计"
@@ -6055,6 +7261,12 @@ window.APP_DATA = {
       "note": "作者：嵩天；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员python零基础全套教程，8天python从入门到精通，学python看这套就够了｜UP：黑马程序员｜BV1qW4y1a7fU｜播放：24410268｜搜索：Python 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1qW4y1a7fU",
+          "query": "python语言程序设计基础（第2版） Python程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：python语言程序设计基础（第2版） Python程序设计",
           "query": "python语言程序设计基础（第2版） Python程序设计"
@@ -6073,6 +7285,12 @@ window.APP_DATA = {
       ],
       "note": "作者：黄宝贵等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：MySQL知识精讲+mysql实战案例_零基础mysql数据库入门到高级全套教程｜UP：lad920｜BV1yM411v7pc｜播放：14769｜搜索：MySQL 全套教程",
+          "url": "https://www.bilibili.com/video/BV1yM411v7pc",
+          "query": "数据库系统原理与应用(MySQL版) 数据库系统与应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库系统原理与应用(MySQL版) 数据库系统与应用",
@@ -6094,8 +7312,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：13.建筑施工安全生产标准化系列视频--塔式起重机｜UP：建筑工程施工作业培训｜BV1Jq4y1J7WE｜播放：2522",
-          "url": "https://www.bilibili.com/video/BV1Jq4y1J7WE",
+          "search": "视频：湖南省建筑施工安全生产标准化系列视频｜UP：琅琊王氏-BIM王｜BV1RQ4y1Y7rH｜播放：13430｜搜索：标准化工程 教程",
+          "url": "https://www.bilibili.com/video/BV1RQ4y1Y7rH",
           "query": "标准化技术与方法(全国高校标准化工程系列教材) 技术标准与设计案例"
         },
         {
@@ -6119,8 +7337,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《计算机网络教程 第6版，谢钧》课程｜UP：Nidhogg14｜BV161ttzYEbz｜播放：19668",
-          "url": "https://www.bilibili.com/video/BV161ttzYEbz",
+          "search": "视频：【期末复习】7天快速通过计算机网络期末考试｜谢希仁版｜考前急救｜高效通过｜粉丝投稿｜UP：网络工程师学长｜BV1PK4y1X7ze｜播放：2532016｜搜索：计算机网络",
+          "url": "https://www.bilibili.com/video/BV1PK4y1X7ze",
           "query": "《计算机网络教程》(第6版) 计算机网络"
         },
         {
@@ -6143,6 +7361,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【完整版】《C语言》9小时系统学习|期末拿高分【蜂考】｜UP：蜂考｜BV1m9NgeLEyo｜播放：414290｜搜索：C语言 期末复习",
+          "url": "https://www.bilibili.com/video/BV1m9NgeLEyo",
+          "query": "C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计",
           "query": "C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计"
@@ -6162,6 +7386,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：C语言程序设计从入门到进阶【比特鹏哥c语言2024完整版视频教程】（c语言基础入门c语言软件安装C语言指针c语言考研C语言专升本C语言期末计算机二级C语言c语言｜UP：鹏哥C语言｜BV1Vm4y1r7jY｜播放：13139770｜搜索：C语言程序设计实验教程",
+          "url": "https://www.bilibili.com/video/BV1Vm4y1r7jY",
+          "query": "C语言程序设计实验教程（第2版） 高级语言程序设计实践"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：C语言程序设计实验教程（第2版） 高级语言程序设计实践",
           "query": "C语言程序设计实验教程（第2版） 高级语言程序设计实践"
@@ -6180,6 +7410,12 @@ window.APP_DATA = {
       ],
       "note": "作者：刘浩，韩晶；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：MATLAB教程新手入门篇（上部分）（数学建模清风主讲，适合零基础同学观看）｜UP：数学建模学习交流｜BV1dN4y1Q7Kt｜播放：2490168｜搜索：MATLAB 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1dN4y1Q7Kt",
+          "query": "MATLAB R2020a 完全自学一本通 MATLAB语言实践"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：MATLAB R2020a 完全自学一本通 MATLAB语言实践",
@@ -6201,8 +7437,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数农314考点梳理----线性代数｜UP：考研数农小朱｜BV1hb421v7Ld｜播放：14116",
-          "url": "https://www.bilibili.com/video/BV1hb421v7Ld",
+          "search": "视频：【Kira老师】27考研《线性代数》零基础精讲课25h，小白也能轻松入门！ |期末看完直接炸鱼｜UP：一高数｜BV1Q4iJBAEsr｜播放：1605727｜搜索：线性代数",
+          "url": "https://www.bilibili.com/video/BV1Q4iJBAEsr",
           "query": "线性代数 线性代数"
         },
         {
@@ -6226,8 +7462,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《线性代数》习题课，零废话，超精讲！【孔祥仁】｜UP：孔祥仁｜BV1bt421T7p6｜播放：1115259",
-          "url": "https://www.bilibili.com/video/BV1bt421T7p6",
+          "search": "视频：【Kira老师】27考研《线性代数》零基础精讲课25h，小白也能轻松入门！ |期末看完直接炸鱼｜UP：一高数｜BV1Q4iJBAEsr｜播放：1605727｜搜索：线性代数 期末复习",
+          "url": "https://www.bilibili.com/video/BV1Q4iJBAEsr",
           "query": "线性代数习题解答 线性代数"
         },
         {
@@ -6250,6 +7486,12 @@ window.APP_DATA = {
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《高等数学(上)》6小时速成课 | 框框老师（突击课，适合高等数学(微积分)期末考试、期中考试、补考、重修、专升本，考试不挂科）｜UP：框框老师课堂｜BV1mN411r7VM｜播放：17696356｜搜索：高等数学（上册） 高等数学(1)",
+          "url": "https://www.bilibili.com/video/BV1mN411r7VM",
+          "query": "高等数学（上册） 高等数学(1)"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：高等数学（上册） 高等数学(1)",
           "query": "高等数学（上册） 高等数学(1)"
@@ -6268,6 +7510,12 @@ window.APP_DATA = {
       ],
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6957872｜搜索：高等数学 期末复习",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
+          "query": "高等数学习题解答 高等数学(1)"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：高等数学习题解答 高等数学(1)",
@@ -6288,6 +7536,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407066｜搜索：应用型本科大学物理(上册) 大学物理（1）",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "应用型本科大学物理(上册) 大学物理（1）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：应用型本科大学物理(上册) 大学物理（1）",
           "query": "应用型本科大学物理(上册) 大学物理（1）"
@@ -6307,8 +7561,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：SOP也就是标准作业指导书，分享下工厂里面的SOP怎么写｜UP：IE阿潘说制造｜BV1Ju4y1C79M｜播放：89249",
-          "url": "https://www.bilibili.com/video/BV1Ju4y1C79M",
+          "search": "视频：装修施工工艺（完整版）｜UP：室内CAD设计师｜BV1j64y1c7dv｜播放：477145｜搜索：电子工艺实训",
+          "url": "https://www.bilibili.com/video/BV1j64y1c7dv",
           "query": "自编电子工艺实训实验指导书 电子工艺实训"
         },
         {
@@ -6332,8 +7586,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：南京邮电大学813南邮《电路分析》教材讲解｜UP：邮学考研｜BV1wDZmYtE8z｜播放：109327",
-          "url": "https://www.bilibili.com/video/BV1wDZmYtE8z",
+          "search": "视频：电路【4K高清完整版】电路第六版电路分析基础电路邱关源电路原理电路图2025最新80集全带目录电路基础分析电路第五版电路基础知识入门通俗易懂期末速成｜UP：电路第六版｜BV17NLizSEjd｜播放：832541｜搜索：电路分析",
+          "url": "https://www.bilibili.com/video/BV17NLizSEjd",
           "query": "电路分析 电路基础"
         },
         {
@@ -6356,6 +7610,12 @@ window.APP_DATA = {
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6957872｜搜索：高等数学 教程",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
+          "query": "《高等数学》第八版下册 高等数学（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：《高等数学》第八版下册 高等数学（2）",
           "query": "《高等数学》第八版下册 高等数学（2）"
@@ -6375,6 +7635,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：一级计算机基础及MS office应用 新思路解题视频【1~20套】｜UP：新思路等考通｜BV1N54y1J7oR｜播放：1256179｜搜索：计算机应用基础实验教程（第5版） 计算机实践基础",
+          "url": "https://www.bilibili.com/video/BV1N54y1J7oR",
+          "query": "计算机应用基础实验教程（第5版） 计算机实践基础"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机应用基础实验教程（第5版） 计算机实践基础",
           "query": "计算机应用基础实验教程（第5版） 计算机实践基础"
@@ -6393,6 +7659,12 @@ window.APP_DATA = {
       ],
       "note": "作者：李红，谢松法；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《工程数学基础》 基础课程 期末考试 专升本 考研复习精讲 天津大学｜UP：没冇耳朵的兔子｜BV1QzUsBkEg1｜播放：3978｜搜索：工程数学",
+          "url": "https://www.bilibili.com/video/BV1QzUsBkEg1",
+          "query": "复变函数与积分变换（第5版） 工程数学"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：复变函数与积分变换（第5版） 工程数学",
@@ -6414,8 +7686,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：大学计算机应用基础上机实验｜UP：计科小站｜BV11K4y1A75n｜播放：45330",
-          "url": "https://www.bilibili.com/video/BV11K4y1A75n",
+          "search": "视频：【免费讲义】2027适用山东省-计算机全套网课-统招专升本-零基础-基础精讲考试大纲历年真题押题卷试卷习题册题库备考库课好老师库克知了哎上课可参考｜UP：升哥计算机专升本｜BV19D8fz7EDP｜播放：576519｜搜索：计算机应用基础",
+          "url": "https://www.bilibili.com/video/BV19D8fz7EDP",
           "query": "计算机应用基础（第5版） 计算机实践基础"
         },
         {
@@ -6438,6 +7710,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407066｜搜索：大学物理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "大学物理（下册） 大学物理（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大学物理（下册） 大学物理（2）",
           "query": "大学物理（下册） 大学物理（2）"
@@ -6457,6 +7735,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763720｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
+          "query": "Java程序设计——增量式项目驱动一体化教程（第2版） 面向对象程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Java程序设计——增量式项目驱动一体化教程（第2版） 面向对象程序设计",
           "query": "Java程序设计——增量式项目驱动一体化教程（第2版） 面向对象程序设计"
@@ -6472,6 +7756,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407287｜搜索：大学物理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "实验指导书，学院集中打印 大学物理实验（1）"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：实验指导书，学院集中打印 大学物理实验（1）",
@@ -6493,8 +7783,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：电力电子仿真 MATLAB/Simulink 基础篇系列视频（黑库）｜UP：西瓜粥西瓜粥｜BV1xz411B7cV｜播放：988206",
-          "url": "https://www.bilibili.com/video/BV1xz411B7cV",
+          "search": "视频：电力电子技术期末速成课|虎头哥主讲|电气考研｜UP：刺猬哥电气考研｜BV16LnZe6EtG｜播放：880166｜搜索：电力电子技术 电力电子技术",
+          "url": "https://www.bilibili.com/video/BV16LnZe6EtG",
           "query": "电力电子技术 电力电子技术"
         },
         {
@@ -6517,6 +7807,12 @@ window.APP_DATA = {
       "note": "作者：张洪欣等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【电磁场与电磁波】4小时期末速成|电磁场与电磁波期末复习|电磁场波|各版本均可用第五版谢处方可用|复试|调剂|专升本可用｜UP：橙子期末包过｜BV1XVXzBhEbw｜播放：13682｜搜索：电磁场与电磁波 期末复习",
+          "url": "https://www.bilibili.com/video/BV1XVXzBhEbw",
+          "query": "电磁场与电磁波 工程电磁场"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：电磁场与电磁波 工程电磁场",
           "query": "电磁场与电磁波 工程电磁场"
@@ -6537,8 +7833,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：学霸录播 | 电磁场与电磁波 第六讲导行电磁波（李炫星）｜UP：传媒工科生｜BV19XrpYcEiG｜播放：1817",
-          "url": "https://www.bilibili.com/video/BV19XrpYcEiG",
+          "search": "视频：电磁场与电磁波｜UP：Lawrence_xjw｜BV1uV411H7xf｜播放：1748802｜搜索：电磁场与电磁波教学 学习与考研指导",
+          "url": "https://www.bilibili.com/video/BV1uV411H7xf",
           "query": "《电磁场与电磁波教学、学习与考研指导》（第4版） 工程电磁场"
         },
         {
@@ -6562,7 +7858,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【计算机视觉实战项目】基于Python与OpenCV实现的图像处理全套解析！从基础原理到代码实战，全程通俗易懂，适合所有零基础入门学习！-ML/DL/CV｜UP：唐宇迪的AI入门课｜BV14A411C7ZE｜播放：1110153",
+          "search": "视频：【计算机视觉实战项目】基于Python与OpenCV实现的图像处理全套解析！从基础原理到代码实战，全程通俗易懂，适合所有零基础入门学习！-ML/DL/CV｜UP：唐宇迪的AI入门课｜BV14A411C7ZE｜播放：1110196｜搜索：OpenCV计算机视觉基础教程（Python版|慕课版） 计算机视觉及应用",
           "url": "https://www.bilibili.com/video/BV14A411C7ZE",
           "query": "OpenCV计算机视觉基础教程（Python版|慕课版） 计算机视觉及应用"
         },
@@ -6587,8 +7883,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【玩转电机】电机控制“大力出奇迹”？6种控制方式一看就懂｜UP：达尔闻｜BV19G4y137MW｜播放：73617",
-          "url": "https://www.bilibili.com/video/BV19G4y137MW",
+          "search": "视频：【正点原子】手把手教你学STM32电机应用控制【真人出镜】STM32电机应用控制视频教程 STM32 嵌入式 单片机｜UP：正点原子官方｜BV1hv4y1g7s3｜播放：558257｜搜索：控制电机 控制电机",
+          "url": "https://www.bilibili.com/video/BV1hv4y1g7s3",
           "query": "控制电机 控制电机"
         },
         {
@@ -6611,6 +7907,12 @@ window.APP_DATA = {
       "note": "作者：阎石；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【电子】数字电子技术基础（数字电路/数电） 清华大学 王红主讲｜UP：谢谢谢同学鸭｜BV18p411Z7ce｜播放：6422700｜搜索：数字电子技术基础（第六版） 数字电路与逻辑设计",
+          "url": "https://www.bilibili.com/video/BV18p411Z7ce",
+          "query": "数字电子技术基础（第六版） 数字电路与逻辑设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版） 数字电路与逻辑设计",
           "query": "数字电子技术基础（第六版） 数字电路与逻辑设计"
@@ -6629,6 +7931,12 @@ window.APP_DATA = {
       ],
       "note": "作者：阎石 王红；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【数电】数字电子技术高分课期末速成|数字电路期末复习|复试|调剂|专升本可用|绩满满｜UP：橙子期末包过｜BV1Qj9VB4E6k｜播放：29499｜搜索：数字电子技术 期末复习",
+          "url": "https://www.bilibili.com/video/BV1Qj9VB4E6k",
+          "query": "数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计",
@@ -6649,6 +7957,12 @@ window.APP_DATA = {
       "note": "作者：顾晖 等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：微机原理期末速成课||微机原理期末不挂科||微机原理与接口技术||微机原理||鸿霖学堂｜UP：鸿霖学堂电气考研｜BV1oS411A7gf｜播放：743813｜搜索：微机原理与接口技术（第3版） 微机原理与接口技术",
+          "url": "https://www.bilibili.com/video/BV1oS411A7gf",
+          "query": "微机原理与接口技术（第3版） 微机原理与接口技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：微机原理与接口技术（第3版） 微机原理与接口技术",
           "query": "微机原理与接口技术（第3版） 微机原理与接口技术"
@@ -6667,6 +7981,12 @@ window.APP_DATA = {
       ],
       "note": "作者：惠晶；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：西安交大新能源发电｜UP：更悲伤的故事｜BV1o4411J7T7｜播放：37766｜搜索：新能源发电与控制技术 新能源发电技术",
+          "url": "https://www.bilibili.com/video/BV1o4411J7T7",
+          "query": "新能源发电与控制技术 新能源发电技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：新能源发电与控制技术 新能源发电技术",
@@ -6688,8 +8008,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：中国矿业大学868自动控制原理1-7章讲解视频｜UP：Luyoyo-｜BV1ue411f7R8｜播放：2263",
-          "url": "https://www.bilibili.com/video/BV1ue411f7R8",
+          "search": "视频：亲测最好的《自动控制原理》期末速成课！零基础不挂科！无痛自救轻松保过！｜UP：掌握控制考研｜BV1Q5yhBJE6v｜播放：791894｜搜索：自动控制原理（第二版） 自动控制原理",
+          "url": "https://www.bilibili.com/video/BV1Q5yhBJE6v",
           "query": "自动控制原理（第二版） 自动控制原理"
         },
         {
@@ -6712,6 +8032,12 @@ window.APP_DATA = {
       "note": "作者：王建辉；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《自动控制原理》期末速成课！|期末不挂科|考点总结|自救指南|考前突击｜UP：控制考研阿祖｜BV1x6qLYHEso｜播放：3478103｜搜索：自动控制原理",
+          "url": "https://www.bilibili.com/video/BV1x6qLYHEso",
+          "query": "自动控制原理习题详解 自动控制原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：自动控制原理习题详解 自动控制原理",
           "query": "自动控制原理习题详解 自动控制原理"
@@ -6731,6 +8057,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407088｜搜索：应用型本科大学物理 下册",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "《应用型本科大学物理》下册 大学物理（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：《应用型本科大学物理》下册 大学物理（2）",
           "query": "《应用型本科大学物理》下册 大学物理（2）"
@@ -6749,6 +8081,12 @@ window.APP_DATA = {
       ],
       "note": "作者：彭鸿才等；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【电机与拖动】电机与拖动期末速成|4小时电机拖动期末复习|电机拖动与控制|电机拖动基础|各版教材均可用|复试|调剂|专升本可用｜UP：哔哩大学机械学院｜BV1B5Anz5Ea3｜播放：37072｜搜索：电机拖动基础 教程",
+          "url": "https://www.bilibili.com/video/BV1B5Anz5Ea3",
+          "query": "电机原理及拖动 电机学与拖动基础"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：电机原理及拖动 电机学与拖动基础",
@@ -6770,8 +8108,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【期末冲刺上大分】《模电/模拟电子技术基础》8小时系统学习|期末拿高分【蜂考】｜UP：蜂考｜BV1CBfiYfEnN｜播放：3060462",
-          "url": "https://www.bilibili.com/video/BV1CBfiYfEnN",
+          "search": "视频：模拟电子技术基础【4K高清降噪版】 上交大模拟电子 （模拟电路/模电）模拟电子技术基础第六版郑益慧实验期末速成考研专升本简明教程第四版 讲课水平略胜华成英｜UP：模拟电子技术基础-｜BV1qA5DzWEVh｜播放：1468211｜搜索：模拟电子技术",
+          "url": "https://www.bilibili.com/video/BV1qA5DzWEVh",
           "query": "模拟电子技术基础 模拟电子技术"
         },
         {
@@ -6794,6 +8132,12 @@ window.APP_DATA = {
       "note": "作者：燕庆明，于凤芹，顾斌杰；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《信号与系统》期末10h速成课||期末不挂科|考点总结|自救指南｜UP：水木观畴电子通信考研｜BV1e6G866Ebk｜播放：79190｜搜索：信号与系统教程 信号与系统",
+          "url": "https://www.bilibili.com/video/BV1e6G866Ebk",
+          "query": "信号与系统教程 信号与系统"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：信号与系统教程 信号与系统",
           "query": "信号与系统教程 信号与系统"
@@ -6812,6 +8156,12 @@ window.APP_DATA = {
       ],
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59075｜搜索：OpenCV计算机视觉基础教程Python版 慕课版",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
+          "query": "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用",
@@ -6833,8 +8183,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：自动控制原理+机械控制原理_03课_3_复阻抗法+运算放大器｜UP：laitianmao｜BV1tP411N7EL｜播放：20482",
-          "url": "https://www.bilibili.com/video/BV1tP411N7EL",
+          "search": "视频：《自动控制原理》期末速成课！|期末不挂科|考点总结|自救指南|考前突击｜UP：控制考研阿祖｜BV1x6qLYHEso｜播放：3478093｜搜索：自动控制原理",
+          "url": "https://www.bilibili.com/video/BV1x6qLYHEso",
           "query": "自动控制原理（第3版） 自动控制原理"
         },
         {
@@ -6857,6 +8207,12 @@ window.APP_DATA = {
       "note": "作者：顾晖 等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：微机原理期末速成课||微机原理期末不挂科||微机原理与接口技术||微机原理||鸿霖学堂｜UP：鸿霖学堂电气考研｜BV1oS411A7gf｜播放：743795｜搜索：微机原理与接口技术 基于8086和Proteus仿真",
+          "url": "https://www.bilibili.com/video/BV1oS411A7gf",
+          "query": "微机原理与接口技术-基于8086和Proteus仿真（第四版） 微机原理与接口技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：微机原理与接口技术-基于8086和Proteus仿真（第四版） 微机原理与接口技术",
           "query": "微机原理与接口技术-基于8086和Proteus仿真（第四版） 微机原理与接口技术"
@@ -6875,6 +8231,12 @@ window.APP_DATA = {
       ],
       "note": "作者：刘进军、王兆安；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：电力电子技术期末速成课|虎头哥主讲|电气考研｜UP：刺猬哥电气考研｜BV16LnZe6EtG｜播放：880166｜搜索：电力电子技术",
+          "url": "https://www.bilibili.com/video/BV16LnZe6EtG",
+          "query": "电力电子技术（第6版） 电力电子技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：电力电子技术（第6版） 电力电子技术",
@@ -6895,6 +8257,12 @@ window.APP_DATA = {
       "note": "作者：张洪欣等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：电磁场与电磁波 西安交大 马西奎老师主讲【49讲 带目录（缺第41讲）】 电磁场与电磁波 考研 考试 复习 通俗易懂 北航921可用 工程电磁场导论｜UP：小熊打篮球｜BV1d7411b7mw｜播放：533706｜搜索：电磁场与电磁波",
+          "url": "https://www.bilibili.com/video/BV1d7411b7mw",
+          "query": "电磁场与电磁波（第4版） 工程电磁场"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：电磁场与电磁波（第4版） 工程电磁场",
           "query": "电磁场与电磁波（第4版） 工程电磁场"
@@ -6913,6 +8281,12 @@ window.APP_DATA = {
       ],
       "note": "作者：顾晖 等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：微机原理期末速成课||微机原理期末不挂科||微机原理与接口技术||微机原理||鸿霖学堂｜UP：鸿霖学堂电气考研｜BV1oS411A7gf｜播放：743798｜搜索：微机原理与接口技术--基于8086和Proteus仿真 微机原理与接口技术",
+          "url": "https://www.bilibili.com/video/BV1oS411A7gf",
+          "query": "微机原理与接口技术--基于8086和Proteus仿真 微机原理与接口技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：微机原理与接口技术--基于8086和Proteus仿真 微机原理与接口技术",
@@ -6933,6 +8307,12 @@ window.APP_DATA = {
       "note": "作者：闵虎 杨智；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《自动控制原理》期末速成课！|期末不挂科|考点总结|自救指南|考前突击｜UP：控制考研阿祖｜BV1x6qLYHEso｜播放：3478083｜搜索：自动控制原理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1x6qLYHEso",
+          "query": "自动控制系统（第3版） 自动控制原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：自动控制系统（第3版） 自动控制原理",
           "query": "自动控制系统（第3版） 自动控制原理"
@@ -6952,8 +8332,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数字逻辑电路-与门、或门、非门，理论+实验，学习超简单！｜UP：多多百科｜BV1yT4y1K7Yr｜播放：107425",
-          "url": "https://www.bilibili.com/video/BV1yT4y1K7Yr",
+          "search": "视频：【西安电子科技大学】《 数字电路与逻辑设计》任爱锋（64讲全）HD｜UP：奈奈奈奈奈nice粥｜BV1NE411r7dr｜播放：1898393｜搜索：自编数字电路与逻辑设计实验教材 数字电路与逻辑设计实验",
+          "url": "https://www.bilibili.com/video/BV1NE411r7dr",
           "query": "自编数字电路与逻辑设计实验教材 数字电路与逻辑设计实验"
         },
         {
@@ -6977,8 +8357,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：2024最新版-紫金桥跨平台实时数据库软件功能详解｜UP：紫金桥软件｜BV1w6421V7Jq｜播放：1899",
-          "url": "https://www.bilibili.com/video/BV1w6421V7Jq",
+          "search": "视频：楼宇自动化第1课｜UP：怜心萌｜BV1ut4y1J7ha｜播放：4305｜搜索：楼宇自动化 楼宇自动化",
+          "url": "https://www.bilibili.com/video/BV1ut4y1J7ha",
           "query": "楼宇自动化(第2版) 楼宇自动化"
         },
         {
@@ -7002,8 +8382,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：大学生就业指导期末答案110%｜UP：尘huan｜BV1fe4y1M7kY｜播放：12795",
-          "url": "https://www.bilibili.com/video/BV1fe4y1M7kY",
+          "search": "视频：【北京大学】大学生职业发展与就业指导（全108讲）谢伟｜UP：iMuseums｜BV1LW4y1R7EH｜播放：127241｜搜索：《美好前程——大学生就业指导教程》 就业指导（理论）",
+          "url": "https://www.bilibili.com/video/BV1LW4y1R7EH",
           "query": "《美好前程——大学生就业指导教程》 就业指导（理论）"
         },
         {
@@ -7026,6 +8406,12 @@ window.APP_DATA = {
       "note": "作者：皮大能；出版社：北京航空航天大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《单片机原理及应用》6小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1pDkjYwE8v｜播放：1653782｜搜索：单片机 期末复习",
+          "url": "https://www.bilibili.com/video/BV1pDkjYwE8v",
+          "query": "单片机原理与应用(双色版） 单片机原理及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：单片机原理与应用(双色版） 单片机原理及应用",
           "query": "单片机原理与应用(双色版） 单片机原理及应用"
@@ -7044,6 +8430,12 @@ window.APP_DATA = {
       ],
       "note": "作者：程佩青；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【数字信号处理期末速成课】电子通信期末考试课程｜UP：水木观畴电子通信考研｜BV1DT421X7iu｜播放：504127｜搜索：数字信号处理教程",
+          "url": "https://www.bilibili.com/video/BV1DT421X7iu",
+          "query": "数字信号处理教程 数字信号处理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字信号处理教程 数字信号处理",
@@ -7065,8 +8457,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【环世界】基础攻略-电力系统｜UP：-公子光-｜BV1rt4y1t7CY｜播放：127200",
-          "url": "https://www.bilibili.com/video/BV1rt4y1t7CY",
+          "search": "视频：电力系统基础｜UP：__Lumos___｜BV13S4y1A7FY｜播放：12933｜搜索：电力系统基础 电力系统基础",
+          "url": "https://www.bilibili.com/video/BV13S4y1A7FY",
           "query": "电力系统基础 电力系统基础"
         },
         {
@@ -7090,8 +8482,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《自动检测技术》复试专题课 | 全版本适用｜要点提炼 | 配套习题 | 一战上岸｜UP：控制考研阿祖｜BV16tvHBjEFv｜播放：3349",
-          "url": "https://www.bilibili.com/video/BV16tvHBjEFv",
+          "search": "视频：电气与电子测量技术-上海交通大学(精品课)｜UP：大学自修室｜BV1KY4y1j7nq｜播放：7638｜搜索：电气测量技术",
+          "url": "https://www.bilibili.com/video/BV1KY4y1j7nq",
           "query": "《自动检测技术》第5版 电气测量技术"
         },
         {
@@ -7114,6 +8506,12 @@ window.APP_DATA = {
       "note": "作者：张保会、尹项根；出版社：中国电力出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：电气考研【阳老师】继电保护期末考试速成课-继保电气考研复试｜UP：水木珞研电气考研｜BV1Gy4y1B7Rg｜播放：933403｜搜索：电力系统继电保护",
+          "url": "https://www.bilibili.com/video/BV1Gy4y1B7Rg",
+          "query": "电力系统继电保护 电力系统继电保护"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：电力系统继电保护 电力系统继电保护",
           "query": "电力系统继电保护 电力系统继电保护"
@@ -7134,8 +8532,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：B站最强的SolidWorks Electrical电气设计全套视频-求精｜UP：机械电子技术控｜BV1FJ411K7KF｜播放：143609",
-          "url": "https://www.bilibili.com/video/BV1FJ411K7KF",
+          "search": "视频：SOLIDWORKS 教学 精品教程 | 2024年新修 | B站 点赞 播放 收藏 NO.1｜UP：阿奇设计分享｜BV1iw411Z7HZ｜播放：13044384｜搜索：SOLIDWORKS电气高级教程",
+          "url": "https://www.bilibili.com/video/BV1iw411Z7HZ",
           "query": "SOLIDWORKS电气高级教程 电气工程项目设计"
         },
         {
@@ -7159,8 +8557,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：UG工程制图，出图与导出CAD｜UP：三玖教育-木子｜BV1iHz8YmE4r｜播放：108972",
-          "url": "https://www.bilibili.com/video/BV1iHz8YmE4r",
+          "search": "视频：【工程制图 | 期末急救】零基础速成不挂科⚡已完结全免费⚡（工程图学/现代工程图/机械制图）｜UP：凌云师兄-期末加油站｜BV1FN5VztEZZ｜播放：863378｜搜索：工程制图与CAD",
+          "url": "https://www.bilibili.com/video/BV1FN5VztEZZ",
           "query": "工程制图与AutoCAD 第2版 工程制图与CAD"
         },
         {
@@ -7183,6 +8581,12 @@ window.APP_DATA = {
       "note": "作者：刘介才；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：煤矿供电技术课程——中国矿业大学（北京）王彦文教授｜UP：认真睡觉努力学习｜BV1w7411J7X8｜播放：43329｜搜索：供电技术",
+          "url": "https://www.bilibili.com/video/BV1w7411J7X8",
+          "query": "工厂供电 供电技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：工厂供电 供电技术",
           "query": "工厂供电 供电技术"
@@ -7201,6 +8605,12 @@ window.APP_DATA = {
       ],
       "note": "作者：黄宝贵等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：MySQL知识精讲+mysql实战案例_零基础mysql数据库入门到高级全套教程｜UP：lad920｜BV1yM411v7pc｜播放：14769｜搜索：MySQL 全套教程",
+          "url": "https://www.bilibili.com/video/BV1yM411v7pc",
+          "query": "数据库系统原理与应用(MySQL版) 数据库系统与应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库系统原理与应用(MySQL版) 数据库系统与应用",
@@ -7221,6 +8631,12 @@ window.APP_DATA = {
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763783｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
+          "query": "HTML+CSS+JavaScript网页制作案例教程（第二版） 网站设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：HTML+CSS+JavaScript网页制作案例教程（第二版） 网站设计",
           "query": "HTML+CSS+JavaScript网页制作案例教程（第二版） 网站设计"
@@ -7240,6 +8656,12 @@ window.APP_DATA = {
       "note": "作者：阮毅等；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：亲测最好的《自动控制原理》期末速成课！零基础不挂科！无痛自救轻松保过！｜UP：掌握控制考研｜BV1Q5yhBJE6v｜播放：791932｜搜索：自动控制原理 教程",
+          "url": "https://www.bilibili.com/video/BV1Q5yhBJE6v",
+          "query": "电力拖动自动控制系统-运动控制系统 电力拖动控制系统"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：电力拖动自动控制系统-运动控制系统 电力拖动控制系统",
           "query": "电力拖动自动控制系统-运动控制系统 电力拖动控制系统"
@@ -7258,6 +8680,12 @@ window.APP_DATA = {
       ],
       "note": "作者：赖申江、马西秦；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：自动检测技术视频教程｜UP：炸串真好吃｜BV1C14y1n7uN｜播放：16249｜搜索：自动检测技术 电气测量技术",
+          "url": "https://www.bilibili.com/video/BV1C14y1n7uN",
+          "query": "《自动检测技术》第4版 电气测量技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：《自动检测技术》第4版 电气测量技术",
@@ -7279,8 +8707,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《概率论与数理统计》教学视频 2.0版本【宋浩老师】｜UP：宋浩老师官方｜BV1JXppejE8q｜播放：19768411",
-          "url": "https://www.bilibili.com/video/BV1JXppejE8q",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5490946｜搜索：概率论与数理统计 期末复习",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
           "query": "概率论与数理统计 概率论与数理统计"
         },
         {
@@ -7303,6 +8731,12 @@ window.APP_DATA = {
       "note": "作者：谢希仁、谢钧；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【期末复习】7天快速通过计算机网络期末考试｜谢希仁版｜考前急救｜高效通过｜粉丝投稿｜UP：网络工程师学长｜BV1PK4y1X7ze｜播放：2532018｜搜索：计算机网络",
+          "url": "https://www.bilibili.com/video/BV1PK4y1X7ze",
+          "query": "计算机网络教程（第7版 微课版） 计算机网络"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机网络教程（第7版 微课版） 计算机网络",
           "query": "计算机网络教程（第7版 微课版） 计算机网络"
@@ -7321,6 +8755,12 @@ window.APP_DATA = {
       ],
       "note": "作者：肖四喜 申书飞；出版社：上海交通大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【北京大学】大学生职业发展与就业指导（全108讲）谢伟｜UP：iMuseums｜BV1LW4y1R7EH｜播放：127241｜搜索：美好前程——大学生就业指导教程 就业指导（理论）",
+          "url": "https://www.bilibili.com/video/BV1LW4y1R7EH",
+          "query": "美好前程——大学生就业指导教程 就业指导（理论）"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：美好前程——大学生就业指导教程 就业指导（理论）",
@@ -7341,6 +8781,12 @@ window.APP_DATA = {
       "note": "作者：沈晔；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《控制工程基础》期末速成课！零基础不挂科！3小时无痛自救保过！｜UP：掌握控制考研｜BV1yZxNzuEiu｜播放：1400123｜搜索：楼宇自动化技术与工程",
+          "url": "https://www.bilibili.com/video/BV1yZxNzuEiu",
+          "query": "楼宇自动化技术与工程 楼宇自动化"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：楼宇自动化技术与工程 楼宇自动化",
           "query": "楼宇自动化技术与工程 楼宇自动化"
@@ -7359,6 +8805,12 @@ window.APP_DATA = {
       ],
       "note": "作者：任长春 舒平生；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【智能制造】期末考试速成课9小时搞定《智能制造》，期末不挂科｜考点总结 | 机械考研 | 考前速成｜期末考试｜考前突击｜考研复试｜UP：昊哥机械考研｜BV1pdQGY1EbL｜播放：27215｜搜索：智能制造概论 智能控制技术基础",
+          "url": "https://www.bilibili.com/video/BV1pdQGY1EbL",
+          "query": "智能制造概论 智能控制技术基础"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：智能制造概论 智能控制技术基础",
@@ -7379,6 +8831,12 @@ window.APP_DATA = {
       "note": "作者：胡建生；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【工程制图 | 期末急救】零基础速成不挂科⚡已完结全免费⚡（工程图学/现代工程图/机械制图）｜UP：凌云师兄-期末加油站｜BV1FN5VztEZZ｜播放：863363｜搜索：工程制图与CAD",
+          "url": "https://www.bilibili.com/video/BV1FN5VztEZZ",
+          "query": "工程制图与AutoCAD 第3版 工程制图与CAD"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：工程制图与AutoCAD 第3版 工程制图与CAD",
           "query": "工程制图与AutoCAD 第3版 工程制图与CAD"
@@ -7397,6 +8855,12 @@ window.APP_DATA = {
       ],
       "note": "作者：洪庆 程蔚 陈冬冬；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：嵌入式RT-Thread实时操作系统教程，rtthread入门到精通全套完整版｜UP：嵌入式-｜BV1Cb4y1m7W5｜播放：346208｜搜索：嵌入式系统与应用实践",
+          "url": "https://www.bilibili.com/video/BV1Cb4y1m7W5",
+          "query": "嵌入式系统原理与应用-基于Cortex-A53微处理器 嵌入式系统与应用实践"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：嵌入式系统原理与应用-基于Cortex-A53微处理器 嵌入式系统与应用实践",
@@ -7418,8 +8882,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：B站首发！手把手教你用Docker部署PyTorch深度学习模型！全程干货讲解，零基础小白可学！（人工智能/机器学习/云原生/容器/研究生）｜UP：AI讲师-唐宇迪｜BV1AAoqYdETG｜播放：8732",
-          "url": "https://www.bilibili.com/video/BV1AAoqYdETG",
+          "search": "视频：【整整600集】清华大学196小时讲完的AI人工智能从入门到精通全套教程，全程干货无废话！学完变大佬！这还学不会，我退出IT圈！机器学习-深度学习-opencv｜UP：IT界扛霸子｜BV1qZSLBYEpa｜播放：749109｜搜索：人工智能原理",
+          "url": "https://www.bilibili.com/video/BV1qZSLBYEpa",
           "query": "动手学深度学习pytorch版 人工智能原理"
         },
         {
@@ -7442,6 +8906,12 @@ window.APP_DATA = {
       "note": "作者：林子雨；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员大数据入门到实战教程，大数据开发必会的Hadoop、Hive，云平台实战项目全套一网打尽｜UP：黑马程序员｜BV1WY4y197g7｜播放：1104739｜搜索：大数据 全套教程",
+          "url": "https://www.bilibili.com/video/BV1WY4y197g7",
+          "query": "大数据技术原理与应用 大数据与云计算"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大数据技术原理与应用 大数据与云计算",
           "query": "大数据技术原理与应用 大数据与云计算"
@@ -7462,8 +8932,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：使用HTML、CSS和JavaScript制作幸运旋转盘游戏｜UP：前端亮亮｜BV1dP411g7pp｜播放：6649",
-          "url": "https://www.bilibili.com/video/BV1dP411g7pp",
+          "search": "视频：《基础会计学》5小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1paqrYXEKv｜播放：2254925｜搜索：Java 期末复习",
+          "url": "https://www.bilibili.com/video/BV1paqrYXEKv",
           "query": "HTML+CSS+JavaScript网页制作案例教程（第2版） 网站设计"
         },
         {
@@ -7486,6 +8956,12 @@ window.APP_DATA = {
       "note": "作者：胡其登，戴瑞华；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：SOLIDWORKS 教学 精品教程 | 2024年新修 | B站 点赞 播放 收藏 NO.1｜UP：阿奇设计分享｜BV1iw411Z7HZ｜播放：13044384｜搜索：SOLIDWORKS 电气基础教程",
+          "url": "https://www.bilibili.com/video/BV1iw411Z7HZ",
+          "query": "SOLIDWORKS 电气基础教程(2020版) 电气工程项目设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：SOLIDWORKS 电气基础教程(2020版) 电气工程项目设计",
           "query": "SOLIDWORKS 电气基础教程(2020版) 电气工程项目设计"
@@ -7504,6 +8980,12 @@ window.APP_DATA = {
       ],
       "note": "作者：徐颖秦，熊伟丽；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【ESP8266教程】零基础入门学用物联网-基础知识篇（太极创客团队）｜UP：太极创客｜BV1L7411c7jw｜播放：1308055｜搜索：物联网技术及应用 物联网技术及应用实践",
+          "url": "https://www.bilibili.com/video/BV1L7411c7jw",
+          "query": "物联网技术及应用 物联网技术及应用实践"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：物联网技术及应用 物联网技术及应用实践",
@@ -7524,6 +9006,12 @@ window.APP_DATA = {
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员前端微信小程序开发教程，微信小程序从基础到发布全流程_企业级商城实战(含uni-app项目多端部署)｜UP：黑马程序员｜BV1834y1676P｜播放：6399323｜搜索：微信小程序开发实战第2版 移动互联网技术",
+          "url": "https://www.bilibili.com/video/BV1834y1676P",
+          "query": "微信小程序开发实战第2版 移动互联网技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：微信小程序开发实战第2版 移动互联网技术",
           "query": "微信小程序开发实战第2版 移动互联网技术"
@@ -7542,6 +9030,12 @@ window.APP_DATA = {
       ],
       "note": "作者：刘介才；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：煤矿供电技术课程——中国矿业大学（北京）王彦文教授｜UP：认真睡觉努力学习｜BV1w7411J7X8｜播放：43329｜搜索：供配电技术 供电技术",
+          "url": "https://www.bilibili.com/video/BV1w7411J7X8",
+          "query": "供配电技术 供电技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：供配电技术 供电技术",
@@ -7562,6 +9056,12 @@ window.APP_DATA = {
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【Web前端网页制作·2026】小白专属！这绝对是B站最全最详细的网页布局完整教程（附源码），零基础入门到项目实战_保姆级教程，手把手教你从0到1做出完整网页！｜UP：九色麋彩鹿｜BV1gMQ4BWEKA｜播放：16523｜搜索：HTML+CSS+JavaScript网页制作案例教程HTML",
+          "url": "https://www.bilibili.com/video/BV1gMQ4BWEKA",
+          "query": "HTML+CSS+JavaScript网页制作案例教程HTML（第二版） 网站设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：HTML+CSS+JavaScript网页制作案例教程HTML（第二版） 网站设计",
           "query": "HTML+CSS+JavaScript网页制作案例教程HTML（第二版） 网站设计"
@@ -7580,6 +9080,12 @@ window.APP_DATA = {
       ],
       "note": "作者：贾铁军、曹锐、刘建准、邓红霞、降爱莲、宋晓涛、岳付强、王坚等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《数据库系统概论》0基础也能听懂 期末冲刺上高分 期末自救速成课资源 期末不挂科资源 期末复习突击速成课资源 考研复试知识框架梳理｜UP：重生之期末自救指南｜BV1D8qUB2Eor｜播放：337038｜搜索：数据库 期末复习",
+          "url": "https://www.bilibili.com/video/BV1D8qUB2Eor",
+          "query": "数据库原理及应用与实践（第4版)——基于SQL Server 2019 数据库系统与应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库原理及应用与实践（第4版)——基于SQL Server 2019 数据库系统与应用",
@@ -7600,6 +9106,12 @@ window.APP_DATA = {
       "note": "作者：胡其登，戴瑞华；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：SOLIDWORKS 教学 精品教程 | 2024年新修 | B站 点赞 播放 收藏 NO.1｜UP：阿奇设计分享｜BV1iw411Z7HZ｜播放：13044492｜搜索：SOLIDWORKS 电气基础教程",
+          "url": "https://www.bilibili.com/video/BV1iw411Z7HZ",
+          "query": "SOLIDWORKS 电气基础教程（2020版） 电气工程项目设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：SOLIDWORKS 电气基础教程（2020版） 电气工程项目设计",
           "query": "SOLIDWORKS 电气基础教程（2020版） 电气工程项目设计"
@@ -7615,6 +9127,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：哈工大21秋移动互联网技术复习｜UP：小童同学_｜BV1xP4y1P7uG｜播放：4746｜搜索：官网开发文档 无需打印 移动互联网技术",
+          "url": "https://www.bilibili.com/video/BV1xP4y1P7uG",
+          "query": "官网开发文档，无需打印 移动互联网技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：官网开发文档，无需打印 移动互联网技术",
@@ -7634,6 +9152,12 @@ window.APP_DATA = {
       ],
       "note": "作者：盛骤、谢式千、潘承毅；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5491220｜搜索：概率论与数理统计",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
+          "query": "概率论与数理统计（第五版） 概率论与数理统计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：概率论与数理统计（第五版） 概率论与数理统计",
@@ -7655,8 +9179,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《计算机网络教程 第6版，谢钧》课程｜UP：Nidhogg14｜BV161ttzYEbz｜播放：19668",
-          "url": "https://www.bilibili.com/video/BV161ttzYEbz",
+          "search": "视频：【期末复习】7天快速通过计算机网络期末考试｜谢希仁版｜考前急救｜高效通过｜粉丝投稿｜UP：网络工程师学长｜BV1PK4y1X7ze｜播放：2532016｜搜索：计算机网络",
+          "url": "https://www.bilibili.com/video/BV1PK4y1X7ze",
           "query": "《计算机网络教程》(第6版) 计算机网络"
         },
         {
@@ -7679,6 +9203,12 @@ window.APP_DATA = {
       "note": "作者：阮毅、杨影、陈伯时；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《自动控制原理》期末速成课！|期末不挂科|考点总结|自救指南|考前突击｜UP：控制考研阿祖｜BV1x6qLYHEso｜播放：3478112｜搜索：自动控制原理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1x6qLYHEso",
+          "query": "电力拖动自动控制系统--运动控制系统（第5版） 电力拖动控制系统"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：电力拖动自动控制系统--运动控制系统（第5版） 电力拖动控制系统",
           "query": "电力拖动自动控制系统--运动控制系统（第5版） 电力拖动控制系统"
@@ -7699,8 +9229,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：13.建筑施工安全生产标准化系列视频--塔式起重机｜UP：建筑工程施工作业培训｜BV1Jq4y1J7WE｜播放：2522",
-          "url": "https://www.bilibili.com/video/BV1Jq4y1J7WE",
+          "search": "视频：湖南省建筑施工安全生产标准化系列视频｜UP：琅琊王氏-BIM王｜BV1RQ4y1Y7rH｜播放：13430｜搜索：标准化工程 教程",
+          "url": "https://www.bilibili.com/video/BV1RQ4y1Y7rH",
           "query": "标准化技术与方法(全国高校标准化工程系列教材) 技术标准与设计案例"
         },
         {
@@ -7723,6 +9253,12 @@ window.APP_DATA = {
       "note": "作者：胡玉华；出版社：中国标准出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【剑桥课堂】《剑桥标准英语教程 》（1A+1B+2A+2B+3A+3B共122课）专为英语零基础或基础薄弱的同学设计的系统化英语教程。｜UP：苗苗知识宝藏｜BV1veNEz6ESa｜播放：5479｜搜索：标准化技术与方法 技术标准与设计案例",
+          "url": "https://www.bilibili.com/video/BV1veNEz6ESa",
+          "query": "标准化技术与方法（全国高校标准化工程系列教材） 技术标准与设计案例"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：标准化技术与方法（全国高校标准化工程系列教材） 技术标准与设计案例",
           "query": "标准化技术与方法（全国高校标准化工程系列教材） 技术标准与设计案例"
@@ -7738,6 +9274,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：(视频实战课程)如何编制标准检验指导书SIP ?｜UP：质量管理体系培训｜BV1ak4y1r7Yj｜播放：18423｜搜索：实验指导书 学院集中打印",
+          "url": "https://www.bilibili.com/video/BV1ak4y1r7Yj",
+          "query": "实验指导书，学院集中打印 数字电路与逻辑设计实验"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：实验指导书，学院集中打印 数字电路与逻辑设计实验",
@@ -7759,8 +9301,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【期末冲刺上大分】《模电/模拟电子技术基础》8小时系统学习|期末拿高分【蜂考】｜UP：蜂考｜BV1CBfiYfEnN｜播放：3060462",
-          "url": "https://www.bilibili.com/video/BV1CBfiYfEnN",
+          "search": "视频：模拟电子技术基础【4K高清降噪版】 上交大模拟电子 （模拟电路/模电）模拟电子技术基础第六版郑益慧实验期末速成考研专升本简明教程第四版 讲课水平略胜华成英｜UP：模拟电子技术基础-｜BV1qA5DzWEVh｜播放：1468211｜搜索：模拟电子技术",
+          "url": "https://www.bilibili.com/video/BV1qA5DzWEVh",
           "query": "模拟电子技术基础 模拟电子技术"
         },
         {
@@ -7783,6 +9325,12 @@ window.APP_DATA = {
       "note": "作者：阎石；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【电子】数字电子技术基础（数字电路/数电） 清华大学 王红主讲｜UP：谢谢谢同学鸭｜BV18p411Z7ce｜播放：6422700｜搜索：数字电子技术基础（第六版） 数字电路与逻辑设计",
+          "url": "https://www.bilibili.com/video/BV18p411Z7ce",
+          "query": "数字电子技术基础（第六版） 数字电路与逻辑设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版） 数字电路与逻辑设计",
           "query": "数字电子技术基础（第六版） 数字电路与逻辑设计"
@@ -7801,6 +9349,12 @@ window.APP_DATA = {
       ],
       "note": "作者：阎石 王红；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【数电】数字电子技术高分课期末速成|数字电路期末复习|复试|调剂|专升本可用|绩满满｜UP：橙子期末包过｜BV1Qj9VB4E6k｜播放：29499｜搜索：数字电子技术 期末复习",
+          "url": "https://www.bilibili.com/video/BV1Qj9VB4E6k",
+          "query": "数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计",
@@ -7821,6 +9375,12 @@ window.APP_DATA = {
       "note": "作者：燕庆明，于凤芹，顾斌杰；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《信号与系统》期末10h速成课||期末不挂科|考点总结|自救指南｜UP：水木观畴电子通信考研｜BV1e6G866Ebk｜播放：79190｜搜索：信号与系统教程 信号与系统",
+          "url": "https://www.bilibili.com/video/BV1e6G866Ebk",
+          "query": "信号与系统教程 信号与系统"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：信号与系统教程 信号与系统",
           "query": "信号与系统教程 信号与系统"
@@ -7839,6 +9399,12 @@ window.APP_DATA = {
       ],
       "note": "作者：皮大能；出版社：北京航空航天大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《单片机原理及应用》6小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1pDkjYwE8v｜播放：1653782｜搜索：单片机 期末复习",
+          "url": "https://www.bilibili.com/video/BV1pDkjYwE8v",
+          "query": "单片机原理与应用(双色版） 单片机原理及应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：单片机原理与应用(双色版） 单片机原理及应用",
@@ -7859,6 +9425,12 @@ window.APP_DATA = {
       "note": "作者：彭鸿才等；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【电机与拖动】电机与拖动期末速成|4小时电机拖动期末复习|电机拖动与控制|电机拖动基础|各版教材均可用|复试|调剂|专升本可用｜UP：哔哩大学机械学院｜BV1B5Anz5Ea3｜播放：37072｜搜索：电机拖动基础 教程",
+          "url": "https://www.bilibili.com/video/BV1B5Anz5Ea3",
+          "query": "电机原理及拖动 电机学与拖动基础"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：电机原理及拖动 电机学与拖动基础",
           "query": "电机原理及拖动 电机学与拖动基础"
@@ -7878,6 +9450,12 @@ window.APP_DATA = {
       "note": "作者：程佩青；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【数字信号处理期末速成课】电子通信期末考试课程｜UP：水木观畴电子通信考研｜BV1DT421X7iu｜播放：504127｜搜索：数字信号处理教程",
+          "url": "https://www.bilibili.com/video/BV1DT421X7iu",
+          "query": "数字信号处理教程 数字信号处理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字信号处理教程 数字信号处理",
           "query": "数字信号处理教程 数字信号处理"
@@ -7896,6 +9474,12 @@ window.APP_DATA = {
       ],
       "note": "作者：张洪欣等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【电磁场与电磁波】4小时期末速成|电磁场与电磁波期末复习|电磁场波|各版本均可用第五版谢处方可用|复试|调剂|专升本可用｜UP：橙子期末包过｜BV1XVXzBhEbw｜播放：13682｜搜索：电磁场与电磁波 期末复习",
+          "url": "https://www.bilibili.com/video/BV1XVXzBhEbw",
+          "query": "电磁场与电磁波 工程电磁场"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：电磁场与电磁波 工程电磁场",
@@ -7917,8 +9501,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：电力电子仿真 MATLAB/Simulink 基础篇系列视频（黑库）｜UP：西瓜粥西瓜粥｜BV1xz411B7cV｜播放：988206",
-          "url": "https://www.bilibili.com/video/BV1xz411B7cV",
+          "search": "视频：电力电子技术期末速成课|虎头哥主讲|电气考研｜UP：刺猬哥电气考研｜BV16LnZe6EtG｜播放：880166｜搜索：电力电子技术 电力电子技术",
+          "url": "https://www.bilibili.com/video/BV16LnZe6EtG",
           "query": "电力电子技术 电力电子技术"
         },
         {
@@ -7941,6 +9525,12 @@ window.APP_DATA = {
       "note": "作者：张保会、尹项根；出版社：中国电力出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：电气考研【阳老师】继电保护期末考试速成课-继保电气考研复试｜UP：水木珞研电气考研｜BV1Gy4y1B7Rg｜播放：933403｜搜索：电力系统继电保护",
+          "url": "https://www.bilibili.com/video/BV1Gy4y1B7Rg",
+          "query": "电力系统继电保护 电力系统继电保护"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：电力系统继电保护 电力系统继电保护",
           "query": "电力系统继电保护 电力系统继电保护"
@@ -7961,8 +9551,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：UG工程制图，出图与导出CAD｜UP：三玖教育-木子｜BV1iHz8YmE4r｜播放：108972",
-          "url": "https://www.bilibili.com/video/BV1iHz8YmE4r",
+          "search": "视频：【工程制图 | 期末急救】零基础速成不挂科⚡已完结全免费⚡（工程图学/现代工程图/机械制图）｜UP：凌云师兄-期末加油站｜BV1FN5VztEZZ｜播放：863378｜搜索：工程制图与CAD",
+          "url": "https://www.bilibili.com/video/BV1FN5VztEZZ",
           "query": "工程制图与AutoCAD 第2版 工程制图与CAD"
         },
         {
@@ -7986,7 +9576,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【计算机视觉实战项目】基于Python与OpenCV实现的图像处理全套解析！从基础原理到代码实战，全程通俗易懂，适合所有零基础入门学习！-ML/DL/CV｜UP：唐宇迪的AI入门课｜BV14A411C7ZE｜播放：1110153",
+          "search": "视频：【计算机视觉实战项目】基于Python与OpenCV实现的图像处理全套解析！从基础原理到代码实战，全程通俗易懂，适合所有零基础入门学习！-ML/DL/CV｜UP：唐宇迪的AI入门课｜BV14A411C7ZE｜播放：1110196｜搜索：OpenCV计算机视觉基础教程（Python版|慕课版） 计算机视觉及应用",
           "url": "https://www.bilibili.com/video/BV14A411C7ZE",
           "query": "OpenCV计算机视觉基础教程（Python版|慕课版） 计算机视觉及应用"
         },
@@ -8011,8 +9601,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【玩转电机】电机控制“大力出奇迹”？6种控制方式一看就懂｜UP：达尔闻｜BV19G4y137MW｜播放：73617",
-          "url": "https://www.bilibili.com/video/BV19G4y137MW",
+          "search": "视频：【正点原子】手把手教你学STM32电机应用控制【真人出镜】STM32电机应用控制视频教程 STM32 嵌入式 单片机｜UP：正点原子官方｜BV1hv4y1g7s3｜播放：558257｜搜索：控制电机 控制电机",
+          "url": "https://www.bilibili.com/video/BV1hv4y1g7s3",
           "query": "控制电机 控制电机"
         },
         {
@@ -8035,6 +9625,12 @@ window.APP_DATA = {
       "note": "作者：沈晔；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《控制工程基础》期末速成课！零基础不挂科！3小时无痛自救保过！｜UP：掌握控制考研｜BV1yZxNzuEiu｜播放：1400123｜搜索：楼宇自动化技术与工程",
+          "url": "https://www.bilibili.com/video/BV1yZxNzuEiu",
+          "query": "楼宇自动化技术与工程 楼宇自动化"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：楼宇自动化技术与工程 楼宇自动化",
           "query": "楼宇自动化技术与工程 楼宇自动化"
@@ -8053,6 +9649,12 @@ window.APP_DATA = {
       ],
       "note": "作者：惠晶；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：西安交大新能源发电｜UP：更悲伤的故事｜BV1o4411J7T7｜播放：37766｜搜索：新能源发电与控制技术 新能源发电技术",
+          "url": "https://www.bilibili.com/video/BV1o4411J7T7",
+          "query": "新能源发电与控制技术 新能源发电技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：新能源发电与控制技术 新能源发电技术",
@@ -8073,6 +9675,12 @@ window.APP_DATA = {
       "note": "作者：李国强、刘君；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《创业基础》【共77节完整版】｜UP：六神无主的吾｜BV18b411p7MT｜播放：78037｜搜索：创业基础",
+          "url": "https://www.bilibili.com/video/BV18b411p7MT",
+          "query": "大学生创新创业基础 第2版 创业基础（实践）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大学生创新创业基础 第2版 创业基础（实践）",
           "query": "大学生创新创业基础 第2版 创业基础（实践）"
@@ -8092,6 +9700,12 @@ window.APP_DATA = {
       "note": "作者：胡建生；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【工程制图 | 期末急救】零基础速成不挂科⚡已完结全免费⚡（工程图学/现代工程图/机械制图）｜UP：凌云师兄-期末加油站｜BV1FN5VztEZZ｜播放：863363｜搜索：工程制图与CAD",
+          "url": "https://www.bilibili.com/video/BV1FN5VztEZZ",
+          "query": "工程制图与AutoCAD 第3版 工程制图与CAD"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：工程制图与AutoCAD 第3版 工程制图与CAD",
           "query": "工程制图与AutoCAD 第3版 工程制图与CAD"
@@ -8110,6 +9724,12 @@ window.APP_DATA = {
       ],
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59075｜搜索：OpenCV计算机视觉基础教程Python版 慕课版",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
+          "query": "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用",
@@ -8131,8 +9751,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：自动控制原理+机械控制原理_03课_3_复阻抗法+运算放大器｜UP：laitianmao｜BV1tP411N7EL｜播放：20482",
-          "url": "https://www.bilibili.com/video/BV1tP411N7EL",
+          "search": "视频：《自动控制原理》期末速成课！|期末不挂科|考点总结|自救指南|考前突击｜UP：控制考研阿祖｜BV1x6qLYHEso｜播放：3478093｜搜索：自动控制原理",
+          "url": "https://www.bilibili.com/video/BV1x6qLYHEso",
           "query": "自动控制原理（第3版） 自动控制原理"
         },
         {
@@ -8155,6 +9775,12 @@ window.APP_DATA = {
       "note": "作者：刘进军、王兆安；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：电力电子技术期末速成课|虎头哥主讲|电气考研｜UP：刺猬哥电气考研｜BV16LnZe6EtG｜播放：880166｜搜索：电力电子技术",
+          "url": "https://www.bilibili.com/video/BV16LnZe6EtG",
+          "query": "电力电子技术（第6版） 电力电子技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：电力电子技术（第6版） 电力电子技术",
           "query": "电力电子技术（第6版） 电力电子技术"
@@ -8173,6 +9799,12 @@ window.APP_DATA = {
       ],
       "note": "作者：李冬梅 严蔚敏 吴伟民；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：数据结构与算法基础（青岛大学-王卓）｜UP：87师兄｜BV1nJ411V7bd｜播放：16201020｜搜索：数据结构",
+          "url": "https://www.bilibili.com/video/BV1nJ411V7bd",
+          "query": "数据结构（C语言版）（第3版） 数据结构"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据结构（C语言版）（第3版） 数据结构",
@@ -8194,8 +9826,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《发电厂电气部分》3.5小时期末不挂科！期末突击|核心考点|案例解析｜UP：数学建模老哥｜BV1kng6z4E7e｜播放：65839",
-          "url": "https://www.bilibili.com/video/BV1kng6z4E7e",
+          "search": "视频：电工基础全集（新手必学电工课程） 电工工具典型电路控制传感器变频器技术 电工视频课程电气自动化入门精讲｜UP：PLC工程师余工｜BV1ZcTQeUEgi｜播放：2646241｜搜索：发电厂与变电站电气基础",
+          "url": "https://www.bilibili.com/video/BV1ZcTQeUEgi",
           "query": "发电厂变电站电气部分（第三版） 发电厂与变电站电气基础"
         },
         {
@@ -8218,6 +9850,12 @@ window.APP_DATA = {
       "note": "作者：洪庆 程蔚 陈冬冬；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：嵌入式RT-Thread实时操作系统教程，rtthread入门到精通全套完整版｜UP：嵌入式-｜BV1Cb4y1m7W5｜播放：346208｜搜索：嵌入式系统与应用实践",
+          "url": "https://www.bilibili.com/video/BV1Cb4y1m7W5",
+          "query": "嵌入式系统原理与应用-基于Cortex-A53微处理器 嵌入式系统与应用实践"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：嵌入式系统原理与应用-基于Cortex-A53微处理器 嵌入式系统与应用实践",
           "query": "嵌入式系统原理与应用-基于Cortex-A53微处理器 嵌入式系统与应用实践"
@@ -8236,6 +9874,12 @@ window.APP_DATA = {
       ],
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【计算机视觉实战项目】基于Python与OpenCV实现的图像处理全套解析！从基础原理到代码实战，全程通俗易懂，适合所有零基础入门学习！-ML/DL/CV｜UP：唐宇迪的AI入门课｜BV14A411C7ZE｜播放：1110211｜搜索：OpenCV计算机视觉基础教程 Python版 计算机视觉",
+          "url": "https://www.bilibili.com/video/BV14A411C7ZE",
+          "query": "OpenCV计算机视觉基础教程 Python版 计算机视觉"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程 Python版 计算机视觉",
@@ -8256,6 +9900,12 @@ window.APP_DATA = {
       "note": "作者：陈虹；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：PLC技术应用【全169讲】【含资料】【国家级精品课】｜UP：爱学习的小刚子｜BV14gp8zqEfo｜播放：111276｜搜索：楼宇自动化技术与应用（第2版） 楼宇自动化",
+          "url": "https://www.bilibili.com/video/BV14gp8zqEfo",
+          "query": "楼宇自动化技术与应用（第2版） 楼宇自动化"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：楼宇自动化技术与应用（第2版） 楼宇自动化",
           "query": "楼宇自动化技术与应用（第2版） 楼宇自动化"
@@ -8274,6 +9924,12 @@ window.APP_DATA = {
       ],
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【Web前端网页制作·2026】小白专属！这绝对是B站最全最详细的网页布局完整教程（附源码），零基础入门到项目实战_保姆级教程，手把手教你从0到1做出完整网页！｜UP：九色麋彩鹿｜BV1gMQ4BWEKA｜播放：16523｜搜索：HTML+CSS+JavaScript网页制作案例教程HTML",
+          "url": "https://www.bilibili.com/video/BV1gMQ4BWEKA",
+          "query": "HTML+CSS+JavaScript网页制作案例教程HTML（第二版） 网站设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：HTML+CSS+JavaScript网页制作案例教程HTML（第二版） 网站设计",
@@ -8294,6 +9950,12 @@ window.APP_DATA = {
       "note": "作者：闵虎 杨智；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《自动控制原理》期末速成课！|期末不挂科|考点总结|自救指南|考前突击｜UP：控制考研阿祖｜BV1x6qLYHEso｜播放：3478083｜搜索：自动控制原理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1x6qLYHEso",
+          "query": "自动控制系统（第3版） 自动控制原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：自动控制系统（第3版） 自动控制原理",
           "query": "自动控制系统（第3版） 自动控制原理"
@@ -8309,6 +9971,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：哈工大21秋移动互联网技术复习｜UP：小童同学_｜BV1xP4y1P7uG｜播放：4746｜搜索：官网开发文档 无需打印 移动互联网技术",
+          "url": "https://www.bilibili.com/video/BV1xP4y1P7uG",
+          "query": "官网开发文档，无需打印 移动互联网技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：官网开发文档，无需打印 移动互联网技术",
@@ -8329,6 +9997,12 @@ window.APP_DATA = {
       "note": "作者：阮毅、杨影、陈伯时；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《自动控制原理》期末速成课！|期末不挂科|考点总结|自救指南|考前突击｜UP：控制考研阿祖｜BV1x6qLYHEso｜播放：3478112｜搜索：自动控制原理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1x6qLYHEso",
+          "query": "电力拖动自动控制系统--运动控制系统（第5版） 电力拖动控制系统"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：电力拖动自动控制系统--运动控制系统（第5版） 电力拖动控制系统",
           "query": "电力拖动自动控制系统--运动控制系统（第5版） 电力拖动控制系统"
@@ -8348,6 +10022,12 @@ window.APP_DATA = {
       "note": "作者：嵩天；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员python零基础全套教程，8天python从入门到精通，学python看这套就够了｜UP：黑马程序员｜BV1qW4y1a7fU｜播放：24410268｜搜索：Python 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1qW4y1a7fU",
+          "query": "python语言程序设计基础（第2版） Python程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：python语言程序设计基础（第2版） Python程序设计",
           "query": "python语言程序设计基础（第2版） Python程序设计"
@@ -8366,6 +10046,12 @@ window.APP_DATA = {
       ],
       "note": "作者：黄宝贵等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：MySQL知识精讲+mysql实战案例_零基础mysql数据库入门到高级全套教程｜UP：lad920｜BV1yM411v7pc｜播放：14769｜搜索：MySQL 全套教程",
+          "url": "https://www.bilibili.com/video/BV1yM411v7pc",
+          "query": "数据库系统原理与应用(MySQL版) 数据库系统与应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库系统原理与应用(MySQL版) 数据库系统与应用",
@@ -8387,8 +10073,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【合集】SOLIDWORKS Electrical机电一体化设计基础教程｜UP：高顿科技｜BV1U54y187Cx｜播放：24282",
-          "url": "https://www.bilibili.com/video/BV1U54y187Cx",
+          "search": "视频：SOLIDWORKS 教学 精品教程 | 2024年新修 | B站 点赞 播放 收藏 NO.1｜UP：阿奇设计分享｜BV1iw411Z7HZ｜播放：13044402｜搜索：SOLIDWORKS电气高级教程",
+          "url": "https://www.bilibili.com/video/BV1iw411Z7HZ",
           "query": "SOLIDWORKS电气高级教程 电气自动化工程项目设计"
         },
         {
@@ -8411,6 +10097,12 @@ window.APP_DATA = {
       "note": "作者：刘介才；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：煤矿供电技术课程——中国矿业大学（北京）王彦文教授｜UP：认真睡觉努力学习｜BV1w7411J7X8｜播放：43329｜搜索：供电技术",
+          "url": "https://www.bilibili.com/video/BV1w7411J7X8",
+          "query": "工厂供电 供电技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：工厂供电 供电技术",
           "query": "工厂供电 供电技术"
@@ -8429,6 +10121,12 @@ window.APP_DATA = {
       ],
       "note": "作者：严蔚敏等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：数据结构与算法基础（青岛大学-王卓）｜UP：87师兄｜BV1nJ411V7bd｜播放：16201043｜搜索：数据结构（C语言版）（第2版） 数据结构",
+          "url": "https://www.bilibili.com/video/BV1nJ411V7bd",
+          "query": "数据结构（C语言版）（第2版） 数据结构"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据结构（C语言版）（第2版） 数据结构",
@@ -8450,8 +10148,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：13.建筑施工安全生产标准化系列视频--塔式起重机｜UP：建筑工程施工作业培训｜BV1Jq4y1J7WE｜播放：2522",
-          "url": "https://www.bilibili.com/video/BV1Jq4y1J7WE",
+          "search": "视频：湖南省建筑施工安全生产标准化系列视频｜UP：琅琊王氏-BIM王｜BV1RQ4y1Y7rH｜播放：13430｜搜索：标准化工程 教程",
+          "url": "https://www.bilibili.com/video/BV1RQ4y1Y7rH",
           "query": "标准化技术与方法(全国高校标准化工程系列教材) 技术标准与设计案例"
         },
         {
@@ -8474,6 +10172,12 @@ window.APP_DATA = {
       "note": "作者：盛骤、谢式千、潘承毅；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5491220｜搜索：概率论与数理统计",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
+          "query": "概率论与数理统计（第五版） 概率论与数理统计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：概率论与数理统计（第五版） 概率论与数理统计",
           "query": "概率论与数理统计（第五版） 概率论与数理统计"
@@ -8494,8 +10198,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《Python语言程序设计》考试复习速成资源/快速复习 考研框架复习 /习题讲解 期末不挂科资源｜UP：丶世中逢尔｜BV1av1SBrE8r｜播放：17073",
-          "url": "https://www.bilibili.com/video/BV1av1SBrE8r",
+          "search": "视频：【全748集】目前B站最全最细的Python零基础全套教程，2026最新版，包含所有干货！七天就能从小白到大神！少走99%的弯路！存下吧！很难找全的！｜UP：Python官方课程｜BV1rpWjevEip｜播放：16624922｜搜索：Python语言程序设计基础",
+          "url": "https://www.bilibili.com/video/BV1rpWjevEip",
           "query": "Python语言程序设计基础(第3版) Python程序设计"
         },
         {
@@ -8518,6 +10222,12 @@ window.APP_DATA = {
       "note": "作者：阮毅等；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：亲测最好的《自动控制原理》期末速成课！零基础不挂科！无痛自救轻松保过！｜UP：掌握控制考研｜BV1Q5yhBJE6v｜播放：791932｜搜索：自动控制原理 教程",
+          "url": "https://www.bilibili.com/video/BV1Q5yhBJE6v",
+          "query": "电力拖动自动控制系统-运动控制系统 电力拖动控制系统"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：电力拖动自动控制系统-运动控制系统 电力拖动控制系统",
           "query": "电力拖动自动控制系统-运动控制系统 电力拖动控制系统"
@@ -8537,6 +10247,12 @@ window.APP_DATA = {
       "note": "作者：胡其登，戴瑞华；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：SOLIDWORKS 教学 精品教程 | 2024年新修 | B站 点赞 播放 收藏 NO.1｜UP：阿奇设计分享｜BV1iw411Z7HZ｜播放：13044402｜搜索：SOLIDWORKS 电气基础教程(2020版) 电气自动化工程项目设计",
+          "url": "https://www.bilibili.com/video/BV1iw411Z7HZ",
+          "query": "SOLIDWORKS 电气基础教程(2020版) 电气自动化工程项目设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：SOLIDWORKS 电气基础教程(2020版) 电气自动化工程项目设计",
           "query": "SOLIDWORKS 电气基础教程(2020版) 电气自动化工程项目设计"
@@ -8555,6 +10271,12 @@ window.APP_DATA = {
       ],
       "note": "作者：胡玉华；出版社：中国标准出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【剑桥课堂】《剑桥标准英语教程 》（1A+1B+2A+2B+3A+3B共122课）专为英语零基础或基础薄弱的同学设计的系统化英语教程。｜UP：苗苗知识宝藏｜BV1veNEz6ESa｜播放：5479｜搜索：标准化技术与方法 技术标准与设计案例",
+          "url": "https://www.bilibili.com/video/BV1veNEz6ESa",
+          "query": "标准化技术与方法（全国高校标准化工程系列教材） 技术标准与设计案例"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：标准化技术与方法（全国高校标准化工程系列教材） 技术标准与设计案例",
@@ -8576,8 +10298,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【2026最新】B站NO.1！！！别再盲目自学数据库 科学系统的 MySQL 数据分析完整学习路线｜UP：观数者｜BV1n3Vz6LEdW｜播放：611",
-          "url": "https://www.bilibili.com/video/BV1n3Vz6LEdW",
+          "search": "视频：MySQL知识精讲+mysql实战案例_零基础mysql数据库入门到高级全套教程｜UP：lad920｜BV1yM411v7pc｜播放：14769｜搜索：MySQL 全套教程",
+          "url": "https://www.bilibili.com/video/BV1yM411v7pc",
           "query": "数据库系统原理与应用（MySQL版） 数据库系统与应用"
         },
         {
@@ -8600,6 +10322,12 @@ window.APP_DATA = {
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《基础会计学》5小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1paqrYXEKv｜播放：2254929｜搜索：Java 期末复习",
+          "url": "https://www.bilibili.com/video/BV1paqrYXEKv",
+          "query": "HTML+CSS+JavaScript 网页制作案例教程（第 2 版） 网站设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：HTML+CSS+JavaScript 网页制作案例教程（第 2 版） 网站设计",
           "query": "HTML+CSS+JavaScript 网页制作案例教程（第 2 版） 网站设计"
@@ -8619,6 +10347,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【完整版】《C语言》9小时系统学习|期末拿高分【蜂考】｜UP：蜂考｜BV1m9NgeLEyo｜播放：414290｜搜索：C语言 期末复习",
+          "url": "https://www.bilibili.com/video/BV1m9NgeLEyo",
+          "query": "C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计",
           "query": "C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计"
@@ -8637,6 +10371,12 @@ window.APP_DATA = {
       ],
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：C语言程序设计从入门到进阶【比特鹏哥c语言2024完整版视频教程】（c语言基础入门c语言软件安装C语言指针c语言考研C语言专升本C语言期末计算机二级C语言c语言｜UP：鹏哥C语言｜BV1Vm4y1r7jY｜播放：13139770｜搜索：C语言程序设计实验教程",
+          "url": "https://www.bilibili.com/video/BV1Vm4y1r7jY",
+          "query": "C语言程序设计实验教程（第2版） 高级语言程序设计实践"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：C语言程序设计实验教程（第2版） 高级语言程序设计实践",
@@ -8658,8 +10398,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：计算机一级计算机基础及WPS Office应用 新思路操作题解题视频｜UP：新思路等考通｜BV13g41177LV｜播放：722776",
-          "url": "https://www.bilibili.com/video/BV13g41177LV",
+          "search": "视频：（2026年3月）WPS计算机二级真题讲解｜UP：大猫计算机二级｜BV1c64y1y7RB｜播放：35353884｜搜索：计算机应用基础 WPS版 计算机实践基础",
+          "url": "https://www.bilibili.com/video/BV1c64y1y7RB",
           "query": "计算机应用基础-WPS版 计算机实践基础"
         },
         {
@@ -8682,6 +10422,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：计算机一级计算机基础及WPS Office应用 新思路操作题解题视频｜UP：新思路等考通｜BV13g41177LV｜播放：722795｜搜索：计算机应用基实验教程-WPS版 计算机实践基础",
+          "url": "https://www.bilibili.com/video/BV13g41177LV",
+          "query": "计算机应用基实验教程-WPS版 计算机实践基础"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机应用基实验教程-WPS版 计算机实践基础",
           "query": "计算机应用基实验教程-WPS版 计算机实践基础"
@@ -8702,8 +10448,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数农314考点梳理----线性代数｜UP：考研数农小朱｜BV1hb421v7Ld｜播放：14116",
-          "url": "https://www.bilibili.com/video/BV1hb421v7Ld",
+          "search": "视频：【Kira老师】27考研《线性代数》零基础精讲课25h，小白也能轻松入门！ |期末看完直接炸鱼｜UP：一高数｜BV1Q4iJBAEsr｜播放：1605727｜搜索：线性代数",
+          "url": "https://www.bilibili.com/video/BV1Q4iJBAEsr",
           "query": "线性代数 线性代数"
         },
         {
@@ -8727,8 +10473,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《线性代数》习题课，零废话，超精讲！【孔祥仁】｜UP：孔祥仁｜BV1bt421T7p6｜播放：1115259",
-          "url": "https://www.bilibili.com/video/BV1bt421T7p6",
+          "search": "视频：【Kira老师】27考研《线性代数》零基础精讲课25h，小白也能轻松入门！ |期末看完直接炸鱼｜UP：一高数｜BV1Q4iJBAEsr｜播放：1605727｜搜索：线性代数 期末复习",
+          "url": "https://www.bilibili.com/video/BV1Q4iJBAEsr",
           "query": "线性代数习题解答 线性代数"
         },
         {
@@ -8751,6 +10497,12 @@ window.APP_DATA = {
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《高等数学(上)》6小时速成课 | 框框老师（突击课，适合高等数学(微积分)期末考试、期中考试、补考、重修、专升本，考试不挂科）｜UP：框框老师课堂｜BV1mN411r7VM｜播放：17696356｜搜索：高等数学（上册） 高等数学(1)",
+          "url": "https://www.bilibili.com/video/BV1mN411r7VM",
+          "query": "高等数学（上册） 高等数学(1)"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：高等数学（上册） 高等数学(1)",
           "query": "高等数学（上册） 高等数学(1)"
@@ -8769,6 +10521,12 @@ window.APP_DATA = {
       ],
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6957872｜搜索：高等数学 期末复习",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
+          "query": "高等数学习题解答 高等数学(1)"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：高等数学习题解答 高等数学(1)",
@@ -8790,8 +10548,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：2025山东专升本高数二（高等数学二）系列课程（持续更新）｜UP：升本啦｜BV1Mh411W7WM｜播放：475842",
-          "url": "https://www.bilibili.com/video/BV1Mh411W7WM",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6958023｜搜索：高等数学（下册） 高等数学（2）",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
           "query": "高等数学（下册） 高等数学（2）"
         },
         {
@@ -8814,6 +10572,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763720｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
+          "query": "Java程序设计——增量式项目驱动一体化教程（第2版） 面向对象程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Java程序设计——增量式项目驱动一体化教程（第2版） 面向对象程序设计",
           "query": "Java程序设计——增量式项目驱动一体化教程（第2版） 面向对象程序设计"
@@ -8834,8 +10598,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：电路与模拟电子技术（殷瑞祥） 课后习题｜UP：能不能不上学啊啊｜BV1vufpYGEUm｜播放：148312",
-          "url": "https://www.bilibili.com/video/BV1vufpYGEUm",
+          "search": "视频：【4K精品】模拟电子技术基础 上交大 郑益慧主讲（精校版字幕，模拟电路/模电 讲课水平略胜华成英，视频质量完爆清华版 4K超清重制版）｜UP：谢谢谢同学鸭｜BV1Gt411b7Zq｜播放：18091999｜搜索：电路与模拟电子技术",
+          "url": "https://www.bilibili.com/video/BV1Gt411b7Zq",
           "query": "电路与模拟电子技术 电路与模拟电子技术"
         },
         {
@@ -8858,6 +10622,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407238｜搜索：大学物理",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "大学物理 上册 大学物理（1）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大学物理 上册 大学物理（1）",
           "query": "大学物理 上册 大学物理（1）"
@@ -8876,6 +10646,12 @@ window.APP_DATA = {
       ],
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407066｜搜索：应用型本科大学物理(上册) 大学物理（1）",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "应用型本科大学物理(上册) 大学物理（1）"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：应用型本科大学物理(上册) 大学物理（1）",
@@ -8896,6 +10672,12 @@ window.APP_DATA = {
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6957872｜搜索：高等数学 教程",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
+          "query": "《高等数学》第八版下册 高等数学（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：《高等数学》第八版下册 高等数学（2）",
           "query": "《高等数学》第八版下册 高等数学（2）"
@@ -8914,6 +10696,12 @@ window.APP_DATA = {
       ],
       "note": "作者：殷瑞祥；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【4K精品】模拟电子技术基础 上交大 郑益慧主讲（精校版字幕，模拟电路/模电 讲课水平略胜华成英，视频质量完爆清华版 4K超清重制版）｜UP：谢谢谢同学鸭｜BV1Gt411b7Zq｜播放：18091906｜搜索：电路与模拟电子技术",
+          "url": "https://www.bilibili.com/video/BV1Gt411b7Zq",
+          "query": "电路与模拟电子技术（第四版） 电路与模拟电子技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：电路与模拟电子技术（第四版） 电路与模拟电子技术",
@@ -8934,6 +10722,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407066｜搜索：大学物理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "大学物理（下册） 大学物理（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大学物理（下册） 大学物理（2）",
           "query": "大学物理（下册） 大学物理（2）"
@@ -8949,6 +10743,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407287｜搜索：大学物理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "实验指导书，学院集中打印 大学物理实验（1）"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：实验指导书，学院集中打印 大学物理实验（1）",
@@ -8970,8 +10770,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：黑马程序员 MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括｜UP：黑马程序员｜BV1Kr4y1i7ru｜播放：12792075",
-          "url": "https://www.bilibili.com/video/BV1Kr4y1i7ru",
+          "search": "视频：MySQL知识精讲+mysql实战案例_零基础mysql数据库入门到高级全套教程｜UP：lad920｜BV1yM411v7pc｜播放：14769｜搜索：MySQL 全套教程",
+          "url": "https://www.bilibili.com/video/BV1yM411v7pc",
           "query": "MySQL 8.0数据库应用与开发 MySQL 数据库应用实践"
         },
         {
@@ -8994,6 +10794,12 @@ window.APP_DATA = {
       "note": "作者：陈秀双 庞锦维；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：UI设计教程 从零基础入门到精通 (2024最新全集）｜UP：AI漫剧制作教程｜BV1KT4y1E7tV｜播放：1709567｜搜索：UI设计",
+          "url": "https://www.bilibili.com/video/BV1KT4y1E7tV",
+          "query": "UI设计（项目式全彩微课版） UI界面设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：UI设计（项目式全彩微课版） UI界面设计",
           "query": "UI设计（项目式全彩微课版） UI界面设计"
@@ -9012,6 +10818,12 @@ window.APP_DATA = {
       ],
       "note": "作者：王生原，董渊，张素琴，吕映芝，蒋维杜；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【编译原理】期末复习 零基础自学｜UP：轶知｜BV1FQ4y1r7ub｜播放：1266841｜搜索：编译原理",
+          "url": "https://www.bilibili.com/video/BV1FQ4y1r7ub",
+          "query": "编译原理（第3版） 编译原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：编译原理（第3版） 编译原理",
@@ -9032,6 +10844,12 @@ window.APP_DATA = {
       "note": "作者：杨俊伟；出版社：自编；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：王道计算机考研 操作系统｜UP：王道计算机教育｜BV1YE411D7nH｜播放：22040428｜搜索：操作系统 期末复习",
+          "url": "https://www.bilibili.com/video/BV1YE411D7nH",
+          "query": "操作系统课程设计实验指导书 操作系统课程设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：操作系统课程设计实验指导书 操作系统课程设计",
           "query": "操作系统课程设计实验指导书 操作系统课程设计"
@@ -9050,6 +10868,12 @@ window.APP_DATA = {
       ],
       "note": "作者：吴帆；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【操作系统】计算机操作系统入门到精通完整教程（2022最新版）操作系统专业考试不挂科｜UP：马士兵_Java论坛｜BV1Ha411e7D4｜播放：373081｜搜索：操作系统 教程",
+          "url": "https://www.bilibili.com/video/BV1Ha411e7D4",
+          "query": "操作系统原理与实现 操作系统原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：操作系统原理与实现 操作系统原理",
@@ -9070,6 +10894,12 @@ window.APP_DATA = {
       "note": "作者：皮大能；出版社：北京航空航天大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《单片机原理及应用》6小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1pDkjYwE8v｜播放：1653782｜搜索：单片机 期末复习",
+          "url": "https://www.bilibili.com/video/BV1pDkjYwE8v",
+          "query": "单片机原理与应用(双色版） 单片机原理及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：单片机原理与应用(双色版） 单片机原理及应用",
           "query": "单片机原理与应用(双色版） 单片机原理及应用"
@@ -9088,6 +10918,12 @@ window.APP_DATA = {
       ],
       "note": "作者：张晨曦 王志英等；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【自考】计算机系统结构 02325 零基础大题保姆式精讲 学完必过｜UP：萝卜Bro｜BV1iY411g7HJ｜播放：337469｜搜索：计算机系统结构",
+          "url": "https://www.bilibili.com/video/BV1iY411g7HJ",
+          "query": "计算机系统结构（第3版） 计算机系统结构"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机系统结构（第3版） 计算机系统结构",
@@ -9108,6 +10944,12 @@ window.APP_DATA = {
       "note": "作者：屈婉玲，狄素云，张立昂；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：离散数学 东北大学（全69讲）｜UP：古维京掌管希腊的神｜BV1d7411v7zu｜播放：4465034｜搜索：离散数学及其应用",
+          "url": "https://www.bilibili.com/video/BV1d7411v7zu",
+          "query": "离散数学及其应用 离散数学"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：离散数学及其应用 离散数学",
           "query": "离散数学及其应用 离散数学"
@@ -9126,6 +10968,12 @@ window.APP_DATA = {
       ],
       "note": "作者：贾铁军 等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《数据库系统概论》0基础也能听懂 期末冲刺上高分 期末自救速成课资源 期末不挂科资源 期末复习突击速成课资源 考研复试知识框架梳理｜UP：重生之期末自救指南｜BV1D8qUB2Eor｜播放：336968｜搜索：数据库 期末复习",
+          "url": "https://www.bilibili.com/video/BV1D8qUB2Eor",
+          "query": "数据库原理及应用与实践（第4版) 数据库原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库原理及应用与实践（第4版) 数据库原理",
@@ -9146,6 +10994,12 @@ window.APP_DATA = {
       "note": "作者：蔺素珍；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：数字图像处理-Digital Image Processing (DIP)｜UP：深度大脑｜BV1tx41147Tx｜播放：574459｜搜索：新编数字图像处理技术及应用",
+          "url": "https://www.bilibili.com/video/BV1tx41147Tx",
+          "query": "新编数字图像处理技术及应用（修订版） 数字图像处理及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：新编数字图像处理技术及应用（修订版） 数字图像处理及应用",
           "query": "新编数字图像处理技术及应用（修订版） 数字图像处理及应用"
@@ -9164,6 +11018,12 @@ window.APP_DATA = {
       ],
       "note": "作者：谭志国、陈海山等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员java教程工作流引擎Activiti7基础到进阶，Activiti和Spring框架、SpringBoot整合｜UP：黑马程序员｜BV1H54y167gf｜播放：485777｜搜索：Java程序设计实训 增量式项目驱动一体化教程",
+          "url": "https://www.bilibili.com/video/BV1H54y167gf",
+          "query": "Java程序设计实训——增量式项目驱动一体化教程（第二版） 程序设计实训"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Java程序设计实训——增量式项目驱动一体化教程（第二版） 程序设计实训",
@@ -9184,6 +11044,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407088｜搜索：应用型本科大学物理 下册",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "《应用型本科大学物理》下册 大学物理（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：《应用型本科大学物理》下册 大学物理（2）",
           "query": "《应用型本科大学物理》下册 大学物理（2）"
@@ -9202,6 +11068,12 @@ window.APP_DATA = {
       ],
       "note": "作者：谭志虎主编，秦磊华、吴非、肖亮副主编；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【计组】8小时期末速成高分课|计算机组成原理期末复习|机组大题讲解|复试|调剂|专升本可用|绩满满｜UP：哔哩大学计算机院｜BV13iAwz7EHD｜播放：85158｜搜索：计算机组成原理",
+          "url": "https://www.bilibili.com/video/BV13iAwz7EHD",
+          "query": "计算机组成原理（微课版） 计算机组成原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机组成原理（微课版） 计算机组成原理",
@@ -9222,6 +11094,12 @@ window.APP_DATA = {
       "note": "作者：严蔚敏等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：数据结构与算法基础（青岛大学-王卓）｜UP：87师兄｜BV1nJ411V7bd｜播放：16201024｜搜索：数据结构",
+          "url": "https://www.bilibili.com/video/BV1nJ411V7bd",
+          "query": "数据结构（C语言版）（第2版） 数据结构与算法"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据结构（C语言版）（第2版） 数据结构与算法",
           "query": "数据结构（C语言版）（第2版） 数据结构与算法"
@@ -9240,6 +11118,12 @@ window.APP_DATA = {
       ],
       "note": "作者：阎石；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【电子】数字电子技术基础（数字电路/数电） 清华大学 王红主讲｜UP：谢谢谢同学鸭｜BV18p411Z7ce｜播放：6422697｜搜索：数字电子技术基础（第六版) 数字电路与逻辑设计",
+          "url": "https://www.bilibili.com/video/BV18p411Z7ce",
+          "query": "数字电子技术基础（第六版) 数字电路与逻辑设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版) 数字电路与逻辑设计",
@@ -9260,6 +11144,12 @@ window.APP_DATA = {
       "note": "作者：魏砚雨，孙峰峰 著；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：UI设计教程 从零基础入门到精通 (2024最新全集）｜UP：AI漫剧制作教程｜BV1KT4y1E7tV｜播放：1709567｜搜索：UI设计基础与应用标准教程",
+          "url": "https://www.bilibili.com/video/BV1KT4y1E7tV",
+          "query": "UI设计基础与应用标准教程 UI界面设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：UI设计基础与应用标准教程 UI界面设计",
           "query": "UI设计基础与应用标准教程 UI界面设计"
@@ -9278,6 +11168,12 @@ window.APP_DATA = {
       ],
       "note": "作者：贾铁军等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【合集】数据库原理及应用 东南大学 徐立臻 共72讲｜UP：123小棕熊｜BV1ux411G7Bs｜播放：929913｜搜索：数据库原理及应用与实践",
+          "url": "https://www.bilibili.com/video/BV1ux411G7Bs",
+          "query": "数据库原理及应用与实践 数据库原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库原理及应用与实践 数据库原理",
@@ -9299,7 +11195,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数字图像处理章毓晋版-期末速成｜UP：DR-学习版｜BV1KPmtB3EfT｜播放：3031",
+          "search": "视频：数字图像处理章毓晋版-期末速成｜UP：DR-学习版｜BV1KPmtB3EfT｜播放：3032｜搜索：数字图像处理及应用",
           "url": "https://www.bilibili.com/video/BV1KPmtB3EfT",
           "query": "新编数字图像处理技术及应用 数字图像处理及应用"
         },
@@ -9323,6 +11219,12 @@ window.APP_DATA = {
       "note": "作者：王庆先，顾小丰，王丽杰；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：离散数学 东北大学（全69讲）｜UP：古维京掌管希腊的神｜BV1d7411v7zu｜播放：4465034｜搜索：离散数学（微课版）（第2版） 离散数学",
+          "url": "https://www.bilibili.com/video/BV1d7411v7zu",
+          "query": "离散数学（微课版）（第2版） 离散数学"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：离散数学（微课版）（第2版） 离散数学",
           "query": "离散数学（微课版）（第2版） 离散数学"
@@ -9341,6 +11243,12 @@ window.APP_DATA = {
       ],
       "note": "作者：张平；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：王道计算机考研 操作系统｜UP：王道计算机教育｜BV1YE411D7nH｜播放：22040601｜搜索：操作系统 期末复习",
+          "url": "https://www.bilibili.com/video/BV1YE411D7nH",
+          "query": "Ubuntu Linux操作系统案例教程 操作系统课程设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Ubuntu Linux操作系统案例教程 操作系统课程设计",
@@ -9361,6 +11269,12 @@ window.APP_DATA = {
       "note": "作者：皮大能；出版社：北京航空航天大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《单片机原理及应用》6小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：嵌入式小黑｜BV1pUTLznEYT｜播放：44719｜搜索：单片机原理与应用",
+          "url": "https://www.bilibili.com/video/BV1pUTLznEYT",
+          "query": "单片机原理与应用 单片机原理及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：单片机原理与应用 单片机原理及应用",
           "query": "单片机原理与应用 单片机原理及应用"
@@ -9380,6 +11294,12 @@ window.APP_DATA = {
       "note": "作者：夏琰；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【UI设计】移动端设计教程，0基础转行必看！｜UP：蜗牛学苑IT教育｜BV18M4y157d6｜播放：20835｜搜索：移动UI交互设计（微课版）（第2版） UI界面设计",
+          "url": "https://www.bilibili.com/video/BV18M4y157d6",
+          "query": "移动UI交互设计（微课版）（第2版） UI界面设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：移动UI交互设计（微课版）（第2版） UI界面设计",
           "query": "移动UI交互设计（微课版）（第2版） UI界面设计"
@@ -9398,6 +11318,12 @@ window.APP_DATA = {
       ],
       "note": "作者：屈婉玲、耿素云、张利昂；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【离散数学】8小时高分课|离散数学期末速成|高分课期末复习|复试|调剂|专升本可用|绩满满｜UP：哔哩大学计算机院｜BV1TmcZz8E7u｜播放：74117｜搜索：离散数学 期末复习",
+          "url": "https://www.bilibili.com/video/BV1TmcZz8E7u",
+          "query": "离散数学及其应用（第二版） 离散数学"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：离散数学及其应用（第二版） 离散数学",
@@ -9419,8 +11345,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：SQL Server复制功能配置｜UP：btldxx｜BV1VeedeoE74｜播放：859",
-          "url": "https://www.bilibili.com/video/BV1VeedeoE74",
+          "search": "视频：SQL SERVER数据库_D丝学编程｜UP：D丝学编程｜BV1XV411C7TP｜播放：756191｜搜索：数据库原理及应用与实践 基于SQL Server 2019",
+          "url": "https://www.bilibili.com/video/BV1XV411C7TP",
           "query": "数据库原理及应用与实践（第4版)——基于SQL Server 2019 数据库原理"
         },
         {
@@ -9443,6 +11369,12 @@ window.APP_DATA = {
       "note": "作者：孟庆昌，张志华，牛欣源，路旭强；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【操作系统】计算机操作系统入门到精通完整教程（2022最新版）操作系统专业考试不挂科｜UP：马士兵_Java论坛｜BV1Ha411e7D4｜播放：373081｜搜索：操作系统 教程",
+          "url": "https://www.bilibili.com/video/BV1Ha411e7D4",
+          "query": "操作系统（第4版） 操作系统原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：操作系统（第4版） 操作系统原理",
           "query": "操作系统（第4版） 操作系统原理"
@@ -9462,6 +11394,12 @@ window.APP_DATA = {
       "note": "作者：尹志宇；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】浙江大学：软件工程 陈越（全33讲）｜UP：农夫CC｜BV16g411M7r2｜播放：293567｜搜索：软件工程",
+          "url": "https://www.bilibili.com/video/BV16g411M7r2",
+          "query": "软件工程导论——方法、工具和案例 软件工程"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件工程导论——方法、工具和案例 软件工程",
           "query": "软件工程导论——方法、工具和案例 软件工程"
@@ -9480,6 +11418,12 @@ window.APP_DATA = {
       ],
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59075｜搜索：OpenCV Python 全套教程",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
+          "query": "OpenCV计算机视觉基础教程（Python版） 计算机视觉及应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程（Python版） 计算机视觉及应用",
@@ -9501,8 +11445,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：大学生就业指导期末答案110%｜UP：尘huan｜BV1fe4y1M7kY｜播放：12795",
-          "url": "https://www.bilibili.com/video/BV1fe4y1M7kY",
+          "search": "视频：【北京大学】大学生职业发展与就业指导（全108讲）谢伟｜UP：iMuseums｜BV1LW4y1R7EH｜播放：127241｜搜索：《美好前程——大学生就业指导教程》 就业指导（理论）",
+          "url": "https://www.bilibili.com/video/BV1LW4y1R7EH",
           "query": "《美好前程——大学生就业指导教程》 就业指导（理论）"
         },
         {
@@ -9525,6 +11469,12 @@ window.APP_DATA = {
       "note": "作者：阎石；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【电子】数字电子技术基础（数字电路/数电） 清华大学 王红主讲｜UP：谢谢谢同学鸭｜BV18p411Z7ce｜播放：6422700｜搜索：数字电子技术基础（第六版） 数字电路与逻辑设计",
+          "url": "https://www.bilibili.com/video/BV18p411Z7ce",
+          "query": "数字电子技术基础（第六版） 数字电路与逻辑设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版） 数字电路与逻辑设计",
           "query": "数字电子技术基础（第六版） 数字电路与逻辑设计"
@@ -9543,6 +11493,12 @@ window.APP_DATA = {
       ],
       "note": "作者：阎石 王红；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【数电】数字电子技术高分课期末速成|数字电路期末复习|复试|调剂|专升本可用|绩满满｜UP：橙子期末包过｜BV1Qj9VB4E6k｜播放：29499｜搜索：数字电子技术 期末复习",
+          "url": "https://www.bilibili.com/video/BV1Qj9VB4E6k",
+          "query": "数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计",
@@ -9563,6 +11519,12 @@ window.APP_DATA = {
       "note": "作者：谭志虎；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【计组】8小时期末速成高分课|计算机组成原理期末复习|机组大题讲解|复试|调剂|专升本可用|绩满满｜UP：哔哩大学计算机院｜BV13iAwz7EHD｜播放：85166｜搜索：计算机组成原理",
+          "url": "https://www.bilibili.com/video/BV13iAwz7EHD",
+          "query": "计算机组成原理 计算机组成原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机组成原理 计算机组成原理",
           "query": "计算机组成原理 计算机组成原理"
@@ -9581,6 +11543,12 @@ window.APP_DATA = {
       ],
       "note": "作者：张鉴新、周晓晴；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】 多媒体技术及应用｜UP：账号已注销｜BV134411R7wz｜播放：76442｜搜索：多媒体技术与应用",
+          "url": "https://www.bilibili.com/video/BV134411R7wz",
+          "query": "多媒体技术与应用 多媒体信息处理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：多媒体技术与应用 多媒体信息处理",
@@ -9602,8 +11570,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：Java Web程序设计任务教程（第3版）（AIGC版）｜UP：黑马程序员教材研究院｜BV1Y79sBxEjE｜播放：5543",
-          "url": "https://www.bilibili.com/video/BV1Y79sBxEjE",
+          "search": "视频：黑马程序员JavaWeb基础教程，Java web从入门到企业实战完整版｜UP：黑马程序员｜BV1Qf4y1T7Hx｜播放：6031450｜搜索：java web程序设计任务教程 Web编程技术",
+          "url": "https://www.bilibili.com/video/BV1Qf4y1T7Hx",
           "query": "java web程序设计任务教程 Web编程技术"
         },
         {
@@ -9627,8 +11595,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：USBCAN驱动安装视频｜UP：哇是班班｜BV16N4y1f7yW｜播放：4051",
-          "url": "https://www.bilibili.com/video/BV16N4y1f7yW",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763732｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
           "query": "Java程序设计实训——增量式项目驱动一体化教程（第2版） 程序设计实训"
         },
         {
@@ -9651,6 +11619,12 @@ window.APP_DATA = {
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：2022 最新 Android 基础教程，从开发入门到项目实战，看它就够了，更新中｜UP：动脑学院｜BV19U4y1R7zV｜播放：2381286｜搜索：Android应用开发",
+          "url": "https://www.bilibili.com/video/BV19U4y1R7zV",
+          "query": "Android移动开发基础案例教程（第2版） Android应用开发"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Android移动开发基础案例教程（第2版） Android应用开发",
           "query": "Android移动开发基础案例教程（第2版） Android应用开发"
@@ -9666,6 +11640,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：软件工程导论-张海藩（第六版）期末+考研复习｜UP：上岛晴空｜BV1jo4y1e7r8｜播放：282312｜搜索：软件工程课程设计",
+          "url": "https://www.bilibili.com/video/BV1jo4y1e7r8",
+          "query": "需要教材 软件工程课程设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：需要教材 软件工程课程设计",
@@ -9687,8 +11667,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：国家计算机二级python零基础上岸也许是全网讲的最清楚的二级python教程不拖泥带水捞干的（持续更新中......）｜UP：逊哥带你学计算机｜BV1Ys4y1D72T｜播放：2407183",
-          "url": "https://www.bilibili.com/video/BV1Ys4y1D72T",
+          "search": "视频：黑马程序员python零基础全套教程，8天python从入门到精通，学python看这套就够了｜UP：黑马程序员｜BV1qW4y1a7fU｜播放：24410364｜搜索：Python 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1qW4y1a7fU",
           "query": "Python语言程序设计基础(第2版) Python程序设计"
         },
         {
@@ -9711,6 +11691,12 @@ window.APP_DATA = {
       "note": "作者：林子雨；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员大数据入门到实战教程，大数据开发必会的Hadoop、Hive，云平台实战项目全套一网打尽｜UP：黑马程序员｜BV1WY4y197g7｜播放：1104739｜搜索：大数据 全套教程",
+          "url": "https://www.bilibili.com/video/BV1WY4y197g7",
+          "query": "大数据技术原理与应用 大数据与云计算"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大数据技术原理与应用 大数据与云计算",
           "query": "大数据技术原理与应用 大数据与云计算"
@@ -9729,6 +11715,12 @@ window.APP_DATA = {
       ],
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员软件测试视频教程，软件测试基础入门到项目实战（涵盖软件测试基础+黑马头条项目实战）｜UP：黑马程序员｜BV1TP4y1J7BD｜播放：2351512｜搜索：软件测试",
+          "url": "https://www.bilibili.com/video/BV1TP4y1J7BD",
+          "query": "软件测试（第2版） 软件测试与质量保证"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件测试（第2版） 软件测试与质量保证",
@@ -9750,8 +11742,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：这才是我想要的项目管理工具！5款免费的项目管理工具推荐｜UP：不及物动词xo｜BV1mM411K7hJ｜播放：115969",
-          "url": "https://www.bilibili.com/video/BV1mM411K7hJ",
+          "search": "视频：《软件项目管理》——闫波｜UP：北京理工大学｜BV1HE411P79e｜播放：89379｜搜索：软件项目管理",
+          "url": "https://www.bilibili.com/video/BV1HE411P79e",
           "query": "软件项目管理 软件项目管理"
         },
         {
@@ -9775,8 +11767,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：物联网组网技术及应用【全53讲】【含资料】【国家级精品课】｜UP：爱学习的小刚子｜BV1L8qrBeEPY｜播放：7237",
-          "url": "https://www.bilibili.com/video/BV1L8qrBeEPY",
+          "search": "视频：嵌入式RT-Thread实时操作系统教程，rtthread入门到精通全套完整版｜UP：嵌入式-｜BV1Cb4y1m7W5｜播放：346214｜搜索：物联网技术及应用 教程",
+          "url": "https://www.bilibili.com/video/BV1Cb4y1m7W5",
           "query": "物联网技术及应用 物联网技术及应用"
         },
         {
@@ -9799,6 +11791,12 @@ window.APP_DATA = {
       "note": "作者：吕云翔 赵天宇；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：信息系统分析与设计｜UP：蛋蛋老鼠｜BV1tz4y1d7wk｜播放：60295｜搜索：系统分析与设计",
+          "url": "https://www.bilibili.com/video/BV1tz4y1d7wk",
+          "query": "UML面向对象分析、建模与设计（第2版） 系统分析与设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：UML面向对象分析、建模与设计（第2版） 系统分析与设计",
           "query": "UML面向对象分析、建模与设计（第2版） 系统分析与设计"
@@ -9818,6 +11816,12 @@ window.APP_DATA = {
       "note": "作者：闵海钊；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【网络安全教程】2026年B站最全最详细的网络安全零基础入门全套教学！全程干货精讲，少走99%弯路，挑战7天从小白逆袭成大神！｜UP：好课宣传委｜BV1ckqYBWE7f｜播放：4010111｜搜索：信息安全技术",
+          "url": "https://www.bilibili.com/video/BV1ckqYBWE7f",
+          "query": "网络安全攻防技术实战 信息安全技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：网络安全攻防技术实战 信息安全技术",
           "query": "网络安全攻防技术实战 信息安全技术"
@@ -9836,6 +11840,12 @@ window.APP_DATA = {
       ],
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员JavaWeb基础教程，Java web从入门到企业实战完整版｜UP：黑马程序员｜BV1Qf4y1T7Hx｜播放：6031453｜搜索：Java Web 全套教程",
+          "url": "https://www.bilibili.com/video/BV1Qf4y1T7Hx",
+          "query": "Java Web程序设计任务教程（第2版） Web编程技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Java Web程序设计任务教程（第2版） Web编程技术",
@@ -9857,8 +11867,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：前端Web开发HTML5+CSS3+移动web视频教程，前端web入门首选黑马程序员｜UP：黑马程序员｜BV1kM4y127Li｜播放：4237056",
-          "url": "https://www.bilibili.com/video/BV1kM4y127Li",
+          "search": "视频：黑马程序员pink老师前端入门教程，零基础必看的h5(html5)+css3+移动端前端视频教程｜UP：黑马pink讲前端｜BV14J4114768｜播放：19984460｜搜索：HTML5移动Web开发 电子商务",
+          "url": "https://www.bilibili.com/video/BV14J4114768",
           "query": "HTML5移动Web开发（第2版） 电子商务"
         },
         {
@@ -9882,8 +11892,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《概率论与数理统计》教学视频 2.0版本【宋浩老师】｜UP：宋浩老师官方｜BV1JXppejE8q｜播放：19768411",
-          "url": "https://www.bilibili.com/video/BV1JXppejE8q",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5490946｜搜索：概率论与数理统计 期末复习",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
           "query": "概率论与数理统计 概率论与数理统计"
         },
         {
@@ -9906,6 +11916,12 @@ window.APP_DATA = {
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59075｜搜索：OpenCV计算机视觉基础教程Python版 慕课版",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
+          "query": "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用",
           "query": "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用"
@@ -9924,6 +11940,12 @@ window.APP_DATA = {
       ],
       "note": "作者：谢希仁、谢钧；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【期末复习】7天快速通过计算机网络期末考试｜谢希仁版｜考前急救｜高效通过｜粉丝投稿｜UP：网络工程师学长｜BV1PK4y1X7ze｜播放：2532018｜搜索：计算机网络",
+          "url": "https://www.bilibili.com/video/BV1PK4y1X7ze",
+          "query": "计算机网络教程（第7版 微课版） 计算机网络"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机网络教程（第7版 微课版） 计算机网络",
@@ -9944,6 +11966,12 @@ window.APP_DATA = {
       "note": "作者：肖四喜 申书飞；出版社：上海交通大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【北京大学】大学生职业发展与就业指导（全108讲）谢伟｜UP：iMuseums｜BV1LW4y1R7EH｜播放：127241｜搜索：美好前程——大学生就业指导教程 就业指导（理论）",
+          "url": "https://www.bilibili.com/video/BV1LW4y1R7EH",
+          "query": "美好前程——大学生就业指导教程 就业指导（理论）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：美好前程——大学生就业指导教程 就业指导（理论）",
           "query": "美好前程——大学生就业指导教程 就业指导（理论）"
@@ -9962,6 +11990,12 @@ window.APP_DATA = {
       ],
       "note": "作者：冯新宇、蒋洪波、程坤；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：Linux嵌入式与驱动开发 全套入门教程 基于ARM(IMX6U)｜UP：徐某大侠｜BV1Tf4y1U7xu｜播放：238477｜搜索：嵌入式Linux系统开发 ——基于ARM处理器通用平台（第2版） 嵌入式系统",
+          "url": "https://www.bilibili.com/video/BV1Tf4y1U7xu",
+          "query": "嵌入式Linux系统开发 ——基于ARM处理器通用平台（第2版） 嵌入式系统"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：嵌入式Linux系统开发 ——基于ARM处理器通用平台（第2版） 嵌入式系统",
@@ -9983,8 +12017,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《软件工程导论》期末考试模拟试卷+答案｜UP：Perfect海小小｜BV1TKkRY2EG8｜播放：1523",
-          "url": "https://www.bilibili.com/video/BV1TKkRY2EG8",
+          "search": "视频：【公开课】浙江大学：软件工程 陈越（全33讲）｜UP：农夫CC｜BV16g411M7r2｜播放：293567｜搜索：软件工程",
+          "url": "https://www.bilibili.com/video/BV16g411M7r2",
           "query": "软件工程导论：方法、工具和案例（题库·微课视频版） 软件工程"
         },
         {
@@ -10007,6 +12041,12 @@ window.APP_DATA = {
       "note": "作者：张平；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【操作系统】计算机操作系统入门到精通完整教程（2022最新版）操作系统专业考试不挂科｜UP：马士兵_Java论坛｜BV1Ha411e7D4｜播放：373081｜搜索：Linux操作系统案例教程",
+          "url": "https://www.bilibili.com/video/BV1Ha411e7D4",
+          "query": "Linux操作系统案例教程（CentOS Stream 9/RHEL 9）（微课版） Linux系统与应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Linux操作系统案例教程（CentOS Stream 9/RHEL 9）（微课版） Linux系统与应用",
           "query": "Linux操作系统案例教程（CentOS Stream 9/RHEL 9）（微课版） Linux系统与应用"
@@ -10027,8 +12067,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《Python语言程序设计》考试复习速成资源/快速复习 考研框架复习 /习题讲解 期末不挂科资源｜UP：丶世中逢尔｜BV1av1SBrE8r｜播放：17073",
-          "url": "https://www.bilibili.com/video/BV1av1SBrE8r",
+          "search": "视频：【全748集】目前B站最全最细的Python零基础全套教程，2026最新版，包含所有干货！七天就能从小白到大神！少走99%的弯路！存下吧！很难找全的！｜UP：Python官方课程｜BV1rpWjevEip｜播放：16624922｜搜索：Python语言程序设计基础",
+          "url": "https://www.bilibili.com/video/BV1rpWjevEip",
           "query": "Python语言程序设计基础(第3版) Python程序设计"
         },
         {
@@ -10051,6 +12091,12 @@ window.APP_DATA = {
       "note": "作者：蒋建春 主编 文伟平、焦健 副主编；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【网络安全教程】2026年B站最全最详细的网络安全零基础入门全套教学！全程干货精讲，少走99%弯路，挑战7天从小白逆袭成大神！｜UP：好课宣传委｜BV1ckqYBWE7f｜播放：4010111｜搜索：信息安全技术",
+          "url": "https://www.bilibili.com/video/BV1ckqYBWE7f",
+          "query": "信息安全工程师教程（第2版） 信息安全技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：信息安全工程师教程（第2版） 信息安全技术",
           "query": "信息安全工程师教程（第2版） 信息安全技术"
@@ -10066,6 +12112,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《清河仙族》，从首订70到均订4600，从励志模范到争议不断，它经历了什么？（网文拆书）｜UP：天半子读书写作｜BV1RJYhz1EBp｜播放：57621｜搜索：不需要订教材",
+          "url": "https://www.bilibili.com/video/BV1RJYhz1EBp",
+          "query": "不需要订教材 项目开发实训2"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：不需要订教材 项目开发实训2",
@@ -10087,8 +12139,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：UML面向对象分析与设计｜UP：QAQ_tda｜BV1fq4y1q7KP｜播放：201374",
-          "url": "https://www.bilibili.com/video/BV1fq4y1q7KP",
+          "search": "视频：《算法设计与分析》4小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1JhkwYUEFU｜播放：649320｜搜索：UML面向对象分析 建模与设计 系统分析与设计",
+          "url": "https://www.bilibili.com/video/BV1JhkwYUEFU",
           "query": "UML面向对象分析、建模与设计（第3版） 系统分析与设计"
         },
         {
@@ -10111,6 +12163,12 @@ window.APP_DATA = {
       "note": "作者：王晓敏等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：信息系统分析与设计｜UP：蛋蛋老鼠｜BV1tz4y1d7wk｜播放：60295｜搜索：信息系统分析与设计（第5版） 系统分析与设计",
+          "url": "https://www.bilibili.com/video/BV1tz4y1d7wk",
+          "query": "信息系统分析与设计（第5版） 系统分析与设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：信息系统分析与设计（第5版） 系统分析与设计",
           "query": "信息系统分析与设计（第5版） 系统分析与设计"
@@ -10129,6 +12187,12 @@ window.APP_DATA = {
       ],
       "note": "作者：王勇等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：Linux操作系统原理与应用(西安邮电大学)｜UP：一顿饭吃好几碗｜BV1SQ4y1A7ZE｜播放：61027｜搜索：Linux系统与应用",
+          "url": "https://www.bilibili.com/video/BV1SQ4y1A7ZE",
+          "query": "Ubuntu Linux操作系统实用教程 Linux系统与应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Ubuntu Linux操作系统实用教程 Linux系统与应用",
@@ -10149,6 +12213,12 @@ window.APP_DATA = {
       "note": "作者：嵩天；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员python零基础全套教程，8天python从入门到精通，学python看这套就够了｜UP：黑马程序员｜BV1qW4y1a7fU｜播放：24410268｜搜索：Python 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1qW4y1a7fU",
+          "query": "python语言程序设计基础（第2版） Python程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：python语言程序设计基础（第2版） Python程序设计",
           "query": "python语言程序设计基础（第2版） Python程序设计"
@@ -10164,6 +12234,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：2022 最新 Android 基础教程，从开发入门到项目实战，看它就够了，更新中｜UP：动脑学院｜BV19U4y1R7zV｜播放：2381286｜搜索：系统开发实训",
+          "url": "https://www.bilibili.com/video/BV19U4y1R7zV",
+          "query": "电子版实训教程文件集、无需打印 系统开发实训"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：电子版实训教程文件集、无需打印 系统开发实训",
@@ -10183,6 +12259,12 @@ window.APP_DATA = {
       ],
       "note": "作者：盛骤、谢式千、潘承毅；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5491220｜搜索：概率论与数理统计",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
+          "query": "概率论与数理统计（第五版） 概率论与数理统计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：概率论与数理统计（第五版） 概率论与数理统计",
@@ -10204,8 +12286,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《计算机网络教程 第6版，谢钧》课程｜UP：Nidhogg14｜BV161ttzYEbz｜播放：19668",
-          "url": "https://www.bilibili.com/video/BV161ttzYEbz",
+          "search": "视频：【期末复习】7天快速通过计算机网络期末考试｜谢希仁版｜考前急救｜高效通过｜粉丝投稿｜UP：网络工程师学长｜BV1PK4y1X7ze｜播放：2532016｜搜索：计算机网络",
+          "url": "https://www.bilibili.com/video/BV1PK4y1X7ze",
           "query": "《计算机网络教程》(第6版) 计算机网络"
         },
         {
@@ -10228,8 +12310,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【赶】安卓移动应用开发期末大作业演示视频｜UP：一支猫咔｜BV1sG411N7xV｜播放：62049",
-          "url": "https://www.bilibili.com/video/BV1sG411N7xV",
+          "search": "视频：App Inventor-零基础Android移动应用开发｜UP：honeyshine75｜BV1FJ41157Zz｜播放：224255｜搜索：电子版实训教程文件集 移动应用开发实训",
+          "url": "https://www.bilibili.com/video/BV1FJ41157Zz",
           "query": "电子版实训教程文件集（电子版） 移动应用开发实训"
         },
         {
@@ -10253,8 +12335,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：江西财经大学慕课-数据库系统及应用－万常选等｜UP：songzitea｜BV1yf4y1c7Pi｜播放：3608",
-          "url": "https://www.bilibili.com/video/BV1yf4y1c7Pi",
+          "search": "视频：Access2016数据库零基础小白到精通速成视频 Access教程 Access数据库 计算机二级必备｜UP：吴明课堂｜BV1hh411f779｜播放：1901029｜搜索：数据库系统原理与设计",
+          "url": "https://www.bilibili.com/video/BV1hh411f779",
           "query": "数据库系统原理与设计 数据库原理"
         },
         {
@@ -10275,8 +12357,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：嵌入式学习记录012(LittleFs文件系统)｜UP：夏日之苦瓜｜BV1skWMeSE9S｜播放：2009",
-          "url": "https://www.bilibili.com/video/BV1skWMeSE9S",
+          "search": "视频：(视频实战课程)如何编制标准检验指导书SIP ?｜UP：质量管理体系培训｜BV1ak4y1r7Yj｜播放：18423｜搜索：实验指导书 学院集中打印",
+          "url": "https://www.bilibili.com/video/BV1ak4y1r7Yj",
           "query": "实验指导书，学院集中打印 嵌入式系统"
         },
         {
@@ -10299,6 +12381,12 @@ window.APP_DATA = {
       "note": "作者：尹志宇；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】浙江大学：软件工程 陈越（全33讲）｜UP：农夫CC｜BV16g411M7r2｜播放：293567｜搜索：软件工程",
+          "url": "https://www.bilibili.com/video/BV16g411M7r2",
+          "query": "软件工程导论——方法、工具和案例 软件工程"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件工程导论——方法、工具和案例 软件工程",
           "query": "软件工程导论——方法、工具和案例 软件工程"
@@ -10319,7 +12407,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数字图像处理章毓晋版-期末速成｜UP：DR-学习版｜BV1KPmtB3EfT｜播放：3031",
+          "search": "视频：数字图像处理章毓晋版-期末速成｜UP：DR-学习版｜BV1KPmtB3EfT｜播放：3032｜搜索：数字图像处理及应用",
           "url": "https://www.bilibili.com/video/BV1KPmtB3EfT",
           "query": "新编数字图像处理技术及应用 数字图像处理及应用"
         },
@@ -10344,8 +12432,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《全国计算机等级考试》 四级操作系统原理 刘震｜UP：不想学习眼睛累｜BV1qt4y127uy｜播放：21389",
-          "url": "https://www.bilibili.com/video/BV1qt4y127uy",
+          "search": "视频：清华 操作系统原理｜UP：希利亚歌洋流｜BV1uW411f72n｜播放：993085｜搜索：操作系统（第4版本） 操作系统原理",
+          "url": "https://www.bilibili.com/video/BV1uW411f72n",
           "query": "操作系统（第4版本） 操作系统原理"
         },
         {
@@ -10368,6 +12456,12 @@ window.APP_DATA = {
       "note": "作者：谭志虎；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【计组】8小时期末速成高分课|计算机组成原理期末复习|机组大题讲解|复试|调剂|专升本可用|绩满满｜UP：哔哩大学计算机院｜BV13iAwz7EHD｜播放：85166｜搜索：计算机组成原理",
+          "url": "https://www.bilibili.com/video/BV13iAwz7EHD",
+          "query": "计算机组成原理 计算机组成原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机组成原理 计算机组成原理",
           "query": "计算机组成原理 计算机组成原理"
@@ -10386,6 +12480,12 @@ window.APP_DATA = {
       ],
       "note": "作者：张鉴新、周晓晴；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】 多媒体技术及应用｜UP：账号已注销｜BV134411R7wz｜播放：76442｜搜索：多媒体技术与应用",
+          "url": "https://www.bilibili.com/video/BV134411R7wz",
+          "query": "多媒体技术与应用 多媒体信息处理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：多媒体技术与应用 多媒体信息处理",
@@ -10407,8 +12507,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：Java Web程序设计任务教程（第3版）（AIGC版）｜UP：黑马程序员教材研究院｜BV1Y79sBxEjE｜播放：5543",
-          "url": "https://www.bilibili.com/video/BV1Y79sBxEjE",
+          "search": "视频：黑马程序员JavaWeb基础教程，Java web从入门到企业实战完整版｜UP：黑马程序员｜BV1Qf4y1T7Hx｜播放：6031450｜搜索：java web程序设计任务教程 Web编程技术",
+          "url": "https://www.bilibili.com/video/BV1Qf4y1T7Hx",
           "query": "java web程序设计任务教程 Web编程技术"
         },
         {
@@ -10432,8 +12532,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：USBCAN驱动安装视频｜UP：哇是班班｜BV16N4y1f7yW｜播放：4051",
-          "url": "https://www.bilibili.com/video/BV16N4y1f7yW",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763732｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
           "query": "Java程序设计实训——增量式项目驱动一体化教程（第2版） 程序设计实训"
         },
         {
@@ -10456,6 +12556,12 @@ window.APP_DATA = {
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：2022 最新 Android 基础教程，从开发入门到项目实战，看它就够了，更新中｜UP：动脑学院｜BV19U4y1R7zV｜播放：2381286｜搜索：Android应用开发",
+          "url": "https://www.bilibili.com/video/BV19U4y1R7zV",
+          "query": "Android移动开发基础案例教程（第2版） Android应用开发"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Android移动开发基础案例教程（第2版） Android应用开发",
           "query": "Android移动开发基础案例教程（第2版） Android应用开发"
@@ -10476,8 +12582,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【c语言（数据结构）】课设：火车票服务系统（使用单链表）｜UP：Chase追光｜BV1xy4y1R7ue｜播放：7282",
-          "url": "https://www.bilibili.com/video/BV1xy4y1R7ue",
+          "search": "视频：【自考】计算机系统结构 02325 零基础大题保姆式精讲 学完必过｜UP：萝卜Bro｜BV1iY411g7HJ｜播放：337470｜搜索：计算机系统结构",
+          "url": "https://www.bilibili.com/video/BV1iY411g7HJ",
           "query": "计算机系统结构（第三版） 计算机系统结构"
         },
         {
@@ -10496,6 +12602,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：软件工程导论-张海藩（第六版）期末+考研复习｜UP：上岛晴空｜BV1jo4y1e7r8｜播放：282312｜搜索：软件工程课程设计",
+          "url": "https://www.bilibili.com/video/BV1jo4y1e7r8",
+          "query": "需要教材 软件工程课程设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：需要教材 软件工程课程设计",
@@ -10517,8 +12629,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：还能玩PC游戏？Switch刷魔改版Ubuntu系统指南｜UP：在下莫老师｜BV1sH1FYZEMT｜播放：121918",
-          "url": "https://www.bilibili.com/video/BV1sH1FYZEMT",
+          "search": "视频：Linux操作系统原理与应用(西安邮电大学)｜UP：一顿饭吃好几碗｜BV1SQ4y1A7ZE｜播放：61027｜搜索：Linux系统与应用",
+          "url": "https://www.bilibili.com/video/BV1SQ4y1A7ZE",
           "query": "Ubuntu Linux操作系统案例教程 Linux系统与应用"
         },
         {
@@ -10542,8 +12654,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：黑马程序员 MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括｜UP：黑马程序员｜BV1Kr4y1i7ru｜播放：12792075",
-          "url": "https://www.bilibili.com/video/BV1Kr4y1i7ru",
+          "search": "视频：MySQL知识精讲+mysql实战案例_零基础mysql数据库入门到高级全套教程｜UP：lad920｜BV1yM411v7pc｜播放：14769｜搜索：MySQL 全套教程",
+          "url": "https://www.bilibili.com/video/BV1yM411v7pc",
           "query": "MySQL 8.0数据库应用与开发 MySQL 数据库应用实践"
         },
         {
@@ -10567,8 +12679,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：国家计算机二级python零基础上岸也许是全网讲的最清楚的二级python教程不拖泥带水捞干的（持续更新中......）｜UP：逊哥带你学计算机｜BV1Ys4y1D72T｜播放：2407183",
-          "url": "https://www.bilibili.com/video/BV1Ys4y1D72T",
+          "search": "视频：黑马程序员python零基础全套教程，8天python从入门到精通，学python看这套就够了｜UP：黑马程序员｜BV1qW4y1a7fU｜播放：24410364｜搜索：Python 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1qW4y1a7fU",
           "query": "Python语言程序设计基础(第2版) Python程序设计"
         },
         {
@@ -10591,6 +12703,12 @@ window.APP_DATA = {
       "note": "作者：陈秀双 庞锦维；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：UI设计教程 从零基础入门到精通 (2024最新全集）｜UP：AI漫剧制作教程｜BV1KT4y1E7tV｜播放：1709567｜搜索：UI设计",
+          "url": "https://www.bilibili.com/video/BV1KT4y1E7tV",
+          "query": "UI设计（项目式全彩微课版） UI界面设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：UI设计（项目式全彩微课版） UI界面设计",
           "query": "UI设计（项目式全彩微课版） UI界面设计"
@@ -10609,6 +12727,12 @@ window.APP_DATA = {
       ],
       "note": "作者：王生原，董渊，张素琴，吕映芝，蒋维杜；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【编译原理】期末复习 零基础自学｜UP：轶知｜BV1FQ4y1r7ub｜播放：1266841｜搜索：编译原理",
+          "url": "https://www.bilibili.com/video/BV1FQ4y1r7ub",
+          "query": "编译原理（第3版） 编译原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：编译原理（第3版） 编译原理",
@@ -10629,6 +12753,12 @@ window.APP_DATA = {
       "note": "作者：林子雨；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员大数据入门到实战教程，大数据开发必会的Hadoop、Hive，云平台实战项目全套一网打尽｜UP：黑马程序员｜BV1WY4y197g7｜播放：1104739｜搜索：大数据 全套教程",
+          "url": "https://www.bilibili.com/video/BV1WY4y197g7",
+          "query": "大数据技术原理与应用 大数据与云计算"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大数据技术原理与应用 大数据与云计算",
           "query": "大数据技术原理与应用 大数据与云计算"
@@ -10647,6 +12777,12 @@ window.APP_DATA = {
       ],
       "note": "作者：殷瑞祥；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【4K精品】模拟电子技术基础 上交大 郑益慧主讲（精校版字幕，模拟电路/模电 讲课水平略胜华成英，视频质量完爆清华版 4K超清重制版）｜UP：谢谢谢同学鸭｜BV1Gt411b7Zq｜播放：18091845｜搜索：电路与模拟电子技术(第4版） 电路与模拟电子技术",
+          "url": "https://www.bilibili.com/video/BV1Gt411b7Zq",
+          "query": "电路与模拟电子技术(第4版） 电路与模拟电子技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：电路与模拟电子技术(第4版） 电路与模拟电子技术",
@@ -10668,7 +12804,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：电路与模拟电子技术（殷瑞祥） 课后习题｜UP：能不能不上学啊啊｜BV1vufpYGEUm｜播放：148312",
+          "search": "视频：电路与模拟电子技术（殷瑞祥） 课后习题｜UP：能不能不上学啊啊｜BV1vufpYGEUm｜播放：148357｜搜索：电路与模拟电子技术 学习辅导与习题解答",
           "url": "https://www.bilibili.com/video/BV1vufpYGEUm",
           "query": "电路与模拟电子技术（第4版）学习辅导与习题解答 电路与模拟电子技术"
         },
@@ -10693,7 +12829,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【计算机视觉实战项目】基于Python与OpenCV实现的图像处理全套解析！从基础原理到代码实战，全程通俗易懂，适合所有零基础入门学习！-ML/DL/CV｜UP：唐宇迪的AI入门课｜BV14A411C7ZE｜播放：1110153",
+          "search": "视频：【计算机视觉实战项目】基于Python与OpenCV实现的图像处理全套解析！从基础原理到代码实战，全程通俗易懂，适合所有零基础入门学习！-ML/DL/CV｜UP：唐宇迪的AI入门课｜BV14A411C7ZE｜播放：1110196｜搜索：OpenCV计算机视觉基础教程（Python版|慕课版） 计算机视觉及应用",
           "url": "https://www.bilibili.com/video/BV14A411C7ZE",
           "query": "OpenCV计算机视觉基础教程（Python版|慕课版） 计算机视觉及应用"
         },
@@ -10717,6 +12853,12 @@ window.APP_DATA = {
       "note": "作者：屈婉玲，狄素云，张立昂；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：离散数学 东北大学（全69讲）｜UP：古维京掌管希腊的神｜BV1d7411v7zu｜播放：4465034｜搜索：离散数学及其应用",
+          "url": "https://www.bilibili.com/video/BV1d7411v7zu",
+          "query": "离散数学及其应用 离散数学"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：离散数学及其应用 离散数学",
           "query": "离散数学及其应用 离散数学"
@@ -10735,6 +12877,12 @@ window.APP_DATA = {
       ],
       "note": "作者：贾铁军 等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《数据库系统概论》0基础也能听懂 期末冲刺上高分 期末自救速成课资源 期末不挂科资源 期末复习突击速成课资源 考研复试知识框架梳理｜UP：重生之期末自救指南｜BV1D8qUB2Eor｜播放：336968｜搜索：数据库 期末复习",
+          "url": "https://www.bilibili.com/video/BV1D8qUB2Eor",
+          "query": "数据库原理及应用与实践（第4版) 数据库原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库原理及应用与实践（第4版) 数据库原理",
@@ -10755,6 +12903,12 @@ window.APP_DATA = {
       "note": "作者：吕云翔 赵天宇；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：信息系统分析与设计｜UP：蛋蛋老鼠｜BV1tz4y1d7wk｜播放：60295｜搜索：系统分析与设计",
+          "url": "https://www.bilibili.com/video/BV1tz4y1d7wk",
+          "query": "UML面向对象分析、建模与设计（第2版） 系统分析与设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：UML面向对象分析、建模与设计（第2版） 系统分析与设计",
           "query": "UML面向对象分析、建模与设计（第2版） 系统分析与设计"
@@ -10773,6 +12927,12 @@ window.APP_DATA = {
       ],
       "note": "作者：张平；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【操作系统】计算机操作系统入门到精通完整教程（2022最新版）操作系统专业考试不挂科｜UP：马士兵_Java论坛｜BV1Ha411e7D4｜播放：373081｜搜索：Linux操作系统案例教程",
+          "url": "https://www.bilibili.com/video/BV1Ha411e7D4",
+          "query": "Linux操作系统案例教程（CentOS Stream 9/RHEL 9）（微课版） Linux系统与应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Linux操作系统案例教程（CentOS Stream 9/RHEL 9）（微课版） Linux系统与应用",
@@ -10794,8 +12954,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《Python语言程序设计》考试复习速成资源/快速复习 考研框架复习 /习题讲解 期末不挂科资源｜UP：丶世中逢尔｜BV1av1SBrE8r｜播放：17073",
-          "url": "https://www.bilibili.com/video/BV1av1SBrE8r",
+          "search": "视频：【全748集】目前B站最全最细的Python零基础全套教程，2026最新版，包含所有干货！七天就能从小白到大神！少走99%的弯路！存下吧！很难找全的！｜UP：Python官方课程｜BV1rpWjevEip｜播放：16624922｜搜索：Python语言程序设计基础",
+          "url": "https://www.bilibili.com/video/BV1rpWjevEip",
           "query": "Python语言程序设计基础(第3版) Python程序设计"
         },
         {
@@ -10818,6 +12978,12 @@ window.APP_DATA = {
       "note": "作者：魏砚雨，孙峰峰 著；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：UI设计教程 从零基础入门到精通 (2024最新全集）｜UP：AI漫剧制作教程｜BV1KT4y1E7tV｜播放：1709567｜搜索：UI设计基础与应用标准教程",
+          "url": "https://www.bilibili.com/video/BV1KT4y1E7tV",
+          "query": "UI设计基础与应用标准教程 UI界面设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：UI设计基础与应用标准教程 UI界面设计",
           "query": "UI设计基础与应用标准教程 UI界面设计"
@@ -10836,6 +13002,12 @@ window.APP_DATA = {
       ],
       "note": "作者：贾铁军等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【合集】数据库原理及应用 东南大学 徐立臻 共72讲｜UP：123小棕熊｜BV1ux411G7Bs｜播放：929913｜搜索：数据库原理及应用与实践",
+          "url": "https://www.bilibili.com/video/BV1ux411G7Bs",
+          "query": "数据库原理及应用与实践 数据库原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库原理及应用与实践 数据库原理",
@@ -10856,6 +13028,12 @@ window.APP_DATA = {
       "note": "作者：王庆先，顾小丰，王丽杰；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：离散数学 东北大学（全69讲）｜UP：古维京掌管希腊的神｜BV1d7411v7zu｜播放：4465034｜搜索：离散数学（微课版）（第2版） 离散数学",
+          "url": "https://www.bilibili.com/video/BV1d7411v7zu",
+          "query": "离散数学（微课版）（第2版） 离散数学"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：离散数学（微课版）（第2版） 离散数学",
           "query": "离散数学（微课版）（第2版） 离散数学"
@@ -10874,6 +13052,12 @@ window.APP_DATA = {
       ],
       "note": "作者：李国强、刘君；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《创业基础》【共77节完整版】｜UP：六神无主的吾｜BV18b411p7MT｜播放：78037｜搜索：创业基础",
+          "url": "https://www.bilibili.com/video/BV18b411p7MT",
+          "query": "大学生创新创业基础 第2版 创业基础（实践）"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：大学生创新创业基础 第2版 创业基础（实践）",
@@ -10895,8 +13079,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：电路与模拟电子技术（殷瑞祥） 课后习题｜UP：能不能不上学啊啊｜BV1vufpYGEUm｜播放：148312",
-          "url": "https://www.bilibili.com/video/BV1vufpYGEUm",
+          "search": "视频：【4K精品】模拟电子技术基础 上交大 郑益慧主讲（精校版字幕，模拟电路/模电 讲课水平略胜华成英，视频质量完爆清华版 4K超清重制版）｜UP：谢谢谢同学鸭｜BV1Gt411b7Zq｜播放：18091999｜搜索：电路与模拟电子技术",
+          "url": "https://www.bilibili.com/video/BV1Gt411b7Zq",
           "query": "电路与模拟电子技术 电路与模拟电子技术"
         },
         {
@@ -10919,6 +13103,12 @@ window.APP_DATA = {
       "note": "作者：蒋建春 主编 文伟平、焦健 副主编；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【网络安全教程】2026年B站最全最详细的网络安全零基础入门全套教学！全程干货精讲，少走99%弯路，挑战7天从小白逆袭成大神！｜UP：好课宣传委｜BV1ckqYBWE7f｜播放：4010111｜搜索：信息安全技术",
+          "url": "https://www.bilibili.com/video/BV1ckqYBWE7f",
+          "query": "信息安全工程师教程（第2版） 信息安全技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：信息安全工程师教程（第2版） 信息安全技术",
           "query": "信息安全工程师教程（第2版） 信息安全技术"
@@ -10938,6 +13128,12 @@ window.APP_DATA = {
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59075｜搜索：OpenCV计算机视觉基础教程Python版 慕课版",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
+          "query": "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用",
           "query": "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用"
@@ -10956,6 +13152,12 @@ window.APP_DATA = {
       ],
       "note": "作者：皮大能；出版社：北京航空航天大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《单片机原理及应用》6小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1pDkjYwE8v｜播放：1653782｜搜索：单片机 期末复习",
+          "url": "https://www.bilibili.com/video/BV1pDkjYwE8v",
+          "query": "单片机原理与应用(双色版） 单片机原理及应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：单片机原理与应用(双色版） 单片机原理及应用",
@@ -10977,8 +13179,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：UML面向对象分析与设计｜UP：QAQ_tda｜BV1fq4y1q7KP｜播放：201374",
-          "url": "https://www.bilibili.com/video/BV1fq4y1q7KP",
+          "search": "视频：《算法设计与分析》4小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1JhkwYUEFU｜播放：649320｜搜索：UML面向对象分析 建模与设计 系统分析与设计",
+          "url": "https://www.bilibili.com/video/BV1JhkwYUEFU",
           "query": "UML面向对象分析、建模与设计（第3版） 系统分析与设计"
         },
         {
@@ -10997,6 +13199,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：全网首发AI+JavaWeb开发入门，Tlias教学管理系统项目实战全套视频教程，从需求分析、设计、前后端开发、测试、程序优化到项目部署一套搞定｜UP：黑马程序员｜BV1yGydYEE3H｜播放：10854905｜搜索：Java Web 项目实战",
+          "url": "https://www.bilibili.com/video/BV1yGydYEE3H",
+          "query": "无 项目开发实训1"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：无 项目开发实训1",
@@ -11017,6 +13225,12 @@ window.APP_DATA = {
       "note": "作者：王勇等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：Linux操作系统原理与应用(西安邮电大学)｜UP：一顿饭吃好几碗｜BV1SQ4y1A7ZE｜播放：61027｜搜索：Linux系统与应用",
+          "url": "https://www.bilibili.com/video/BV1SQ4y1A7ZE",
+          "query": "Ubuntu Linux操作系统实用教程 Linux系统与应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Ubuntu Linux操作系统实用教程 Linux系统与应用",
           "query": "Ubuntu Linux操作系统实用教程 Linux系统与应用"
@@ -11035,6 +13249,12 @@ window.APP_DATA = {
       ],
       "note": "作者：夏琰；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【UI设计】移动端设计教程，0基础转行必看！｜UP：蜗牛学苑IT教育｜BV18M4y157d6｜播放：20835｜搜索：移动UI交互设计（微课版）（第2版） UI界面设计",
+          "url": "https://www.bilibili.com/video/BV18M4y157d6",
+          "query": "移动UI交互设计（微课版）（第2版） UI界面设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：移动UI交互设计（微课版）（第2版） UI界面设计",
@@ -11055,6 +13275,12 @@ window.APP_DATA = {
       "note": "作者：孟庆昌，张志华，牛欣源，路旭强；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【操作系统】计算机操作系统入门到精通完整教程（2022最新版）操作系统专业考试不挂科｜UP：马士兵_Java论坛｜BV1Ha411e7D4｜播放：373081｜搜索：操作系统 教程",
+          "url": "https://www.bilibili.com/video/BV1Ha411e7D4",
+          "query": "操作系统（第4版） 操作系统原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：操作系统（第4版） 操作系统原理",
           "query": "操作系统（第4版） 操作系统原理"
@@ -11073,6 +13299,12 @@ window.APP_DATA = {
       ],
       "note": "作者：殷瑞祥；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【4K精品】模拟电子技术基础 上交大 郑益慧主讲（精校版字幕，模拟电路/模电 讲课水平略胜华成英，视频质量完爆清华版 4K超清重制版）｜UP：谢谢谢同学鸭｜BV1Gt411b7Zq｜播放：18091906｜搜索：电路与模拟电子技术",
+          "url": "https://www.bilibili.com/video/BV1Gt411b7Zq",
+          "query": "电路与模拟电子技术（第四版） 电路与模拟电子技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：电路与模拟电子技术（第四版） 电路与模拟电子技术",
@@ -11094,8 +13326,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【计算机视觉实战项目】基于Python与OpenCV实现的图像处理全套解析！从基础原理到代码实战，全程通俗易懂，适合所有零基础入门学习！-ML/DL/CV｜UP：唐宇迪的AI入门课｜BV14A411C7ZE｜播放：1110155",
-          "url": "https://www.bilibili.com/video/BV14A411C7ZE",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59083｜搜索：OpenCV计算机视觉基础教程 Python版 计算机视觉及应用",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
           "query": "OpenCV计算机视觉基础教程 Python版 计算机视觉及应用"
         },
         {
@@ -11118,6 +13350,12 @@ window.APP_DATA = {
       "note": "作者：屈婉玲、耿素云、张利昂；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【离散数学】8小时高分课|离散数学期末速成|高分课期末复习|复试|调剂|专升本可用|绩满满｜UP：哔哩大学计算机院｜BV1TmcZz8E7u｜播放：74117｜搜索：离散数学 期末复习",
+          "url": "https://www.bilibili.com/video/BV1TmcZz8E7u",
+          "query": "离散数学及其应用（第二版） 离散数学"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：离散数学及其应用（第二版） 离散数学",
           "query": "离散数学及其应用（第二版） 离散数学"
@@ -11138,8 +13376,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：SQL Server复制功能配置｜UP：btldxx｜BV1VeedeoE74｜播放：859",
-          "url": "https://www.bilibili.com/video/BV1VeedeoE74",
+          "search": "视频：SQL SERVER数据库_D丝学编程｜UP：D丝学编程｜BV1XV411C7TP｜播放：756191｜搜索：数据库原理及应用与实践 基于SQL Server 2019",
+          "url": "https://www.bilibili.com/video/BV1XV411C7TP",
           "query": "数据库原理及应用与实践（第4版)——基于SQL Server 2019 数据库原理"
         },
         {
@@ -11162,6 +13400,12 @@ window.APP_DATA = {
       "note": "作者：王晓敏等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：信息系统分析与设计｜UP：蛋蛋老鼠｜BV1tz4y1d7wk｜播放：60295｜搜索：信息系统分析与设计（第5版） 系统分析与设计",
+          "url": "https://www.bilibili.com/video/BV1tz4y1d7wk",
+          "query": "信息系统分析与设计（第5版） 系统分析与设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：信息系统分析与设计（第5版） 系统分析与设计",
           "query": "信息系统分析与设计（第5版） 系统分析与设计"
@@ -11177,6 +13421,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：2022 最新 Android 基础教程，从开发入门到项目实战，看它就够了，更新中｜UP：动脑学院｜BV19U4y1R7zV｜播放：2381286｜搜索：系统开发实训",
+          "url": "https://www.bilibili.com/video/BV19U4y1R7zV",
+          "query": "电子版实训教程文件集、无需打印 系统开发实训"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：电子版实训教程文件集、无需打印 系统开发实训",
@@ -11197,6 +13447,12 @@ window.APP_DATA = {
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员软件测试视频教程，软件测试基础入门到项目实战（涵盖软件测试基础+黑马头条项目实战）｜UP：黑马程序员｜BV1TP4y1J7BD｜播放：2351512｜搜索：软件测试",
+          "url": "https://www.bilibili.com/video/BV1TP4y1J7BD",
+          "query": "软件测试（第2版） 软件测试与质量保证"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件测试（第2版） 软件测试与质量保证",
           "query": "软件测试（第2版） 软件测试与质量保证"
@@ -11216,6 +13472,12 @@ window.APP_DATA = {
       "note": "作者：韩万江，姜立新；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《软件项目管理》——闫波｜UP：北京理工大学｜BV1HE411P79e｜播放：89379｜搜索：软件项目管理",
+          "url": "https://www.bilibili.com/video/BV1HE411P79e",
+          "query": "软件项目管理案例教程（第4版） 软件项目管理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件项目管理案例教程（第4版） 软件项目管理",
           "query": "软件项目管理案例教程（第4版） 软件项目管理"
@@ -11234,6 +13496,12 @@ window.APP_DATA = {
       ],
       "note": "作者：盛骤、谢式千、潘承毅；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5491220｜搜索：概率论与数理统计",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
+          "query": "概率论与数理统计（第五版） 概率论与数理统计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：概率论与数理统计（第五版） 概率论与数理统计",
@@ -11255,8 +13523,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：前端Web开发HTML5+CSS3+移动web视频教程，前端web入门首选黑马程序员｜UP：黑马程序员｜BV1kM4y127Li｜播放：4237056",
-          "url": "https://www.bilibili.com/video/BV1kM4y127Li",
+          "search": "视频：黑马程序员pink老师前端入门教程，零基础必看的h5(html5)+css3+移动端前端视频教程｜UP：黑马pink讲前端｜BV14J4114768｜播放：19984460｜搜索：HTML5移动Web开发 电子商务",
+          "url": "https://www.bilibili.com/video/BV14J4114768",
           "query": "HTML5移动Web开发（第2版） 电子商务"
         },
         {
@@ -11280,8 +13548,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《计算机网络教程 第6版，谢钧》课程｜UP：Nidhogg14｜BV161ttzYEbz｜播放：19668",
-          "url": "https://www.bilibili.com/video/BV161ttzYEbz",
+          "search": "视频：【期末复习】7天快速通过计算机网络期末考试｜谢希仁版｜考前急救｜高效通过｜粉丝投稿｜UP：网络工程师学长｜BV1PK4y1X7ze｜播放：2532016｜搜索：计算机网络",
+          "url": "https://www.bilibili.com/video/BV1PK4y1X7ze",
           "query": "《计算机网络教程》(第6版) 计算机网络"
         },
         {
@@ -11305,8 +13573,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《概率论与数理统计》教学视频 2.0版本【宋浩老师】｜UP：宋浩老师官方｜BV1JXppejE8q｜播放：19768411",
-          "url": "https://www.bilibili.com/video/BV1JXppejE8q",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5490946｜搜索：概率论与数理统计 期末复习",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
           "query": "概率论与数理统计 概率论与数理统计"
         },
         {
@@ -11329,6 +13597,12 @@ window.APP_DATA = {
       "note": "作者：冯新宇、蒋洪波、程坤；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：Linux嵌入式与驱动开发 全套入门教程 基于ARM(IMX6U)｜UP：徐某大侠｜BV1Tf4y1U7xu｜播放：238477｜搜索：嵌入式Linux系统开发 ——基于ARM处理器通用平台（第2版） 嵌入式系统",
+          "url": "https://www.bilibili.com/video/BV1Tf4y1U7xu",
+          "query": "嵌入式Linux系统开发 ——基于ARM处理器通用平台（第2版） 嵌入式系统"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：嵌入式Linux系统开发 ——基于ARM处理器通用平台（第2版） 嵌入式系统",
           "query": "嵌入式Linux系统开发 ——基于ARM处理器通用平台（第2版） 嵌入式系统"
@@ -11347,6 +13621,12 @@ window.APP_DATA = {
       ],
       "note": "作者：李英龙；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《软件项目管理》——闫波｜UP：北京理工大学｜BV1HE411P79e｜播放：89379｜搜索：软件项目管理 微课视频版",
+          "url": "https://www.bilibili.com/video/BV1HE411P79e",
+          "query": "软件项目管理-微课视频版 软件项目管理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件项目管理-微课视频版 软件项目管理",
@@ -11367,6 +13647,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【完整版】《C语言》9小时系统学习|期末拿高分【蜂考】｜UP：蜂考｜BV1m9NgeLEyo｜播放：414290｜搜索：C语言 期末复习",
+          "url": "https://www.bilibili.com/video/BV1m9NgeLEyo",
+          "query": "C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计",
           "query": "C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计"
@@ -11385,6 +13671,12 @@ window.APP_DATA = {
       ],
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：C语言程序设计从入门到进阶【比特鹏哥c语言2024完整版视频教程】（c语言基础入门c语言软件安装C语言指针c语言考研C语言专升本C语言期末计算机二级C语言c语言｜UP：鹏哥C语言｜BV1Vm4y1r7jY｜播放：13139770｜搜索：C语言程序设计实验教程",
+          "url": "https://www.bilibili.com/video/BV1Vm4y1r7jY",
+          "query": "C语言程序设计实验教程（第2版） 高级语言程序设计实践"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：C语言程序设计实验教程（第2版） 高级语言程序设计实践",
@@ -11406,8 +13698,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数农314考点梳理----线性代数｜UP：考研数农小朱｜BV1hb421v7Ld｜播放：14116",
-          "url": "https://www.bilibili.com/video/BV1hb421v7Ld",
+          "search": "视频：【Kira老师】27考研《线性代数》零基础精讲课25h，小白也能轻松入门！ |期末看完直接炸鱼｜UP：一高数｜BV1Q4iJBAEsr｜播放：1605727｜搜索：线性代数",
+          "url": "https://www.bilibili.com/video/BV1Q4iJBAEsr",
           "query": "线性代数 线性代数"
         },
         {
@@ -11431,8 +13723,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《线性代数》习题课，零废话，超精讲！【孔祥仁】｜UP：孔祥仁｜BV1bt421T7p6｜播放：1115259",
-          "url": "https://www.bilibili.com/video/BV1bt421T7p6",
+          "search": "视频：【Kira老师】27考研《线性代数》零基础精讲课25h，小白也能轻松入门！ |期末看完直接炸鱼｜UP：一高数｜BV1Q4iJBAEsr｜播放：1605727｜搜索：线性代数 期末复习",
+          "url": "https://www.bilibili.com/video/BV1Q4iJBAEsr",
           "query": "线性代数习题解答 线性代数"
         },
         {
@@ -11455,6 +13747,12 @@ window.APP_DATA = {
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《高等数学(上)》6小时速成课 | 框框老师（突击课，适合高等数学(微积分)期末考试、期中考试、补考、重修、专升本，考试不挂科）｜UP：框框老师课堂｜BV1mN411r7VM｜播放：17696356｜搜索：高等数学（上册） 高等数学(1)",
+          "url": "https://www.bilibili.com/video/BV1mN411r7VM",
+          "query": "高等数学（上册） 高等数学(1)"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：高等数学（上册） 高等数学(1)",
           "query": "高等数学（上册） 高等数学(1)"
@@ -11473,6 +13771,12 @@ window.APP_DATA = {
       ],
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6957872｜搜索：高等数学 期末复习",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
+          "query": "高等数学习题解答 高等数学(1)"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：高等数学习题解答 高等数学(1)",
@@ -11493,6 +13797,12 @@ window.APP_DATA = {
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6957872｜搜索：高等数学 教程",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
+          "query": "《高等数学》第八版下册 高等数学（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：《高等数学》第八版下册 高等数学（2）",
           "query": "《高等数学》第八版下册 高等数学（2）"
@@ -11512,6 +13822,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763720｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
+          "query": "Java程序设计——增量式项目驱动一体化教程（第2版） 面向对象程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Java程序设计——增量式项目驱动一体化教程（第2版） 面向对象程序设计",
           "query": "Java程序设计——增量式项目驱动一体化教程（第2版） 面向对象程序设计"
@@ -11530,6 +13846,12 @@ window.APP_DATA = {
       ],
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：一级计算机基础及MS office应用 新思路解题视频【1~20套】｜UP：新思路等考通｜BV1N54y1J7oR｜播放：1256179｜搜索：计算机应用基础实验教程（第5版） 计算机实践基础",
+          "url": "https://www.bilibili.com/video/BV1N54y1J7oR",
+          "query": "计算机应用基础实验教程（第5版） 计算机实践基础"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机应用基础实验教程（第5版） 计算机实践基础",
@@ -11551,8 +13873,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：大学计算机应用基础上机实验｜UP：计科小站｜BV11K4y1A75n｜播放：45330",
-          "url": "https://www.bilibili.com/video/BV11K4y1A75n",
+          "search": "视频：【免费讲义】2027适用山东省-计算机全套网课-统招专升本-零基础-基础精讲考试大纲历年真题押题卷试卷习题册题库备考库课好老师库克知了哎上课可参考｜UP：升哥计算机专升本｜BV19D8fz7EDP｜播放：576519｜搜索：计算机应用基础",
+          "url": "https://www.bilibili.com/video/BV19D8fz7EDP",
           "query": "计算机应用基础（第5版） 计算机实践基础"
         },
         {
@@ -11575,6 +13897,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407066｜搜索：应用型本科大学物理(上册) 大学物理（1）",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "应用型本科大学物理(上册) 大学物理（1）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：应用型本科大学物理(上册) 大学物理（1）",
           "query": "应用型本科大学物理(上册) 大学物理（1）"
@@ -11594,6 +13922,12 @@ window.APP_DATA = {
       "note": "作者：张鉴新；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】 多媒体技术及应用｜UP：账号已注销｜BV134411R7wz｜播放：76442｜搜索：多媒体技术与应用",
+          "url": "https://www.bilibili.com/video/BV134411R7wz",
+          "query": "多媒体技术与应用 多媒体信息处理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：多媒体技术与应用 多媒体信息处理",
           "query": "多媒体技术与应用 多媒体信息处理"
@@ -11612,6 +13946,12 @@ window.APP_DATA = {
       ],
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407066｜搜索：大学物理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "大学物理（下册） 大学物理（2）"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：大学物理（下册） 大学物理（2）",
@@ -11633,8 +13973,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：还能玩PC游戏？Switch刷魔改版Ubuntu系统指南｜UP：在下莫老师｜BV1sH1FYZEMT｜播放：121918",
-          "url": "https://www.bilibili.com/video/BV1sH1FYZEMT",
+          "search": "视频：Linux操作系统原理与应用(西安邮电大学)｜UP：一顿饭吃好几碗｜BV1SQ4y1A7ZE｜播放：61027｜搜索：Linux系统与应用",
+          "url": "https://www.bilibili.com/video/BV1SQ4y1A7ZE",
           "query": "Ubuntu Linux操作系统案例教程 Linux系统与应用"
         },
         {
@@ -11658,8 +13998,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：国家计算机二级python零基础上岸也许是全网讲的最清楚的二级python教程不拖泥带水捞干的（持续更新中......）｜UP：逊哥带你学计算机｜BV1Ys4y1D72T｜播放：2407183",
-          "url": "https://www.bilibili.com/video/BV1Ys4y1D72T",
+          "search": "视频：黑马程序员python零基础全套教程，8天python从入门到精通，学python看这套就够了｜UP：黑马程序员｜BV1qW4y1a7fU｜播放：24410364｜搜索：Python 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1qW4y1a7fU",
           "query": "Python语言程序设计基础(第2版) Python程序设计"
         },
         {
@@ -11682,6 +14022,12 @@ window.APP_DATA = {
       "note": "作者：谢钧、谢希仁；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：深入浅出计算机网络 微课视频｜UP：湖科大教书匠｜BV1NT411g7n6｜播放：2806995｜搜索：计算机网络教程",
+          "url": "https://www.bilibili.com/video/BV1NT411g7n6",
+          "query": "计算机网络教程 计算机网络"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机网络教程 计算机网络",
           "query": "计算机网络教程 计算机网络"
@@ -11700,6 +14046,12 @@ window.APP_DATA = {
       ],
       "note": "作者：谭志虎 等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【计组】8小时期末速成高分课|计算机组成原理期末复习|机组大题讲解|复试|调剂|专升本可用|绩满满｜UP：哔哩大学计算机院｜BV13iAwz7EHD｜播放：85158｜搜索：计算机组成原理",
+          "url": "https://www.bilibili.com/video/BV13iAwz7EHD",
+          "query": "计算机组成原理（微课版） 计算机组成原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机组成原理（微课版） 计算机组成原理",
@@ -11720,6 +14072,12 @@ window.APP_DATA = {
       "note": "作者：屈婉玲，狄素云，张立昂；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：离散数学 东北大学（全69讲）｜UP：古维京掌管希腊的神｜BV1d7411v7zu｜播放：4465034｜搜索：离散数学及其应用",
+          "url": "https://www.bilibili.com/video/BV1d7411v7zu",
+          "query": "离散数学及其应用 离散数学"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：离散数学及其应用 离散数学",
           "query": "离散数学及其应用 离散数学"
@@ -11738,6 +14096,12 @@ window.APP_DATA = {
       ],
       "note": "作者：贾铁军 等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《数据库系统概论》0基础也能听懂 期末冲刺上高分 期末自救速成课资源 期末不挂科资源 期末复习突击速成课资源 考研复试知识框架梳理｜UP：重生之期末自救指南｜BV1D8qUB2Eor｜播放：336968｜搜索：数据库 期末复习",
+          "url": "https://www.bilibili.com/video/BV1D8qUB2Eor",
+          "query": "数据库原理及应用与实践（第4版) 数据库原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库原理及应用与实践（第4版) 数据库原理",
@@ -11758,6 +14122,12 @@ window.APP_DATA = {
       "note": "作者：陈秀双 庞锦维；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：UI设计教程 从零基础入门到精通 (2024最新全集）｜UP：AI漫剧制作教程｜BV1KT4y1E7tV｜播放：1709567｜搜索：UI设计",
+          "url": "https://www.bilibili.com/video/BV1KT4y1E7tV",
+          "query": "UI设计（项目式全彩微课版） UI界面设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：UI设计（项目式全彩微课版） UI界面设计",
           "query": "UI设计（项目式全彩微课版） UI界面设计"
@@ -11776,6 +14146,12 @@ window.APP_DATA = {
       ],
       "note": "作者：杨俊伟；出版社：自编；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：王道计算机考研 操作系统｜UP：王道计算机教育｜BV1YE411D7nH｜播放：22040428｜搜索：操作系统 期末复习",
+          "url": "https://www.bilibili.com/video/BV1YE411D7nH",
+          "query": "操作系统课程设计实验指导书 操作系统课程设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：操作系统课程设计实验指导书 操作系统课程设计",
@@ -11796,6 +14172,12 @@ window.APP_DATA = {
       "note": "作者：吴帆；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【操作系统】计算机操作系统入门到精通完整教程（2022最新版）操作系统专业考试不挂科｜UP：马士兵_Java论坛｜BV1Ha411e7D4｜播放：373081｜搜索：操作系统 教程",
+          "url": "https://www.bilibili.com/video/BV1Ha411e7D4",
+          "query": "操作系统原理与实现 操作系统原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：操作系统原理与实现 操作系统原理",
           "query": "操作系统原理与实现 操作系统原理"
@@ -11814,6 +14196,12 @@ window.APP_DATA = {
       ],
       "note": "作者：谭志国、陈海山等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员java教程工作流引擎Activiti7基础到进阶，Activiti和Spring框架、SpringBoot整合｜UP：黑马程序员｜BV1H54y167gf｜播放：485777｜搜索：Java程序设计实训 增量式项目驱动一体化教程",
+          "url": "https://www.bilibili.com/video/BV1H54y167gf",
+          "query": "Java程序设计实训——增量式项目驱动一体化教程（第二版） 程序设计实训"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Java程序设计实训——增量式项目驱动一体化教程（第二版） 程序设计实训",
@@ -11834,6 +14222,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407088｜搜索：应用型本科大学物理 下册",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "《应用型本科大学物理》下册 大学物理（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：《应用型本科大学物理》下册 大学物理（2）",
           "query": "《应用型本科大学物理》下册 大学物理（2）"
@@ -11853,6 +14247,12 @@ window.APP_DATA = {
       "note": "作者：严蔚敏等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：数据结构与算法基础（青岛大学-王卓）｜UP：87师兄｜BV1nJ411V7bd｜播放：16201024｜搜索：数据结构",
+          "url": "https://www.bilibili.com/video/BV1nJ411V7bd",
+          "query": "数据结构（C语言版）（第2版） 数据结构与算法"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据结构（C语言版）（第2版） 数据结构与算法",
           "query": "数据结构（C语言版）（第2版） 数据结构与算法"
@@ -11871,6 +14271,12 @@ window.APP_DATA = {
       ],
       "note": "作者：张平；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【操作系统】计算机操作系统入门到精通完整教程（2022最新版）操作系统专业考试不挂科｜UP：马士兵_Java论坛｜BV1Ha411e7D4｜播放：373081｜搜索：Linux操作系统案例教程",
+          "url": "https://www.bilibili.com/video/BV1Ha411e7D4",
+          "query": "Linux操作系统案例教程（CentOS Stream 9/RHEL 9）（微课版） Linux系统与应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Linux操作系统案例教程（CentOS Stream 9/RHEL 9）（微课版） Linux系统与应用",
@@ -11892,8 +14298,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《Python语言程序设计》考试复习速成资源/快速复习 考研框架复习 /习题讲解 期末不挂科资源｜UP：丶世中逢尔｜BV1av1SBrE8r｜播放：17073",
-          "url": "https://www.bilibili.com/video/BV1av1SBrE8r",
+          "search": "视频：【全748集】目前B站最全最细的Python零基础全套教程，2026最新版，包含所有干货！七天就能从小白到大神！少走99%的弯路！存下吧！很难找全的！｜UP：Python官方课程｜BV1rpWjevEip｜播放：16624922｜搜索：Python语言程序设计基础",
+          "url": "https://www.bilibili.com/video/BV1rpWjevEip",
           "query": "Python语言程序设计基础(第3版) Python程序设计"
         },
         {
@@ -11916,6 +14322,12 @@ window.APP_DATA = {
       "note": "作者：贾铁军等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【合集】数据库原理及应用 东南大学 徐立臻 共72讲｜UP：123小棕熊｜BV1ux411G7Bs｜播放：929913｜搜索：数据库原理及应用与实践",
+          "url": "https://www.bilibili.com/video/BV1ux411G7Bs",
+          "query": "数据库原理及应用与实践 数据库原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库原理及应用与实践 数据库原理",
           "query": "数据库原理及应用与实践 数据库原理"
@@ -11934,6 +14346,12 @@ window.APP_DATA = {
       ],
       "note": "作者：王庆先，顾小丰，王丽杰；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：离散数学 东北大学（全69讲）｜UP：古维京掌管希腊的神｜BV1d7411v7zu｜播放：4465034｜搜索：离散数学（微课版）（第2版） 离散数学",
+          "url": "https://www.bilibili.com/video/BV1d7411v7zu",
+          "query": "离散数学（微课版）（第2版） 离散数学"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：离散数学（微课版）（第2版） 离散数学",
@@ -11955,8 +14373,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：（清华大学）计算机组成原理｜UP：方知学长｜BV1jE41177sS｜播放：87164",
-          "url": "https://www.bilibili.com/video/BV1jE41177sS",
+          "search": "视频：【计组】8小时期末速成高分课|计算机组成原理期末复习|机组大题讲解|复试|调剂|专升本可用|绩满满｜UP：哔哩大学计算机院｜BV13iAwz7EHD｜播放：85166｜搜索：计算机组成原理 期末复习",
+          "url": "https://www.bilibili.com/video/BV13iAwz7EHD",
           "query": "计算机组成原理（微课版）（第2版） 计算机组成原理"
         },
         {
@@ -11980,8 +14398,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《计算机网络》4小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1H4kwYHEcR｜播放：1723527",
-          "url": "https://www.bilibili.com/video/BV1H4kwYHEcR",
+          "search": "视频：中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程｜UP：中科大-郑烇老师｜BV1JV411t7ow｜播放：3896756｜搜索：计算机网络教程（第7版，微课版） 计算机网络",
+          "url": "https://www.bilibili.com/video/BV1JV411t7ow",
           "query": "计算机网络教程（第7版，微课版） 计算机网络"
         },
         {
@@ -12005,8 +14423,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：华中师范大学三级物理实验1核磁共振实验操作讲解｜UP：咪咕萱er｜BV1b64y1871W｜播放：16106",
-          "url": "https://www.bilibili.com/video/BV1b64y1871W",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407137｜搜索：大学物理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
           "query": "大学物理实验1 大学物理实验（1）"
         },
         {
@@ -12029,6 +14447,12 @@ window.APP_DATA = {
       "note": "作者：孟庆昌，张志华，牛欣源，路旭强；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【操作系统】计算机操作系统入门到精通完整教程（2022最新版）操作系统专业考试不挂科｜UP：马士兵_Java论坛｜BV1Ha411e7D4｜播放：373081｜搜索：操作系统 教程",
+          "url": "https://www.bilibili.com/video/BV1Ha411e7D4",
+          "query": "操作系统（第4版） 操作系统原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：操作系统（第4版） 操作系统原理",
           "query": "操作系统（第4版） 操作系统原理"
@@ -12047,6 +14471,12 @@ window.APP_DATA = {
       ],
       "note": "作者：嵩天；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员python零基础全套教程，8天python从入门到精通，学python看这套就够了｜UP：黑马程序员｜BV1qW4y1a7fU｜播放：24410268｜搜索：Python 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1qW4y1a7fU",
+          "query": "python语言程序设计基础（第2版） Python程序设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：python语言程序设计基础（第2版） Python程序设计",
@@ -12067,6 +14497,12 @@ window.APP_DATA = {
       "note": "作者：谢钧，谢希仁；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《计算机网络》4小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1H4kwYHEcR｜播放：1723851｜搜索：计算机网络 期末复习",
+          "url": "https://www.bilibili.com/video/BV1H4kwYHEcR",
+          "query": "计算机网络教程 第6版微课版 计算机网络"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机网络教程 第6版微课版 计算机网络",
           "query": "计算机网络教程 第6版微课版 计算机网络"
@@ -12086,6 +14522,12 @@ window.APP_DATA = {
       "note": "作者：屈婉玲、耿素云、张利昂；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【离散数学】8小时高分课|离散数学期末速成|高分课期末复习|复试|调剂|专升本可用|绩满满｜UP：哔哩大学计算机院｜BV1TmcZz8E7u｜播放：74117｜搜索：离散数学 期末复习",
+          "url": "https://www.bilibili.com/video/BV1TmcZz8E7u",
+          "query": "离散数学及其应用（第二版） 离散数学"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：离散数学及其应用（第二版） 离散数学",
           "query": "离散数学及其应用（第二版） 离散数学"
@@ -12104,6 +14546,12 @@ window.APP_DATA = {
       ],
       "note": "作者：王勇等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：Linux操作系统原理与应用(西安邮电大学)｜UP：一顿饭吃好几碗｜BV1SQ4y1A7ZE｜播放：61027｜搜索：Linux系统与应用",
+          "url": "https://www.bilibili.com/video/BV1SQ4y1A7ZE",
+          "query": "Ubuntu Linux操作系统实用教程 Linux系统与应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Ubuntu Linux操作系统实用教程 Linux系统与应用",
@@ -12125,8 +14573,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：SQL Server复制功能配置｜UP：btldxx｜BV1VeedeoE74｜播放：859",
-          "url": "https://www.bilibili.com/video/BV1VeedeoE74",
+          "search": "视频：SQL SERVER数据库_D丝学编程｜UP：D丝学编程｜BV1XV411C7TP｜播放：756191｜搜索：数据库原理及应用与实践 基于SQL Server 2019",
+          "url": "https://www.bilibili.com/video/BV1XV411C7TP",
           "query": "数据库原理及应用与实践（第4版)——基于SQL Server 2019 数据库原理"
         },
         {
@@ -12149,6 +14597,12 @@ window.APP_DATA = {
       "note": "作者：尹志宇；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】浙江大学：软件工程 陈越（全33讲）｜UP：农夫CC｜BV16g411M7r2｜播放：293567｜搜索：软件工程",
+          "url": "https://www.bilibili.com/video/BV16g411M7r2",
+          "query": "软件工程导论——方法、工具和案例 软件工程"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件工程导论——方法、工具和案例 软件工程",
           "query": "软件工程导论——方法、工具和案例 软件工程"
@@ -12168,6 +14622,12 @@ window.APP_DATA = {
       "note": "作者：姜桂洪；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《MySQL数据库》期末3小时速成课！通俗易懂，保证不挂科！｜UP：云顶数模｜BV1q3C8YFEEq｜播放：65349｜搜索：数据库 期末复习",
+          "url": "https://www.bilibili.com/video/BV1q3C8YFEEq",
+          "query": "MySQL 8.0数据库应用与开发 MySQL数据库应用实践"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：MySQL 8.0数据库应用与开发 MySQL数据库应用实践",
           "query": "MySQL 8.0数据库应用与开发 MySQL数据库应用实践"
@@ -12186,6 +14646,12 @@ window.APP_DATA = {
       ],
       "note": "作者：王晓敏等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：信息系统分析与设计｜UP：蛋蛋老鼠｜BV1tz4y1d7wk｜播放：60295｜搜索：信息系统分析与设计（第5版） 系统分析与设计",
+          "url": "https://www.bilibili.com/video/BV1tz4y1d7wk",
+          "query": "信息系统分析与设计（第5版） 系统分析与设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：信息系统分析与设计（第5版） 系统分析与设计",
@@ -12207,8 +14673,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：大学生就业指导期末答案110%｜UP：尘huan｜BV1fe4y1M7kY｜播放：12795",
-          "url": "https://www.bilibili.com/video/BV1fe4y1M7kY",
+          "search": "视频：【北京大学】大学生职业发展与就业指导（全108讲）谢伟｜UP：iMuseums｜BV1LW4y1R7EH｜播放：127241｜搜索：《美好前程——大学生就业指导教程》 就业指导（理论）",
+          "url": "https://www.bilibili.com/video/BV1LW4y1R7EH",
           "query": "《美好前程——大学生就业指导教程》 就业指导（理论）"
         },
         {
@@ -12232,8 +14698,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《全国计算机等级考试》 四级操作系统原理 刘震｜UP：不想学习眼睛累｜BV1qt4y127uy｜播放：21389",
-          "url": "https://www.bilibili.com/video/BV1qt4y127uy",
+          "search": "视频：清华 操作系统原理｜UP：希利亚歌洋流｜BV1uW411f72n｜播放：993085｜搜索：操作系统（第4版本） 操作系统原理",
+          "url": "https://www.bilibili.com/video/BV1uW411f72n",
           "query": "操作系统（第4版本） 操作系统原理"
         },
         {
@@ -12257,8 +14723,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：Ui入门必修：k4-通用规范-UI配色思路&色彩情绪｜UP：EthankDesign｜BV1eq4y1Y7RH｜播放：12185",
-          "url": "https://www.bilibili.com/video/BV1eq4y1Y7RH",
+          "search": "视频：【UI设计】移动端设计教程，0基础转行必看！｜UP：蜗牛学苑IT教育｜BV18M4y157d6｜播放：20835｜搜索：移动UI设计案例教程（电子活页式）（全彩慕课版） UI界面设计",
+          "url": "https://www.bilibili.com/video/BV18M4y157d6",
           "query": "移动UI设计案例教程（电子活页式）（全彩慕课版） UI界面设计"
         },
         {
@@ -12282,8 +14748,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：Java Web程序设计任务教程（第3版）（AIGC版）｜UP：黑马程序员教材研究院｜BV1Y79sBxEjE｜播放：5543",
-          "url": "https://www.bilibili.com/video/BV1Y79sBxEjE",
+          "search": "视频：黑马程序员JavaWeb基础教程，Java web从入门到企业实战完整版｜UP：黑马程序员｜BV1Qf4y1T7Hx｜播放：6031450｜搜索：java web程序设计任务教程 Web编程技术",
+          "url": "https://www.bilibili.com/video/BV1Qf4y1T7Hx",
           "query": "java web程序设计任务教程 Web编程技术"
         },
         {
@@ -12307,8 +14773,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：USBCAN驱动安装视频｜UP：哇是班班｜BV16N4y1f7yW｜播放：4051",
-          "url": "https://www.bilibili.com/video/BV16N4y1f7yW",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763732｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
           "query": "Java程序设计实训——增量式项目驱动一体化教程（第2版） 程序设计实训"
         },
         {
@@ -12329,8 +14795,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：嵌入式学习记录012(LittleFs文件系统)｜UP：夏日之苦瓜｜BV1skWMeSE9S｜播放：2009",
-          "url": "https://www.bilibili.com/video/BV1skWMeSE9S",
+          "search": "视频：(视频实战课程)如何编制标准检验指导书SIP ?｜UP：质量管理体系培训｜BV1ak4y1r7Yj｜播放：18423｜搜索：实验指导书 学院集中打印",
+          "url": "https://www.bilibili.com/video/BV1ak4y1r7Yj",
           "query": "实验指导书，学院集中打印 嵌入式系统"
         },
         {
@@ -12349,6 +14815,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：软件工程导论-张海藩（第六版）期末+考研复习｜UP：上岛晴空｜BV1jo4y1e7r8｜播放：282312｜搜索：软件工程课程设计",
+          "url": "https://www.bilibili.com/video/BV1jo4y1e7r8",
+          "query": "需要教材 软件工程课程设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：需要教材 软件工程课程设计",
@@ -12370,8 +14842,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：Java EE企业级应用开发教程（Spring+Spring MVC+MyBatis）（第3版）｜UP：黑马程序员教材研究院｜BV1BzwSzoEfq｜播放：25654",
-          "url": "https://www.bilibili.com/video/BV1BzwSzoEfq",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763666｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
           "query": "Spring Boot企业级开发教程（第2版） Java EE开发"
         },
         {
@@ -12395,8 +14867,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：这才是我想要的项目管理工具！5款免费的项目管理工具推荐｜UP：不及物动词xo｜BV1mM411K7hJ｜播放：115969",
-          "url": "https://www.bilibili.com/video/BV1mM411K7hJ",
+          "search": "视频：《软件项目管理》——闫波｜UP：北京理工大学｜BV1HE411P79e｜播放：89379｜搜索：软件项目管理",
+          "url": "https://www.bilibili.com/video/BV1HE411P79e",
           "query": "软件项目管理 软件项目管理"
         },
         {
@@ -12420,8 +14892,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：物联网组网技术及应用【全53讲】【含资料】【国家级精品课】｜UP：爱学习的小刚子｜BV1L8qrBeEPY｜播放：7237",
-          "url": "https://www.bilibili.com/video/BV1L8qrBeEPY",
+          "search": "视频：嵌入式RT-Thread实时操作系统教程，rtthread入门到精通全套完整版｜UP：嵌入式-｜BV1Cb4y1m7W5｜播放：346214｜搜索：物联网技术及应用 教程",
+          "url": "https://www.bilibili.com/video/BV1Cb4y1m7W5",
           "query": "物联网技术及应用 物联网技术及应用"
         },
         {
@@ -12444,6 +14916,12 @@ window.APP_DATA = {
       "note": "作者：闵海钊；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【网络安全教程】2026年B站最全最详细的网络安全零基础入门全套教学！全程干货精讲，少走99%弯路，挑战7天从小白逆袭成大神！｜UP：好课宣传委｜BV1ckqYBWE7f｜播放：4010111｜搜索：信息安全技术",
+          "url": "https://www.bilibili.com/video/BV1ckqYBWE7f",
+          "query": "网络安全攻防技术实战 信息安全技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：网络安全攻防技术实战 信息安全技术",
           "query": "网络安全攻防技术实战 信息安全技术"
@@ -12462,6 +14940,12 @@ window.APP_DATA = {
       ],
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员JavaWeb基础教程，Java web从入门到企业实战完整版｜UP：黑马程序员｜BV1Qf4y1T7Hx｜播放：6031453｜搜索：Java Web 全套教程",
+          "url": "https://www.bilibili.com/video/BV1Qf4y1T7Hx",
+          "query": "Java Web程序设计任务教程（第2版） Web编程技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Java Web程序设计任务教程（第2版） Web编程技术",
@@ -12483,8 +14967,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：前端Web开发HTML5+CSS3+移动web视频教程，前端web入门首选黑马程序员｜UP：黑马程序员｜BV1kM4y127Li｜播放：4237056",
-          "url": "https://www.bilibili.com/video/BV1kM4y127Li",
+          "search": "视频：黑马程序员pink老师前端入门教程，零基础必看的h5(html5)+css3+移动端前端视频教程｜UP：黑马pink讲前端｜BV14J4114768｜播放：19984460｜搜索：HTML5移动Web开发 电子商务",
+          "url": "https://www.bilibili.com/video/BV14J4114768",
           "query": "HTML5移动Web开发（第2版） 电子商务"
         },
         {
@@ -12508,8 +14992,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《概率论与数理统计》教学视频 2.0版本【宋浩老师】｜UP：宋浩老师官方｜BV1JXppejE8q｜播放：19768411",
-          "url": "https://www.bilibili.com/video/BV1JXppejE8q",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5490946｜搜索：概率论与数理统计 期末复习",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
           "query": "概率论与数理统计 概率论与数理统计"
         },
         {
@@ -12532,6 +15016,12 @@ window.APP_DATA = {
       "note": "作者：肖四喜 申书飞；出版社：上海交通大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【北京大学】大学生职业发展与就业指导（全108讲）谢伟｜UP：iMuseums｜BV1LW4y1R7EH｜播放：127241｜搜索：美好前程——大学生就业指导教程 就业指导（理论）",
+          "url": "https://www.bilibili.com/video/BV1LW4y1R7EH",
+          "query": "美好前程——大学生就业指导教程 就业指导（理论）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：美好前程——大学生就业指导教程 就业指导（理论）",
           "query": "美好前程——大学生就业指导教程 就业指导（理论）"
@@ -12551,6 +15041,12 @@ window.APP_DATA = {
       "note": "作者：冯新宇、蒋洪波、程坤；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：Linux嵌入式与驱动开发 全套入门教程 基于ARM(IMX6U)｜UP：徐某大侠｜BV1Tf4y1U7xu｜播放：238477｜搜索：嵌入式Linux系统开发 ——基于ARM处理器通用平台（第2版） 嵌入式系统",
+          "url": "https://www.bilibili.com/video/BV1Tf4y1U7xu",
+          "query": "嵌入式Linux系统开发 ——基于ARM处理器通用平台（第2版） 嵌入式系统"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：嵌入式Linux系统开发 ——基于ARM处理器通用平台（第2版） 嵌入式系统",
           "query": "嵌入式Linux系统开发 ——基于ARM处理器通用平台（第2版） 嵌入式系统"
@@ -12569,6 +15065,12 @@ window.APP_DATA = {
       ],
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员软件测试视频教程，软件测试基础入门到项目实战（涵盖软件测试基础+黑马头条项目实战）｜UP：黑马程序员｜BV1TP4y1J7BD｜播放：2351512｜搜索：软件测试",
+          "url": "https://www.bilibili.com/video/BV1TP4y1J7BD",
+          "query": "软件测试（第2版） 软件测试与质量保证"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件测试（第2版） 软件测试与质量保证",
@@ -12590,8 +15092,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《软件工程导论》期末考试模拟试卷+答案｜UP：Perfect海小小｜BV1TKkRY2EG8｜播放：1523",
-          "url": "https://www.bilibili.com/video/BV1TKkRY2EG8",
+          "search": "视频：【公开课】浙江大学：软件工程 陈越（全33讲）｜UP：农夫CC｜BV16g411M7r2｜播放：293567｜搜索：软件工程",
+          "url": "https://www.bilibili.com/video/BV16g411M7r2",
           "query": "软件工程导论：方法、工具和案例（题库·微课视频版） 软件工程"
         },
         {
@@ -12614,6 +15116,12 @@ window.APP_DATA = {
       "note": "作者：吕云翔 赵天宇；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《算法设计与分析》4小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1JhkwYUEFU｜播放：649282｜搜索：UML面向对象分析 建模与设计 系统分析与设计",
+          "url": "https://www.bilibili.com/video/BV1JhkwYUEFU",
+          "query": "UML面向对象分析、建模与设计 系统分析与设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：UML面向对象分析、建模与设计 系统分析与设计",
           "query": "UML面向对象分析、建模与设计 系统分析与设计"
@@ -12634,8 +15142,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：Spring Boot企业级开发教程（第2版）｜UP：黑马程序员教材研究院｜BV1XQw7ztEYe｜播放：17949",
-          "url": "https://www.bilibili.com/video/BV1XQw7ztEYe",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763666｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
           "query": "黑马程序员. Spring Boot企业级开发教程（第2版） Java EE开发"
         },
         {
@@ -12658,6 +15166,12 @@ window.APP_DATA = {
       "note": "作者：蒋建春 主编 文伟平、焦健 副主编；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【网络安全教程】2026年B站最全最详细的网络安全零基础入门全套教学！全程干货精讲，少走99%弯路，挑战7天从小白逆袭成大神！｜UP：好课宣传委｜BV1ckqYBWE7f｜播放：4010111｜搜索：信息安全技术",
+          "url": "https://www.bilibili.com/video/BV1ckqYBWE7f",
+          "query": "信息安全工程师教程（第2版） 信息安全技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：信息安全工程师教程（第2版） 信息安全技术",
           "query": "信息安全工程师教程（第2版） 信息安全技术"
@@ -12673,6 +15187,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《清河仙族》，从首订70到均订4600，从励志模范到争议不断，它经历了什么？（网文拆书）｜UP：天半子读书写作｜BV1RJYhz1EBp｜播放：57621｜搜索：不需要订教材",
+          "url": "https://www.bilibili.com/video/BV1RJYhz1EBp",
+          "query": "不需要订教材 项目开发实训2"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：不需要订教材 项目开发实训2",
@@ -12694,8 +15214,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：软件包管理工具 unigetui｜UP：｜BV1fNp8ehEem｜播放：5260",
-          "url": "https://www.bilibili.com/video/BV1fNp8ehEem",
+          "search": "视频：医疗器械软件配置管理概述｜UP：罗马老师别这样TinaLuo｜BV1xX4y1E78r｜播放：2102｜搜索：软件配置管理",
+          "url": "https://www.bilibili.com/video/BV1xX4y1E78r",
           "query": "软件配置管理与实践 软件配置管理"
         },
         {
@@ -12718,6 +15238,12 @@ window.APP_DATA = {
       "note": "作者：韩万江，姜立新；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《软件项目管理》——闫波｜UP：北京理工大学｜BV1HE411P79e｜播放：89379｜搜索：软件项目管理",
+          "url": "https://www.bilibili.com/video/BV1HE411P79e",
+          "query": "软件项目管理案例教程（第4版） 软件项目管理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件项目管理案例教程（第4版） 软件项目管理",
           "query": "软件项目管理案例教程（第4版） 软件项目管理"
@@ -12736,6 +15262,12 @@ window.APP_DATA = {
       ],
       "note": "作者：魏法杰等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：最强《工程经济学》全是干货不墨迹！| 非常适合期末、考研党观看！｜UP：B站大学课代表_Cuadaa｜BV1qL1CBcEs8｜播放：26007｜搜索：工程经济学（第3版） 工程经济学",
+          "url": "https://www.bilibili.com/video/BV1qL1CBcEs8",
+          "query": "工程经济学（第3版） 工程经济学"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：工程经济学（第3版） 工程经济学",
@@ -12757,8 +15289,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：Java EE企业级应用开发教程（Spring+Spring MVC+MyBatis）（第3版）｜UP：黑马程序员教材研究院｜BV1BzwSzoEfq｜播放：25654",
-          "url": "https://www.bilibili.com/video/BV1BzwSzoEfq",
+          "search": "视频：Java AWT Swing(图形界面编程)全套教程，基础入门进阶实战完整教程，行业大牛深度解析｜UP：黑马Java｜BV1wh411d7it｜播放：336886｜搜索：Java EE企业级应用开发项目教程（SSM） Java EE开发",
+          "url": "https://www.bilibili.com/video/BV1wh411d7it",
           "query": "Java EE企业级应用开发项目教程（SSM） Java EE开发"
         },
         {
@@ -12781,6 +15313,12 @@ window.APP_DATA = {
       "note": "作者：（电子版，集中打印） 董越；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：未雨绸缪，老人安排好一切，避免身后麻烦事。｜UP：多肉不老松｜BV1SD4y1P7xf｜播放：272243｜搜索：未雨绸缪 理解软件配置管理",
+          "url": "https://www.bilibili.com/video/BV1SD4y1P7xf",
+          "query": "未雨绸缪：理解软件配置管理（电子版，需集中打印） 软件配置管理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：未雨绸缪：理解软件配置管理（电子版，需集中打印） 软件配置管理",
           "query": "未雨绸缪：理解软件配置管理（电子版，需集中打印） 软件配置管理"
@@ -12799,6 +15337,12 @@ window.APP_DATA = {
       ],
       "note": "作者：盛骤、谢式千、潘承毅；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5491220｜搜索：概率论与数理统计",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
+          "query": "概率论与数理统计（第五版） 概率论与数理统计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：概率论与数理统计（第五版） 概率论与数理统计",
@@ -12819,8 +15363,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【赶】安卓移动应用开发期末大作业演示视频｜UP：一支猫咔｜BV1sG411N7xV｜播放：62049",
-          "url": "https://www.bilibili.com/video/BV1sG411N7xV",
+          "search": "视频：App Inventor-零基础Android移动应用开发｜UP：honeyshine75｜BV1FJ41157Zz｜播放：224255｜搜索：电子版实训教程文件集 移动应用开发实训",
+          "url": "https://www.bilibili.com/video/BV1FJ41157Zz",
           "query": "电子版实训教程文件集（电子版） 移动应用开发实训"
         },
         {
@@ -12843,6 +15387,12 @@ window.APP_DATA = {
       "note": "作者：王生原 张素琴；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【编译原理】期末复习 零基础自学｜UP：轶知｜BV1FQ4y1r7ub｜播放：1266817｜搜索：编译原理 编译原理",
+          "url": "https://www.bilibili.com/video/BV1FQ4y1r7ub",
+          "query": "编译原理(第3版) 编译原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：编译原理(第3版) 编译原理",
           "query": "编译原理(第3版) 编译原理"
@@ -12862,6 +15412,12 @@ window.APP_DATA = {
       "note": "作者：王晓敏等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：信息系统分析与设计｜UP：蛋蛋老鼠｜BV1tz4y1d7wk｜播放：60295｜搜索：信息系统分析与设计（第5版） 系统分析与设计",
+          "url": "https://www.bilibili.com/video/BV1tz4y1d7wk",
+          "query": "信息系统分析与设计（第5版） 系统分析与设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：信息系统分析与设计（第5版） 系统分析与设计",
           "query": "信息系统分析与设计（第5版） 系统分析与设计"
@@ -12880,6 +15436,12 @@ window.APP_DATA = {
       ],
       "note": "作者：屈婉玲 耿素云 张立昂；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：离散数学 东北大学（全69讲）｜UP：古维京掌管希腊的神｜BV1d7411v7zu｜播放：4465023｜搜索：离散数学及其应用（第2版） 离散数学",
+          "url": "https://www.bilibili.com/video/BV1d7411v7zu",
+          "query": "离散数学及其应用（第2版） 离散数学"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：离散数学及其应用（第2版） 离散数学",
@@ -12901,8 +15463,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《全国计算机等级考试》 四级操作系统原理 刘震｜UP：不想学习眼睛累｜BV1qt4y127uy｜播放：21389",
-          "url": "https://www.bilibili.com/video/BV1qt4y127uy",
+          "search": "视频：清华 操作系统原理｜UP：希利亚歌洋流｜BV1uW411f72n｜播放：993085｜搜索：操作系统（第4版本） 操作系统原理",
+          "url": "https://www.bilibili.com/video/BV1uW411f72n",
           "query": "操作系统（第4版本） 操作系统原理"
         },
         {
@@ -12925,6 +15487,12 @@ window.APP_DATA = {
       "note": "作者：谭志虎；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【计组】8小时期末速成高分课|计算机组成原理期末复习|机组大题讲解|复试|调剂|专升本可用|绩满满｜UP：哔哩大学计算机院｜BV13iAwz7EHD｜播放：85166｜搜索：计算机组成原理",
+          "url": "https://www.bilibili.com/video/BV13iAwz7EHD",
+          "query": "计算机组成原理 计算机组成原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机组成原理 计算机组成原理",
           "query": "计算机组成原理 计算机组成原理"
@@ -12945,8 +15513,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：Ui入门必修：k4-通用规范-UI配色思路&色彩情绪｜UP：EthankDesign｜BV1eq4y1Y7RH｜播放：12185",
-          "url": "https://www.bilibili.com/video/BV1eq4y1Y7RH",
+          "search": "视频：【UI设计】移动端设计教程，0基础转行必看！｜UP：蜗牛学苑IT教育｜BV18M4y157d6｜播放：20835｜搜索：移动UI设计案例教程（电子活页式）（全彩慕课版） UI界面设计",
+          "url": "https://www.bilibili.com/video/BV18M4y157d6",
           "query": "移动UI设计案例教程（电子活页式）（全彩慕课版） UI界面设计"
         },
         {
@@ -12969,6 +15537,12 @@ window.APP_DATA = {
       "note": "作者：张鉴新、周晓晴；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】 多媒体技术及应用｜UP：账号已注销｜BV134411R7wz｜播放：76442｜搜索：多媒体技术与应用",
+          "url": "https://www.bilibili.com/video/BV134411R7wz",
+          "query": "多媒体技术与应用 多媒体信息处理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：多媒体技术与应用 多媒体信息处理",
           "query": "多媒体技术与应用 多媒体信息处理"
@@ -12989,8 +15563,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：Java Web程序设计任务教程（第3版）（AIGC版）｜UP：黑马程序员教材研究院｜BV1Y79sBxEjE｜播放：5543",
-          "url": "https://www.bilibili.com/video/BV1Y79sBxEjE",
+          "search": "视频：黑马程序员JavaWeb基础教程，Java web从入门到企业实战完整版｜UP：黑马程序员｜BV1Qf4y1T7Hx｜播放：6031450｜搜索：java web程序设计任务教程 Web编程技术",
+          "url": "https://www.bilibili.com/video/BV1Qf4y1T7Hx",
           "query": "java web程序设计任务教程 Web编程技术"
         },
         {
@@ -13014,8 +15588,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【c语言（数据结构）】课设：火车票服务系统（使用单链表）｜UP：Chase追光｜BV1xy4y1R7ue｜播放：7282",
-          "url": "https://www.bilibili.com/video/BV1xy4y1R7ue",
+          "search": "视频：【自考】计算机系统结构 02325 零基础大题保姆式精讲 学完必过｜UP：萝卜Bro｜BV1iY411g7HJ｜播放：337470｜搜索：计算机系统结构",
+          "url": "https://www.bilibili.com/video/BV1iY411g7HJ",
           "query": "计算机系统结构（第三版） 计算机系统结构"
         },
         {
@@ -13039,8 +15613,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：Java EE企业级应用开发教程（Spring+Spring MVC+MyBatis）（第3版）｜UP：黑马程序员教材研究院｜BV1BzwSzoEfq｜播放：25654",
-          "url": "https://www.bilibili.com/video/BV1BzwSzoEfq",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763666｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
           "query": "Spring Boot企业级开发教程（第2版） Java EE开发"
         },
         {
@@ -13064,8 +15638,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：黑马程序员 MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括｜UP：黑马程序员｜BV1Kr4y1i7ru｜播放：12792075",
-          "url": "https://www.bilibili.com/video/BV1Kr4y1i7ru",
+          "search": "视频：MySQL知识精讲+mysql实战案例_零基础mysql数据库入门到高级全套教程｜UP：lad920｜BV1yM411v7pc｜播放：14769｜搜索：MySQL 全套教程",
+          "url": "https://www.bilibili.com/video/BV1yM411v7pc",
           "query": "MySQL 8.0数据库应用与开发 MySQL 数据库应用实践"
         },
         {
@@ -13089,8 +15663,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：国家计算机二级python零基础上岸也许是全网讲的最清楚的二级python教程不拖泥带水捞干的（持续更新中......）｜UP：逊哥带你学计算机｜BV1Ys4y1D72T｜播放：2407183",
-          "url": "https://www.bilibili.com/video/BV1Ys4y1D72T",
+          "search": "视频：黑马程序员python零基础全套教程，8天python从入门到精通，学python看这套就够了｜UP：黑马程序员｜BV1qW4y1a7fU｜播放：24410364｜搜索：Python 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1qW4y1a7fU",
           "query": "Python语言程序设计基础(第2版) Python程序设计"
         },
         {
@@ -13114,7 +15688,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【计算机视觉实战项目】基于Python与OpenCV实现的图像处理全套解析！从基础原理到代码实战，全程通俗易懂，适合所有零基础入门学习！-ML/DL/CV｜UP：唐宇迪的AI入门课｜BV14A411C7ZE｜播放：1110153",
+          "search": "视频：【计算机视觉实战项目】基于Python与OpenCV实现的图像处理全套解析！从基础原理到代码实战，全程通俗易懂，适合所有零基础入门学习！-ML/DL/CV｜UP：唐宇迪的AI入门课｜BV14A411C7ZE｜播放：1110196｜搜索：OpenCV计算机视觉基础教程（Python版|慕课版） 计算机视觉及应用",
           "url": "https://www.bilibili.com/video/BV14A411C7ZE",
           "query": "OpenCV计算机视觉基础教程（Python版|慕课版） 计算机视觉及应用"
         },
@@ -13138,6 +15712,12 @@ window.APP_DATA = {
       "note": "作者：谢钧、谢希仁；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：深入浅出计算机网络 微课视频｜UP：湖科大教书匠｜BV1NT411g7n6｜播放：2806995｜搜索：计算机网络教程",
+          "url": "https://www.bilibili.com/video/BV1NT411g7n6",
+          "query": "计算机网络教程 计算机网络"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机网络教程 计算机网络",
           "query": "计算机网络教程 计算机网络"
@@ -13158,7 +15738,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：软件工程导论 张海藩｜UP：皮蛋茄子擂辣椒｜BV1Ns41177VM｜播放：929610",
+          "search": "视频：软件工程导论 张海藩｜UP：皮蛋茄子擂辣椒｜BV1Ns41177VM｜播放：929611｜搜索：软件工程导论：方法、工具和案例 软件工程",
           "url": "https://www.bilibili.com/video/BV1Ns41177VM",
           "query": "软件工程导论：方法、工具和案例 软件工程"
         },
@@ -13183,8 +15763,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：这才是我想要的项目管理工具！5款免费的项目管理工具推荐｜UP：不及物动词xo｜BV1mM411K7hJ｜播放：115969",
-          "url": "https://www.bilibili.com/video/BV1mM411K7hJ",
+          "search": "视频：《软件项目管理》——闫波｜UP：北京理工大学｜BV1HE411P79e｜播放：89379｜搜索：软件项目管理",
+          "url": "https://www.bilibili.com/video/BV1HE411P79e",
           "query": "软件项目管理 软件项目管理"
         },
         {
@@ -13207,6 +15787,12 @@ window.APP_DATA = {
       "note": "作者：贾铁军 等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《数据库系统概论》0基础也能听懂 期末冲刺上高分 期末自救速成课资源 期末不挂科资源 期末复习突击速成课资源 考研复试知识框架梳理｜UP：重生之期末自救指南｜BV1D8qUB2Eor｜播放：336968｜搜索：数据库 期末复习",
+          "url": "https://www.bilibili.com/video/BV1D8qUB2Eor",
+          "query": "数据库原理及应用与实践（第4版) 数据库原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库原理及应用与实践（第4版) 数据库原理",
           "query": "数据库原理及应用与实践（第4版) 数据库原理"
@@ -13226,6 +15812,12 @@ window.APP_DATA = {
       "note": "作者：阎石；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【电子】数字电子技术基础（数字电路/数电） 清华大学 王红主讲｜UP：谢谢谢同学鸭｜BV18p411Z7ce｜播放：6422700｜搜索：数字电子技术基础（第六版） 数字电路与逻辑设计",
+          "url": "https://www.bilibili.com/video/BV18p411Z7ce",
+          "query": "数字电子技术基础（第六版） 数字电路与逻辑设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版） 数字电路与逻辑设计",
           "query": "数字电子技术基础（第六版） 数字电路与逻辑设计"
@@ -13244,6 +15836,12 @@ window.APP_DATA = {
       ],
       "note": "作者：阎石 王红；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【数电】数字电子技术高分课期末速成|数字电路期末复习|复试|调剂|专升本可用|绩满满｜UP：橙子期末包过｜BV1Qj9VB4E6k｜播放：29499｜搜索：数字电子技术 期末复习",
+          "url": "https://www.bilibili.com/video/BV1Qj9VB4E6k",
+          "query": "数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计",
@@ -13265,8 +15863,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：Spring Boot企业级开发教程（第2版）｜UP：黑马程序员教材研究院｜BV1XQw7ztEYe｜播放：17949",
-          "url": "https://www.bilibili.com/video/BV1XQw7ztEYe",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763666｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
           "query": "黑马程序员. Spring Boot企业级开发教程（第2版） Java EE开发"
         },
         {
@@ -13290,8 +15888,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《Python语言程序设计》考试复习速成资源/快速复习 考研框架复习 /习题讲解 期末不挂科资源｜UP：丶世中逢尔｜BV1av1SBrE8r｜播放：17073",
-          "url": "https://www.bilibili.com/video/BV1av1SBrE8r",
+          "search": "视频：【全748集】目前B站最全最细的Python零基础全套教程，2026最新版，包含所有干货！七天就能从小白到大神！少走99%的弯路！存下吧！很难找全的！｜UP：Python官方课程｜BV1rpWjevEip｜播放：16624922｜搜索：Python语言程序设计基础",
+          "url": "https://www.bilibili.com/video/BV1rpWjevEip",
           "query": "Python语言程序设计基础(第3版) Python程序设计"
         },
         {
@@ -13314,6 +15912,12 @@ window.APP_DATA = {
       "note": "作者：贾铁军等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【合集】数据库原理及应用 东南大学 徐立臻 共72讲｜UP：123小棕熊｜BV1ux411G7Bs｜播放：929913｜搜索：数据库原理及应用与实践",
+          "url": "https://www.bilibili.com/video/BV1ux411G7Bs",
+          "query": "数据库原理及应用与实践 数据库原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库原理及应用与实践 数据库原理",
           "query": "数据库原理及应用与实践 数据库原理"
@@ -13332,6 +15936,12 @@ window.APP_DATA = {
       ],
       "note": "作者：李国强、刘君；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《创业基础》【共77节完整版】｜UP：六神无主的吾｜BV18b411p7MT｜播放：78037｜搜索：创业基础",
+          "url": "https://www.bilibili.com/video/BV18b411p7MT",
+          "query": "大学生创新创业基础 第2版 创业基础（实践）"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：大学生创新创业基础 第2版 创业基础（实践）",
@@ -13352,6 +15962,12 @@ window.APP_DATA = {
       "note": "作者：蒋建春 主编 文伟平、焦健 副主编；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【网络安全教程】2026年B站最全最详细的网络安全零基础入门全套教学！全程干货精讲，少走99%弯路，挑战7天从小白逆袭成大神！｜UP：好课宣传委｜BV1ckqYBWE7f｜播放：4010111｜搜索：信息安全技术",
+          "url": "https://www.bilibili.com/video/BV1ckqYBWE7f",
+          "query": "信息安全工程师教程（第2版） 信息安全技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：信息安全工程师教程（第2版） 信息安全技术",
           "query": "信息安全工程师教程（第2版） 信息安全技术"
@@ -13371,6 +15987,12 @@ window.APP_DATA = {
       "note": "作者：林子雨；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员大数据入门到实战教程，大数据开发必会的Hadoop、Hive，云平台实战项目全套一网打尽｜UP：黑马程序员｜BV1WY4y197g7｜播放：1104739｜搜索：大数据 全套教程",
+          "url": "https://www.bilibili.com/video/BV1WY4y197g7",
+          "query": "大数据技术原理与应用 大数据与云计算"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大数据技术原理与应用 大数据与云计算",
           "query": "大数据技术原理与应用 大数据与云计算"
@@ -13389,6 +16011,12 @@ window.APP_DATA = {
       ],
       "note": "作者：尹志宇、解春燕、李青茹；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】浙江大学：软件工程 陈越（全33讲）｜UP：农夫CC｜BV16g411M7r2｜播放：293565｜搜索：软件工程",
+          "url": "https://www.bilibili.com/video/BV16g411M7r2",
+          "query": "软件工程导论-方法、工具和案例 软件工程"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件工程导论-方法、工具和案例 软件工程",
@@ -13410,8 +16038,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《计算机网络》4小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1H4kwYHEcR｜播放：1723527",
-          "url": "https://www.bilibili.com/video/BV1H4kwYHEcR",
+          "search": "视频：中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程｜UP：中科大-郑烇老师｜BV1JV411t7ow｜播放：3896756｜搜索：计算机网络教程（第7版，微课版） 计算机网络",
+          "url": "https://www.bilibili.com/video/BV1JV411t7ow",
           "query": "计算机网络教程（第7版，微课版） 计算机网络"
         },
         {
@@ -13430,6 +16058,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：软件工程导论-张海藩（第六版）期末+考研复习｜UP：上岛晴空｜BV1jo4y1e7r8｜播放：282310｜搜索：软件工程课程设计",
+          "url": "https://www.bilibili.com/video/BV1jo4y1e7r8",
+          "query": "不需要定教材 软件工程课程设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：不需要定教材 软件工程课程设计",
@@ -13451,8 +16085,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：Java EE企业级应用开发教程（Spring+Spring MVC+MyBatis）（第3版）｜UP：黑马程序员教材研究院｜BV1BzwSzoEfq｜播放：25654",
-          "url": "https://www.bilibili.com/video/BV1BzwSzoEfq",
+          "search": "视频：Java AWT Swing(图形界面编程)全套教程，基础入门进阶实战完整教程，行业大牛深度解析｜UP：黑马Java｜BV1wh411d7it｜播放：336886｜搜索：Java EE企业级应用开发项目教程（SSM） Java EE开发",
+          "url": "https://www.bilibili.com/video/BV1wh411d7it",
           "query": "Java EE企业级应用开发项目教程（SSM） Java EE开发"
         },
         {
@@ -13475,6 +16109,12 @@ window.APP_DATA = {
       "note": "作者：嵩天；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员python零基础全套教程，8天python从入门到精通，学python看这套就够了｜UP：黑马程序员｜BV1qW4y1a7fU｜播放：24410268｜搜索：Python 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1qW4y1a7fU",
+          "query": "python语言程序设计基础（第2版） Python程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：python语言程序设计基础（第2版） Python程序设计",
           "query": "python语言程序设计基础（第2版） Python程序设计"
@@ -13494,6 +16134,12 @@ window.APP_DATA = {
       "note": "作者：张平；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：王道计算机考研 操作系统｜UP：王道计算机教育｜BV1YE411D7nH｜播放：22040601｜搜索：操作系统 期末复习",
+          "url": "https://www.bilibili.com/video/BV1YE411D7nH",
+          "query": "Ubuntu Linux操作系统案例教程 操作系统课程设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Ubuntu Linux操作系统案例教程 操作系统课程设计",
           "query": "Ubuntu Linux操作系统案例教程 操作系统课程设计"
@@ -13512,6 +16158,12 @@ window.APP_DATA = {
       ],
       "note": "作者：孟庆昌，张志华，牛欣源，路旭强；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【操作系统】计算机操作系统入门到精通完整教程（2022最新版）操作系统专业考试不挂科｜UP：马士兵_Java论坛｜BV1Ha411e7D4｜播放：373081｜搜索：操作系统 教程",
+          "url": "https://www.bilibili.com/video/BV1Ha411e7D4",
+          "query": "操作系统（第4版） 操作系统原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：操作系统（第4版） 操作系统原理",
@@ -13533,8 +16185,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【计算机视觉实战项目】基于Python与OpenCV实现的图像处理全套解析！从基础原理到代码实战，全程通俗易懂，适合所有零基础入门学习！-ML/DL/CV｜UP：唐宇迪的AI入门课｜BV14A411C7ZE｜播放：1110155",
-          "url": "https://www.bilibili.com/video/BV14A411C7ZE",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59083｜搜索：OpenCV计算机视觉基础教程 Python版 计算机视觉及应用",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
           "query": "OpenCV计算机视觉基础教程 Python版 计算机视觉及应用"
         },
         {
@@ -13558,8 +16210,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：软件工程导论 张海藩｜UP：皮蛋茄子擂辣椒｜BV1Ns41177VM｜播放：929610",
-          "url": "https://www.bilibili.com/video/BV1Ns41177VM",
+          "search": "视频：最强《软件工程》课程 | 全程基础，无痛学习，非常适合小白！｜UP：B站大学课代表_Cuadaa｜BV1NN7izqEvk｜播放：89769｜搜索：软件工程 教程",
+          "url": "https://www.bilibili.com/video/BV1NN7izqEvk",
           "query": "软件工程导论 方法、工具和案例 软件工程"
         },
         {
@@ -13582,6 +16234,12 @@ window.APP_DATA = {
       "note": "作者：韩万江，姜立新；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《软件项目管理》——闫波｜UP：北京理工大学｜BV1HE411P79e｜播放：89379｜搜索：软件项目管理",
+          "url": "https://www.bilibili.com/video/BV1HE411P79e",
+          "query": "软件项目管理案例教程（第4版） 软件项目管理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件项目管理案例教程（第4版） 软件项目管理",
           "query": "软件项目管理案例教程（第4版） 软件项目管理"
@@ -13602,8 +16260,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：SQL Server复制功能配置｜UP：btldxx｜BV1VeedeoE74｜播放：859",
-          "url": "https://www.bilibili.com/video/BV1VeedeoE74",
+          "search": "视频：SQL SERVER数据库_D丝学编程｜UP：D丝学编程｜BV1XV411C7TP｜播放：756191｜搜索：数据库原理及应用与实践 基于SQL Server 2019",
+          "url": "https://www.bilibili.com/video/BV1XV411C7TP",
           "query": "数据库原理及应用与实践（第4版)——基于SQL Server 2019 数据库原理"
         },
         {
@@ -13626,6 +16284,12 @@ window.APP_DATA = {
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员软件测试视频教程，软件测试基础入门到项目实战（涵盖软件测试基础+黑马头条项目实战）｜UP：黑马程序员｜BV1TP4y1J7BD｜播放：2351512｜搜索：软件测试",
+          "url": "https://www.bilibili.com/video/BV1TP4y1J7BD",
+          "query": "软件测试（第2版） 软件测试与质量保证"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件测试（第2版） 软件测试与质量保证",
           "query": "软件测试（第2版） 软件测试与质量保证"
@@ -13644,6 +16308,12 @@ window.APP_DATA = {
       ],
       "note": "作者：盛骤、谢式千、潘承毅；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5491220｜搜索：概率论与数理统计",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
+          "query": "概率论与数理统计（第五版） 概率论与数理统计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：概率论与数理统计（第五版） 概率论与数理统计",
@@ -13665,8 +16335,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：前端Web开发HTML5+CSS3+移动web视频教程，前端web入门首选黑马程序员｜UP：黑马程序员｜BV1kM4y127Li｜播放：4237056",
-          "url": "https://www.bilibili.com/video/BV1kM4y127Li",
+          "search": "视频：黑马程序员pink老师前端入门教程，零基础必看的h5(html5)+css3+移动端前端视频教程｜UP：黑马pink讲前端｜BV14J4114768｜播放：19984460｜搜索：HTML5移动Web开发 电子商务",
+          "url": "https://www.bilibili.com/video/BV14J4114768",
           "query": "HTML5移动Web开发（第2版） 电子商务"
         },
         {
@@ -13690,8 +16360,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《计算机网络教程 第6版，谢钧》课程｜UP：Nidhogg14｜BV161ttzYEbz｜播放：19668",
-          "url": "https://www.bilibili.com/video/BV161ttzYEbz",
+          "search": "视频：【期末复习】7天快速通过计算机网络期末考试｜谢希仁版｜考前急救｜高效通过｜粉丝投稿｜UP：网络工程师学长｜BV1PK4y1X7ze｜播放：2532016｜搜索：计算机网络",
+          "url": "https://www.bilibili.com/video/BV1PK4y1X7ze",
           "query": "《计算机网络教程》(第6版) 计算机网络"
         },
         {
@@ -13715,8 +16385,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：物联网组网技术及应用【全53讲】【含资料】【国家级精品课】｜UP：爱学习的小刚子｜BV1L8qrBeEPY｜播放：7237",
-          "url": "https://www.bilibili.com/video/BV1L8qrBeEPY",
+          "search": "视频：嵌入式RT-Thread实时操作系统教程，rtthread入门到精通全套完整版｜UP：嵌入式-｜BV1Cb4y1m7W5｜播放：346214｜搜索：物联网技术及应用 教程",
+          "url": "https://www.bilibili.com/video/BV1Cb4y1m7W5",
           "query": "物联网技术及应用 物联网技术及应用"
         },
         {
@@ -13739,6 +16409,12 @@ window.APP_DATA = {
       "note": "作者：董越；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：天国拯救2-DLC-教会之谜-追本溯源、帮人任务2（钱包）、沉默的证人、防疫措施、匮日丰食、未雨绸缪、遗愿、帮人任务3（金盏花）｜UP：鲁路修兰佩路奇｜BV18c6tBoEjh｜播放：477｜搜索：未雨绸缪：理解软件配置管理（第2版） 软件配置管理",
+          "url": "https://www.bilibili.com/video/BV18c6tBoEjh",
+          "query": "未雨绸缪：理解软件配置管理（第2版） 软件配置管理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：未雨绸缪：理解软件配置管理（第2版） 软件配置管理",
           "query": "未雨绸缪：理解软件配置管理（第2版） 软件配置管理"
@@ -13756,8 +16432,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：3C路由交换与技术_综合实验_偷懒速做方法｜UP：idsasad｜BV1PFVU6yEbu｜播放：30",
-          "url": "https://www.bilibili.com/video/BV1PFVU6yEbu",
+          "search": "视频：【乱讲的】《计算机网络》（第8版）课后习题讲解｜UP：李小霖只开火车｜BV1kz4y1J7nu｜播放：325469｜搜索：实验指导书，学院集中打印 计算机网络实训",
+          "url": "https://www.bilibili.com/video/BV1kz4y1J7nu",
           "query": "实验指导书，学院集中打印 计算机网络实训"
         },
         {
@@ -13781,8 +16457,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：还能玩PC游戏？Switch刷魔改版Ubuntu系统指南｜UP：在下莫老师｜BV1sH1FYZEMT｜播放：121918",
-          "url": "https://www.bilibili.com/video/BV1sH1FYZEMT",
+          "search": "视频：【操作系统】计算机操作系统入门到精通完整教程（2022最新版）操作系统专业考试不挂科｜UP：马士兵_Java论坛｜BV1Ha411e7D4｜播放：373081｜搜索：操作系统 教程",
+          "url": "https://www.bilibili.com/video/BV1Ha411e7D4",
           "query": "Ubuntu Linux 操作系统案例教程 Linux系统与应用"
         },
         {
@@ -13806,8 +16482,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：嵌入式Linux音乐播放器 Ubuntu20.04｜UP：CunGe2002｜BV1A3411N75w｜播放：3281",
-          "url": "https://www.bilibili.com/video/BV1A3411N75w",
+          "search": "视频：黑马程序员新版Linux零基础快速入门到精通，全涵盖linux系统知识、常用软件环境部署、Shell脚本、云平台实践、大数据集群项目实战等｜UP：黑马程序员｜BV1n84y1i7td｜播放：7386891｜搜索：嵌入式Linux系统开发 ——基于ARM处理器通用平台（第3版） 嵌入式系统",
+          "url": "https://www.bilibili.com/video/BV1n84y1i7td",
           "query": "嵌入式Linux系统开发 ——基于ARM处理器通用平台（第3版） 嵌入式系统"
         },
         {
@@ -13830,6 +16506,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【完整版】《C语言》9小时系统学习|期末拿高分【蜂考】｜UP：蜂考｜BV1m9NgeLEyo｜播放：414290｜搜索：C语言 期末复习",
+          "url": "https://www.bilibili.com/video/BV1m9NgeLEyo",
+          "query": "C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计",
           "query": "C语言程序设计——增量式项目驱动一体化教程（第2版） 高级语言程序设计"
@@ -13849,6 +16531,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：C语言程序设计从入门到进阶【比特鹏哥c语言2024完整版视频教程】（c语言基础入门c语言软件安装C语言指针c语言考研C语言专升本C语言期末计算机二级C语言c语言｜UP：鹏哥C语言｜BV1Vm4y1r7jY｜播放：13139770｜搜索：C语言程序设计实验教程",
+          "url": "https://www.bilibili.com/video/BV1Vm4y1r7jY",
+          "query": "C语言程序设计实验教程（第2版） 高级语言程序设计实践"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：C语言程序设计实验教程（第2版） 高级语言程序设计实践",
           "query": "C语言程序设计实验教程（第2版） 高级语言程序设计实践"
@@ -13867,6 +16555,12 @@ window.APP_DATA = {
       ],
       "note": "作者：刘浩，韩晶；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：MATLAB教程新手入门篇（上部分）（数学建模清风主讲，适合零基础同学观看）｜UP：数学建模学习交流｜BV1dN4y1Q7Kt｜播放：2490168｜搜索：MATLAB 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1dN4y1Q7Kt",
+          "query": "MATLAB R2020a 完全自学一本通 MATLAB语言实践"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：MATLAB R2020a 完全自学一本通 MATLAB语言实践",
@@ -13888,8 +16582,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数农314考点梳理----线性代数｜UP：考研数农小朱｜BV1hb421v7Ld｜播放：14116",
-          "url": "https://www.bilibili.com/video/BV1hb421v7Ld",
+          "search": "视频：【Kira老师】27考研《线性代数》零基础精讲课25h，小白也能轻松入门！ |期末看完直接炸鱼｜UP：一高数｜BV1Q4iJBAEsr｜播放：1605727｜搜索：线性代数",
+          "url": "https://www.bilibili.com/video/BV1Q4iJBAEsr",
           "query": "线性代数 线性代数"
         },
         {
@@ -13913,8 +16607,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《线性代数》习题课，零废话，超精讲！【孔祥仁】｜UP：孔祥仁｜BV1bt421T7p6｜播放：1115259",
-          "url": "https://www.bilibili.com/video/BV1bt421T7p6",
+          "search": "视频：【Kira老师】27考研《线性代数》零基础精讲课25h，小白也能轻松入门！ |期末看完直接炸鱼｜UP：一高数｜BV1Q4iJBAEsr｜播放：1605727｜搜索：线性代数 期末复习",
+          "url": "https://www.bilibili.com/video/BV1Q4iJBAEsr",
           "query": "线性代数习题解答 线性代数"
         },
         {
@@ -13937,6 +16631,12 @@ window.APP_DATA = {
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《高等数学(上)》6小时速成课 | 框框老师（突击课，适合高等数学(微积分)期末考试、期中考试、补考、重修、专升本，考试不挂科）｜UP：框框老师课堂｜BV1mN411r7VM｜播放：17696356｜搜索：高等数学（上册） 高等数学(1)",
+          "url": "https://www.bilibili.com/video/BV1mN411r7VM",
+          "query": "高等数学（上册） 高等数学(1)"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：高等数学（上册） 高等数学(1)",
           "query": "高等数学（上册） 高等数学(1)"
@@ -13955,6 +16655,12 @@ window.APP_DATA = {
       ],
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6957872｜搜索：高等数学 期末复习",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
+          "query": "高等数学习题解答 高等数学(1)"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：高等数学习题解答 高等数学(1)",
@@ -13975,6 +16681,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407066｜搜索：应用型本科大学物理(上册) 大学物理（1）",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "应用型本科大学物理(上册) 大学物理（1）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：应用型本科大学物理(上册) 大学物理（1）",
           "query": "应用型本科大学物理(上册) 大学物理（1）"
@@ -13994,8 +16706,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：SOP也就是标准作业指导书，分享下工厂里面的SOP怎么写｜UP：IE阿潘说制造｜BV1Ju4y1C79M｜播放：89249",
-          "url": "https://www.bilibili.com/video/BV1Ju4y1C79M",
+          "search": "视频：装修施工工艺（完整版）｜UP：室内CAD设计师｜BV1j64y1c7dv｜播放：477145｜搜索：电子工艺实训",
+          "url": "https://www.bilibili.com/video/BV1j64y1c7dv",
           "query": "自编电子工艺实训实验指导书 电子工艺实训"
         },
         {
@@ -14018,6 +16730,12 @@ window.APP_DATA = {
       "note": "作者：苑俊英等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：一级计算机基础及MS office应用 新思路解题视频【1~20套】｜UP：新思路等考通｜BV1N54y1J7oR｜播放：1256179｜搜索：计算机应用基础实验教程（第5版） 计算机实践基础",
+          "url": "https://www.bilibili.com/video/BV1N54y1J7oR",
+          "query": "计算机应用基础实验教程（第5版） 计算机实践基础"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机应用基础实验教程（第5版） 计算机实践基础",
           "query": "计算机应用基础实验教程（第5版） 计算机实践基础"
@@ -14036,6 +16754,12 @@ window.APP_DATA = {
       ],
       "note": "作者：李红，谢松法；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《工程数学基础》 基础课程 期末考试 专升本 考研复习精讲 天津大学｜UP：没冇耳朵的兔子｜BV1QzUsBkEg1｜播放：3978｜搜索：工程数学",
+          "url": "https://www.bilibili.com/video/BV1QzUsBkEg1",
+          "query": "复变函数与积分变换（第5版） 工程数学"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：复变函数与积分变换（第5版） 工程数学",
@@ -14057,8 +16781,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：大学计算机应用基础上机实验｜UP：计科小站｜BV11K4y1A75n｜播放：45330",
-          "url": "https://www.bilibili.com/video/BV11K4y1A75n",
+          "search": "视频：【免费讲义】2027适用山东省-计算机全套网课-统招专升本-零基础-基础精讲考试大纲历年真题押题卷试卷习题册题库备考库课好老师库克知了哎上课可参考｜UP：升哥计算机专升本｜BV19D8fz7EDP｜播放：576519｜搜索：计算机应用基础",
+          "url": "https://www.bilibili.com/video/BV19D8fz7EDP",
           "query": "计算机应用基础（第5版） 计算机实践基础"
         },
         {
@@ -14081,6 +16805,12 @@ window.APP_DATA = {
       "note": "作者：同济大学数学科学学院；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6957872｜搜索：高等数学 教程",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
+          "query": "《高等数学》第八版下册 高等数学（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：《高等数学》第八版下册 高等数学（2）",
           "query": "《高等数学》第八版下册 高等数学（2）"
@@ -14101,8 +16831,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：南京邮电大学813南邮《电路分析》教材讲解｜UP：邮学考研｜BV1wDZmYtE8z｜播放：109327",
-          "url": "https://www.bilibili.com/video/BV1wDZmYtE8z",
+          "search": "视频：电路【4K高清完整版】电路第六版电路分析基础电路邱关源电路原理电路图2025最新80集全带目录电路基础分析电路第五版电路基础知识入门通俗易懂期末速成｜UP：电路第六版｜BV17NLizSEjd｜播放：832541｜搜索：电路分析",
+          "url": "https://www.bilibili.com/video/BV17NLizSEjd",
           "query": "电路分析 电路基础"
         },
         {
@@ -14125,6 +16855,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407066｜搜索：大学物理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "大学物理（下册） 大学物理（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大学物理（下册） 大学物理（2）",
           "query": "大学物理（下册） 大学物理（2）"
@@ -14140,6 +16876,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407287｜搜索：大学物理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "实验指导书，学院集中打印 大学物理实验（1）"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：实验指导书，学院集中打印 大学物理实验（1）",
@@ -14160,6 +16902,12 @@ window.APP_DATA = {
       "note": "作者：皮大能；出版社：北京航空航天大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《单片机原理及应用》6小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：数学建模老哥｜BV1pDkjYwE8v｜播放：1653782｜搜索：单片机 期末复习",
+          "url": "https://www.bilibili.com/video/BV1pDkjYwE8v",
+          "query": "单片机原理与应用(双色版） 单片机原理及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：单片机原理与应用(双色版） 单片机原理及应用",
           "query": "单片机原理与应用(双色版） 单片机原理及应用"
@@ -14179,6 +16927,12 @@ window.APP_DATA = {
       "note": "作者：曾兴雯 刘乃安 主编；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《高频电子线路》期末速成课||期末不挂科|考点总结|自救指南|考前突击｜UP：水木观畴电子通信考研｜BV166Lw6mELa｜播放：28623｜搜索：高频电子线路 高频电子线路",
+          "url": "https://www.bilibili.com/video/BV166Lw6mELa",
+          "query": "高频电子线路（第4版） 高频电子线路"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：高频电子线路（第4版） 高频电子线路",
           "query": "高频电子线路（第4版） 高频电子线路"
@@ -14197,6 +16951,12 @@ window.APP_DATA = {
       ],
       "note": "作者：张洪欣等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【电磁场与电磁波】4小时期末速成|电磁场与电磁波期末复习|电磁场波|各版本均可用第五版谢处方可用|复试|调剂|专升本可用｜UP：橙子期末包过｜BV1XVXzBhEbw｜播放：13682｜搜索：电磁场与电磁波 期末复习",
+          "url": "https://www.bilibili.com/video/BV1XVXzBhEbw",
+          "query": "电磁场与电磁波 工程电磁场"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：电磁场与电磁波 工程电磁场",
@@ -14218,8 +16978,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：学霸录播 | 电磁场与电磁波 第六讲导行电磁波（李炫星）｜UP：传媒工科生｜BV19XrpYcEiG｜播放：1817",
-          "url": "https://www.bilibili.com/video/BV19XrpYcEiG",
+          "search": "视频：电磁场与电磁波｜UP：Lawrence_xjw｜BV1uV411H7xf｜播放：1748802｜搜索：电磁场与电磁波教学 学习与考研指导",
+          "url": "https://www.bilibili.com/video/BV1uV411H7xf",
           "query": "《电磁场与电磁波教学、学习与考研指导》（第4版） 工程电磁场"
         },
         {
@@ -14242,6 +17002,12 @@ window.APP_DATA = {
       "note": "作者：蔺素珍；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：数字图像处理-Digital Image Processing (DIP)｜UP：深度大脑｜BV1tx41147Tx｜播放：574459｜搜索：新编数字图像处理技术及应用",
+          "url": "https://www.bilibili.com/video/BV1tx41147Tx",
+          "query": "新编数字图像处理技术及应用（修订版） 数字图像处理及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：新编数字图像处理技术及应用（修订版） 数字图像处理及应用",
           "query": "新编数字图像处理技术及应用（修订版） 数字图像处理及应用"
@@ -14262,8 +17028,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：使用MATLAB学习数字信号处理：第一章 离散时间信号与系统（1、使用stem函数绘制离散时间序列）.mp4｜UP：算法工匠｜BV1mv4y1T7o7｜播放：31247",
-          "url": "https://www.bilibili.com/video/BV1mv4y1T7o7",
+          "search": "视频：【数字信号处理期末速成课】电子通信期末考试课程｜UP：水木观畴电子通信考研｜BV1DT421X7iu｜播放：504127｜搜索：数字信号处理教程",
+          "url": "https://www.bilibili.com/video/BV1DT421X7iu",
           "query": "数字信号处理教程（第五版） 数字信号处理"
         },
         {
@@ -14286,6 +17052,12 @@ window.APP_DATA = {
       "note": "作者：顾晖 等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：微机原理期末速成课||微机原理期末不挂科||微机原理与接口技术||微机原理||鸿霖学堂｜UP：鸿霖学堂电气考研｜BV1oS411A7gf｜播放：743813｜搜索：微机原理与接口技术（第3版） 微机原理与接口技术",
+          "url": "https://www.bilibili.com/video/BV1oS411A7gf",
+          "query": "微机原理与接口技术（第3版） 微机原理与接口技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：微机原理与接口技术（第3版） 微机原理与接口技术",
           "query": "微机原理与接口技术（第3版） 微机原理与接口技术"
@@ -14306,8 +17078,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《Python语言程序设计》考试复习速成资源/快速复习 考研框架复习 /习题讲解 期末不挂科资源｜UP：丶世中逢尔｜BV1av1SBrE8r｜播放：17073",
-          "url": "https://www.bilibili.com/video/BV1av1SBrE8r",
+          "search": "视频：【全748集】目前B站最全最细的Python零基础全套教程，2026最新版，包含所有干货！七天就能从小白到大神！少走99%的弯路！存下吧！很难找全的！｜UP：Python官方课程｜BV1rpWjevEip｜播放：16624922｜搜索：Python语言程序设计基础",
+          "url": "https://www.bilibili.com/video/BV1rpWjevEip",
           "query": "Python语言程序设计基础(第3版) Python程序设计"
         },
         {
@@ -14330,6 +17102,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407088｜搜索：应用型本科大学物理 下册",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "《应用型本科大学物理》下册 大学物理（2）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：《应用型本科大学物理》下册 大学物理（2）",
           "query": "《应用型本科大学物理》下册 大学物理（2）"
@@ -14350,8 +17128,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《概率论与数理统计》教学视频 2.0版本【宋浩老师】｜UP：宋浩老师官方｜BV1JXppejE8q｜播放：19768411",
-          "url": "https://www.bilibili.com/video/BV1JXppejE8q",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5490946｜搜索：概率论与数理统计 期末复习",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
           "query": "概率论与数理统计 概率论与数理统计"
         },
         {
@@ -14375,8 +17153,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【期末冲刺上大分】《模电/模拟电子技术基础》8小时系统学习|期末拿高分【蜂考】｜UP：蜂考｜BV1CBfiYfEnN｜播放：3060462",
-          "url": "https://www.bilibili.com/video/BV1CBfiYfEnN",
+          "search": "视频：模拟电子技术基础【4K高清降噪版】 上交大模拟电子 （模拟电路/模电）模拟电子技术基础第六版郑益慧实验期末速成考研专升本简明教程第四版 讲课水平略胜华成英｜UP：模拟电子技术基础-｜BV1qA5DzWEVh｜播放：1468211｜搜索：模拟电子技术",
+          "url": "https://www.bilibili.com/video/BV1qA5DzWEVh",
           "query": "模拟电子技术基础 模拟电子技术"
         },
         {
@@ -14399,6 +17177,12 @@ window.APP_DATA = {
       "note": "作者：阎石；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【电子】数字电子技术基础（数字电路/数电） 清华大学 王红主讲｜UP：谢谢谢同学鸭｜BV18p411Z7ce｜播放：6422697｜搜索：数字电子技术基础（第六版) 数字电路与逻辑设计",
+          "url": "https://www.bilibili.com/video/BV18p411Z7ce",
+          "query": "数字电子技术基础（第六版) 数字电路与逻辑设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版) 数字电路与逻辑设计",
           "query": "数字电子技术基础（第六版) 数字电路与逻辑设计"
@@ -14417,6 +17201,12 @@ window.APP_DATA = {
       ],
       "note": "作者：燕庆明，于凤芹，顾斌杰；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《信号与系统》期末10h速成课||期末不挂科|考点总结|自救指南｜UP：水木观畴电子通信考研｜BV1e6G866Ebk｜播放：79190｜搜索：信号与系统教程 信号与系统",
+          "url": "https://www.bilibili.com/video/BV1e6G866Ebk",
+          "query": "信号与系统教程 信号与系统"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：信号与系统教程 信号与系统",
@@ -14438,7 +17228,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数字图像处理章毓晋版-期末速成｜UP：DR-学习版｜BV1KPmtB3EfT｜播放：3031",
+          "search": "视频：数字图像处理章毓晋版-期末速成｜UP：DR-学习版｜BV1KPmtB3EfT｜播放：3032｜搜索：数字图像处理及应用",
           "url": "https://www.bilibili.com/video/BV1KPmtB3EfT",
           "query": "新编数字图像处理技术及应用 数字图像处理及应用"
         },
@@ -14462,6 +17252,12 @@ window.APP_DATA = {
       "note": "作者：程佩青；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【数字信号处理期末速成课】电子通信期末考试课程｜UP：水木观畴电子通信考研｜BV1DT421X7iu｜播放：504127｜搜索：数字信号处理教程",
+          "url": "https://www.bilibili.com/video/BV1DT421X7iu",
+          "query": "数字信号处理教程 数字信号处理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字信号处理教程 数字信号处理",
           "query": "数字信号处理教程 数字信号处理"
@@ -14482,8 +17278,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【看完挂科算我输】通信电子线路/高频电子线路期末复习，感谢三连～完结撒花！｜UP：跟着浩然玩转高考物理｜BV1K54y1x7Nn｜播放：1145944",
-          "url": "https://www.bilibili.com/video/BV1K54y1x7Nn",
+          "search": "视频：《高频电子线路》期末速成课||期末不挂科|考点总结|自救指南|考前突击｜UP：水木观畴电子通信考研｜BV166Lw6mELa｜播放：28623｜搜索：高频电子线路 高频电子线路",
+          "url": "https://www.bilibili.com/video/BV166Lw6mELa",
           "query": "高频电子线路 高频电子线路"
         },
         {
@@ -14507,8 +17303,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：大学物理实验2-视频合集｜UP：笔盏｜BV1Pk4y1175k｜播放：54666",
-          "url": "https://www.bilibili.com/video/BV1Pk4y1175k",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407189｜搜索：大学物理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
           "query": "大学物理实验2 大学物理实验（2）"
         },
         {
@@ -14531,6 +17327,12 @@ window.APP_DATA = {
       "note": "作者：顾晖 等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：微机原理期末速成课||微机原理期末不挂科||微机原理与接口技术||微机原理||鸿霖学堂｜UP：鸿霖学堂电气考研｜BV1oS411A7gf｜播放：743795｜搜索：微机原理与接口技术 基于8086和Proteus仿真",
+          "url": "https://www.bilibili.com/video/BV1oS411A7gf",
+          "query": "微机原理与接口技术-基于8086和Proteus仿真（第四版） 微机原理与接口技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：微机原理与接口技术-基于8086和Proteus仿真（第四版） 微机原理与接口技术",
           "query": "微机原理与接口技术-基于8086和Proteus仿真（第四版） 微机原理与接口技术"
@@ -14549,6 +17351,12 @@ window.APP_DATA = {
       ],
       "note": "作者：张洪欣等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：电磁场与电磁波 西安交大 马西奎老师主讲【49讲 带目录（缺第41讲）】 电磁场与电磁波 考研 考试 复习 通俗易懂 北航921可用 工程电磁场导论｜UP：小熊打篮球｜BV1d7411b7mw｜播放：533706｜搜索：电磁场与电磁波",
+          "url": "https://www.bilibili.com/video/BV1d7411b7mw",
+          "query": "电磁场与电磁波（第4版） 工程电磁场"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：电磁场与电磁波（第4版） 工程电磁场",
@@ -14569,8 +17377,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数字逻辑电路-与门、或门、非门，理论+实验，学习超简单！｜UP：多多百科｜BV1yT4y1K7Yr｜播放：107425",
-          "url": "https://www.bilibili.com/video/BV1yT4y1K7Yr",
+          "search": "视频：【西安电子科技大学】《 数字电路与逻辑设计》任爱锋（64讲全）HD｜UP：奈奈奈奈奈nice粥｜BV1NE411r7dr｜播放：1898393｜搜索：自编数字电路与逻辑设计实验教材 数字电路与逻辑设计实验",
+          "url": "https://www.bilibili.com/video/BV1NE411r7dr",
           "query": "自编数字电路与逻辑设计实验教材 数字电路与逻辑设计实验"
         },
         {
@@ -14593,6 +17401,12 @@ window.APP_DATA = {
       "note": "作者：顾晖 等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：微机原理期末速成课||微机原理期末不挂科||微机原理与接口技术||微机原理||鸿霖学堂｜UP：鸿霖学堂电气考研｜BV1oS411A7gf｜播放：743768｜搜索：微机原理与接口技术--基于8087和Proteus仿真 微机原理与接口技术",
+          "url": "https://www.bilibili.com/video/BV1oS411A7gf",
+          "query": "微机原理与接口技术--基于8087和Proteus仿真 微机原理与接口技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：微机原理与接口技术--基于8087和Proteus仿真 微机原理与接口技术",
           "query": "微机原理与接口技术--基于8087和Proteus仿真 微机原理与接口技术"
@@ -14611,6 +17425,12 @@ window.APP_DATA = {
       ],
       "note": "作者：赵新胜 陈美娟；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：华为数通路由交换HCNA/HCIA (完)｜UP：黑桃小超人呀｜BV1Dg4y187bZ｜播放：2014942｜搜索：路由与交换技术",
+          "url": "https://www.bilibili.com/video/BV1Dg4y187bZ",
+          "query": "路由与交换技术 现代交换技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：路由与交换技术 现代交换技术",
@@ -14631,6 +17451,12 @@ window.APP_DATA = {
       "note": "作者：皮大能；出版社：北京航空航天大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《单片机原理及应用》6小时期末速成课！期末速成丨考前突击丨期末不挂科丨考点总结｜UP：嵌入式小黑｜BV1pUTLznEYT｜播放：44719｜搜索：单片机原理与应用",
+          "url": "https://www.bilibili.com/video/BV1pUTLznEYT",
+          "query": "单片机原理与应用 单片机原理及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：单片机原理与应用 单片机原理及应用",
           "query": "单片机原理与应用 单片机原理及应用"
@@ -14649,6 +17475,12 @@ window.APP_DATA = {
       ],
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59075｜搜索：OpenCV Python 全套教程",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
+          "query": "OpenCV计算机视觉基础教程（Python版） 计算机视觉及应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程（Python版） 计算机视觉及应用",
@@ -14669,6 +17501,12 @@ window.APP_DATA = {
       "note": "作者：李建东 盛敏 李红艳；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：2026年初级通信工程师（综合能力+专业实务）精讲视频-零基础系统教程，备考必看～希赛网｜UP：希赛通信工程师｜BV1xZ4y1w73z｜播放：105101｜搜索：通信网络基础",
+          "url": "https://www.bilibili.com/video/BV1xZ4y1w73z",
+          "query": "通信网络基础 通信网基础"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：通信网络基础 通信网基础",
           "query": "通信网络基础 通信网基础"
@@ -14687,6 +17525,12 @@ window.APP_DATA = {
       ],
       "note": "作者：樊昌信 任光亮；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：北邮 通信原理公开课 杨鸿文｜UP：sherlockucb｜BV11x411G79C｜播放：633426｜搜索：现代通信原理 通信原理",
+          "url": "https://www.bilibili.com/video/BV11x411G79C",
+          "query": "现代通信原理 通信原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：现代通信原理 通信原理",
@@ -14708,8 +17552,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：大学生就业指导期末答案110%｜UP：尘huan｜BV1fe4y1M7kY｜播放：12795",
-          "url": "https://www.bilibili.com/video/BV1fe4y1M7kY",
+          "search": "视频：【北京大学】大学生职业发展与就业指导（全108讲）谢伟｜UP：iMuseums｜BV1LW4y1R7EH｜播放：127241｜搜索：《美好前程——大学生就业指导教程》 就业指导（理论）",
+          "url": "https://www.bilibili.com/video/BV1LW4y1R7EH",
           "query": "《美好前程——大学生就业指导教程》 就业指导（理论）"
         },
         {
@@ -14732,6 +17576,12 @@ window.APP_DATA = {
       "note": "作者：阎石；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【电子】数字电子技术基础（数字电路/数电） 清华大学 王红主讲｜UP：谢谢谢同学鸭｜BV18p411Z7ce｜播放：6422700｜搜索：数字电子技术基础（第六版） 数字电路与逻辑设计",
+          "url": "https://www.bilibili.com/video/BV18p411Z7ce",
+          "query": "数字电子技术基础（第六版） 数字电路与逻辑设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版） 数字电路与逻辑设计",
           "query": "数字电子技术基础（第六版） 数字电路与逻辑设计"
@@ -14751,6 +17601,12 @@ window.APP_DATA = {
       "note": "作者：阎石 王红；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【数电】数字电子技术高分课期末速成|数字电路期末复习|复试|调剂|专升本可用|绩满满｜UP：橙子期末包过｜BV1Qj9VB4E6k｜播放：29499｜搜索：数字电子技术 期末复习",
+          "url": "https://www.bilibili.com/video/BV1Qj9VB4E6k",
+          "query": "数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计",
           "query": "数字电子技术基础（第六版）学习辅导与习题解答 数字电路与逻辑设计"
@@ -14769,6 +17625,12 @@ window.APP_DATA = {
       ],
       "note": "作者：嵩天；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员python零基础全套教程，8天python从入门到精通，学python看这套就够了｜UP：黑马程序员｜BV1qW4y1a7fU｜播放：24410268｜搜索：Python 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1qW4y1a7fU",
+          "query": "python语言程序设计基础（第2版） Python程序设计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：python语言程序设计基础（第2版） Python程序设计",
@@ -14790,8 +17652,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【Python+AI大数据毕设】基于python的空气质量数据分析与预测系统、AI预测、计算机毕业设计、大数据毕设数据 数据分析、数据可视化、机器学习、实战教学｜UP：程序定制｜BV1mHkDBbETo｜播放：14962",
-          "url": "https://www.bilibili.com/video/BV1mHkDBbETo",
+          "search": "视频：黑马程序员大数据Hadoop入门视频教程，适合零基础自学的大数据Hadoop教程｜UP：黑马程序员｜BV1CU4y1N7Sh｜播放：1051072｜搜索：大数据技术原理与应用",
+          "url": "https://www.bilibili.com/video/BV1CU4y1N7Sh",
           "query": "大数据技术原理与应用（第3版） 大数据与云计算"
         },
         {
@@ -14814,6 +17676,12 @@ window.APP_DATA = {
       "note": "作者：Charles Hawkins；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】数字集成电路设计（数字CMOS集成电路设计基础）- 华东师范大学｜UP：微电子与纳电子学｜BV1XE411g77j｜播放：189911｜搜索：CMOS集成电路设计",
+          "url": "https://www.bilibili.com/video/BV1XE411g77j",
+          "query": "CMOS 数字集成电路设计 CMOS集成电路设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：CMOS 数字集成电路设计 CMOS集成电路设计",
           "query": "CMOS 数字集成电路设计 CMOS集成电路设计"
@@ -14834,8 +17702,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【移动通信期末复习】深入浅出讲解，保证覆盖考点！求三连支持～｜UP：跟着浩然玩转高考物理｜BV1xw411o7LM｜播放：112299",
-          "url": "https://www.bilibili.com/video/BV1xw411o7LM",
+          "search": "视频：【全99集】5G移动通信技术国家级精品课｜从入门到精通，理论+实操，零基础也能学的 5G 核心技术课｜UP：智汇云校网络课堂｜BV1gRcuzhESP｜播放：8885｜搜索：移动通信",
+          "url": "https://www.bilibili.com/video/BV1gRcuzhESP",
           "query": "移动通信 移动通信技术"
         },
         {
@@ -14858,6 +17726,12 @@ window.APP_DATA = {
       "note": "作者：赖申江、马西秦；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：传感器原理及应用-同济大学｜UP：机械电子技术控｜BV1vE411b7fK｜播放：135399｜搜索：传感器原理及应用",
+          "url": "https://www.bilibili.com/video/BV1vE411b7fK",
+          "query": "《自动检测技术》第4版 传感器原理及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：《自动检测技术》第4版 传感器原理及应用",
           "query": "《自动检测技术》第4版 传感器原理及应用"
@@ -14878,8 +17752,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：UG工程制图，出图与导出CAD｜UP：三玖教育-木子｜BV1iHz8YmE4r｜播放：108972",
-          "url": "https://www.bilibili.com/video/BV1iHz8YmE4r",
+          "search": "视频：【工程制图 | 期末急救】零基础速成不挂科⚡已完结全免费⚡（工程图学/现代工程图/机械制图）｜UP：凌云师兄-期末加油站｜BV1FN5VztEZZ｜播放：863378｜搜索：工程制图与CAD",
+          "url": "https://www.bilibili.com/video/BV1FN5VztEZZ",
           "query": "工程制图与AutoCAD 第2版 工程制图与CAD"
         },
         {
@@ -14902,6 +17776,12 @@ window.APP_DATA = {
       "note": "作者：沈建华，陈健；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：华中科技大学 光纤通信技术 全85讲 主讲-张新亮 视频教程｜UP：choitsjilp｜BV1Sx411i7zC｜播放：144216｜搜索：光纤通信",
+          "url": "https://www.bilibili.com/video/BV1Sx411i7zC",
+          "query": "光纤通信系统第4版 光纤通信"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：光纤通信系统第4版 光纤通信",
           "query": "光纤通信系统第4版 光纤通信"
@@ -14920,6 +17800,12 @@ window.APP_DATA = {
       ],
       "note": "作者：严蔚敏等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：数据结构与算法基础（青岛大学-王卓）｜UP：87师兄｜BV1nJ411V7bd｜播放：16201024｜搜索：数据结构",
+          "url": "https://www.bilibili.com/video/BV1nJ411V7bd",
+          "query": "数据结构（C语言版）（第2版） 数据结构与算法"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据结构（C语言版）（第2版） 数据结构与算法",
@@ -14940,6 +17826,12 @@ window.APP_DATA = {
       "note": "作者：黄宝贵等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：MySQL知识精讲+mysql实战案例_零基础mysql数据库入门到高级全套教程｜UP：lad920｜BV1yM411v7pc｜播放：14769｜搜索：MySQL 全套教程",
+          "url": "https://www.bilibili.com/video/BV1yM411v7pc",
+          "query": "数据库系统原理与应用(MySQL版) 数据库系统与应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库系统原理与应用(MySQL版) 数据库系统与应用",
           "query": "数据库系统原理与应用(MySQL版) 数据库系统与应用"
@@ -14959,6 +17851,12 @@ window.APP_DATA = {
       "note": "作者：李延平 等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【西安电子科技大学】《微波技术与天线》（国家级精品公开课）|微波技术与天线速成微波技术与天线习题微波技术与天线刘学观微波技术与天线期末速成微波技术与天线第四版微｜UP：哔哩大学-学习中心｜BV1WSyrBKEsU｜播放：17339｜搜索：微波技术与天线（第4版）（修订版） 微波与天线技术",
+          "url": "https://www.bilibili.com/video/BV1WSyrBKEsU",
+          "query": "微波技术与天线（第4版）（修订版） 微波与天线技术"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：微波技术与天线（第4版）（修订版） 微波与天线技术",
           "query": "微波技术与天线（第4版）（修订版） 微波与天线技术"
@@ -14977,6 +17875,12 @@ window.APP_DATA = {
       ],
       "note": "作者：王霄峻，曾嵘；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：无线网络规划与优化【全87讲】【含资料】【国家级精品课】｜UP：爱学习的小刚子｜BV1U5YXzbEyS｜播放：6474｜搜索：《5G无线网络规划与优化》微课版 移动通信网络规划与优化",
+          "url": "https://www.bilibili.com/video/BV1U5YXzbEyS",
+          "query": "《5G无线网络规划与优化》微课版 移动通信网络规划与优化"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：《5G无线网络规划与优化》微课版 移动通信网络规划与优化",
@@ -14998,7 +17902,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【公开课】数字集成电路设计（数字CMOS集成电路设计基础）- 华东师范大学｜UP：微电子与纳电子学｜BV1XE411g77j｜播放：189902",
+          "search": "视频：【公开课】数字集成电路设计（数字CMOS集成电路设计基础）- 华东师范大学｜UP：微电子与纳电子学｜BV1XE411g77j｜播放：189911｜搜索：CMOS数字集成电路设计 CMOS集成电路设计",
           "url": "https://www.bilibili.com/video/BV1XE411g77j",
           "query": "CMOS数字集成电路设计 CMOS集成电路设计"
         },
@@ -15022,6 +17926,12 @@ window.APP_DATA = {
       "note": "作者：于长青；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员大数据入门到实战教程，大数据开发必会的Hadoop、Hive，云平台实战项目全套一网打尽｜UP：黑马程序员｜BV1WY4y197g7｜播放：1104738｜搜索：大数据 全套教程",
+          "url": "https://www.bilibili.com/video/BV1WY4y197g7",
+          "query": "云计算与大数据技术（微课版） 大数据与云计算"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：云计算与大数据技术（微课版） 大数据与云计算",
           "query": "云计算与大数据技术（微课版） 大数据与云计算"
@@ -15040,6 +17950,12 @@ window.APP_DATA = {
       ],
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59075｜搜索：OpenCV计算机视觉基础教程Python版 慕课版",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
+          "query": "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用",
@@ -15060,6 +17976,12 @@ window.APP_DATA = {
       "note": "作者：谢希仁、谢钧；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【期末复习】7天快速通过计算机网络期末考试｜谢希仁版｜考前急救｜高效通过｜粉丝投稿｜UP：网络工程师学长｜BV1PK4y1X7ze｜播放：2532018｜搜索：计算机网络",
+          "url": "https://www.bilibili.com/video/BV1PK4y1X7ze",
+          "query": "计算机网络教程（第7版 微课版） 计算机网络"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机网络教程（第7版 微课版） 计算机网络",
           "query": "计算机网络教程（第7版 微课版） 计算机网络"
@@ -15079,6 +18001,12 @@ window.APP_DATA = {
       "note": "作者：肖四喜 申书飞；出版社：上海交通大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【北京大学】大学生职业发展与就业指导（全108讲）谢伟｜UP：iMuseums｜BV1LW4y1R7EH｜播放：127241｜搜索：美好前程——大学生就业指导教程 就业指导（理论）",
+          "url": "https://www.bilibili.com/video/BV1LW4y1R7EH",
+          "query": "美好前程——大学生就业指导教程 就业指导（理论）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：美好前程——大学生就业指导教程 就业指导（理论）",
           "query": "美好前程——大学生就业指导教程 就业指导（理论）"
@@ -15097,6 +18025,12 @@ window.APP_DATA = {
       ],
       "note": "作者：王映民；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：2026年【全121集】强推！通信工程师从零基础入门到进阶必学教程，通俗易懂！通信工程师手把手教学（综合能力/专业实务/传输与接入(有线)等）｜UP：希赛网通信工程老师｜BV199w3epEf5｜播放：37677｜搜索：通信工程技术与项目管理",
+          "url": "https://www.bilibili.com/video/BV199w3epEf5",
+          "query": "《5G移动通信系统设计与标准实现：从技术到项目管理》 通信工程技术与项目管理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：《5G移动通信系统设计与标准实现：从技术到项目管理》 通信工程技术与项目管理",
@@ -15118,8 +18052,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【网课转载】物联网技术概论——西安交通大学（已完结）｜UP：对阿秋一生推｜BV15E411j769｜播放：126571",
-          "url": "https://www.bilibili.com/video/BV15E411j769",
+          "search": "视频：2026年初级通信工程师（综合能力+专业实务）精讲视频-零基础系统教程，备考必看～希赛网｜UP：希赛通信工程师｜BV1xZ4y1w73z｜播放：105101｜搜索：通信网基础",
+          "url": "https://www.bilibili.com/video/BV1xZ4y1w73z",
           "query": "通信网技术基础 通信网基础"
         },
         {
@@ -15142,6 +18076,12 @@ window.APP_DATA = {
       "note": "作者：宋铁成 刘郁蓉；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：通信原理期末|通原12h速成课｜UP：刺猬哥通信电子考研｜BV18pTrzPEDe｜播放：164058｜搜索：通信原理",
+          "url": "https://www.bilibili.com/video/BV18pTrzPEDe",
+          "query": "通信原理 通信原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：通信原理 通信原理",
           "query": "通信原理 通信原理"
@@ -15160,6 +18100,12 @@ window.APP_DATA = {
       ],
       "note": "作者：胡建生；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【工程制图 | 期末急救】零基础速成不挂科⚡已完结全免费⚡（工程图学/现代工程图/机械制图）｜UP：凌云师兄-期末加油站｜BV1FN5VztEZZ｜播放：863363｜搜索：工程制图与CAD",
+          "url": "https://www.bilibili.com/video/BV1FN5VztEZZ",
+          "query": "工程制图与AutoCAD 第3版 工程制图与CAD"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：工程制图与AutoCAD 第3版 工程制图与CAD",
@@ -15181,8 +18127,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：考研数据结构需要的C语言基础｜C语言速成｜数据结构基础｜408数据结构｜0基础跨考｜C语言期末｜UP：阿辉不会敲代码｜BV1uC411n7J7｜播放：375476",
-          "url": "https://www.bilibili.com/video/BV1uC411n7J7",
+          "search": "视频：数据结构与算法基础（青岛大学-王卓）｜UP：87师兄｜BV1nJ411V7bd｜播放：16201014｜搜索：数据结构",
+          "url": "https://www.bilibili.com/video/BV1nJ411V7bd",
           "query": "数据结构(C语言版)(第3版) 数据结构与算法"
         },
         {
@@ -15205,6 +18151,12 @@ window.APP_DATA = {
       "note": "作者：徐颖秦，熊伟丽；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【ESP8266教程】零基础入门学用物联网-基础知识篇（太极创客团队）｜UP：太极创客｜BV1L7411c7jw｜播放：1308055｜搜索：物联网技术及应用 物联网技术及应用实践",
+          "url": "https://www.bilibili.com/video/BV1L7411c7jw",
+          "query": "物联网技术及应用 物联网技术及应用实践"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：物联网技术及应用 物联网技术及应用实践",
           "query": "物联网技术及应用 物联网技术及应用实践"
@@ -15223,6 +18175,12 @@ window.APP_DATA = {
       ],
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员前端微信小程序开发教程，微信小程序从基础到发布全流程_企业级商城实战(含uni-app项目多端部署)｜UP：黑马程序员｜BV1834y1676P｜播放：6399323｜搜索：微信小程序开发实战第2版 移动互联网技术",
+          "url": "https://www.bilibili.com/video/BV1834y1676P",
+          "query": "微信小程序开发实战第2版 移动互联网技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：微信小程序开发实战第2版 移动互联网技术",
@@ -15243,6 +18201,12 @@ window.APP_DATA = {
       "note": "作者：王霄峻、曾嵘；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：无线网络规划与优化【全87讲】【含资料】【国家级精品课】｜UP：爱学习的小刚子｜BV1U5YXzbEyS｜播放：6474｜搜索：移动通信网络规划与优化",
+          "url": "https://www.bilibili.com/video/BV1U5YXzbEyS",
+          "query": "5G无线网络规划与优化（微课版） 移动通信网络规划与优化"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：5G无线网络规划与优化（微课版） 移动通信网络规划与优化",
           "query": "5G无线网络规划与优化（微课版） 移动通信网络规划与优化"
@@ -15261,6 +18225,12 @@ window.APP_DATA = {
       ],
       "note": "作者：沈建华，陈健，李履信；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：华中科技大学 光纤通信技术 全85讲 主讲-张新亮 视频教程｜UP：choitsjilp｜BV1Sx411i7zC｜播放：144216｜搜索：光纤通信",
+          "url": "https://www.bilibili.com/video/BV1Sx411i7zC",
+          "query": "光纤通信系统(第3版) 光纤通信"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：光纤通信系统(第3版) 光纤通信",
@@ -15281,6 +18251,12 @@ window.APP_DATA = {
       "note": "作者：严蔚敏等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【数据结构c语言版】期末速成|8小时数据结构C语言高分课期末复习|复试|调剂|专升本可用|绩满满｜UP：哔哩大学计算机院｜BV1kVAwzAExR｜播放：178865｜搜索：数据结构（C语言版） 数据结构与算法",
+          "url": "https://www.bilibili.com/video/BV1kVAwzAExR",
+          "query": "数据结构（C语言版） 数据结构与算法"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据结构（C语言版） 数据结构与算法",
           "query": "数据结构（C语言版） 数据结构与算法"
@@ -15300,6 +18276,12 @@ window.APP_DATA = {
       "note": "作者：王霄峻 曾嵘；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：无线网络规划与优化【全87讲】【含资料】【国家级精品课】｜UP：爱学习的小刚子｜BV1U5YXzbEyS｜播放：6474｜搜索：5G无线网络规划与优化 移动通信网络规划与优化",
+          "url": "https://www.bilibili.com/video/BV1U5YXzbEyS",
+          "query": "5G无线网络规划与优化 移动通信网络规划与优化"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：5G无线网络规划与优化 移动通信网络规划与优化",
           "query": "5G无线网络规划与优化 移动通信网络规划与优化"
@@ -15315,6 +18297,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：哈工大21秋移动互联网技术复习｜UP：小童同学_｜BV1xP4y1P7uG｜播放：4746｜搜索：官网开发文档 无需打印 移动互联网技术",
+          "url": "https://www.bilibili.com/video/BV1xP4y1P7uG",
+          "query": "官网开发文档，无需打印 移动互联网技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：官网开发文档，无需打印 移动互联网技术",
@@ -15334,6 +18322,12 @@ window.APP_DATA = {
       ],
       "note": "作者：盛骤、谢式千、潘承毅；出版社：高等教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5491220｜搜索：概率论与数理统计",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
+          "query": "概率论与数理统计（第五版） 概率论与数理统计"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：概率论与数理统计（第五版） 概率论与数理统计",
@@ -15355,8 +18349,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《计算机网络教程 第6版，谢钧》课程｜UP：Nidhogg14｜BV161ttzYEbz｜播放：19668",
-          "url": "https://www.bilibili.com/video/BV161ttzYEbz",
+          "search": "视频：【期末复习】7天快速通过计算机网络期末考试｜谢希仁版｜考前急救｜高效通过｜粉丝投稿｜UP：网络工程师学长｜BV1PK4y1X7ze｜播放：2532016｜搜索：计算机网络",
+          "url": "https://www.bilibili.com/video/BV1PK4y1X7ze",
           "query": "《计算机网络教程》(第6版) 计算机网络"
         },
         {
@@ -15380,8 +18374,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：13.建筑施工安全生产标准化系列视频--塔式起重机｜UP：建筑工程施工作业培训｜BV1Jq4y1J7WE｜播放：2522",
-          "url": "https://www.bilibili.com/video/BV1Jq4y1J7WE",
+          "search": "视频：湖南省建筑施工安全生产标准化系列视频｜UP：琅琊王氏-BIM王｜BV1RQ4y1Y7rH｜播放：13430｜搜索：标准化工程 教程",
+          "url": "https://www.bilibili.com/video/BV1RQ4y1Y7rH",
           "query": "标准化技术与方法(全国高校标准化工程系列教材) 技术标准与设计案例"
         },
         {
@@ -15404,6 +18398,12 @@ window.APP_DATA = {
       "note": "作者：胡玉华；出版社：中国标准出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【剑桥课堂】《剑桥标准英语教程 》（1A+1B+2A+2B+3A+3B共122课）专为英语零基础或基础薄弱的同学设计的系统化英语教程。｜UP：苗苗知识宝藏｜BV1veNEz6ESa｜播放：5479｜搜索：标准化技术与方法 技术标准与设计案例",
+          "url": "https://www.bilibili.com/video/BV1veNEz6ESa",
+          "query": "标准化技术与方法（全国高校标准化工程系列教材） 技术标准与设计案例"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：标准化技术与方法（全国高校标准化工程系列教材） 技术标准与设计案例",
           "query": "标准化技术与方法（全国高校标准化工程系列教材） 技术标准与设计案例"
@@ -15422,6 +18422,12 @@ window.APP_DATA = {
       ],
       "note": "作者：（美）埃里克·马瑟斯（Eric Matthes）著；袁国忠译；陶俊杰审；出版社：北京：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【全748集】目前B站最全最细的Python零基础全套教程，2026最新版，包含所有干货！七天就能从小白到大神！少走99%的弯路！存下吧！很难找全的！｜UP：Python官方课程｜BV1rpWjevEip｜播放：16624751｜搜索：Python编程 从入门到实践",
+          "url": "https://www.bilibili.com/video/BV1rpWjevEip",
+          "query": "Python编程 从入门到实践 第3版 Python程序设计▲"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Python编程 从入门到实践 第3版 Python程序设计▲",
@@ -15442,6 +18448,12 @@ window.APP_DATA = {
       "note": "作者：[美]肯尼思 H. 罗森（Kenneth H. Rosen）；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【离散数学】8小时高分课|离散数学期末速成|高分课期末复习|复试|调剂|专升本可用|绩满满｜UP：哔哩大学计算机院｜BV1TmcZz8E7u｜播放：74112｜搜索：离散数学 期末复习",
+          "url": "https://www.bilibili.com/video/BV1TmcZz8E7u",
+          "query": "离散数学及其应用（英文精编版·原书第8版） 离散数学▲"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：离散数学及其应用（英文精编版·原书第8版） 离散数学▲",
           "query": "离散数学及其应用（英文精编版·原书第8版） 离散数学▲"
@@ -15460,6 +18472,12 @@ window.APP_DATA = {
       ],
       "note": "作者：维克多 ·P.纳尔逊等；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：数字电路教程，数字电路入门，从零搭建计算机！｜UP：尚硅谷｜BV1tF4m1A7xH｜播放：221309｜搜索：数字电路 教程",
+          "url": "https://www.bilibili.com/video/BV1tF4m1A7xH",
+          "query": "数字逻辑电路分析与设计 第二版 数字电路与逻辑设计▲"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字逻辑电路分析与设计 第二版 数字电路与逻辑设计▲",
@@ -15481,8 +18499,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：柯林斯原版口语书|《Collins Speaking for IELTS》电子版+配套音频｜UP：zeroyeahho｜BV1DL4y1w7NH｜播放：6021",
-          "url": "https://www.bilibili.com/video/BV1DL4y1w7NH",
+          "search": "视频：【68集 英语口语 2000个场景 实景教学】场景话题 Ariannita 日常交流 生活口语 地道英文听力材料 素材干货学习 外教老师讲解技巧 雅思合集 字幕｜UP：大海英语看世界｜BV1emBiYcEAV｜播放：2431833｜搜索：英语口语沟通",
+          "url": "https://www.bilibili.com/video/BV1emBiYcEAV",
           "query": "柯林斯商务英语：口语（中文注释版） 英语口语沟通（1）"
         },
         {
@@ -15505,6 +18523,12 @@ window.APP_DATA = {
       "note": "作者：祁恩云；出版社：浙江教育出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11406942｜搜索：AP物理C力学和电磁学 大学物理（1）▲",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "AP物理C力学和电磁学 大学物理（1）▲"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：AP物理C力学和电磁学 大学物理（1）▲",
           "query": "AP物理C力学和电磁学 大学物理（1）▲"
@@ -15524,6 +18548,12 @@ window.APP_DATA = {
       "note": "作者：维克多·P·纳尔逊；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：数字电路与逻辑设计(数电) 邹虹｜UP：逛B不如学C｜BV1aX4y1T716｜播放：218842｜搜索：数字逻辑电路分析与设计 数字电路逻辑设计▲",
+          "url": "https://www.bilibili.com/video/BV1aX4y1T716",
+          "query": "数字逻辑电路分析与设计 数字电路逻辑设计▲"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数字逻辑电路分析与设计 数字电路逻辑设计▲",
           "query": "数字逻辑电路分析与设计 数字电路逻辑设计▲"
@@ -15542,6 +18572,12 @@ window.APP_DATA = {
       ],
       "note": "作者：Brase, C. H. and Brase, C. P.；出版社：Boston: Brooks Cole.；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5490662｜搜索：概率论与数理统计 期末复习",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
+          "query": "Understanding basic statistics 概率论与数理统计✬▲"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Understanding basic statistics 概率论与数理统计✬▲",
@@ -15563,8 +18599,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：(全国通用)自考00019计算机应用基础(实践)视频课程｜UP：计算机二级阿福课堂｜BV1AWKTeAEg2｜播放：27652",
-          "url": "https://www.bilibili.com/video/BV1AWKTeAEg2",
+          "search": "视频：【免费讲义】2027适用山东省-计算机全套网课-统招专升本-零基础-基础精讲考试大纲历年真题押题卷试卷习题册题库备考库课好老师库克知了哎上课可参考｜UP：升哥计算机专升本｜BV19D8fz7EDP｜播放：576516｜搜索：计算机应用基础",
+          "url": "https://www.bilibili.com/video/BV19D8fz7EDP",
           "query": "计算机应用基础（第6版） 计算机实践基础"
         },
         {
@@ -15587,6 +18623,12 @@ window.APP_DATA = {
       "note": "作者：AndrewS.Tanenbaum,David.Wetherall著；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：计算机网络微课堂（有字幕无背景音乐版）｜UP：湖科大教书匠｜BV1c4411d7jb｜播放：8342554｜搜索：计算机网络技术✬▲",
+          "url": "https://www.bilibili.com/video/BV1c4411d7jb",
+          "query": "计算机网络（第五版） 计算机网络技术✬▲"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：计算机网络（第五版） 计算机网络技术✬▲",
           "query": "计算机网络（第五版） 计算机网络技术✬▲"
@@ -15605,6 +18647,12 @@ window.APP_DATA = {
       ],
       "note": "作者：Ramez Elmasri，Shamkant Navathe；出版社：Pearson；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【宾夕法尼亚州立大学】Database Management Systems || 数据库管理系统 （机翻~中文）｜UP：逆风微笑的代码狗｜BV1Ba4y157sH｜播放：262146｜搜索：Fundamentals of Database Systems Global Edition 7th ed. Edition",
+          "url": "https://www.bilibili.com/video/BV1Ba4y157sH",
+          "query": "Fundamentals of Database Systems, Global Edition 7th ed. Edition 数据库原理✬▲"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：Fundamentals of Database Systems, Global Edition 7th ed. Edition 数据库原理✬▲",
@@ -15625,6 +18673,12 @@ window.APP_DATA = {
       "note": "作者：Larry Ullman；出版社：Peachpit Press；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：MySQL知识精讲+mysql实战案例_零基础mysql数据库入门到高级全套教程｜UP：lad920｜BV1yM411v7pc｜播放：14769｜搜索：MySQL 全套教程",
+          "url": "https://www.bilibili.com/video/BV1yM411v7pc",
+          "query": "PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide 5th Edition 网络开发技术✬▲"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide 5th Edition 网络开发技术✬▲",
           "query": "PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide 5th Edition 网络开发技术✬▲"
@@ -15644,6 +18698,12 @@ window.APP_DATA = {
       "note": "作者：Unhelkar, B.；出版社：CRC Press, Boca Raton, FL, 2018；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：?Udemy ???? ?????Software Engineering 101: Plan and Execute Better Software｜UP：Theitzy???｜BV1F34y1j7Sn｜播放：19324｜搜索：Software Engineering UML",
+          "url": "https://www.bilibili.com/video/BV1F34y1j7Sn",
+          "query": "Software Engineering with UML 系统分析与设计✬▲"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Software Engineering with UML 系统分析与设计✬▲",
           "query": "Software Engineering with UML 系统分析与设计✬▲"
@@ -15659,6 +18719,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《标题待定》高清无删减｜UP：博赛4K资源｜BV17M3ozeEfB｜播放：12015｜搜索：待定",
+          "url": "https://www.bilibili.com/video/BV17M3ozeEfB",
+          "query": "待定 英语实用写作"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：待定 英语实用写作",
@@ -15679,6 +18745,12 @@ window.APP_DATA = {
       "note": "作者：John Cutnell and Kenneth Johnson；出版社：WILEY；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407415｜搜索：大学物理 ▲",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "Physics,10th Edition 大学物理（1）▲"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Physics,10th Edition 大学物理（1）▲",
           "query": "Physics,10th Edition 大学物理（1）▲"
@@ -15698,6 +18770,12 @@ window.APP_DATA = {
       "note": "作者：贾铁军等；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【合集】数据库原理及应用 东南大学 徐立臻 共72讲｜UP：123小棕熊｜BV1ux411G7Bs｜播放：929913｜搜索：数据库原理及应用与实践",
+          "url": "https://www.bilibili.com/video/BV1ux411G7Bs",
+          "query": "数据库原理及应用与实践 数据库原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据库原理及应用与实践 数据库原理",
           "query": "数据库原理及应用与实践 数据库原理"
@@ -15713,6 +18791,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：计算机网络微课堂（有字幕无背景音乐版）｜UP：湖科大教书匠｜BV1c4411d7jb｜播放：8342554｜搜索：无教材 计算机网络技术✬▲",
+          "url": "https://www.bilibili.com/video/BV1c4411d7jb",
+          "query": "无教材 计算机网络技术✬▲"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：无教材 计算机网络技术✬▲",
@@ -15734,8 +18818,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：B站首发！手把手教你用Docker部署PyTorch深度学习模型！全程干货讲解，零基础小白可学！（人工智能/机器学习/云原生/容器/研究生）｜UP：AI讲师-唐宇迪｜BV1AAoqYdETG｜播放：8732",
-          "url": "https://www.bilibili.com/video/BV1AAoqYdETG",
+          "search": "视频：【整整600集】清华大学196小时讲完的AI人工智能从入门到精通全套教程，全程干货无废话！学完变大佬！这还学不会，我退出IT圈！机器学习-深度学习-opencv｜UP：IT界扛霸子｜BV1qZSLBYEpa｜播放：749109｜搜索：人工智能原理",
+          "url": "https://www.bilibili.com/video/BV1qZSLBYEpa",
           "query": "动手学深度学习pytorch版 人工智能原理"
         },
         {
@@ -15758,6 +18842,12 @@ window.APP_DATA = {
       "note": "作者：汪建；出版社：人民邮件出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763685｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
+          "query": "图解Java并发编程 并行开发编程"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：图解Java并发编程 并行开发编程",
           "query": "图解Java并发编程 并行开发编程"
@@ -15777,6 +18867,12 @@ window.APP_DATA = {
       "note": "作者：阿斯顿·张（Aston Zhang），李沐（Mu Li） 等 著，何孝霆（Xiaoting He），瑞潮儿·胡（Rachel Hu） 译；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【2025版】李沐动手学深度学习系列课程！包含深度学习、机器学习算法、神经网络、计算机视觉物体检测、迁移学习、大模型微调等人工智能核心知识点！就怕你学不会！｜UP：深度学习项目实战｜BV15UREYsEN8｜播放：656543｜搜索：动手学深度学习 PyTorch版",
+          "url": "https://www.bilibili.com/video/BV15UREYsEN8",
+          "query": "动手学深度学习 PyTorch版 人工智能原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：动手学深度学习 PyTorch版 人工智能原理",
           "query": "动手学深度学习 PyTorch版 人工智能原理"
@@ -15795,6 +18891,12 @@ window.APP_DATA = {
       ],
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员软件测试视频教程，软件测试基础入门到项目实战（涵盖软件测试基础+黑马头条项目实战）｜UP：黑马程序员｜BV1TP4y1J7BD｜播放：2351512｜搜索：软件测试",
+          "url": "https://www.bilibili.com/video/BV1TP4y1J7BD",
+          "query": "软件测试（第2版） 软件测试与质量保证"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：软件测试（第2版） 软件测试与质量保证",
@@ -15816,8 +18918,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：（斯坦福随机算法课程）CS265/CME309: Randomized Algorithms and Probabilistic Analysis｜UP：蓝色的狸猫zzz｜BV14V411n7fX｜播放：3009",
-          "url": "https://www.bilibili.com/video/BV14V411n7fX",
+          "search": "视频：黑马程序员python零基础全套教程，8天python从入门到精通，学python看这套就够了｜UP：黑马程序员｜BV1qW4y1a7fU｜播放：24410239｜搜索：Python 零基础 教程",
+          "url": "https://www.bilibili.com/video/BV1qW4y1a7fU",
           "query": "Genetic Algorithms with Python 数值优化✬▲"
         },
         {
@@ -15840,6 +18942,12 @@ window.APP_DATA = {
       "note": "作者：Jared Lander；出版社：Addison-Wesley；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：全1150节【零基础外教精讲】English For Everyone 每个人的英语课 图文结合 加深记忆｜UP：清北学习社区｜BV1hKdaYsEjS｜播放：6484｜搜索：R for Everyone: Advanced Analytics and Graphics (Addison-Wesley Data & Analytics Series) 2nd Edition 应用数据科学✬▲",
+          "url": "https://www.bilibili.com/video/BV1hKdaYsEjS",
+          "query": "R for Everyone: Advanced Analytics and Graphics (Addison-Wesley Data & Analytics Series) 2nd Edition 应用数据科学✬▲"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：R for Everyone: Advanced Analytics and Graphics (Addison-Wesley Data & Analytics Series) 2nd Edition 应用数据科学✬▲",
           "query": "R for Everyone: Advanced Analytics and Graphics (Addison-Wesley Data & Analytics Series) 2nd Edition 应用数据科学✬▲"
@@ -15858,6 +18966,12 @@ window.APP_DATA = {
       ],
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59075｜搜索：OpenCV计算机视觉基础教程Python版 慕课版",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
+          "query": "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用",
@@ -15878,6 +18992,12 @@ window.APP_DATA = {
       "note": "作者：肖四喜 申书飞；出版社：上海交通大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【北京大学】大学生职业发展与就业指导（全108讲）谢伟｜UP：iMuseums｜BV1LW4y1R7EH｜播放：127241｜搜索：美好前程——大学生就业指导教程 就业指导（理论）",
+          "url": "https://www.bilibili.com/video/BV1LW4y1R7EH",
+          "query": "美好前程——大学生就业指导教程 就业指导（理论）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：美好前程——大学生就业指导教程 就业指导（理论）",
           "query": "美好前程——大学生就业指导教程 就业指导（理论）"
@@ -15896,6 +19016,12 @@ window.APP_DATA = {
       ],
       "note": "作者：蔺素珍；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：数字图像处理章毓晋版-期末速成｜UP：DR-学习版｜BV1KPmtB3EfT｜播放：3032｜搜索：新编数字图像处理技术及应用（修订版） 数字图像处理及应用▲",
+          "url": "https://www.bilibili.com/video/BV1KPmtB3EfT",
+          "query": "新编数字图像处理技术及应用（修订版） 数字图像处理及应用▲"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：新编数字图像处理技术及应用（修订版） 数字图像处理及应用▲",
@@ -15916,6 +19042,12 @@ window.APP_DATA = {
       "note": "作者：朱节中 姚永雷；出版社：科学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【全648集】2026最新版，目前B站最全最细的网络安全零基础全套教程，包含从零到进阶的学习路线！七天就能从小白到大神！少走99%的弯路！存下吧！很难找全的！｜UP：黑客基础入门课程｜BV1vz61BRED2｜播放：17991｜搜索：信息安全技术▲",
+          "url": "https://www.bilibili.com/video/BV1vz61BRED2",
+          "query": "信息安全概论 信息安全技术▲"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：信息安全概论 信息安全技术▲",
           "query": "信息安全概论 信息安全技术▲"
@@ -15931,6 +19063,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【全一季】择木而栖/高清原版/弹幕/白手起家企业家攻 × 单纯白富美天真受/八年后秦衡回乡捐建图书馆，大雪天偶遇江与绵，一眼沦陷，旧情复燃~成年人的拉扯感｜UP：风不是风花不是花｜BV1thG76FELQ｜播放：13195｜搜索：无 企业家论坛",
+          "url": "https://www.bilibili.com/video/BV1thG76FELQ",
+          "query": "无 企业家论坛"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：无 企业家论坛",
@@ -15952,8 +19090,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：Udemy - CompTIA A+ Core 1 (220-1201) Full Course & Practice Exam part1｜UP：lmt831｜BV1p7dEYzE6e｜播放：4306",
-          "url": "https://www.bilibili.com/video/BV1p7dEYzE6e",
+          "search": "视频：新版Java面试专题视频教程，java八股文面试全套真题+深度详解（含大厂高频面试真题）｜UP：黑马程序员｜BV1yT411H7YK｜播放：3721975｜搜索：Java Concurrency in Practice 并行开发编程",
+          "url": "https://www.bilibili.com/video/BV1yT411H7YK",
           "query": "Java Concurrency in Practice 并行开发编程"
         },
         {
@@ -15976,6 +19114,12 @@ window.APP_DATA = {
       "note": "作者：Nathan George；出版社：Packt Publishing Ltd.；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《Python程序设计》3小时期末速成课！！！期末突击 | 考前速成 | 考点汇总 | 保证不挂科！｜UP：别看他了看我｜BV1NQGx6mEzS｜播放：4120｜搜索：Python 程序设计 期末复习",
+          "url": "https://www.bilibili.com/video/BV1NQGx6mEzS",
+          "query": "Practical Data Science with Python: Learn tools and techniques from hands-on examples to extract insights from data 应用数据科学✬▲"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Practical Data Science with Python: Learn tools and techniques from hands-on examples to extract insights from data 应用数据科学✬▲",
           "query": "Practical Data Science with Python: Learn tools and techniques from hands-on examples to extract insights from data 应用数据科学✬▲"
@@ -15996,8 +19140,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：全1150节【零基础外教精讲】English For Everyone 每个人的英语课 图文结合 加深记忆｜UP：清北学习社区｜BV1hKdaYsEjS｜播放：6482",
-          "url": "https://www.bilibili.com/video/BV1hKdaYsEjS",
+          "search": "视频：黑马程序员大模型Python语言进阶全套视频课程，从面向对象到数据结构与算法知识精讲+项目实战一套搞定｜UP：黑马程序员｜BV1U2WmzfEqp｜播放：999393｜搜索：数据分析与视觉化✬▲",
+          "url": "https://www.bilibili.com/video/BV1U2WmzfEqp",
           "query": "R for Everyone: Advanced Analytics and Graphics 数据分析与视觉化✬▲"
         },
         {
@@ -16020,6 +19164,12 @@ window.APP_DATA = {
       "note": "作者：Dan C. Marinescu；出版社：Morgan Kaufmann；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【牛津大学】数值计算 Scientific Computing for DPhil Students 24讲 Nick Trefethen｜UP：Kieren｜BV1VE411Q7ue｜播放：17213｜搜索：Cloud Computing: Theory and Practice 云服务与平台✬▲",
+          "url": "https://www.bilibili.com/video/BV1VE411Q7ue",
+          "query": "Cloud Computing: Theory and Practice 云服务与平台✬▲"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：Cloud Computing: Theory and Practice 云服务与平台✬▲",
           "query": "Cloud Computing: Theory and Practice 云服务与平台✬▲"
@@ -16038,6 +19188,12 @@ window.APP_DATA = {
       ],
       "note": "作者：张鉴新、周晓晴；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【公开课】 多媒体技术及应用｜UP：账号已注销｜BV134411R7wz｜播放：76442｜搜索：多媒体技术与应用",
+          "url": "https://www.bilibili.com/video/BV134411R7wz",
+          "query": "多媒体技术与应用 多媒体信息处理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：多媒体技术与应用 多媒体信息处理",
@@ -16059,8 +19215,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：UG工程制图，出图与导出CAD｜UP：三玖教育-木子｜BV1iHz8YmE4r｜播放：108972",
-          "url": "https://www.bilibili.com/video/BV1iHz8YmE4r",
+          "search": "视频：【工程制图 | 期末急救】零基础速成不挂科⚡已完结全免费⚡（工程图学/现代工程图/机械制图）｜UP：凌云师兄-期末加油站｜BV1FN5VztEZZ｜播放：863378｜搜索：工程制图与CAD",
+          "url": "https://www.bilibili.com/video/BV1FN5VztEZZ",
           "query": "工程制图与AutoCAD 第2版 工程制图与CAD"
         },
         {
@@ -16083,6 +19239,12 @@ window.APP_DATA = {
       "note": "作者：严蔚敏等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：数据结构与算法基础（青岛大学-王卓）｜UP：87师兄｜BV1nJ411V7bd｜播放：16201043｜搜索：数据结构（C语言版）（第2版） 数据结构",
+          "url": "https://www.bilibili.com/video/BV1nJ411V7bd",
+          "query": "数据结构（C语言版）（第2版） 数据结构"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据结构（C语言版）（第2版） 数据结构",
           "query": "数据结构（C语言版）（第2版） 数据结构"
@@ -16103,8 +19265,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：通信原理实验合集｜UP：lab-A507｜BV1ia4CzeENp｜播放：4034",
-          "url": "https://www.bilibili.com/video/BV1ia4CzeENp",
+          "search": "视频：北京邮电大学《通信原理》教材精讲（共31讲）｜UP：邮学超哥｜BV1HjfYY7Egi｜播放：30408｜搜索：通信原理与系统实验指导书 通信原理与系统实验",
+          "url": "https://www.bilibili.com/video/BV1HjfYY7Egi",
           "query": "通信原理与系统实验指导书 通信原理与系统实验"
         },
         {
@@ -16127,6 +19289,12 @@ window.APP_DATA = {
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）｜UP：黑马程序员｜BV17F411T7Ao｜播放：26763783｜搜索：Java 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV17F411T7Ao",
+          "query": "HTML+CSS+JavaScript网页制作案例教程（第二版） 网站设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：HTML+CSS+JavaScript网页制作案例教程（第二版） 网站设计",
           "query": "HTML+CSS+JavaScript网页制作案例教程（第二版） 网站设计"
@@ -16147,8 +19315,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：这才是我想要的项目管理工具！5款免费的项目管理工具推荐｜UP：不及物动词xo｜BV1mM411K7hJ｜播放：115969",
-          "url": "https://www.bilibili.com/video/BV1mM411K7hJ",
+          "search": "视频：《软件项目管理》——闫波｜UP：北京理工大学｜BV1HE411P79e｜播放：89379｜搜索：软件项目管理案例教程（第5版） 项目管理",
+          "url": "https://www.bilibili.com/video/BV1HE411P79e",
           "query": "软件项目管理案例教程（第5版） 项目管理"
         },
         {
@@ -16172,8 +19340,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：中国矿业大学868自动控制原理1-7章讲解视频｜UP：Luyoyo-｜BV1ue411f7R8｜播放：2263",
-          "url": "https://www.bilibili.com/video/BV1ue411f7R8",
+          "search": "视频：亲测最好的《自动控制原理》期末速成课！零基础不挂科！无痛自救轻松保过！｜UP：掌握控制考研｜BV1Q5yhBJE6v｜播放：791894｜搜索：自动控制原理（第二版） 自动控制原理",
+          "url": "https://www.bilibili.com/video/BV1Q5yhBJE6v",
           "query": "自动控制原理（第二版） 自动控制原理"
         },
         {
@@ -16196,6 +19364,12 @@ window.APP_DATA = {
       "note": "作者：王建辉；出版社：清华大学出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《自动控制原理》期末速成课！|期末不挂科|考点总结|自救指南|考前突击｜UP：控制考研阿祖｜BV1x6qLYHEso｜播放：3478103｜搜索：自动控制原理",
+          "url": "https://www.bilibili.com/video/BV1x6qLYHEso",
+          "query": "自动控制原理习题详解 自动控制原理"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：自动控制原理习题详解 自动控制原理",
           "query": "自动控制原理习题详解 自动控制原理"
@@ -16216,7 +19390,7 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数字图像处理章毓晋版-期末速成｜UP：DR-学习版｜BV1KPmtB3EfT｜播放：3031",
+          "search": "视频：数字图像处理章毓晋版-期末速成｜UP：DR-学习版｜BV1KPmtB3EfT｜播放：3032｜搜索：数字图像处理及应用",
           "url": "https://www.bilibili.com/video/BV1KPmtB3EfT",
           "query": "新编数字图像处理技术及应用 数字图像处理及应用"
         },
@@ -16240,6 +19414,12 @@ window.APP_DATA = {
       "note": "作者：李国强、刘君；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《创业基础》【共77节完整版】｜UP：六神无主的吾｜BV18b411p7MT｜播放：78037｜搜索：创业基础",
+          "url": "https://www.bilibili.com/video/BV18b411p7MT",
+          "query": "大学生创新创业基础 第2版 创业基础（实践）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大学生创新创业基础 第2版 创业基础（实践）",
           "query": "大学生创新创业基础 第2版 创业基础（实践）"
@@ -16258,6 +19438,12 @@ window.APP_DATA = {
       ],
       "note": "作者：胡建生；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【工程制图 | 期末急救】零基础速成不挂科⚡已完结全免费⚡（工程图学/现代工程图/机械制图）｜UP：凌云师兄-期末加油站｜BV1FN5VztEZZ｜播放：863363｜搜索：工程制图与CAD",
+          "url": "https://www.bilibili.com/video/BV1FN5VztEZZ",
+          "query": "工程制图与AutoCAD 第3版 工程制图与CAD"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：工程制图与AutoCAD 第3版 工程制图与CAD",
@@ -16279,8 +19465,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：B站首发！手把手教你用Docker部署PyTorch深度学习模型！全程干货讲解，零基础小白可学！（人工智能/机器学习/云原生/容器/研究生）｜UP：AI讲师-唐宇迪｜BV1AAoqYdETG｜播放：8732",
-          "url": "https://www.bilibili.com/video/BV1AAoqYdETG",
+          "search": "视频：【整整600集】清华大学196小时讲完的AI人工智能从入门到精通全套教程，全程干货无废话！学完变大佬！这还学不会，我退出IT圈！机器学习-深度学习-opencv｜UP：IT界扛霸子｜BV1qZSLBYEpa｜播放：749109｜搜索：人工智能原理",
+          "url": "https://www.bilibili.com/video/BV1qZSLBYEpa",
           "query": "动手学深度学习pytorch版 人工智能原理"
         },
         {
@@ -16304,8 +19490,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【看完挂科算我输】通信电子线路/高频电子线路期末复习，感谢三连～完结撒花！｜UP：跟着浩然玩转高考物理｜BV1K54y1x7Nn｜播放：1145944",
-          "url": "https://www.bilibili.com/video/BV1K54y1x7Nn",
+          "search": "视频：《高频电子线路》期末速成课||期末不挂科|考点总结|自救指南|考前突击｜UP：水木观畴电子通信考研｜BV166Lw6mELa｜播放：28623｜搜索：高频电子线路 高频电子线路",
+          "url": "https://www.bilibili.com/video/BV166Lw6mELa",
           "query": "高频电子线路 高频电子线路"
         },
         {
@@ -16329,8 +19515,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：考研数据结构需要的C语言基础｜C语言速成｜数据结构基础｜408数据结构｜0基础跨考｜C语言期末｜UP：阿辉不会敲代码｜BV1uC411n7J7｜播放：375476",
-          "url": "https://www.bilibili.com/video/BV1uC411n7J7",
+          "search": "视频：数据结构与算法基础（青岛大学-王卓）｜UP：87师兄｜BV1nJ411V7bd｜播放：16201014｜搜索：数据结构",
+          "url": "https://www.bilibili.com/video/BV1nJ411V7bd",
           "query": "数据结构(C语言版)(第3版) 数据结构与算法"
         },
         {
@@ -16352,6 +19538,12 @@ window.APP_DATA = {
       "note": "作者：邓达荣；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：可编程控制器应用技术【全160讲】【含资料】【国家级精品课】｜UP：爱学习的小刚子｜BV1wLWnzTExx｜播放：16925｜搜索：自编《电气控制与PLC应用技术》 可编程控制器及应用",
+          "url": "https://www.bilibili.com/video/BV1wLWnzTExx",
+          "query": "自编《电气控制与PLC应用技术》 可编程控制器及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：自编《电气控制与PLC应用技术》 可编程控制器及应用",
           "query": "自编《电气控制与PLC应用技术》 可编程控制器及应用"
@@ -16371,6 +19563,12 @@ window.APP_DATA = {
       "note": "作者：洪庆 程蔚 陈冬冬；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：嵌入式RT-Thread实时操作系统教程，rtthread入门到精通全套完整版｜UP：嵌入式-｜BV1Cb4y1m7W5｜播放：346208｜搜索：嵌入式系统与应用实践",
+          "url": "https://www.bilibili.com/video/BV1Cb4y1m7W5",
+          "query": "嵌入式系统原理与应用-基于Cortex-A53微处理器 嵌入式系统与应用实践"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：嵌入式系统原理与应用-基于Cortex-A53微处理器 嵌入式系统与应用实践",
           "query": "嵌入式系统原理与应用-基于Cortex-A53微处理器 嵌入式系统与应用实践"
@@ -16389,6 +19587,12 @@ window.APP_DATA = {
       ],
       "note": "作者：严蔚敏等；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：C语言基础入门零基础【2026官方完整版】c语言程序设计基础计算机二级c语言二级考试c语言指针c语言大一期末速成c语言考研C语言专升本c语言入门零基础｜UP：c语言--｜BV1mipkzMEK8｜播放：4004152｜搜索：C语言 程序设计 教程",
+          "url": "https://www.bilibili.com/video/BV1mipkzMEK8",
+          "query": "数据结构（C语言版） 数据结构"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：数据结构（C语言版） 数据结构",
@@ -16410,8 +19614,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：入门matlab图像处理图像的基本操作｜UP：硬核的野生技术｜BV1G4411J7Gd｜播放：142707",
-          "url": "https://www.bilibili.com/video/BV1G4411J7Gd",
+          "search": "视频：历经一个月翻遍20所高校【数字图像处理】课程，给大家选出了最好的【数字图像处理】课程！基于matlab的实现的课程！！！-人工智能/数字图像处理/图像处理｜UP：阿坚学不会AI｜BV1z8411W73i｜播放：173712｜搜索：数字图像处理",
+          "url": "https://www.bilibili.com/video/BV1z8411W73i",
           "query": "MATLAB在数字图像处理中的应用 数字图像处理"
         },
         {
@@ -16434,6 +19638,12 @@ window.APP_DATA = {
       "note": "作者：黑马程序员；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【Web前端网页制作·2026】小白专属！这绝对是B站最全最详细的网页布局完整教程（附源码），零基础入门到项目实战_保姆级教程，手把手教你从0到1做出完整网页！｜UP：九色麋彩鹿｜BV1gMQ4BWEKA｜播放：16523｜搜索：HTML+CSS+JavaScript网页制作案例教程HTML",
+          "url": "https://www.bilibili.com/video/BV1gMQ4BWEKA",
+          "query": "HTML+CSS+JavaScript网页制作案例教程HTML（第二版） 网站设计"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：HTML+CSS+JavaScript网页制作案例教程HTML（第二版） 网站设计",
           "query": "HTML+CSS+JavaScript网页制作案例教程HTML（第二版） 网站设计"
@@ -16452,6 +19662,12 @@ window.APP_DATA = {
       ],
       "note": "作者：闵虎 杨智；出版社：电子工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：《自动控制原理》期末速成课！|期末不挂科|考点总结|自救指南|考前突击｜UP：控制考研阿祖｜BV1x6qLYHEso｜播放：3478083｜搜索：自动控制原理 期末复习",
+          "url": "https://www.bilibili.com/video/BV1x6qLYHEso",
+          "query": "自动控制系统（第3版） 自动控制原理"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：自动控制系统（第3版） 自动控制原理",
@@ -16472,8 +19688,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：数字逻辑电路-与门、或门、非门，理论+实验，学习超简单！｜UP：多多百科｜BV1yT4y1K7Yr｜播放：107425",
-          "url": "https://www.bilibili.com/video/BV1yT4y1K7Yr",
+          "search": "视频：【西安电子科技大学】《 数字电路与逻辑设计》任爱锋（64讲全）HD｜UP：奈奈奈奈奈nice粥｜BV1NE411r7dr｜播放：1898393｜搜索：自编数字电路与逻辑设计实验教材 数字电路与逻辑设计实验",
+          "url": "https://www.bilibili.com/video/BV1NE411r7dr",
           "query": "自编数字电路与逻辑设计实验教材 数字电路与逻辑设计实验"
         },
         {
@@ -16492,6 +19708,12 @@ window.APP_DATA = {
       "tags": [],
       "note": "按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：哈工大21秋移动互联网技术复习｜UP：小童同学_｜BV1xP4y1P7uG｜播放：4746｜搜索：官网开发文档 无需打印 移动互联网技术",
+          "url": "https://www.bilibili.com/video/BV1xP4y1P7uG",
+          "query": "官网开发文档，无需打印 移动互联网技术"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：官网开发文档，无需打印 移动互联网技术",
@@ -16513,8 +19735,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《Python语言程序设计》考试复习速成资源/快速复习 考研框架复习 /习题讲解 期末不挂科资源｜UP：丶世中逢尔｜BV1av1SBrE8r｜播放：17073",
-          "url": "https://www.bilibili.com/video/BV1av1SBrE8r",
+          "search": "视频：【全748集】目前B站最全最细的Python零基础全套教程，2026最新版，包含所有干货！七天就能从小白到大神！少走99%的弯路！存下吧！很难找全的！｜UP：Python官方课程｜BV1rpWjevEip｜播放：16624922｜搜索：Python语言程序设计基础",
+          "url": "https://www.bilibili.com/video/BV1rpWjevEip",
           "query": "Python语言程序设计基础(第3版) Python程序设计"
         },
         {
@@ -16538,8 +19760,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：《概率论与数理统计》教学视频 2.0版本【宋浩老师】｜UP：宋浩老师官方｜BV1JXppejE8q｜播放：19768411",
-          "url": "https://www.bilibili.com/video/BV1JXppejE8q",
+          "search": "视频：【Kira老师】《概率论与数理统计》大学生零基础精讲课25h（已完结）| 26考研基础阶段适用｜UP：一高数｜BV1T6VFzAE1c｜播放：5490946｜搜索：概率论与数理统计 期末复习",
+          "url": "https://www.bilibili.com/video/BV1T6VFzAE1c",
           "query": "概率论与数理统计 概率论与数理统计"
         },
         {
@@ -16562,6 +19784,12 @@ window.APP_DATA = {
       "note": "作者：夏帮贵；出版社：人民邮电出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：【2025完整版】这绝对是目前B站最好的OpenCV全套教程，整整400集，从入门到精通，全程干货无废话，7天手把手带你学会opencv，让你少走99%的弯路！｜UP：人工智能-Pytorch｜BV1EU4czXEEW｜播放：59075｜搜索：OpenCV计算机视觉基础教程Python版 慕课版",
+          "url": "https://www.bilibili.com/video/BV1EU4czXEEW",
+          "query": "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用",
           "query": "OpenCV计算机视觉基础教程Python版|慕课版 计算机视觉及应用"
@@ -16580,6 +19808,12 @@ window.APP_DATA = {
       ],
       "note": "作者：胡玉华；出版社：中国标准出版社；按 Excel 教材表汇总展示。",
       "routes": [
+        {
+          "title": "B站相关视频",
+          "search": "视频：【剑桥课堂】《剑桥标准英语教程 》（1A+1B+2A+2B+3A+3B共122课）专为英语零基础或基础薄弱的同学设计的系统化英语教程。｜UP：苗苗知识宝藏｜BV1veNEz6ESa｜播放：5479｜搜索：标准化技术与方法 技术标准与设计案例",
+          "url": "https://www.bilibili.com/video/BV1veNEz6ESa",
+          "query": "标准化技术与方法（全国高校标准化工程系列教材） 技术标准与设计案例"
+        },
         {
           "title": "B站搜索关键词",
           "search": "建议搜索：标准化技术与方法（全国高校标准化工程系列教材） 技术标准与设计案例",
@@ -16601,8 +19835,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：【2026最新】B站NO.1！！！别再盲目自学数据库 科学系统的 MySQL 数据分析完整学习路线｜UP：观数者｜BV1n3Vz6LEdW｜播放：611",
-          "url": "https://www.bilibili.com/video/BV1n3Vz6LEdW",
+          "search": "视频：MySQL知识精讲+mysql实战案例_零基础mysql数据库入门到高级全套教程｜UP：lad920｜BV1yM411v7pc｜播放：14769｜搜索：MySQL 全套教程",
+          "url": "https://www.bilibili.com/video/BV1yM411v7pc",
           "query": "数据库系统原理与应用（MySQL版） 数据库系统与应用"
         },
         {
@@ -16626,8 +19860,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：2025山东专升本高数二（高等数学二）系列课程（持续更新）｜UP：升本啦｜BV1Mh411W7WM｜播放：475842",
-          "url": "https://www.bilibili.com/video/BV1Mh411W7WM",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6958023｜搜索：高等数学（下册） 高等数学（2）",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
           "query": "高等数学（下册） 高等数学（2）"
         },
         {
@@ -16651,8 +19885,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：How to tie a tie！英文展示作业｜UP：奈Naili｜BV1yz5F62Ent｜播放：6",
-          "url": "https://www.bilibili.com/video/BV1yz5F62Ent",
+          "search": "视频：黑马java基础教程，深度讲解Java面向对象编程｜UP：黑马Java｜BV1V44y1D7dF｜播放：31989｜搜索：面向对象程序设计▲",
+          "url": "https://www.bilibili.com/video/BV1V44y1D7dF",
           "query": "Java: How to Program, (Deitel) 面向对象程序设计▲"
         },
         {
@@ -16676,8 +19910,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：电路与模拟电子技术（殷瑞祥） 课后习题｜UP：能不能不上学啊啊｜BV1vufpYGEUm｜播放：148312",
-          "url": "https://www.bilibili.com/video/BV1vufpYGEUm",
+          "search": "视频：【4K精品】模拟电子技术基础 上交大 郑益慧主讲（精校版字幕，模拟电路/模电 讲课水平略胜华成英，视频质量完爆清华版 4K超清重制版）｜UP：谢谢谢同学鸭｜BV1Gt411b7Zq｜播放：18091999｜搜索：电路与模拟电子技术",
+          "url": "https://www.bilibili.com/video/BV1Gt411b7Zq",
           "query": "电路与模拟电子技术 电路与模拟电子技术"
         },
         {
@@ -16700,6 +19934,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407238｜搜索：大学物理",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "大学物理 上册 大学物理（1）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大学物理 上册 大学物理（1）",
           "query": "大学物理 上册 大学物理（1）"
@@ -16720,8 +19960,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：2025山东专升本高数二（高等数学二）系列课程（持续更新）｜UP：升本啦｜BV1Mh411W7WM｜播放：475842",
-          "url": "https://www.bilibili.com/video/BV1Mh411W7WM",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6958023｜搜索：高等数学（下册） 高等数学（2）",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
           "query": "高等数学（下册） 高等数学（2）"
         },
         {
@@ -16745,8 +19985,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：How to tie a tie！英文展示作业｜UP：奈Naili｜BV1yz5F62Ent｜播放：6",
-          "url": "https://www.bilibili.com/video/BV1yz5F62Ent",
+          "search": "视频：黑马java基础教程，深度讲解Java面向对象编程｜UP：黑马Java｜BV1V44y1D7dF｜播放：31989｜搜索：面向对象程序设计▲",
+          "url": "https://www.bilibili.com/video/BV1V44y1D7dF",
           "query": "Java: How to Program, (Deitel) 面向对象程序设计▲"
         },
         {
@@ -16770,8 +20010,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：电路与模拟电子技术（殷瑞祥） 课后习题｜UP：能不能不上学啊啊｜BV1vufpYGEUm｜播放：148312",
-          "url": "https://www.bilibili.com/video/BV1vufpYGEUm",
+          "search": "视频：【4K精品】模拟电子技术基础 上交大 郑益慧主讲（精校版字幕，模拟电路/模电 讲课水平略胜华成英，视频质量完爆清华版 4K超清重制版）｜UP：谢谢谢同学鸭｜BV1Gt411b7Zq｜播放：18091999｜搜索：电路与模拟电子技术",
+          "url": "https://www.bilibili.com/video/BV1Gt411b7Zq",
           "query": "电路与模拟电子技术 电路与模拟电子技术"
         },
         {
@@ -16794,6 +20034,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407238｜搜索：大学物理",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "大学物理 上册 大学物理（1）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大学物理 上册 大学物理（1）",
           "query": "大学物理 上册 大学物理（1）"
@@ -16814,8 +20060,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：2025山东专升本高数二（高等数学二）系列课程（持续更新）｜UP：升本啦｜BV1Mh411W7WM｜播放：475842",
-          "url": "https://www.bilibili.com/video/BV1Mh411W7WM",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6958023｜搜索：高等数学（下册） 高等数学（2）",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
           "query": "高等数学（下册） 高等数学（2）"
         },
         {
@@ -16839,8 +20085,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：How to tie a tie！英文展示作业｜UP：奈Naili｜BV1yz5F62Ent｜播放：6",
-          "url": "https://www.bilibili.com/video/BV1yz5F62Ent",
+          "search": "视频：黑马java基础教程，深度讲解Java面向对象编程｜UP：黑马Java｜BV1V44y1D7dF｜播放：31989｜搜索：面向对象程序设计▲",
+          "url": "https://www.bilibili.com/video/BV1V44y1D7dF",
           "query": "Java: How to Program, (Deitel) 面向对象程序设计▲"
         },
         {
@@ -16864,8 +20110,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：电路与模拟电子技术（殷瑞祥） 课后习题｜UP：能不能不上学啊啊｜BV1vufpYGEUm｜播放：148312",
-          "url": "https://www.bilibili.com/video/BV1vufpYGEUm",
+          "search": "视频：【4K精品】模拟电子技术基础 上交大 郑益慧主讲（精校版字幕，模拟电路/模电 讲课水平略胜华成英，视频质量完爆清华版 4K超清重制版）｜UP：谢谢谢同学鸭｜BV1Gt411b7Zq｜播放：18091999｜搜索：电路与模拟电子技术",
+          "url": "https://www.bilibili.com/video/BV1Gt411b7Zq",
           "query": "电路与模拟电子技术 电路与模拟电子技术"
         },
         {
@@ -16888,6 +20134,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407238｜搜索：大学物理",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "大学物理 上册 大学物理（1）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大学物理 上册 大学物理（1）",
           "query": "大学物理 上册 大学物理（1）"
@@ -16908,8 +20160,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：2025山东专升本高数二（高等数学二）系列课程（持续更新）｜UP：升本啦｜BV1Mh411W7WM｜播放：475842",
-          "url": "https://www.bilibili.com/video/BV1Mh411W7WM",
+          "search": "视频：高等数学（下）基础与解法全集（涵盖所有）| 同济八版 | 从零开始 | 数一专项 | 可用于期末、考研基础、专升本 高数下｜UP：一高数｜BV1GK421t7S8｜播放：6958023｜搜索：高等数学（下册） 高等数学（2）",
+          "url": "https://www.bilibili.com/video/BV1GK421t7S8",
           "query": "高等数学（下册） 高等数学（2）"
         },
         {
@@ -16933,8 +20185,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：How to tie a tie！英文展示作业｜UP：奈Naili｜BV1yz5F62Ent｜播放：6",
-          "url": "https://www.bilibili.com/video/BV1yz5F62Ent",
+          "search": "视频：黑马java基础教程，深度讲解Java面向对象编程｜UP：黑马Java｜BV1V44y1D7dF｜播放：31989｜搜索：面向对象程序设计▲",
+          "url": "https://www.bilibili.com/video/BV1V44y1D7dF",
           "query": "Java: How to Program, (Deitel) 面向对象程序设计▲"
         },
         {
@@ -16957,6 +20209,12 @@ window.APP_DATA = {
       "note": "作者：白晓明；出版社：机械工业出版社；按 Excel 教材表汇总展示。",
       "routes": [
         {
+          "title": "B站相关视频",
+          "search": "视频：《大学物理》3小时期末速成课！清华张云翼老师主讲！力学/热学/光学/电磁学/相对论等，期末速成 | 考前突击 | 保证不挂科！！！｜UP：数学建模老哥｜BV1VS411A75c｜播放：11407238｜搜索：大学物理",
+          "url": "https://www.bilibili.com/video/BV1VS411A75c",
+          "query": "大学物理 上册 大学物理（1）"
+        },
+        {
           "title": "B站搜索关键词",
           "search": "建议搜索：大学物理 上册 大学物理（1）",
           "query": "大学物理 上册 大学物理（1）"
@@ -16977,8 +20235,8 @@ window.APP_DATA = {
       "routes": [
         {
           "title": "B站相关视频",
-          "search": "视频：How to tie a tie！英文展示作业｜UP：奈Naili｜BV1yz5F62Ent｜播放：6",
-          "url": "https://www.bilibili.com/video/BV1yz5F62Ent",
+          "search": "视频：黑马java基础教程，深度讲解Java面向对象编程｜UP：黑马Java｜BV1V44y1D7dF｜播放：31989｜搜索：面向对象程序设计▲",
+          "url": "https://www.bilibili.com/video/BV1V44y1D7dF",
           "query": "Java: How to Program, (Deitel) 面向对象程序设计▲"
         },
         {
